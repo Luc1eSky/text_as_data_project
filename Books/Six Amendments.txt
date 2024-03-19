@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0316373729
+primary_isbn13: 9780316373722
+publisher: Little, Brown
+description: The former Supreme Court justice proposes six amendments to the Constitution, addressing campaign financing, the death penalty, gun rights and other issues.
+title: Six Amendments
+author: John Paul Stevens
+amazon_product_url: http://www.amazon.com/Six-Amendments-Should-Change-Constitution-ebook/dp/B00GM0P55M?tag=NYTBSREV-20
+list_date: 2014/05/11
+published_date: 2014-04-22
+summary: For the first time ever, a retired Supreme Court Justice offers a manifesto on how the Constitution needs to change. By the time of his retirement in June 2010, John Paul Stevens had become the second longest serving Justice in the history of the Supreme Court. Now he draws upon his more than three decades on the Court, during which he was involved with many of the defining decisions of the modern era, to offer a book like none other. SIX AMENDMENTS is an absolutely unprecedented call to arms, detailing six specific ways in which the Constitution should be amended in order to protect our democracy and the safety and wellbeing of American citizens. Written with the same precision and elegance that made Stevens's own Court opinions legendary for their clarity as well as logic, SIX AMENDMENTS is a remarkable work, both because of its unprecedented nature and, in an age of partisan ferocity, its inarguable common sense.

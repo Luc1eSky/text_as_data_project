@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 2940016496436
+publisher: RosettaBooks
+description: A biography of Truman Capote, the basis for the 2005 film; first published in 1988.
+title: Capote
+author: Gerald Clarke
+amazon_product_url: http://www.amazon.com/Capote-Biography-Books-Into-Film-ebook/dp/B00CO9A33E?tag=NYTBSREV-20
+list_date: 2014/10/12

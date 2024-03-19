@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 150112515X
+primary_isbn13: 9781501125157
+publisher: Howard Books
+description: A memoir by the wife of the basketball star Magic Johnson.
+title: Believing In Magic
+author: Cookie Johnson with Denene Millner
+amazon_product_url: http://www.amazon.com/Believing-Magic-Overcoming-Adversity-Keeping-ebook/dp/B01CO34BAK?tag=NYTBSREV-20
+list_date: 2016/10/09
+published_date: 2016-09-20
+summary: "In her ... memoir, Cookie Johnson, wife of NBA icon Earvin 'Magic' Johnson, speaks for the first time about how her husband's 1991 HIV diagnosis sent her life and marriage into a frightening new direction"--Provided by publisher.

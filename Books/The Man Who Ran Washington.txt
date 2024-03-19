@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0385540558
+primary_isbn13: 9780385540551
+publisher: Doubleday
+description: A biography of White House chief of staff and secretary of state James A. Baker III by a married couple who are a correspondent for The New York Times and a staff writer for The New Yorker.
+title: The Man Who Ran Washington
+author: Peter Baker and Susan Glasser
+amazon_product_url: https://www.amazon.com/dp/0385540558?tag=NYTBSREV-20
+list_date: 2020/10/18
+published_data: 2020-09-29
+summary: BEST BOOK OF THE YEAR: The New York Times • The Washington Post • Fortune • Bloomberg From two of America's most revered political journalists comes the definitive biography of legendary White House chief of staff and secretary of state James A. Baker III: the man who ran Washington when Washington ran the world. For a quarter-century, from the end of Watergate to the aftermath of the Cold War, no Republican won the presidency without his help or ran the White House without his advice. James Addison Baker III was the indispensable man for four presidents because he understood better than anyone how to make Washington work at a time when America was shaping events around the world. The Man Who Ran Washington is a page-turning portrait of a power broker who influenced America's destiny for generations. A scion of Texas aristocracy who became George H. W. Bush's best friend on the tennis courts of the Houston Country Club, Baker had never even worked in Washington until a devastating family tragedy struck when he was thirty-nine. Within a few years, he was leading Gerald Ford's campaign and would go on to manage a total of five presidential races and win a sixth for George W. Bush in a Florida recount. He ran Ronald Reagan's White House and became the most consequential secretary of state since Henry Kissinger. He negotiated with Democrats at home and Soviets abroad, rewrote the tax code, assembled the coalition that won the Gulf War, brokered the reunification of Germany and helped bring a decades-long nuclear superpower standoff to an end. Ruthlessly partisan during campaign season, Baker governed as the avatar of pragmatism over purity and deal-making over division, a lost art in today's fractured nation. His story is a case study in the acquisition, exercise, and preservation of power in late twentieth-century America and the story of Washington and the world in the modern era--how it once worked and how it has transformed into an era of gridlock and polarization. This masterly biography by two brilliant observers of the American political scene is destined to become a classic.
+author_new0: Peter Baker
+author_new1: Susan Glasser

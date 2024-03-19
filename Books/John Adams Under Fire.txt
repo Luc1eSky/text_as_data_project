@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 1335015922
+primary_isbn13: 9781335015921
+publisher: Hanover Square
+description: How the man who became the second president served as the defense lawyer for the British soldiers who stood accused in the Boston Massacre in 1770.
+title: John Adams Under Fire
+author: Dan Abrams and David Fisher
+amazon_product_url: https://www.amazon.com/dp/1335015922?tag=NYTBSREV-20
+list_date: 2020/04/05
+published_data: 2020
+summary: "The Boston Massacre has often been called the first shots of the American Revolution. As John Adams would later remember, 'On that night the formation of American independence was born.' Yet when the British soldiers faced trial, the young lawyer Adams was determined that they receive a fair one. He volunteered to represent them, keeping the peace in a powder keg of a colony, and in the process created some of the foundations of what would become United States law"--Dust jacket flap.
+author_new0: Dan Abrams
+author_new1: David Fisher

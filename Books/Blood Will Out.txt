@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0871407337
+primary_isbn13: 9780871407337
+publisher: Liveright
+description: A memoir of the author’s relationship with the impostor known as Clark Rockefeller.
+title: Blood Will Out
+author: Walter Kirn
+amazon_product_url: http://www.amazon.com/Blood-Will-Out-Mystery-Masquerade-ebook/dp/B00DX5X7Y0?tag=NYTBSREV-20
+list_date: 2014/03/30
+published_date: 2014-03-10
+summary: A USA Today Top 10 Best Book of Winter 2014 "Equals Truman Capote’s In Cold Blood as a nonfiction novel of crime.”—Gerald Bartell, San Francisco Chronicle In the summer of 1998, Walter Kirn—then an aspiring novelist struggling with impending fatherhood and a dissolving marriage—set out on a peculiar, fateful errand: to personally deliver a crippled hunting dog from his home in Montana to the New York apartment of one Clark Rockefeller, a secretive young banker and art collector who had adopted the dog over the Internet. Thus began a fifteen-year relationship that drew Kirn deep into the fun-house world of an outlandish, eccentric son of privilege who ultimately would be unmasked as a brazen serial impostor, child kidnapper, and brutal murderer. Kirn's one-of-a-kind story of being duped by a real-life Mr. Ripley takes us on a bizarre and haunting journey from the posh private clubrooms of Manhattan to the hard-boiled courtrooms and prisons of Los Angeles. As Kirn uncovers the truth about his friend, a psychopath masquerading as a gentleman, he also confronts hard truths about himself. Why, as a writer of fiction, was he susceptible to the deception of a sinister fantasist whose crimes, Kirn learns, were based on books and movies? What are the hidden psychological links between the artist and the con man? To answer these and other questions, Kirn attends his old friend’s murder trial and uses it as an occasion to reflect on both their tangled personal relationship and the surprising literary sources of Rockefeller's evil. This investigation of the past climaxes in a tense jailhouse reunion with a man whom Kirn realizes he barely knew—a predatory, sophisticated genius whose life, in some respects, parallels his own and who may have intended to take another victim during his years as a fugitive from justice: Kirn himself. Combining confessional memoir, true crime reporting, and cultural speculation, Blood Will Out is a Dreiser-esque tale of self-invention, upward mobility, and intellectual arrogance. It exposes the layers of longing and corruption, ambition and self-delusion beneath the Great American con.

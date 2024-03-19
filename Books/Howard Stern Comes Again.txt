@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 8
+primary_isbn10: 1501194291
+primary_isbn13: 9781501194290
+publisher: Simon & Schuster
+description: The radio interviewer delves into some of his favorite on-air conversations from the past four decades of his career.
+title: Howard Stern Comes Again
+author: Howard Stern
+amazon_product_url: https://www.amazon.com/Howard-Stern-Comes-Again/dp/1501194291?tag=NYTBSREV-20
+list_date: 2019/07/21
+published_data: 2019-05-14
+summary: Presents the first book in more than twenty years from the self-proclaimed King of All Media.
+author_new0: Howard Stern

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 198211276X
+primary_isbn13: 9781982112769
+publisher: Simon & Schuster
+description: Behind-the-scenes photos and stories of the streaming series about the art of comedy.
+title: The Comedians In Cars Getting Coffee Book
+author: Jerry Seinfeld
+amazon_product_url: https://www.amazon.com/dp/198211276X?tag=NYTBSREV-20
+list_date: 2022/12/18
+published_data: 2022-11-22
+summary: A celebration of and behind-the-scenes look at Jerry Seinfeld’s groundbreaking streaming series Comedians in Cars Getting Coffee. Over eleven seasons and eighty-four episodes, Jerry Seinfeld drove around in classic cars, grabbing coffee and chatting with the funniest people alive. He reminisced with the late Garry Shandling; bantered with legends Steve Martin, Tina Fey, and Eddie Murphy; reunited with the cast of Seinfeld; and even paid a visit to President Barack Obama in the Oval Office. These and dozens of other guests talked about the intricacies of stand-up, the evolution of their careers and personal lives, and whatever else popped into their brilliant minds. The result was not only a hilarious collection of casual yet intimate conversations—a rare opportunity for viewers to witness their favorite performers unscripted and unvarnished—but arguably the most important historical archive about the art of comedy ever amassed. Now that archive is preserved in the form of a gorgeously designed and carefully curated book. Seinfeld has hand-picked the show’s keenest insights and funniest exchanges. Also included is a fascinating oral history featuring interviews with dozens of crew members, executives, guests, and Seinfeld himself that details how this scrappy creative experiment landed unprecedented access to the White House, earned multiple Emmy nominations, and helped lead the streaming revolution. Featuring a newly written introduction by Seinfeld and filled with beautiful never-before-seen production photos, this book is essential reading for comedy lovers, car aficionados, coffee connoisseurs, and Jerry Seinfeld fans.
+author_new0: Jerry Seinfeld

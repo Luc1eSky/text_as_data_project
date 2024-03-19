@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0062899465
+primary_isbn13: 9780062899460
+publisher: Harper
+description: The former national security adviser gives his assessment of America’s standing in the world and challenges to national and international security.
+title: Battlegrounds
+author: HR McMaster
+amazon_product_url: https://www.amazon.com/dp/0062899465?tag=NYTBSREV-20
+list_date: 2020/10/11
+published_data: 2020-04-28
+summary: From Lt. General H.R. McMaster, U.S. Army, ret., the former National Security Advisor and author of the bestselling classic Dereliction of Duty, comes a bold and provocative re-examination of the most critical foreign policy and national security challenges that face the United States, and an urgent call to compete to preserve America's standing and security. Across multiple administrations since the end of the Cold War, American foreign policy has been misconceived, inconsistent, and poorly implemented. As a result, America and the free world have fallen behind rivals in power and influence. Meanwhile threats to security, freedom, and prosperity, such as nuclear proliferation and jihadist terrorism have grown. In BATTLEGROUNDS, H.R. McMaster describes efforts to reassess and fundamentally shift policies while he was National Security Advisor. And he provides a clear pathway forward to improve strategic competence and prevail in complex competitions against our adversaries. BATTLEGROUNDS is a groundbreaking reassessment of America's place in the world, drawing from McMaster's long engagement with these issues, including 34 years of service in the U.S. Army with multiple tours of duty in battlegrounds overseas and his 13 months as National Security Advisor in the Trump White House. It is also a powerful call for Americans and citizens of the free world to transcend the vitriol of partisan political discourse, better educate themselves about the most significant challenges to national and international security and work together to secure peace and prosperity for future generations.
+author_new0: HR McMaster

@@ -1,0 +1,10 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9781909979031
+publisher: Crux Publishing
+description: A history of one of the most successful groups in the Middle Ages.
+title: The Normans, From Raiders To Kings
+author: Lars Brownworth
+amazon_product_url: http://www.amazon.com/The-Normans-From-Raiders-Kings-ebook/dp/B00HOMFRCI?tag=NYTBSREV-20
+list_date: 2014/05/25

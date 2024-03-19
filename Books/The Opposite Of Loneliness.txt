@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 147675361X
+primary_isbn13: 9781476753614
+publisher: Scribner
+description: A posthumous collection of essays and stories by a young writer who died in a car crash five days after her college graduation in 2012. She articulates the youthful struggle to figure out what one aspires to be and how to direct one's talents toward making a positive impact in the world.
+title: The Opposite Of Loneliness
+author: Marina Keegan
+amazon_product_url: http://www.amazon.com/The-Opposite-Loneliness-Essays-Stories-ebook/dp/B00DPM7RHY?tag=NYTBSREV-20
+list_date: 2014/05/11
+published_date: 2014-04-08
+summary: This hope-filled posthumous collection of essays and stories from the talented young Yale graduate who died tragically five days after graduation details the struggle that we all face as we figure out what we want to be and how we can positively impact the world.

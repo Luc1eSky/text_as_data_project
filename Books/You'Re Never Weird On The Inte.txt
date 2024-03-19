@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1476785651
+primary_isbn13: 9781476785653
+publisher: Touchstone
+description: A memoir of rising to stardom in the web video world.
+title: You'Re Never Weird On The Internet (Almost)
+author: Felicia Day
+amazon_product_url: http://www.amazon.com/Youre-Never-Weird-Internet-Almost-ebook/dp/B00QNW8KR4?tag=NYTBSREV-20
+list_date: 2015/09/06
+published_date: 2015-08-11
+summary: From online entertainment mogul, actress, and “queen of the geeks” Felicia Day comes a funny, quirky, and inspiring memoir about her unusual upbringing, her rise to Internet-stardom, and embracing her individuality to find success in Hollywood. The Internet isn't all cat videos. There's also Felicia Day—violinist, filmmaker, Internet entrepreneur, compulsive gamer, hoagie specialist, and former lonely homeschooled girl who overcame her isolated childhood to become the ruler of a new world…or at least semi-influential in the world of Internet geeks and Goodreads book clubs. After growing up in the south where she was “homeschooled for hippie reasons,” Felicia moved to Hollywood to pursue her dream of becoming an actress and was immediately typecast as a crazy cat-lady secretary. But Felicia's misadventures in Hollywood led her to produce her own web series, own her own production company, and become an Internet star. Felicia's short-ish life and her rags-to-riches rise to Internet fame launched her career as one of the most influential creators in new media. Now, Felicia's strange world is filled with thoughts on creativity, video games, and a dash of mild feminist activism—just like her memoir. Hilarious and inspirational, You're Never Weird on the Internet (Almost) is proof that everyone should embrace what makes them different and be brave enough to share it with the world, because anything is possible now—even for a digital misfit.

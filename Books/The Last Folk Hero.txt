@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0358437679
+primary_isbn13: 9780358437673
+publisher: Mariner
+description: The life of Bo Jackson, the athlete known for playing two sports professionally and the “Bo Knows” commercials.
+title: The Last Folk Hero
+author: Jeff Pearlman
+amazon_product_url: https://www.amazon.com/dp/0358437679?tag=NYTBSREV-20
+list_date: 2022/11/13
+published_data: 2022-10-04
+summary: N/A
+author_new0: Jeff Pearlman

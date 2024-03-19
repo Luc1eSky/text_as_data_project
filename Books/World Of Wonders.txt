@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 5
+primary_isbn10: 1571313656
+primary_isbn13: 9781571313652
+publisher: Milkweed
+description: In a collection of essays, the poet celebrates various aspects of the natural world and its inhabitants.
+title: World Of Wonders
+author: Aimee Nezhukumatathil
+amazon_product_url: https://www.amazon.com/dp/1571313656?tag=NYTBSREV-20
+list_date: 2021/01/24
+published_data: 2020-08-11
+summary: N/A
+author_new0: Aimee Nezhukumatathil

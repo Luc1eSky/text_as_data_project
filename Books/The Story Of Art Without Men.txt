@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0393881865
+primary_isbn13: 9780393881868
+publisher: Norton
+description: An overview of more than 300 works of art from the Renaissance to the present day by women artists.
+title: The Story Of Art Without Men
+author: Katy Hessel
+amazon_product_url: https://www.amazon.com/dp/0393881865?tag=NYTBSREV-20
+list_date: 2023/05/21
+published_data: 2023-03-07
+summary: The story of art for our times—one with women at the center, brought together for the first time by the creator of @thegreatwomenartists. From Leonardo da Vinci to Jean-Michel Basquiat, the great painters and sculptures who have defined the fine art canon have largely been men. Katy Hessel seeks to right that wrong by cataloging, celebrating, and elevating women artists and placing their groundbreaking work in its historical, political, and cultural context. From the Renaissance to the present day, Hessel breaks down each time period and movement using a global lens, expanding the canon to include the work of non-Western artists, queer and racially marginalized artists, photographers, textile artists, and more. Discover the glittering Sofonisba Anguissola of the Renaissance and the radical work of Harriet Powers in the nineteenth century. Explore the Dutch Golden Age, the astonishing work of postwar artists in Latin America, and the women defining art in the 2020s. Featuring more than 100 works of art in color, The Story of Art Without Men is a timeless and essential addition to any library.
+author_new0: Katy Hessel

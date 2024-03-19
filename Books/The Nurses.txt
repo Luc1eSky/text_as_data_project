@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0761184236
+primary_isbn13: 9780761184232
+publisher: Workman
+description: The daily dramas of the profession as experienced by nurses in four hospitals, as well as interviews with hundreds of others.
+title: The Nurses
+author: Alexandra Robbins
+amazon_product_url: http://www.amazon.com/The-Nurses-Secrets-Miracles-Hospital-ebook/dp/B00NLR6GJ8?tag=NYTBSREV-20
+list_date: 2016/05/29
+published_date: 2015-04-14
+summary: A New York Times bestseller. “A funny, intimate, and often jaw-dropping account of life behind the scenes.”—People Nurses is the compelling story of the year in the life of four nurses, and the drama, unsung heroism, and unique sisterhood of nursing—one of the world’s most important professions (nurses save lives every day), and one of the world’s most dangerous, filled with violence, trauma, and PTSD. In following four nurses, Alexandra Robbins creates sympathetic characters while diving deep into their world of controlled chaos. It’s a world of hazing—“nurses eat their young.” Sex—not exactly like on TV, but surprising just the same. Drug abuse—disproportionately a problem among the best and the brightest, and a constant temptation. And bullying—by peers, by patients, by hospital bureaucrats, and especially by doctors, an epidemic described as lurking in the “shadowy, dark corners of our profession.” The result is a page-turning, shocking look at our health-care system.

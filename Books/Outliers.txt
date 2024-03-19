@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 59
+primary_isbn10: 0316017930
+primary_isbn13: 9780316017930
+publisher: Little, Brown
+description: Why some people succeed; from the author of "Blink" and "The Tipping Point." Originally published in 2008.
+title: Outliers
+author: Malcolm Gladwell
+amazon_product_url: http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930?tag=NYTBSREV-20
+list_date: 2016/09/18

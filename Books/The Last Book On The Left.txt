@@ -1,0 +1,14 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 1328566315
+primary_isbn13: 9781328566317
+publisher: Houghton Mifflin Harcourt
+description: A survey of serial killers from the creators of the Last Podcast on the Left.
+title: The Last Book On The Left
+author: Ben Kissel, Marcus Parks and Henry Zebrowski
+amazon_product_url: https://www.amazon.com/dp/1328566315?tag=NYTBSREV-20
+list_date: 2020/04/26
+published_data: 2020
+summary: An equal parts haunting and hilarious deep-dive review of history's most notorious and cold-blooded serial killers, from the creators of the award-winning Last Podcast on the Left
+author_new0: Ben Kissel, Marcus Parks
+author_new1: Henry Zebrowski

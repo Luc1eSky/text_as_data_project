@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0061751944
+primary_isbn13: 9780061751943
+publisher: Harper Perennial
+description: Selections from the 40th president's daily White House diaries; originally published in 2007.
+title: The Reagan Diaries
+author: Ronald Reagan
+amazon_product_url: http://www.amazon.com/The-Reagan-Diaries-Ronald/dp/0061558338?tag=NYTBSREV-20
+list_date: 2015/10/11
+published_date: 2009-03-17
+summary: #1 New York Times Bestseller “Reading these diaries, Americans will find it easier to understand how Reagan did what he did for so long . . . They paint a portrait of a president who was engaged by his job and had a healthy perspective on power.” —Jon Meacham, Newsweek During his two terms as the 40th president of the United States, Ronald Reagan kept a daily diary in which he recorded his innermost thoughts and observations on the extraordinary, the historic, and the routine occurrences of his presidency. To read these diaries—now compiled into one volume by noted historian Douglas Brinkley and filled with Reagan’s trademark wit, sharp intelligence, and humor—is to gain a unique understanding of one of our nation’s most fascinating leaders.

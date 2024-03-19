@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1541602633
+primary_isbn13: 9781541602632
+publisher: Basic
+description: The legal scholar examines the Supreme Court’s authority to issue emergency rulings and the potential consequences of doing so.
+title: The Shadow Docket
+author: Stephen Vladeck
+amazon_product_url: https://www.amazon.com/dp/1541602633?tag=NYTBSREV-20
+list_date: 2023/06/04
+published_data: 2023-05-16
+summary: An acclaimed legal scholar exposes the Supreme Court's increasing use of unsigned, unexplained orders to change the law--all behind closed doors The Supreme Court has always had the authority to issue emergency rulings in exceptional circumstances. But since 2017, the Court has dramatically expanded its use of the behind-the-scenes "shadow docket," regularly making decisions that affect millions of Americans without public hearings and without explanation, through cryptic late-night rulings that leave lawyers--and citizens--scrambling. The Court's conservative majority has used the shadow docket to green-light restrictive voting laws and bans on abortion, and to curtail immigration and COVID vaccine mandates. But Americans of all political stripes should be worried about what the shadow docket portends for the rule of law, argues Supreme Court expert Stephen Vladeck. In this rigorous yet accessible book, he issues an urgent call to bring the Court back into the light.
+author_new0: Stephen Vladeck

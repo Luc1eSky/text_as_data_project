@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307719987
+primary_isbn13: 9780307719980
+publisher: Broadway
+description: The story behind a Cold War prisoner exchange in 1962.
+title: Bridge Of Spies
+author: Giles Whittell
+amazon_product_url: http://www.amazon.com/Bridge-Spies-Giles-Whittell-ebook/dp/B003F3PKW2?tag=NYTBSREV-20
+list_date: 2015/11/15
+published_date: 2010-11-09
+summary: The dramatic events behind the Oscar-winning film, Bridge of Spies, tracing the paths leading to the first and most legendary prisoner exchange between East and West at Berlin's Glienicke Bridge and Checkpoint Charlie on February 10, 1962. Bridge of Spies is the true story of three extraordinary characters whose fate helped to define the conflicts and lethal undercurrents of the most dangerous years of the Cold War: William Fisher, alias Rudolf Abel, a British born KGB agent arrested by the FBI in New York City and jailed as a Soviet superspy for trying to steal America’s most precious nuclear secrets; Gary Powers, the American U-2 pilot who was captured when his plane was shot down while flying a reconnaissance mission over the closed cities of central Russia; and Frederic Pryor, a young American graduate student in Berlin mistakenly identified as a spy, arrested and held without charge by the Stasi, East Germany’s secret police. The three men were rescued against daunting odds, and then all but forgotten. Yet they laid bare the pathological mistrust that fueled the arms race for the next 30 years. Weaving the three strands of this story together for the first time, Giles Whittell masterfully portrays the intense political tensions and nuclear brinkmanship that brought the United States and Soviet Union so close to a hot war in the early 1960s. He reveals the dramatic lives of men drawn into the nadir of the Cold War by duty and curiosity, and the tragicomedy of errors that eventually induced Nikita Khrushchev to send missiles to Fidel Castro. Drawing on new interviews conducted in the United States, Europe and Russia with key players in the exchange and the events leading to it, among them Frederic Pryor himself and the man who shot down Gary Powers, Bridge of Spies captures a time when the fate of the world really did depend on coded messages on microdots and brave young men in pressure suits. The exchange that frigid day at two of the most sensitive points along the Iron Curtain represented the first step back from where the superpowers had stood since the building of the Berlin Wall the previous summer--on the brink of World War III.

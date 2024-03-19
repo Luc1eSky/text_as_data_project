@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0062906372
+primary_isbn13: 9780062906373
+publisher: HarperOne
+description: How the hairstylist, comedian and "Queer Eye" star overcame ridicule and trauma.
+title: Over The Top
+author: Jonathan Van Ness
+amazon_product_url: https://www.amazon.com/Over-Top-Raw-Journey-Self-Love/dp/0062906372?tag=NYTBSREV-20
+list_date: 2019/10/27
+published_data: 2019-09-24
+summary: Who gave Jonathan Van Ness permission to be the radiant human he is today? No one, honey. The truth is, it hasn't always been gorgeous for this beacon of positivity and joy. Before he stole our hearts as the grooming and self-care expert on Netflix's hit show Queer Eye, Jonathan was growing up in a small Midwestern town that didn't understand why he was so...over the top. From choreographed carpet figure skating routines to the unavoidable fact that he was Just. So. Gay., Jonathan was an easy target and endured years of judgement, ridicule and trauma--yet none of it crushed his uniquely effervescent spirit. Over the Top uncovers the pain and passion it took to end up becoming the model of self-love and acceptance that Jonathan is today. In this revelatory, raw, and rambunctious memoir, Jonathan shares never-before-told secrets and reveals sides of himself that the public has never seen. JVN fans may think they know the man behind the stiletto heels, the crop tops, and the iconic sayings, but there's much more to him than meets the Queer Eye. You'll laugh, you'll cry, and you'll come away knowing that no matter how broken or lost you may be, you're a Kelly Clarkson song, you're strong, and you've got this.
+author_new0: Jonathan Van Ness

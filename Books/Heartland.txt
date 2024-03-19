@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1501133098
+primary_isbn13: 9781501133091
+publisher: Scribner
+description: The author, who was born into a family of Kansas wheat farmers and teenage mothers, uses her personal history to explore the difficulties faced by the working class in America.
+title: Heartland
+author: Sarah Smarsh
+amazon_product_url: https://www.amazon.com/Heartland-Memoir-Working-Richest-Country/dp/1501133098?tag=NYTBSREV-20
+list_date: 2018/10/07
+published_date: 2018-09-18
+summary: *Finalist for the National Book Award and the Kirkus Prize* *Instant New York Times Bestseller* *Named a Best Book of 2018 by NPR, The New York Post, BuzzFeed, Shelf Awareness, Bustle, and Publishers Weekly* An essential read for our times: an eye-opening memoir of working-class poverty in America that will deepen our understanding of the ways in which class shapes our country. Sarah Smarsh was born a fifth generation Kansas wheat farmer on her paternal side, and the product of generations of teen mothers on her maternal side. Through her experiences growing up on a farm thirty miles west of Wichita, we are given a unique and essential look into the lives of poor and working class Americans living in the heartland. During Sarah’s turbulent childhood in Kansas in the 1980s and 1990s, she enjoyed the freedom of a country childhood, but observed the painful challenges of the poverty around her; untreated medical conditions for lack of insurance or consistent care, unsafe job conditions, abusive relationships, and limited resources and information that would provide for the upward mobility that is the American Dream. By telling the story of her life and the lives of the people she loves with clarity and precision but without judgement, Smarsh challenges us to look more closely at the class divide in our country. A beautifully written memoir that combines personal narrative with powerful analysis and cultural commentary, Heartland examines the myths about people thought to be less because they earn less. “A deeply humane memoir that crackles with clarifying insight, Heartland is one of a growing number of important works—including Matthew Desmond’s Evicted and Amy Goldstein’s Janesville—that together merit their own section in nonfiction aisles across the country: America’s postindustrial decline...Smarsh shows how the false promise of the ‘American dream’ was used to subjugate the poor. It’s a powerful mantra” (The New York Times Book Review).

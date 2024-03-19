@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: None
+primary_isbn13: 9781101636022
+publisher: Penguin
+description: Fifty years after nuns sent her baby to America to be adopted, an Irish woman attempts to track him down with a journalist’s help. The basis of the movie.
+title: Philomena
+author: Martin Sixsmith
+amazon_product_url: http://www.amazon.com/Philomena-Mother-Fifty-Year-Search-Tie-ebook/dp/B00C5R7CPC?tag=NYTBSREV-20
+list_date: 2014/03/23

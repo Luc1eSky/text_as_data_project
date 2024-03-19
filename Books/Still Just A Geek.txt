@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0063080478
+primary_isbn13: 9780063080478
+publisher: Morrow
+description: The star of “Stand by Me” and “Star Trek: The Next Generation” revisits and updates his 2004 collection of blog posts.
+title: Still Just A Geek
+author: Wil Wheaton
+amazon_product_url: https://www.amazon.com/dp/0063080478?tag=NYTBSREV-20
+list_date: 2022/05/01
+published_data: 2021-07-07
+summary: Synopsis coming soon.......
+author_new0: Wil Wheaton

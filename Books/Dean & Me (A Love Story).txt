@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0307423557
+primary_isbn13: 9780307423559
+publisher: Broadway
+description: The funnier half of Martin and Lewis remembers his time with the man he calls "my partner"; first published in 2005.
+title: Dean & Me (A Love Story)
+author: Jerry Lewis and James Kaplan
+amazon_product_url: http://www.amazon.com/Dean-Me-A-Love-Story-ebook/dp/B000XUAEQW?tag=NYTBSREV-20
+list_date: 2015/09/06
+published_date: 2007-12-18
+summary: In a memoir by turns moving, tragic, and hilarious, Jerry Lewis recounts with crystal clarity every step of his fifty-year friendship with Dean Martin. They were the unlikeliest of pairs—a handsome crooner and a skinny monkey, an Italian from Steubenville, Ohio, and a Jew from Newark, N.J.. Before they teamed up, Dean Martin seemed destined for a mediocre career as a nightclub singer, and Jerry Lewis was dressing up as Carmen Miranda and miming records on stage. But the moment they got together, something clicked—something miraculous—and audiences saw it at once. Before long, they were as big as Elvis or the Beatles would be after them, creating hysteria wherever they went and grabbing an unprecedented hold over every entertainment outlet of the era: radio, television, movies, stage shows, and nightclubs. Martin and Lewis were a national craze, an American institution. The millions flowed in, seemingly without end—and then, on July 24, 1956, ten years after it all started, it ended suddenly. After that traumatic day, the two wouldn’t speak again for twenty years. And while both went on to forge triumphant individual careers—Martin as a movie and television star, recording artist, and nightclub luminary (and charter member of the Rat Pack); Lewis as the groundbreaking writer, producer, director, and star of a series of hugely successful movie comedies—their parting left a hole in the national psyche, as well as in each man’s heart. In Dean & Me, Lewis makes a convincing case for Martin as one of the great—and most underrated—comic talents of our era. But what comes across most powerfully in this definitive memoir is the depth of love Lewis felt for his partner, and which his partner felt for him: truly a love to last for all time.

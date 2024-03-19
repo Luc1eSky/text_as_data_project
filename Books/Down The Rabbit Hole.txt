@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0062372122
+primary_isbn13: 9780062372123
+publisher: Dey Street
+description: Life inside the Playboy Mansion, by a former bunny and girlfriend of Hugh Hefner.
+title: Down The Rabbit Hole
+author: Holly Madison
+amazon_product_url: http://www.amazon.com/Down-Rabbit-Hole-Adventures-Cautionary-ebook/dp/B00N81I5SC?tag=NYTBSREV-20
+list_date: 2015/09/06
+published_date: 2015-06-23
+summary: The real, untold, and unvarnished story of life inside the legendary Playboy Mansion—and the man who holds the key—from the woman who was Hef’s #1 girlfriend and star of The Girls Next Door. A spontaneous decision at age twenty-one transformed small-town Oregon girl Holly Sue Cullen into Holly Madison, Hugh Hefner’s #1 girlfriend. But like Alice in Wonderland after she plunged down the rabbit hole, what seemed like a fairytale life inside the Playboy Mansion—including A-list celebrity parties and her own #1-rated television show—quickly devolved into an oppressive routine of strict rules, manipulation, and battles with ambitious, backstabbing bunnies. Losing her identity, her sense of self-worth, and her hope for the future, Holly found herself sitting alone in a bathtub contemplating suicide. But instead of ending her life, Holly chose to take charge of it. In this shockingly candid and surprisingly moving memoir, this thoughtful and introspective woman opens up about life inside the Mansion, the drugs, the sex and the infamous parties, as well as what her relationships with her Girls Next Door co-stars, Bridget and Kendra were really like. Holly talks candidly about a subsequent abusive relationship, her own successful television series, and the hard work of healing, including her turn on Dancing with the Stars. A cautionary tale and a celebration of personal empowerment, Down the Rabbit Hole reminds us of the importance of fighting for our dreams—and finding the life we deserve.

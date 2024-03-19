@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 059324253X
+primary_isbn13: 9780593242537
+publisher: One World
+description: The ways in which children at different ages experience race, and how racist structures might impact them.
+title: How To Raise An Antiracist
+author: Ibram X. Kendi
+amazon_product_url: https://www.amazon.com/dp/059324253X?tag=NYTBSREV-20
+list_date: 2022/07/03
+published_data: 2022-06-14
+summary: NEW YORK TIMES BESTSELLER • The book that every parent, caregiver, and teacher needs to raise the next generation of antiracist thinkers, from the author of How to Be an Antiracist and recipient of the MacArthur “Genius” Grant. “Kendi’s latest . . . combines his personal experience as a parent with his scholarly expertise in showing how racism affects every step of a child’s life. . . . Like all his books, this one is accessible to everyone regardless of race or class.”—Los Angeles Times (Book Club Pick) The tragedies and reckonings around racism that are rocking the country have created a specific crisis for parents, educators, and other caregivers: How do we talk to our children about racism? How do we teach children to be antiracist? How are kids at different ages experiencing race? How are racist structures impacting children? How can we inspire our children to avoid our mistakes, to be better, to make the world better? These are the questions Ibram X. Kendi found himself avoiding as he anticipated the birth of his first child. Like most parents or parents-to-be, he felt the reflex to not talk to his child about racism, which he feared would stain her innocence and steal away her joy. But research and experience changed his mind, and he realized that raising his child to be antiracist would actually protect his child, and preserve her innocence and joy. He realized that teaching students about the reality of racism and the myth of race provides a protective education in our diverse and unequal world. He realized that building antiracist societies safeguards all children from the harms of racism. Following the accessible genre of his internationally bestselling How to Be an Antiracist, Kendi combines a century of scientific research with a vulnerable and compelling personal narrative of his own journey as a parent and as a child in school. The chapters follow the stages of child development from pregnancy to toddler to schoolkid to teenager. It is never too early or late to start raising young people to be antiracist.
+author_new0: Ibram X. Kendi

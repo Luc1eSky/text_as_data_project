@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0762766735
+primary_isbn13: 9780762766734
+publisher: Lyons Press
+description: Techniques for maintaining online privacy and avoiding being found, as well as for avoiding identity theft.
+title: How To Disappear
+author: Frank Ahearn and Eileen Horan
+amazon_product_url: http://www.amazon.com/How-Disappear-Digital-Footprint-without-ebook/dp/B00MJD7AN6?tag=NYTBSREV-20
+list_date: 2014/09/07
+published_date: 2010-09-01
+summary: How to Disappear is the authoritative and comprehensive guide for people who seek to protect their privacy as well as for anyone who’s ever entertained the fantasy of disappearing—whether actually dropping out of sight or by eliminating the traceable evidence of their existence. Written by the world’s leading experts on finding people and helping people avoid being found, How to Disappear covers everything from tools for disappearing to discovering and eliminating the nearly invisible tracks and clues we tend to leave wherever we go. Learn the three keys to disappearing, all about your electronic footprints, the dangers and opportunities of social networking sites, and how to disappear from a stalker. Frank Ahearn and Eileen Horan provide field-tested methods for maintaining privacy, as well as tactics and strategies for protecting personal information and preventing identity theft. They explain and illustrate key tactics such as misinformation (destroying all the data known about you); disinformation (creating fake trails); and, finally, reformation—the act of getting you from point A to point B without leaving clues. Ahearn illustrates every step with real-life stories of his fascinating career, from undercover work to nab thieving department store employees to a stint as a private investigator; and, later, as a career “skip tracer” who finds people who don’t want to be found. In 1997, when news broke of President Bill Clinton’s dalliance with a White House intern, Ahearn was hired to find her. When Oscar statuettes were stolen in Beverly Hills, Ahearn pinpointed a principal in the caper to help solve the case. When Russell Crowe threw a telephone at a hotel clerk in 2005, Ahearn located the victim and hid him from the media. An indispensable resource not just for those determined to become utterly anonymous, but also for just about anyone in the brave new world of on-line information, How to Disappear sums up Ahearn’s dual philosophy: Don’t break the law, but know how to protect yourself.

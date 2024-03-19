@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 8
+primary_isbn10: 1984825488
+primary_isbn13: 9781984825483
+publisher: Crown Forum
+description: A collection of essays, speeches and unpublished writings by the late conservative columnist.
+title: The Point Of It All
+author: Charles Krauthammer,
+amazon_product_url: https://www.amazon.com/Point-All-Lifetime-Great-Endeavors/dp/1984825488?tag=NYTBSREV-20
+list_date: 2019/02/10
+published_data: 2018-12-04
+summary: NEW YORK TIMES BESTSELLER • A powerful collection of the influential columnist’s most important works—featuring rare speeches and a major new essay about today’s populist movements and the future of global democracy “Charles will be remembered as one of the greatest public intellects of his generation.”—John McCain In his decades of work as America’s preeminent political commentator, whether writing about statecraft and foreign policy or reflecting on more esoteric topics such as baseball, spaceflight and medical ethics, Charles Krauthammer elevated the opinion column to a form of art. This collection features the columns, speeches and unpublished writings that showcase the best of his original thought and his last, enduring words on the state of American politics, the nature of liberal democracy and the course of world history. The book also includes a deeply personal section offering insight into Krauthammer’s beliefs about what mattered most to him: friendship, family and the principles he lived by. The Point of It All is a timely demonstration of what made Charles Krauthammer the most celebrated American columnist and political thinker of his generation, a revealing look at the man behind the words and a lasting testament to his belief that anyone with an open and honest mind can grapple deeply with the most urgent questions in politics and in life.
+author_new0: Charles Krauthammer,

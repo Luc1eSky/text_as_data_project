@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0525954848
+primary_isbn13: 9780525954842
+publisher: Dutton
+description: A memoir of the actress’s life and her complicated relationship with her ambitious, difficult mother.
+title: There Was A Little Girl
+author: Brooke Shields
+amazon_product_url: http://www.amazon.com/There-Was-Little-Girl-Mother-ebook/dp/B00KWG5W0K?tag=NYTBSREV-20
+list_date: 2014/12/14
+published_date: 2014
+summary: Brooke Shields never had what anyone would consider an ordinary life. Raised in Manhattan by single mother Teri after her divorce from Brooke's aristocratic father, Brooke's early years with her mother seemed magical. Brooke was such a beautiful baby that at 11 months old, she became a model, beginning a remarkable career that made Brooke the most famous child, and then teen, of her generation. Teri became almost as famous as the typical pushy stage mum. However the two stayed close throughout and now Brooke confronts her feelings after her mother's death.

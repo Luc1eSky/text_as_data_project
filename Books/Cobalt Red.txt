@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1250284309
+primary_isbn13: 9781250284303
+publisher: St. Martin's
+description: An investigation into the cobalt mining practices in the Democratic Republic of Congo and the moral implications for users of many electronic devices.
+title: Cobalt Red
+author: Siddharth Kara
+amazon_product_url: https://www.amazon.com/dp/1250284309?tag=NYTBSREV-20
+list_date: 2023/02/19
+published_data: 2023-01-31
+summary: An unflinching investigation reveals the human rights abuses behind the Congo’s cobalt mining operation—and the moral implications that affect us all. Cobalt Red is the searing, first-ever exposé of the immense toll taken on the people and environment of the Democratic Republic of the Congo by cobalt mining, as told through the testimonies of the Congolese people themselves. Activist and researcher Siddharth Kara has traveled deep into cobalt territory to document the testimonies of the people living, working, and dying for cobalt. To uncover the truth about brutal mining practices, Kara investigated militia-controlled mining areas, traced the supply chain of child-mined cobalt from toxic pit to consumer-facing tech giants, and gathered shocking testimonies of people who endure immense suffering and even die mining cobalt. Cobalt is an essential component to every lithium-ion rechargeable battery made today, the batteries that power our smartphones, tablets, laptops, and electric vehicles. Roughly 75 percent of the world’s supply of cobalt is mined in the Congo, often by peasants and children in sub-human conditions. Billions of people in the world cannot conduct their daily lives without participating in a human rights and environmental catastrophe in the Congo. In this stark and crucial book, Kara argues that we must all care about what is happening in the Congo—because we are all implicated.
+author_new0: Siddharth Kara

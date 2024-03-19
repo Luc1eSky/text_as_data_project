@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0670785970
+primary_isbn13: 9780670785971
+publisher: Viking
+description: The role of the white poor in American history.
+title: White Trash
+author: Nancy Isenberg
+amazon_product_url: http://www.amazon.com/White-Trash-400-Year-History-America-ebook/dp/B016JPTQ9U?tag=NYTBSREV-20
+list_date: 2016/12/04
+published_date: 2016
+summary: In White Trash, Nancy Isenberg upends assumptions about America's supposedly class-free society and shows how poor whites have been deeply ingrained in the country's history for the past 400 years. They were central to the both the Civil War itself and the rise of the Republican Party, and still today feature in reality TV as entertainment. White trash have always been an integral part of the American identity, and here their history in both culture and politics in explored in depth. A fascinating work that's timely to today's public debate about rich and poor.

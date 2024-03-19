@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0307410307
+primary_isbn13: 9780307410306
+publisher: Broadway
+description: An exploration of the world of expensive wine and wine counterfeiters; first published in 2008.
+title: The Billionaire'S Vinegar
+author: Benjamin Wallace
+amazon_product_url: http://www.amazon.com/The-Billionaires-Vinegar-Mystery-Expensive/dp/0307338770?tag=NYTBSREV-20
+list_date: 2014/08/17
+published_date: 2008-05-13
+summary: The rivetingly strange story of the world's most expensive bottle of wine, and the even stranger characters whose lives have intersected with it. The New York Times bestseller, updated with a new epilogue, that tells the true story of a 1787 Château Lafite Bordeaux—supposedly owned by Thomas Jefferson—that sold for $156,000 at auction and of the eccentrics whose lives intersected with it. Was it truly entombed in a Paris cellar for two hundred years? Or did it come from a secret Nazi bunker? Or from the moldy basement of a devilishly brilliant con artist? As Benjamin Wallace unravels the mystery, we meet a gallery of intriguing players—from the bicycle-riding British auctioneer who speaks of wines as if they are women to the obsessive wine collector who discovered the bottle. Suspenseful and thrillingly strange, this is the vintage tale of what could be the most elaborate con since the Hitler diaries. “Part detective story, part wine history, this is one juicy tale, even for those with no interest in the fruit of the vine. . . . As delicious as a true vintage Lafite.” —BusinessWeek

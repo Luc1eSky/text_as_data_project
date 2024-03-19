@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0735290512
+primary_isbn13: 9780735290518
+publisher: Multnomah
+description: The author, who moved to Uganda and adopted 13 children, has her faith tested after facing tragedy.
+title: Daring To Hope
+author: Katie Davis Majors
+amazon_product_url: https://www.amazon.com/Daring-Hope-Finding-Goodness-Beautiful/dp/0735290512?tag=NYTBSREV-20
+list_date: 2017/10/22
+published_date: 2017
+summary: Katie Davis Majors details her unusual courtship and marriage as well as the recent birth of her first son. Major shares her ongoing experiences in Uganda as the adoptive mother to thirteen girls and describes how she's wrestled through the darkness of disappointment to find the answer to whether God truly is good. Print run 100,000.

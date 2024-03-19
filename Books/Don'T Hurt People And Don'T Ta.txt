@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0062308254
+primary_isbn13: 9780062308252
+publisher: Morrow/HarperCollins
+description: A libertarian manifesto by the president and C.E.O. of FreedomWorks.
+title: Don'T Hurt People And Don'T Take Their Stuff
+author: Matt Kibbe
+amazon_product_url: http://www.amazon.com/Dont-Hurt-People-Their-Stuff/dp/0062308254?tag=NYTBSREV-20
+list_date: 2014/04/20
+published_date: 2014-04-01
+summary: In this essential manifesto of the new libertarian movement, New York Times bestselling author and president of FreedomWorks Matt Kibbe makes a stand for individual liberty and shows us what we must do to preserve our freedom. Don't Hurt People and Don't Take Their Stuff is a rational yet passionate argument that defends the principles upon which America was founded—principles shared by citizens across the political spectrum. The Constitution grants each American the right to self-determination, to be protected from others whose actions are destructive to their lives and property. Yet as Kibbe persuasively shows, the political and corporate establishment consolidates its power by infringing upon our independence—from taxes to regulations to spying—ultimately eroding the ideals, codified in law, that have made the United States unique in history. Kibbe offers a surefire plan for reclaiming our inalienable rights and regaining control of our lives, grounded in six simple rules: Don’t hurt people: Free people just want to be left alone, not hassled or harmed by someone else with an agenda or designs over their life and property. Don’t take people’s stuff: America’s founders fought to ensure property rights and our individual right to the fruits of our labors. Take responsibility: Liberty takes responsibility. Don’t sit around waiting for someone else to solve your problems. Work for it: For every action there is an equal reaction. Work hard and you’ll be rewarded. Mind your own business: Free people live and let live. Fight the power: Thanks to the Internet and the decentralization of knowledge, there are more opportunities than ever to take a stand against corrupt authority.

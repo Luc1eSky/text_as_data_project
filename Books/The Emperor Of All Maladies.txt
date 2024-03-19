@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 1439170916
+primary_isbn13: 9781439170915
+publisher: Simon & Schuster
+description: An oncologist's history of cancer and its treatment covers both the eureka moments and the decades of despair.
+title: The Emperor Of All Maladies
+author: Siddhartha Mukherjee
+amazon_product_url: http://www.amazon.com/The-Emperor-All-Maladies-Biography-ebook/dp/B003UYUP58?tag=NYTBSREV-20
+list_date: 2015/04/19
+published_date: 2011-08-09
+summary: "This edition includes a new interview with the author"--P. [4] of cover.

@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0525540083
+primary_isbn13: 9780525540083
+publisher: Sentinel
+description: The conservative commentator defines what she sees as liberal overreaction to President Trump and his policies.
+title: Resistance Is Futile!
+author: Ann Coulter
+amazon_product_url: https://www.amazon.com/Resistance-Futile-Trump-Hating-Left-Collective-ebook/dp/B07BJMNZC1?tag=NYTBSREV-20
+list_date: 2018/09/09
+published_date: 2018-08-21
+summary: Since the day Donald Trump announced his presidential campaign, the left has waged a demented war against him. Liberals used to pride themselves on their ultra-hipness, but Trump has turned them into weeping little girls in pink party dresses. The very people who once mocked right-wingers for (allegedly) overreacting to every little thing are now the ones hyperventilating and hatching insane conspiracy theories. During the campaign, and even more so after his victory, the left went nuts. Everything Trump does sends them into a moral panic. Everything is a constitutional crisis. Members of the self-proclaimed "Resistance" -- journalists, politicians, professors, judges, comedians, movie stars, Twitter pundits, even Oprah and Lindsey Vonn! -- are literally shaking because Trump is literally Hitler! Now Ann Coulter skewers the various elements of "The Resistance" -- the pussy-hat brigade, the Russian-collusion witch hunters, the media alarmists, the campus hysterics, and more. They talk about Russia? They're the ones meddling with our democracy by trying to overturn the results of the election with their relentless attacks. The biggest result of the Trump era may be our cultural institutions' total loss of credibility.

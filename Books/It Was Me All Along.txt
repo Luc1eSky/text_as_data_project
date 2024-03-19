@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9780770433260
+publisher: Clarkson Potter
+description: A memoir about the author’s long struggle with, and eventual victory over, obesity.
+title: It Was Me All Along
+author: Andie Mitchell
+amazon_product_url: http://www.amazon.com/It-Was-Me-All-Along/dp/0770433243?tag=NYTBSREV-20
+list_date: 2015/02/08
+published_date: 2021-09-15
+summary: N/A

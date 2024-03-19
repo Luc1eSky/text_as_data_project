@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 1324001933
+primary_isbn13: 9781324001935
+publisher: Norton
+description: An exploration of disciplinary actions and preventative measures occuring at the intersection of human behavior and wildlife biology.
+title: Fuzz
+author: Mary Roach
+amazon_product_url: https://www.amazon.com/dp/1324001933?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021-09-14
+summary: What’s to be done about a jaywalking moose? A bear caught breaking and entering? A murderous tree? Three hundred years ago, animals that broke the law would be assigned legal representation and put on trial. These days, as New York Times best-selling author Mary Roach discovers, the answers are best found not in jurisprudence but in science: the curious science of human-wildlife conflict, a discipline at the crossroads of human behavior and wildlife biology. Roach tags along with animal-attack forensics investigators, human-elephant conflict specialists, bear managers, and "danger tree" faller blasters. Intrepid as ever, she travels from leopard-terrorized hamlets in the Indian Himalaya to St. Peter’s Square in the early hours before the pope arrives for Easter Mass, when vandal gulls swoop in to destroy the elaborate floral display. She taste-tests rat bait, learns how to install a vulture effigy, and gets mugged by a macaque. Combining little-known forensic science and conservation genetics with a motley cast of laser scarecrows, langur impersonators, and trespassing squirrels, Roach reveals as much about humanity as about nature’s lawbreakers. When it comes to "problem" wildlife, she finds, humans are more often the problem—and the solution. Fascinating, witty, and humane, Fuzz offers hope for compassionate coexistence in our ever-expanding human habitat.
+author_new0: Mary Roach

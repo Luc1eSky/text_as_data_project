@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 7
+primary_isbn10: 1631494538
+primary_isbn13: 9781631494536
+publisher: Liveright
+description: An examination of the ways in which the government caused residential segregation through racial zoning and other systemic practices.
+title: The Color Of Law
+author: Richard Rothstein
+amazon_product_url: https://www.amazon.com/Color-Law-Forgotten-Government-Segregated/dp/1631494538?tag=NYTBSREV-20
+list_date: 2020/08/02
+published_data: 2018-05-01
+summary: New York Times Bestseller • Notable Book of the Year • Editors' Choice Selection One of Bill Gates’ “Amazing Books” of the Year Longlisted for the National Book Award This “powerful and disturbing history” exposes how American governments deliberately imposed racial segregation on metropolitan areas nationwide (New York Times Book Review). Widely heralded as a “masterful” (Washington Post) and “essential” (Slate) history of the modern American metropolis, Richard Rothstein’s The Color of Law offers “the most forceful argument ever published on how federal, state, and local governments gave rise to and reinforced neighborhood segregation” (William Julius Wilson). Exploding the myth of de facto segregation arising from private prejudice or the unintended consequences of economic forces, Rothstein describes how the American government systematically imposed residential segregation: with undisguised racial zoning; public housing that purposefully segregated previously mixed communities; subsidies for builders to create whites-only suburbs; tax exemptions for institutions that enforced segregation; and support for violent resistance to African Americans in white neighborhoods. A groundbreaking, “virtually indispensable” study that has already transformed our understanding of twentieth-century urban history (Chicago Daily Observer), The Color of Law forces us to face the obligation to remedy our unconstitutional past.
+author_new0: Richard Rothstein

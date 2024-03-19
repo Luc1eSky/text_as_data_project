@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 038534824X
+primary_isbn13: 9780385348249
+publisher: Crown Archetype
+description: A memoir by the comedian, actor and writer, a former member of the Monty Python troupe.
+title: So Anyway . . .
+author: John Cleese
+amazon_product_url: http://www.amazon.com/So-Anyway-John-Cleese-ebook/dp/B00KAFVNY2?tag=NYTBSREV-20
+list_date: 2015/01/11
+published_date: 2014-11-04
+summary: A memoir by the legendary Monty Python comic traces his ascent in the entertainment world, from his humble origins and early collaborations with Graham Chapman through his achievements in television and motion pictures.

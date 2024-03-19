@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1984854666
+primary_isbn13: 9781984854667
+publisher: Random House
+description: The New York Times Washington correspondent details actions by officials who attempted to contain the president.
+title: Donald Trump V. The United States
+author: Michael S Schmidt
+amazon_product_url: https://www.amazon.com/dp/1984854666?tag=NYTBSREV-20
+list_date: 2020/09/27
+published_data: 2020-09-01
+summary: NEW YORK TIMES BESTSELLER • With unparalleled reporting, a Pulitzer Prize–winning New York Times reporter chronicles the clash between a president and the officials of his own government who tried to stop him. “A meticulously reported volume that clearly benefits from the author’s extraordinary access . . . [a] startling dissection of the Trump presidency.”—The New York Times Donald Trump v. The United States tells the dramatic, high-stakes story of those who felt compelled to confront and try to contain the most powerful man in the world as he shredded norms and sought to expand his power. Michael S. Schmidt takes readers inside the defining events of the presidency, chronicles them up close, and records the clash between an increasingly emboldened president and those around him, who find themselves trying to thwart the president they had pledged to serve, unsure whether he is acting in the interest of the country, his ego, his family business, or Russia. Through their eyes and ears, we observe an epic struggle. Drawing on secret FBI and White House documents and confidential sources inside federal law enforcement and the West Wing, Donald Trump v. The United States is vital journalism from a Pulitzer Prize–winning reporter that records the shocking reality of a presidency like no other. It is a riveting contemporary history and a lasting account of just how fragile and vulnerable the institutions of American democracy really are.
+author_new0: Michael S Schmidt

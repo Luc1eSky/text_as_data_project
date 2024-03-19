@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0316492736
+primary_isbn13: 9780316492737
+publisher: Voracious/Little, Brown
+description: Photographs and stories of more than 200 locations from around the world that are inspired by the aesthetic of the film director Wes Anderson.
+title: Accidentally Wes Anderson
+author: Wally Koval
+amazon_product_url: https://www.amazon.com/dp/0316492736?tag=NYTBSREV-20
+list_date: 2020/11/08
+published_data: 2020-10-20
+summary: A visual adventure of Wes Anderson proportions, authorized by the legendary filmmaker himself: stunning photographs of real-life places that seem plucked from the just-so world of Anderson's films, presented with the fascinating human stories behind each facade. Wes Anderson's beloved films announce themselves through a singular aesthetic--one that seems too vivid, unique, and meticulously constructed to be real. Not so--Accidentally Wes Anderson captures the world's most idiosyncratic and beautiful sites in all their faded grandeur and pop-pastel glory. Based on the viral online phenomenon, Accidentally Wes Andersoncelebrates the symmetrical, the atypical, the unexpected, the vibrantly patterned, and distinctively colored. Along with two hundred arresting photographs, this book tells the stories behind these quirky landmarks and undiscovered gems, bringing readers behind the facade. Authorized by Wes Anderson himself, and appealing to the millions who love his films, this book is also perfect for fans ofCabin Porn and Atlas Obscura--avid travelers and aspiring adventurers of all kinds.
+author_new0: Wally Koval

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0544454375
+primary_isbn13: 9780544454378
+publisher: Houghton Mifflin Harcourt
+description: A biography of the quarterback Brett Favre, who won fame on the Green Bay Packers.
+title: Gunslinger
+author: Jeff Pearlman
+amazon_product_url: https://www.amazon.com/Gunslinger-Remarkable-Improbable-Iconic-Brett/dp/0544454375?tag=NYTBSREV-20
+list_date: 2016/11/20
+published_date: 2016-11-01
+summary: From aNew York Times best-selling author, the full, definitive biography of Brett Favre A towering figure on the field for two decades and destined for the Hall of Fame, Brett Favre was one of the game's last cowboys, a fastball-throwing, tobacco-chewing gunslinger who refused to give up without a fight. This peerless quarterback guided the Green Bay Packers to two Super Bowls and one championship win, shattering countless NFL records along the way. Gunslinger tells Brett Favre's full, definitive story for the first time, drawing on more than five hundred interviews, including many from the people closest to Favre. Jeff Pearlman charts Favre's journey from his rough rural childhood and lackluster high school football career to landing the last roster spot at Southern Mississippi to a late-night car accident that nearly took his life. Favre clawed back, getting drafted into the NFL, first to Atlanta, then to Green Bay, where he restored the Packers to greatness and inspired a fan base as passionate as any in the game. Yet he struggled with demons: addiction, infidelity, the loss of his father the day before he honored him by playing the greatest game of his career, and ultimately a fraught, painfully prolonged exit from the game he loved. Grand, gritty, and revelatory,Gunslinger is a big sports biography of the highest order, a fascinating portrait of the man with the rocket arm whose life has been one of triumph, of fame, of tragedy, of embarrassment, and of redemption.

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1250243734
+primary_isbn13: 9781250153739
+publisher: St. Martin's
+description: The author of “Magicians of the Gods” makes his case about the origins of civilizations.
+title: America Before
+author: Graham Hancock
+amazon_product_url: https://www.amazon.com/America-Before-Earths-Lost-Civilization/dp/1250153735?tag=NYTBSREV-20
+list_date: 2019/05/12
+published_data: 2019
+summary: "Was an advanced civilization lost to history in the global cataclysm that ended the last Ice Age? Graham Hancock, the internationally bestselling author, has made it his life's work to find out--and in [this book], he draws on the latest archaeological and DNA evidence to bring his quest to a stunning conclusion. We've been taught that North and South America were empty of humans until around 13,000 years ago--amongst the last great landmasses on earth to have been settled by our ancestors. But new discoveries have radically reshaped this long-established picture and we know now that the Americas were first peopled more than 130,000 years ago--many tens of thousands of years before human settlements became established elsewhere. Hancock's research takes us on a series of journeys and encounters with the scientists responsible for the recent extraordinary breakthroughs. In the process, from the Mississippi Valley to the Amazon rainforest, he reveals that ancient 'New World' cultures share a legacy of advanced scientific knowledge and sophisticated spiritual beliefs with supposedly unconnected 'Old World' cultures. Have archaeologists focused for too long only on the 'Old World' in their search for the origins of civilization while failing to consider the revolutionary possibility that those origins might in fact be found in the 'New World'? [This book] is the culmination of everything that millions of readers have loved in Hancock's body of work over the past decades, namely a mind-dilating exploration of the mysteries of the past, amazing archaeological discoveries and profound implications for how we lead our lives today."--Provided by publisher.
+author_new0: Graham Hancock

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1612196322
+primary_isbn13: 9781612196329
+publisher: Melville House
+description: An in-depth look at the presidential nominee, his real estate career and pivot to politics, drawing on decades of interviews and financial records.
+title: The Making Of Donald Trump
+author: David Cay Johnston
+amazon_product_url: http://www.amazon.com/Making-Donald-Trump-David-Johnston/dp/1612196322?tag=NYTBSREV-20
+list_date: 2016/09/11
+published_date: 2016
+summary: A Pulitzer Prize-winning investigative reporter who has covered Donald Trump's rise to power for 30 years, mostly for the New York Times, investigates the mogul's rise to power. Included is a thorough look at Trump's numerous ties to organised crime, his history of litigation, his family background including his father's involvement with the Ku Klux Klan, his philandering, a close look at his actual skill in running casinos, constructing buildings and managing real estate, his numerous bankruptcies and the questionable nature of his actual wealth.

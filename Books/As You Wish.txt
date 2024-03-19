@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 4
+primary_isbn10: 1476764026
+primary_isbn13: 9781476764023
+publisher: Touchstone/Simon & Schuster
+description: The making of the movie “The Princess Bride,” 25 years ago.
+title: As You Wish
+author: Cary Elwes with Joe Layden
+amazon_product_url: http://www.amazon.com/As-You-Wish-Inconceivable-Princess/dp/1476764026?tag=NYTBSREV-20
+list_date: 2015/01/11
+published_date: 2014-10-14
+summary: In a 25th anniversary, behind-the-scenes account of the making of the cult-classic film, the lead actor shares never-before-told stories and exclusive photographs as well as interviews with Robin Wright, Billy Crystal and more. 100,000 first printing.

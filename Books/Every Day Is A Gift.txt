@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1538718502
+primary_isbn13: 9781538718506
+publisher: Twelve
+description: A memoir by the biracial daughter of an American father and a Thai-Chinese mother who served in the Iraq War and is currently a senator from Illinois.
+title: Every Day Is A Gift
+author: Tammy Duckworth
+amazon_product_url: https://www.amazon.com/dp/1538718502?tag=NYTBSREV-20
+list_date: 2021/04/18
+published_data: 2021-03-30
+summary: The incredible story of U.S. senator and Iraq War veteran Tammy Duckworth. In EVERY DAY IS A GIFT, Tammy Duckworth takes readers through the amazing--and amazingly true--stories from her incomparable life. In November of 2004, an Iraqi RPG blew through the cockpit of Tammy Duckworth's U.S. Army Black Hawk helicopter. The explosion, which destroyed her legs and mangled her right arm, was a turning point in her life. But as Duckworth shows in EVERY DAY IS A GIFT, that moment was just one in a lifetime of extraordinary turns. The biracial daughter of an American father and a Thai-Chinese mother, Duckworth faced discrimination, poverty, and the horrors of war -- all before the age of 16. As a child, she dodged bullets as her family fled war-torn Phnom Penh. As a teenager, she sold roses by the side of the road to save her family from hunger and homelessness in Hawaii. Through these experiences, she developed a fierce resilience that would prove invaluable in the years to come. Duckworth joined the Army, becoming one of a handful of female helicopter pilots at the start of Operation Iraqi Freedom. She served eight months in Iraq before an insurgent's RPG shot down her helicopter, an attack that took her legs -- and nearly took her life. She then spent thirteen months recovering at Walter Reed, learning to walk again on prosthetic legs and planning her return to the cockpit. But Duckworth found a new mission after meeting her state's senators, Barack Obama and Dick Durbin. After winning two terms as a U.S. Representative, she won election to the U.S. Senate in 2016. And she and her husband Bryan fulfilled another dream when she gave birth to two daughters, becoming the first sitting senator to give birth. From childhood to motherhood and beyond, EVERY DAY IS A GIFT is the remarkable story of one of America's most dedicated public servants.
+author_new0: Tammy Duckworth

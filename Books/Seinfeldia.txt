@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1476756104
+primary_isbn13: 9781476756103
+publisher: Simon & Schuster
+description: A history of the popular and influential sitcom, which ran from 1989 to 1998.
+title: Seinfeldia
+author: Jennifer Keishin Armstrong
+amazon_product_url: http://www.amazon.com/Seinfeldia-About-Nothing-Changed-Everything-ebook/dp/B0176M3YM0?tag=NYTBSREV-20
+list_date: 2016/07/24
+published_date: 2016-07-05
+summary: “Her book, as if she were a marine biologist, is a deep dive...Perhaps the highest praise I can give Seinfeldia is that it made me want to buy a loaf of marbled rye and start watching again, from the beginning.” —Dwight Garner, The New York Times Book Review The hilarious behind-the-scenes story of two guys who went out for coffee and dreamed up Seinfeld—the cultural sensation that changed television and bled into the real world, altering the lives of everyone it touched. Comedians Larry David and Jerry Seinfeld never thought anyone would watch their silly little sitcom about a New York comedian sitting around talking to his friends. NBC executives didn’t think anyone would watch either, but they bought it anyway, hiding it away in the TV dead zone of summer. But against all odds, viewers began to watch, first a few and then many, until nine years later nearly forty million Americans were tuning in weekly. In Seinfeldia, acclaimed TV historian and entertainment writer Jennifer Keishin Armstrong celebrates the creators and fans of this American television phenomenon, bringing readers behind-the-scenes of the show while it was on the air and into the world of devotees for whom it never stopped being relevant, a world where the Soup Nazi still spends his days saying “No soup for you!”, Joe Davola gets questioned every day about his sanity, Kenny Kramer makes his living giving tours of New York sights from the show, and fans dress up in Jerry’s famous puffy shirt, dance like Elaine, and imagine plotlines for Seinfeld if it were still on TV.

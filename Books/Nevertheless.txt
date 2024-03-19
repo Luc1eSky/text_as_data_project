@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0062409700
+primary_isbn13: 9780062409706
+publisher: Harper/HarperCollins
+description: A memoir by the actor.
+title: Nevertheless
+author: Alec Baldwin
+amazon_product_url: https://www.amazon.com/Nevertheless-Memoir-Alec-Baldwin/dp/0062409700?tag=NYTBSREV-20
+list_date: 2017/04/23
+published_date: 2017-04-04
+summary: N/A

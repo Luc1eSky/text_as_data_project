@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 7
+primary_isbn10: 1984877496
+primary_isbn13: 9781984877499
+publisher: Penguin Press
+description: The Pulitzer Prize-winning journalists use firsthand accounts to chart patterns of behavior within the Trump administration.
+title: A Very Stable Genius
+author: Philip Rucker and Carol Leonnig
+amazon_product_url: https://www.amazon.com/Very-Stable-Genius-Testing-America/dp/1984877496?tag=NYTBSREV-20
+list_date: 2020/03/22
+published_data: 2020-01-21
+summary: The instant #1 bestseller. “This taut and terrifying book is among the most closely observed accounts of Donald J. Trump’s shambolic tenure in office to date." - Dwight Garner, The New York Times Washington Post national investigative reporter Carol Leonnig and White House bureau chief Philip Rucker, both Pulitzer Prize winners, provide the definitive insider narrative of Donald Trump’s presidency “I alone can fix it.” So proclaimed Donald J. Trump on July 21, 2016, accepting the Republican presidential nomination and promising to restore what he described as a fallen nation. Yet as he undertook the actual work of the commander in chief, it became nearly impossible to see beyond the daily chaos of scandal, investigation, and constant bluster. In fact, there were patterns to his behavior and that of his associates. The universal value of the Trump administration was loyalty—not to the country, but to the president himself—and Trump’s North Star was always the perpetuation of his own power. With deep and unmatched sources throughout Washington, D.C., Carol Leonnig and Philip Rucker reveal the forty-fifth president up close. Here, for the first time, certain officials who felt honor-bound not to divulge what they witnessed in positions of trust tell the truth for the benefit of history. A peerless and gripping narrative, A Very Stable Genius not only reveals President Trump at his most unvarnished but shows how he tested the strength of America’s democracy and its common heart as a nation.
+author_new0: Philip Rucker
+author_new1: Carol Leonnig

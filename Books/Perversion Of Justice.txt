@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 006300058X
+primary_isbn13: 9780063000582
+publisher: Dey Street
+description: An investigative reporter for The Miami Herald gives an account of the billionaire Jeffrey Epstein's underage sex trafficking operation.
+title: Perversion Of Justice
+author: Julie K. Brown
+amazon_product_url: https://www.amazon.com/dp/006300058X?tag=NYTBSREV-20
+list_date: 2021/08/08
+published_data: 2021
+summary: "The Jeffrey Epstein story epitomizes our nation's lopsided system of justice, and how victims of sexual assault, especially those who are young and poor, are discarded, shamed, and mistreated by the very people who are supposed to protect them. "Epstein got away with his crimes because nearly every element of society allowed him to get away with them. Professional, legal, and moral ethics were set aside for a broken system of values that places corporate profits, personal wealth, political connections, and celebrity above some of the most sacred tenets of our faiths, our teachings, and our democracy. "When I became a journalist, I learned that the most rewarding part of my work was in righting injustices for those who could not fight for themselves." Book jacket.
+author_new0: Julie K. Brown

@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 6
+primary_isbn10: 0316403555
+primary_isbn13: 9780316403559
+publisher: Little, Brown
+description: The country music star discusses his life’s journey, from selling encyclopedias to professional fame.
+title: It'S A Long Story
+author: Willie Nelson with David Ritz
+amazon_product_url: http://www.amazon.com/Its-Long-Story-My-Life-ebook/dp/B00NERQSC0?tag=NYTBSREV-20
+list_date: 2015/07/05
+published_date: 2015-05-05
+summary: One of the most beloved popular musicians of our time tells the story of his extraordinary life. This is Willie Nelson's complete, unvarnished story, told in his voice and leaving no significant moment or experience untold, from Texas, Nashville, Hawaii, and beyond. Having recently turned 80, Nelson is ready to shine a light on all aspects of his life, including his drive to write music, the women in his life, his collaborations, and his biggest lows and highs--from his bankruptcy to the founding of Farm Aid. An American icon who still tours constantly and headlines music festivals, Willie Nelson and his music have found their way into the hearts and minds of fans the world over, winning ten Grammys and receiving Kennedy Center Honors. Now it's time to hear the last word about his life -- from the man himself. "Every page radiates authenticity." --Washington Post

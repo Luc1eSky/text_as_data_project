@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0802125085
+primary_isbn13: 9780802125088
+publisher: Grove
+description: Identity and inequality are explored in the history of a family and home in New Orleans both before and after Hurricane Katrina.
+title: The Yellow House
+author: Sarah M Broom
+amazon_product_url: https://www.amazon.com/Yellow-House-Sarah-M-Broom/dp/0802125085?tag=NYTBSREV-20
+list_date: 2019/09/01
+published_data: 2019
+summary: A brilliant, haunting and unforgettable memoir from a stunning new talent about the inexorable pull of home and family, set in a shotgun house in New Orleans East.
+author_new0: Sarah M Broom

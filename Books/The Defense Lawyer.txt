@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0316494372
+primary_isbn13: 9780316494373
+publisher: Little, Brown
+description: A biography of Barry Slotnick, whose clients have included Bette Midler, John Gotti and Bernhard Goetz.
+title: The Defense Lawyer
+author: James Patterson and Benjamin Wallace
+amazon_product_url: https://www.amazon.com/dp/0316494372?tag=NYTBSREV-20
+list_date: 2022/01/09
+published_data: 2021-12-20
+summary: The astonishing true story of the most successful defense attorney ever--told with suspense that tops James Patterson's #1 nonfiction bestseller Filthy Rich. Everyone deserves the best defense. Known for his sharp mind, sharp suits, and bold courtroom strategies, Bronx-native Barry Slotnick is known as the best criminal lawyer in the US. He calls himself "Liberty's Last Champion." Slotnick mediates Bette Midler's bathhouse contract and represents John Gotti, "The Dapper Don." He defends "Subway Shooter" Bernie Goetz and negotiates future First Lady Melania Trump's pre-nup. His unparalleled legal brilliance defines a profession, a city--and an era.
+author_new0: James Patterson
+author_new1: Benjamin Wallace

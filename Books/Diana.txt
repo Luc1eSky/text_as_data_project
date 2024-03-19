@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1439187886
+primary_isbn13: 9781439187883
+publisher: Simon & Schuster
+description: A biography of the Princess of Wales, who died at the age of 36 in 1997. Originally published in 1992.
+title: Diana
+author: Andrew Morton
+amazon_product_url: http://www.amazon.com/Diana-Her-True-Story-Words-ebook/dp/B002ZAJITW?tag=NYTBSREV-20
+list_date: 2017/08/27
+published_date: 2009-12-01
+summary: The sensational biography of Princess Diana, written with her cooperation and now featuring exclusive new material to commemorate the 20th anniversary of her death. When Diana: Her True Story was first published in 1992, it forever changed the way the public viewed the British monarchy. Greeted initially with disbelief and ridicule, the #1 New York Times bestselling biography has become a unique literary classic, not just because of its explosive contents but also because of Diana’s intimate involvement in the publication. Never before had a senior royal spoken in such a raw, unfiltered way about her unhappy marriage, her relationship with the Queen, her extraordinary life inside the House of Windsor, her hopes, her fears, and her dreams. Now, twenty-five years on, biographer Andrew Morton has revisited the secret tapes he and the late princess made to reveal startling new insights into her life and mind. In this fully revised edition of his groundbreaking biography, Morton considers Diana’s legacy and her relevance to the modern royal family. An icon in life and a legend in death, Diana continues to fascinate. Diana: Her True Story in Her Own Words is the closest we will ever come to her autobiography.

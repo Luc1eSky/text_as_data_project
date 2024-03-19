@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 1496472675
+primary_isbn13: 9781496472670
+publisher: Tyndale Momentum
+description: The founder of Living Proof Ministries details key moments from her life and her 2018 break with the Southern Baptist movement.
+title: All My Knotted-Up Life
+author: Beth Moore
+amazon_product_url: https://www.amazon.com/dp/1496472675?tag=NYTBSREV-20
+list_date: 2023/04/09
+published_data: 2023-02-21
+summary: "Author, speaker, visionary, and founder of Living Proof Ministries Beth Moore has devoted her whole life to helping women across the globe come to know the transforming power of Jesus. An established writer of many acclaimed books and Bible studies for women on spiritual growth and personal development, Beth now unveils her own story"--
+author_new0: Beth Moore

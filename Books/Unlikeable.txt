@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1621574377
+primary_isbn13: 9781621574378
+publisher: Regnery
+description: A unflattering portrait of Hillary Clinton.
+title: Unlikeable
+author: Edward Klein
+amazon_product_url: http://www.amazon.com/Unlikeable-Problem-Hillary-Edward-Klein-ebook/dp/B011H5178A?tag=NYTBSREV-20
+list_date: 2015/10/18
+published_date: 2015-09-28
+summary: Unlikeable is the stunning, powerful exposé of Hillary Clinton and her floundering race for the White House. With unprecedented access to longtime associates of the Clintons and the Obamas, investigative reporter Edward Klein meticulously recreates conversations and details of Hillary Clinton's behind-the-scenes plotting in Chappaqua and Whitehaven. Klein, the former editor in chief of New York Times Magazine and a contributing editor to Vanity Fair, draws a deeply troubling portrait of Hillary Rodham Clinton, a highly unlikeable presidential candidate and a woman more associated with scandal than with accomplishments, with lying than with truth, with arrogance than with compassion.

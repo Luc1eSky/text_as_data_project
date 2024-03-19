@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781101990353
+publisher: Celebra
+description: A memoir by the popular Power 105.1 D.J., formerly at Hot 97, who has been an important force in hip-hop.
+title: My Voice
+author: Angie Martinez
+amazon_product_url: http://www.amazon.com/My-Voice-Memoir-Angie-Martinez/dp/1101990333?tag=NYTBSREV-20
+list_date: 2016/06/05

@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1538745097
+primary_isbn13: 9781538745090
+publisher: Grand Central
+description: Two true-crime stories: "Murder Beyond the Grave" and "Murder in Paradise."
+title: Murder Beyond The Grave
+author: James Patterson
+amazon_product_url: https://www.amazon.com/Murder-Beyond-Grave-Pattersons-Forever-ebook/dp/B071FZTHCC?tag=NYTBSREV-20
+list_date: 2018/02/25
+published_date: 2018-02-06
+summary: A wealthy kidnapped man fights for his life and a real estate deal turns deadly in these two true crime thrillers that inspired Discovery's Murder is Forever TV series. Murder Beyond the Grave (with Andrew Bourelle): Stephen Small has it all: a Ferrari, fancy house, loving wife, and three boys. But the only thing he needs right now is enough air to breathe. Kidnapped, buried in a box, and held for ransom, Stephen has forty-eight hours of oxygen. The clock is ticking . . . Murder in Paradise (with Christopher Charles): High in the Sierra Nevada mountains, developers Jim and Bonnie Hood excitedly tour Camp Nelson Lodge. They intend to buy and modernize this beautiful rustic property, but the locals don't like rich outsiders changing their way of life. After a grisly shooting, everybody will discover just how you can make a killing in real estate . . .

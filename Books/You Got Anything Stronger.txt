@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 2
+primary_isbn10: 0062979930
+primary_isbn13: 9780062979933
+publisher: Dey Street
+description: The actress shares some of the challenges and changes she has faced in recent years.
+title: You Got Anything Stronger?
+author: Gabrielle Union with Kevin Carr O’Leary
+amazon_product_url: https://www.amazon.com/dp/0062979930?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021
+summary: "Activist, actress, and ... author Gabrielle Union is back with an even more intimate, revealing, and powerful collection of essays"--
+author_new0: Gabrielle Union
+author_new1: Kevin Carr O’Leary

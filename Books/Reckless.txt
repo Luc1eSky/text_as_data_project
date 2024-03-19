@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0385540612
+primary_isbn13: 9780385540612
+publisher: Doubleday
+description: The Pretenders’ frontwoman revisits four decades in the music industry.
+title: Reckless
+author: Chrissie Hynde
+amazon_product_url: http://www.amazon.com/Reckless-My-Life-as-Pretender/dp/0385540612?tag=NYTBSREV-20
+list_date: 2015/09/27
+published_date: 2015
+summary: The rock legend reflects on her life and career.

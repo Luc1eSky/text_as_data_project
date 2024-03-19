@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0062442562
+primary_isbn13: 9780062442567
+publisher: Dey Street/Morrow
+description: The performer looks back at his career, his tumultuous marriage to Whitney Houston and his relationship with their daughter, Bobbi Kristina.
+title: Every Little Step
+author: Bob Brown with Nick Chiles
+amazon_product_url: http://www.amazon.com/Every-Little-Step-My-Story/dp/0062442562?tag=NYTBSREV-20
+list_date: 2016/07/03
+published_date: 2016-06-13
+summary: NEW YORK TIMES BESTSELLER In Every Little Step, Brown will for the first time tell the full story of his life and set the record straight, particularly about his relationship with Whitney Houston. Bobby Brown has been one of the most compelling American artists of the past thirty years, a magnetic and talented figure who successfully crossed over many musical genres, including R&B and hip hop, as well as the mainstream. In the late 1980s, the former front man of New Edition had a wildly successful solo career—especially with the launch of Don't Be Cruel—garnering multiple hits on the Billboard top ten list, as well as several Grammy, American Music, and Soul Train awards. But Brown put his career on hold to be with the woman he loved—American music royalty Whitney Houston. The marriage between Brown and Houston was perhaps the most closely watched and talked about marriage of the 1990s—a pairing that obsessed the public and the gossip industry. Now, for the first time, the world will be able to hear the truth from the mouth of America’s “bad boy” himself. Raw and powerful, Every Little Step is the story of a man who has been on the top of the mountain and in the depths of the valley and who is now finally ready to talk about his career and family life, from the passion and the excess to his creative inspirations and massive musical success. On the process of writing this book, Bobby says, “Right after I signed on to write my story, I went through one of the most agonizing traumas I had ever experienced with the death of my daughter. But I was surprised by how therapeutic it was to work on this project, to look at the entire arc of my life and to realize that although there has been considerable pain, I have also been incredibly blessed. I hope my fans and other readers of this book will be entertained by this trip into the crazy, exciting, fascinating world of Bobby Brown. And I hope they will feel that I have been as honest and open with them in these pages as I have tried to be my entire life.”

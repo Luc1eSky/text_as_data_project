@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0358457548
+primary_isbn13: 9780358457541
+publisher: Mariner
+description: The former U.S. ambassador to Ukraine chronicles her career in the post-Soviet world and her testimony during the first impeachment of President Trump.
+title: Lessons From The Edge
+author: Marie Yovanovitch
+amazon_product_url: https://www.amazon.com/dp/0358457548?tag=NYTBSREV-20
+list_date: 2022/04/17
+published_data: 2021-05-04
+summary: An inspiring and urgent memoir by the ambassador who electrified the nation by speaking truth to power. By the time she became US Ambassador to Ukraine, Marie Yovanovitch had seen her share of corruption, instability, and tragedy in developing countries. But it came as a shock when, in early 2019, she was recalled from her post after a smear campaign by President Trump's personal attorney and his associates--men operating outside of normal governmental channels, and apparently motivated by personal gain. Her courageous participation in the subsequent impeachment inquiry earned Yovanovitch the nation's respect, and her dignified response to the president's attacks won our hearts. She has reclaimed her own narrative, first with her lauded congressional testimony, and now with this memoir. A child of parents who survived Soviet and Nazi terror, Yovanovitch's life and work have taught her the preciousness of democracy as well as the dangers of corruption. Lessons from the Edge follows the arc of her career as she develops into the person we came to know during the impeachment proceedings.
+author_new0: Marie Yovanovitch

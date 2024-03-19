@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 16
+primary_isbn10: 0316512583
+primary_isbn13: 9780316512589
+publisher: Little, Brown
+description: More than 300 pictures of the former president by his White House photographer, with behind-the-scenes stories.
+title: Obama
+author: Pete Souza
+amazon_product_url: https://www.amazon.com/Obama-Intimate-Portrait-Pete-Souza/dp/0316512583?tag=NYTBSREV-20
+list_date: 2018/05/20
+published_date: 2017-11-07
+summary: This is the definitive visual biography of Barack Obama's historic Presidency, captured in unprecedented detail by his White House photographer--and presented in an oversize, 12"x10" exquisitely produced format, and featuring a foreword from the President himself. Pete Souza served as Chief Official White House Photographer for President Obama's full two terms. He was with the President during more crucial moments than anyone else--and he photographed them all. Souza took nearly two million photographs of President Obama, capturing moments both highly classified and disarmingly candid. Obama: An Intimate Portrait reproduces Souza's most iconic photographs in exquisite detail, more than three hundred in all. Some have never been published. These photographs document the most consequential hours of the Presidency--including the historic image of President Obama and his advisors in the Situation Room during the bin Laden mission--alongside unguarded moments with the President's family, his encounters with children, interactions with world leaders and cultural figures, and more. Souza's photographs, with the behind-the-scenes captions and stories that accompany them, communicate the pace and power of our nation's highest office. They also reveal the spirit of the extraordinary man who became our President. We see President Obama lead our nation through monumental challenges, comfort us in calamity and loss, share in hard-won victories, and set a singular example to "be kind and be useful," as he would instruct his daughters. The result is a portrait of exceptional intimacy and a stunning record of a landmark era in American history.

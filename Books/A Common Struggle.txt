@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 0399173323
+primary_isbn13: 9780399173325
+publisher: Blue Rider
+description: The former Rhode Island representative describes his troubles with bipolar disorder and addiction and his subsequent advocacy for mental health care and research.
+title: A Common Struggle
+author: Patrick J Kennedy and Stephen Fried
+amazon_product_url: http://www.amazon.com/Common-Struggle-Personal-Journey-Addiction/dp/0399173323?tag=NYTBSREV-20
+list_date: 2015/11/08
+published_date: 2015
+summary: Patrick J. Kennedy, the former congressman and youngest child of Senator Ted Kennedy, opens up about his personal and political battle with mental illness and addiction for the first time. This candid memoir focuses on the years from his 'coming out' about suffering from bipolar disorder and addiction to the present day, and examines his journey toward recovery while reflecting on America's treatment of mental health.

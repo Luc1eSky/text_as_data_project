@@ -1,0 +1,10 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780307958358
+publisher: Vintage
+description: Benjamin Franklin’s youngest sister, Jane Franklin Mecom (1712-94), married at 15, bore 12 children and led a life of hardship. But she was also a shrewd political commentator, and her correspondence with her brother stretched across more than 60 years. Originally published in 2013.
+title: Book Of Ages
+author: Jill Lepore
+amazon_product_url: http://www.amazon.com/Book-Ages-Life-Opinions-Franklin-ebook/dp/B00C8S9VAM?tag=NYTBSREV-20
+list_date: 2016/04/24

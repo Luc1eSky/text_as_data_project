@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0062666975
+primary_isbn13: 9780062666970
+publisher: Harper
+description: How young men comprehend cultural forces and navigate sexual and emotional relationships.
+title: Boys & Sex
+author: Peggy Orenstein
+amazon_product_url: https://www.amazon.com/Boys-Sex-Hookups-Navigating-Masculinity/dp/0062666975?tag=NYTBSREV-20
+list_date: 2020/01/26
+published_data: 2020
+summary: "To understand girls and sex, we also need to talk about boys and sex. Today's young men are subject to the same cultural forces as their female peers. They are steeped in the distorted media images and binary stereotypes of female sexiness and toxic masculinity which shape how they, too, navigate sexual and emotional relationships. In [this book, the author] uses the same fascinating mix of anecdote and research to reveal how young men understand and negotiate the new rules of physical and emotional intimacy. Drawing on comprehensive interviews with young men, psychologists, academics, and experts in the field, [the author] takes an unprecedented look at the myriad factors that are shaping boys' ideas of sex, girls, and masculinity"--Provided by publisher.
+author_new0: Peggy Orenstein

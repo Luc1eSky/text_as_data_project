@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 1501105132
+primary_isbn13: 9781501105135
+publisher: Howard Books
+description: An examination of the jihadist group and a warning about its dangers.
+title: Rise Of Isis
+author: Jay Sekulow with Jordan Sekulow and others
+amazon_product_url: http://www.amazon.com/Rise-ISIS-Threat-Cant-Ignore/dp/1501105132?tag=NYTBSREV-20
+list_date: 2014/11/09
+published_date: 2014-10-14
+summary: Argues that the extremist Sunni jihadist group ISIS presents a great danger to the United States and the world, looking at the origin of the group, its objectives, and its unlawful terrorist strategies.

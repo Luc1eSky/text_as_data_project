@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 8
+primary_isbn10: 0593236319
+primary_isbn13: 9780593236314
+publisher: Crown
+description: Conversations between the 44th president and the multiple award-winning musician on a range of topics.
+title: Renegades
+author: Barack Obama and Bruce Springsteen
+amazon_product_url: https://www.amazon.com/dp/0593236319?tag=NYTBSREV-20
+list_date: 2022/01/09
+published_data: 2021-10-26
+summary: NEW YORK TIMES BESTSELLER • Two longtime friends share an intimate and urgent conversation about life, music, and their enduring love of America, with all its challenges and contradictions, in this stunningly produced expansion of their groundbreaking Higher Ground podcast, featuring more than 350 photographs, exclusive bonus content, and never-before-seen archival material. Renegades: Born in the USA is a candid, revealing, and entertaining dialogue between President Barack Obama and legendary musician Bruce Springsteen that explores everything from their origin stories and career-defining moments to our country’s polarized politics and the growing distance between the American Dream and the American reality. Filled with full-color photographs and rare archival material, it is a compelling and beautifully illustrated portrait of two outsiders—one Black and one white—looking for a way to connect their unconventional searches for meaning, identity, and community with the American story itself. It includes: • Original introductions by President Obama and Bruce Springsteen • Exclusive new material from the Renegades podcast recording sessions • Obama’s never-before-seen annotated speeches, including his “Remarks at the 50th Anniversary of the Selma to Montgomery Marches” • Springsteen’s handwritten lyrics for songs spanning his 50-year-long career • Rare and exclusive photographs from the authors’ personal archives • Historical photographs and documents that provide rich visual context for their conversation In a recording studio stocked with dozens of guitars, and on at least one Corvette ride, Obama and Springsteen discuss marriage and fatherhood, race and masculinity, the lure of the open road and the call back to home. They also compare notes on their favorite protest songs, the most inspiring American heroes of all time, and more. Along the way, they reveal their passion for—and the occasional toll of—telling a bigger, truer story about America throughout their careers, and explore how our fractured country might begin to find its way back toward unity and global leadership.
+author_new0: Barack Obama
+author_new1: Bruce Springsteen

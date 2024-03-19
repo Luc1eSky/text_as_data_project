@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1538749718
+primary_isbn13: 9781538749715
+publisher: Twelve
+description: Using genetic data, an anthropologist traces the lineage of the first people to populate the Americas and the routes that they took.
+title: Origin
+author: Jennifer Raff
+amazon_product_url: https://www.amazon.com/dp/1538749718?tag=NYTBSREV-20
+list_date: 2022/02/27
+published_data: 2021-02-16
+summary: From celebrated anthropologist Jennifer Raff comes the untold story -- and fascinating mystery -- of how humans migrated to the Americas.
+author_new0: Jennifer Raff

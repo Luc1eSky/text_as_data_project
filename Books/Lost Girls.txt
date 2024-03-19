@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0062183672
+primary_isbn13: 9780062183675
+publisher: Harper
+description: An account of the troubled young Internet prostitutes whose bodies were found in Suffolk County, Long Island, in 2010. Originally published in 2013.
+title: Lost Girls
+author: Robert Kolker
+amazon_product_url: http://www.amazon.com/Lost-Girls-Unsolved-American-Mystery-ebook/dp/B009NF6ZJI?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2013-07-09
+summary: Soon to be a Netflix documentary One of Slate’s Best Nonfiction Books of the Past 25 Years A literary account of the lives and presumed serial killings of five “Craigslist” prostitutes, whose bodies were found on the same Long Island beach in 2010. Based on the New York Magazine cover story. Shannan wanted acceptance. Maureen wanted a solution. Megan wanted love. Melissa wanted adventure. Amber wanted to be saved. Over the course of three years, each of these young women vanished without a trace: Maureen in 2007, Melissa and Megan in 2009, and Amber and Shannan in 2010. All but one of their bodies was discovered on Gilgo Beach, Long Island, an unsettled, overgrown seven-mile stretch of shoreline on the string of barrier islands along South Oyster Bay. Sharing the same profile—all were in their twenties, all but one was under five feet tall, and all were prostitutes who advertised on Craigslist—the police concluded they were all the victims of one murderer, the Long Island serial killer—the most skillful and accomplished serial killer in New York since the “Son of Sam,” David Berkowitz. But as intrepid young reporter Robert Kolker discovered, the truth about these women went far deeper than common assumptions. The victims weren’t outcasts; they weren’t kidnapped or enslaved. All came from a slice of America ignored by politicians and the media: the poor, often rural and white parts of the country hit hard by economics, where limited opportunities force people to make hard choices—choices that lead them to places like Gilgo Beach. Working closely with the women’s families, Lost Girls tells the stories of their deaths and their lives, offering a searing portrait of crime and circumstance that goes to the heart of modern America itself.

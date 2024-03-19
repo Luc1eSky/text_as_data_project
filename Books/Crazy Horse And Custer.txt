@@ -1,0 +1,10 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1497659272
+primary_isbn13: 9781497659278
+publisher: Open Road
+description: The parallel lives of George Armstrong Custer and the Oglala Sioux leader Crazy Horse. Originally published in 1975.
+title: Crazy Horse And Custer
+author: Stephen Ambrose
+amazon_product_url: http://www.amazon.com/Crazy-Horse-Custer-Parallel-American-ebook/dp/B00KQZY19A?tag=NYTBSREV-20
+list_date: 2016/07/31

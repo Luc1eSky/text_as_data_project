@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 125023722X
+primary_isbn13: 9781250237224
+publisher: Holt
+description: The conservative commentator weaves interviews and personal history to portray the power and influence of the 45th president.
+title: The United States Of Trump
+author: Bill O'Reilly
+amazon_product_url: https://www.amazon.com/United-States-Trump-President-America/dp/125023722X?tag=NYTBSREV-20
+list_date: 2019/12/22
+published_data: 2019-09-17
+summary: A rare, insider’s look at the life of Donald Trump from Bill O'Reilly, the bestselling author of the Killing series, based on exclusive interview material and deep research Readers around the world have been enthralled by journalist and New York Times bestselling author Bill O’Reilly’s Killing series—riveting works of nonfiction that explore the most famous events in history. Now, O’Reilly turns his razor-sharp observations to his most compelling subject thus far—President Donald J. Trump. In this thrilling narrative, O’Reilly blends primary, never-before-released interview material with a history that recounts Trump’s childhood and family and the factors from his life and career that forged the worldview that the president of the United States has taken to the White House. Not a partisan pro-Trump or anti-Trump book, this is an up-to-the-minute, intimate view of the man and his sphere of influence—of “how Donald Trump’s view of America was formed, and how it has changed since becoming the most powerful person in the world”— from a writer who has known the president for thirty years. This is an unprecedented, gripping account of the life of a sitting president as he makes history. As the author will tell you, “If you want some insight into the most unlikely political phenomenon of our lifetimes, you’ll get it here.”
+author_new0: Bill O'Reilly

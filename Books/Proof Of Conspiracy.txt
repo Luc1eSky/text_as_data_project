@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1250256712
+primary_isbn13: 9781250256713
+publisher: St. Martin's
+description: The BBC and CNN political and legal analyst argues that Middle Eastern geopolitics were central to Donald Trump’s election and foreign policy.
+title: Proof Of Conspiracy
+author: Seth Abramson
+amazon_product_url: https://www.amazon.com/Proof-Conspiracy-International-Collusion-Threatening/dp/1250256712?tag=NYTBSREV-20
+list_date: 2019/09/22
+published_data: 2019-09-03
+summary: Instant New York Times Bestseller "A richly documented indictment of power and corruption." —Kirkus Reviews Through diligent research, Seth Abramson exposes a story that U.S. media has largely missed: a pre-election geopolitical conspiracy involving Saudi Arabia, the United Arab Emirates, Israel, and Russia that sought to put Trump in the White House—and succeeded. In late 2015, convicted pedophile, international dealmaker, and cooperating witness in Special Counsel Robert Mueller’s Russia investigation George Nader convened a secret meeting aboard a massive luxury yacht in the Red Sea. Nader pitched Saudi Crown Prince Mohammed bin Salman, Emirati Crown Prince Mohammed bin Zayed, Egyptian President Abdel Fattah el-Sisi and other Middle Eastern leaders a plan for a new pro-U.S., pro-Israel alliance of Arab nations that would fundamentally alter the geopolitics of the Middle East while marginalizing Iran, Qatar, and Turkey. To succeed, the plan would need a highly placed American politician willing to drop sanctions on Russia so that Vladimir Putin would in turn agree to end his support for Iran. They agreed the perfect American partner was Donald Trump, who had benefited immensely from his Saudi, Emirati, and Russian dealings for many years, and who, in 2015, became the only U.S. presidential candidate to argue for a unilateral end to Russian sanctions and a far more hostile approach to Iran. So begins New York Times bestselling author Seth Abramson’s explosive new book Proof of Conspiracy: How Trump's International Collusion Threatens American Democracy, a story of international intrigue whose massive cast of characters includes Israeli intelligence operatives, Russian oligarchs, Saudi death squads, American mercenary companies, Trump’s innermost circle, and several members of the Trump family as well as Trump himself—all part of a clandestine multinational narrative that takes us from Washington, D.C. and Moscow to the Middle Eastern capitals of Riyadh, Abu Dhabi, Jerusalem, Cairo, Tehran, and Doha. Proof of Conspiracy is a chilling and unforgettable depiction of the dangers America and the world now face.
+author_new0: Seth Abramson

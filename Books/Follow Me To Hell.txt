@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1250214556
+primary_isbn13: 9781250214553
+publisher: St. Martin's
+description: A portrayal of a ranger named Leander McNelly and his men in 1870s Texas.
+title: Follow Me To Hell
+author: Tom Clavin
+amazon_product_url: https://www.amazon.com/dp/1250214556?tag=NYTBSREV-20
+list_date: 2023/04/23
+published_data: 2023-04-04
+summary: THE INSTANT NEW YORK TIMES BESTSELLER Tom Clavin's Follow Me to Hell is the explosive true story of how legendary Ranger Leander McNelly and his men brought justice to a lawless Texan frontier. In turbulent 1870s Texas, the revered and fearless Ranger Leander McNelly led his men in one dramatic campaign after another, throwing cattle thieves, desperadoes, border ruffians, and other dangerous criminals into jail or, if that's how they wanted it, six feet under. They would stop at nothing in pursuit of justice, even sending 26 Rangers across the border to retrieve stolen cattle—taking on hundreds of Mexican troops with nothing but their Sharps rifles and six-guns. The nation came to call them “McNelly’s Rangers.” Set against the backdrop of 200 years of thrilling Texas Rangers history, this page-turner takes readers into the tough life along the Texas border that was tamed by a courageous, yet doomed, captain and his team of fearless men. It was one hell of a ride!
+author_new0: Tom Clavin

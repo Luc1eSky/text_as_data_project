@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 6
+primary_isbn10: 1982190337
+primary_isbn13: 9781982190330
+publisher: Simon & Schuster
+description: The former vice president gives an account of his career, including his time in the Oval Office and during the Jan. 6 insurrection.
+title: So Help Me God
+author: Mike Pence
+amazon_product_url: https://www.amazon.com/dp/1982190337?tag=NYTBSREV-20
+list_date: 2023/01/08
+published_data: 2022-11-15
+summary: The autobiography of former Vice President Mike Pence, focusing on his faith and his public service. In So Help Me God, Pence recounts his journey from his youth in Columbus, Indiana, to the vice presidency of the United States. This is the inside story of the Trump Administration from its second-highest ranking official and of a profound faith that has guided Pence throughout his life. The most robust defense of the Trump record of anyone who served in the administration, So Help Me God also chronicles President Trump’s severing of their relationship on January 6, 2021, when Pence kept his oath to the Constitution.
+author_new0: Mike Pence

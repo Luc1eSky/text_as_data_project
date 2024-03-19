@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 055341996X
+primary_isbn13: 9780553419962
+publisher: Crown
+description: The journalist describes how a cyberattack on the nation’s power grids could paralyze our infrastructure, warns that government has not planned for the possibility, and visits “preppers” who are taking their own precautions.
+title: Lights Out
+author: Ted Koppel
+amazon_product_url: http://www.amazon.com/Lights-Out-Cyberattack-Unprepared-Surviving-ebook/dp/B00UQERM4C?tag=NYTBSREV-20
+list_date: 2015/12/20
+published_date: 2015
+summary: "Ted Koppel reveals that a major cyberattack on America's power grid is not only possible but likely--and that it would be devastating" and "examines a threat unique to our time and evaluates potential ways to prepare for a catastrophe"--Book jacket.

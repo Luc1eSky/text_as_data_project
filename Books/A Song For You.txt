@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1524742848
+primary_isbn13: 9781524742843
+publisher: Dutton
+description: A friend and collaborator gives her account of various aspects of her relationship with the late pop star Whitney Houston.
+title: A Song For You
+author: Ron Crawford
+amazon_product_url: https://www.amazon.com/Song-You-Life-Whitney-Houston/dp/1524742848?tag=NYTBSREV-20
+list_date: 2019/12/01
+published_data: 2019-11-12
+summary: The New York Times Bestseller! After decades of silence, Robyn Crawford, close friend, collaborator, and confidante of Whitney Houston, shares her story. Whitney Houston is as big a superstar as the music business has ever known. She exploded on the scene in 1985 with her debut album and spent the next two decades dominating the charts and capturing the hearts of fans around the world. One person was there by her side through it all—her best friend, Robyn Crawford. Since Whitney’s death in 2012, Robyn has stayed out of the limelight and held the great joys, wild adventures, and hard truths of her life with Whitney close to her heart. Now, for the first time ever, Crawford opens up in her memoir, A Song for You. With warmth, candor, and an impressive recall of detail, Robyn describes the two meeting as teenagers in the 1980s, and how their lives and friendship evolved as Whitney recorded her first album and Robyn pursued her promising Division I basketball career. Together during countless sold-out world tours, behind the scenes as hit after hit was recorded, through Whitney’s marriage and the birth of her daughter, the two navigated often challenging families, great loves, and painful losses, always supporting each other with laughter and friendship. Deeply personal and heartfelt, A Song for You is the vital, honest, and previously untold story that provides an understanding of the complex life of Whitney Houston. Finally, the person who knew her best sets the record straight.
+author_new0: Ron Crawford

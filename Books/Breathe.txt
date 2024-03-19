@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0063018950
+primary_isbn13: 9780063018952
+publisher: Dey Street
+description: A memoir by the former Brazilian jiu-jitsu and mixed martial arts competitor.
+title: Breathe
+author: Rickson Gracie with Peter Maguire
+amazon_product_url: https://www.amazon.com/dp/0063018950?tag=NYTBSREV-20
+list_date: 2021/08/29
+published_data: 2021
+summary: *** An Instant New York Times bestseller *** *** A USA Today bestseller *** *** A Wall Street Journal bestseller *** From legendary Brazilian Jiu-Jitsu and MMA master Rickson Gracie comes a riveting, insightful memoir that weaves together the story of Gracie's stunning career with the larger history of the Gracie family dynasty and the founding of the Ultimate Fighting Championship, showing how the connection between mind and body can be harnessed for success both inside and outside the ring. Undefeated from the late 1970s through his final fight in the Tokyo Dome in 2000, Rickson Gracie amassed hundreds of victories in the street, on the mat, at the beach, and in the ring. He has joined the pantheon that includes Bruce Lee, Chuck Norris, and Jackie Chan as one of the most famous martial artists of the twentieth century. Jiu-Jitsu, the fighting style developed and pioneered by his family, has become one of the world's most prominent martial arts, and Vale Tudo, the "anything goes" style of Brazilian street fighting over which the Gracies had a monopoly, was an early precursor to the Ultimate Fighting Championship. Simply put, without the Gracie family, there would be no sport of "MMA," no 4-billion-dollar UFC empire, and no "Brazilian Jiu-Jitsu" at strip malls all across America. In Breathe, for the first time, Rickson reveals the full story of how his father and uncles came to develop Jiu-Jitsu, what it was like to grow up among several generations of world-renowned fighters from the Gracie clan, and the principles and skills that guided him to his undefeated record. From learning to assert himself on the streets of Rio to gaining fame and honor in Japan and emerging through heartbreaking tragedy, the martial arts master shares tales of overcoming challenges, extolling universal virtues and showing readers how pride and ego are the enemies of success. With never-before-seen photos and profound insights into the sport and way of life that only a studied legend can provide, Breathe is an entertaining and magnified view of an enduring legacy as well as an inspiring tale of weathering life's complexities and overcoming them with style and grace.
+author_new0: Rickson Gracie
+author_new1: Peter Maguire

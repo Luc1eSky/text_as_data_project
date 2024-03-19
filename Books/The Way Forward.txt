@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1455557560
+primary_isbn13: 9781455557561
+publisher: Twelve
+description: The Wisconsin representative and 2012 Republican vice-presidential nominee analyzes the election, tells his personal story and describes plans to make government “simpler, smaller, smarter.” 
+title: The Way Forward
+author: Paul Ryan
+amazon_product_url: http://www.amazon.com/The-Way-Forward-Renewing-American-ebook/dp/B00H25FL0U?tag=NYTBSREV-20
+list_date: 2014/09/14
+published_date: 2014-08-19
+summary: From the intellectual leader of the Republican party, an unvarnished look into the state of the conservative movement today and a clear plan for what needs to be done to save the American Idea. THE WAY FORWARD challenges conventional thinking, outlines his political vision for 2014 and beyond, and shows how essential conservatism is for the future of our nation. Beginning with a careful analysis of the 2012 election--including a look at the challenge the GOP had in reaching a majority of voters and the prevalence of identity politics--Ryan examines the state of the Republican party and dissects its challenges going forward. THE WAY FORWARD also offers a detailed critique of not only President Obama but of the progressive movement as a whole--its genesis, its underlying beliefs and philosophies, and how its policies are steering the country to certain ruin. Culminating in a plan for the future, THE WAY FORWARD argues that the Republican Party is and must remain a conservative party, emphasizing conservatism in a way that demonstrates how it can modernize and appeal to both our deepest concerns and highest ideals.

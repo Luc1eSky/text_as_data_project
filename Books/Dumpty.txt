@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 1452182752
+primary_isbn13: 9781452182759
+publisher: Chronicle Prism
+description: The multi-award-winning actor satirizes the Trump administration with a collection of poems and illustrations.
+title: Dumpty
+author: John Lithgow
+amazon_product_url: https://www.amazon.com/Dumpty-Trump-Political-Satire-Poetry/dp/1452182752?tag=NYTBSREV-20
+list_date: 2019/11/17
+published_data: 2019-10-22
+summary: Dumpty: The Age of Trump in Verse is a satirical poetry collection from award-winning actor and bestselling author John Lithgow. Chronicling the last few raucous years in American politics, Lithgow takes readers verse by verse through the history of Donald Trump's presidency. • Lampoons the likes of Betsy DeVos, William Barr, Rudy Giuliani, and dozens more. • Illustrated from cover to cover with Lithgow's never-before-seen line drawings. • Draws inspiration from A. A. Milne, Lewis Carroll, Edward Lear, and even Mother Goose. • Great for fans of A Very Stable Genius by Mike Luckovich, Win Bigly: Persuasion in a World Where Facts Don't Matter by Scott Adams, and The Donald J. Trump Presidential Twitter Library by The Daily Show with Trevor Noah. The poems collected in Dumpty draw inspiration from A. A. Milne, Lewis Carroll, Edward Lear, Rodgers and Hammerstein, Mother Goose, and many more. A feat of laugh-out-loud lyrical storytelling, this timely volume is bound to bring joy to poetry lovers, political junkies, and Lithgow fans alike.
+author_new0: John Lithgow

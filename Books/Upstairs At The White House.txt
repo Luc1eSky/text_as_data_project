@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 
+primary_isbn13: 9781480449794
+publisher: Open Road
+description: Reminiscences by a former White House major-domo. First published in 1974.
+title: Upstairs At The White House
+author: J B West with Mary Lynn Kotz
+amazon_product_url: http://www.amazon.com/Upstairs-White-House-First-Ladies-ebook/dp/B00F3QYL06?tag=NYTBSREV-20
+list_date: 2015/03/08
+published_date: 2021-09-15
+summary: N/A

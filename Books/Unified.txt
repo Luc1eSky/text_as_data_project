@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1496430417
+primary_isbn13: 9781496430410
+publisher: Tyndale Momentum
+description: Two Republican lawmakers from South Carolina use their relationship as a model for overcoming differences.
+title: Unified
+author: Tim Scott and Trey Gowdy
+amazon_product_url: https://www.amazon.com/Unified-Unlikely-Friendship-Divided-Country/dp/1496430417?tag=NYTBSREV-20
+list_date: 2018/04/22
+published_date: 2018
+summary: New York Times Bestseller In a divided country desperate for unity, two sons of South Carolina show how different races, life experiences, and pathways can lead to a deep friendship--even in a state that was rocked to its core by the 2015 Charleston church shooting. Tim Scott, an African-American US senator, and Trey Gowdy, a white US congressman, won't allow racial lines to divide them. They work together, eat meals together, campaign together, and make decisions together. Yet in the fall of 2010--as two brand-new members of the US House of Representatives--they did not even know each other. Their story as politicians and friends began the moment they met and is a model for others seeking true reconciliation. In Unified, Senator Scott and Congressman Gowdy, through honesty and vulnerability, inspire others to evaluate their own stories, clean the slate, and extend a hand of friendship that can change your churches, communities, and the world.

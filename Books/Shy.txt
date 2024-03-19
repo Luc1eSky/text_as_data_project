@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0374298629
+primary_isbn13: 9780374298623
+publisher: Farrar, Straus and Giroux
+description: The memoirs of the late composer, author and screenwriter, written with the chief theater critic at The New York Times.
+title: Shy
+author: Mary Rodgers and Jesse Green
+amazon_product_url: https://www.amazon.com/dp/0374298629?tag=NYTBSREV-20
+list_date: 2022/08/28
+published_data: 2022-08-09
+summary: "The memoirs of Mary Rodgers-writer, composer, Broadway royalty, and "a woman who tried everything.""--
+author_new0: Mary Rodgers
+author_new1: Jesse Green

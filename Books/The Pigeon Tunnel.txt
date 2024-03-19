@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0735220778
+primary_isbn13: 9780735220775
+publisher: Viking
+description: A memoir by the great spy novelist.
+title: The Pigeon Tunnel
+author: John le Carré
+amazon_product_url: http://www.amazon.com/Pigeon-Tunnel-Stories-My-Life/dp/0735220778?tag=NYTBSREV-20
+list_date: 2016/09/25
+published_date: 2016
+summary: The author shares personal anecdotes from his life, discussing subjects ranging from his Cold War-era service in British intelligence to his work as a writer in Russia before and after the collapse of the Berlin Wall.

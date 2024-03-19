@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0984504176
+primary_isbn13: 9780984504176
+publisher: South Dakota Historical Society Press
+description: The writer’s autobiography, the source of her Little House on the Prairie books, completed in 1930 and never published, is annotated by a biographer.
+title: Pioneer Girl
+author: Laura Ingalls Wilder
+amazon_product_url: http://www.amazon.com/Pioneer-Girl-The-Annotated-Autobiography/dp/0984504176?tag=NYTBSREV-20
+list_date: 2015/05/24
+published_date: 2014
+summary: Laura Ingalls Wilder's unedited, and unpublished, draft of her autobiography that was written for an adult audience and eventually served as the foundation for her popular Little House on the Prairie series includes not-safe-for-children tales that feature stark scenes of domestic abuse, love triangles gone awry and a man who lit himself on fire while drunk off whiskey.

@@ -1,0 +1,11 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780718022136
+publisher: Thomas Nelson
+description: The late author's pursuit of a renewed faith in the community and her misgivings about organized religion.
+title: Searching For Sunday
+author: Rachel Held Evans
+amazon_product_url: http://www.amazon.com/Searching-Sunday-Loving-Leaving-Finding-ebook/dp/B00PWOH2CI?tag=NYTBSREV-20
+list_date: 2019/05/26
+author_new0: Rachel Held Evans

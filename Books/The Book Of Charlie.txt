@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 1476773920
+primary_isbn13: 9781476773926
+publisher: Simon & Schuster
+description: The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.
+title: The Book Of Charlie
+author: David Von Drehle
+amazon_product_url: https://www.amazon.com/dp/1476773920?tag=NYTBSREV-20
+list_date: 2023/07/09
+published_data: 2023-05-23
+summary: "A veteran Washington journalist recounts his long friendship with Charlie White, the centenarian next door who, sharing his good and meaningful life, mastered survival strategies that reflect thousands of years of human wisdom as his sense of adventure guided him through a century of upheaval."--
+author_new0: David Von Drehle

@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 2
+primary_isbn10: 0762499508
+primary_isbn13: 9780762499502
+publisher: Black Dog & Leventhal
+description: Character profiles, major story moments and behind-the-scenes tales from the Emmy Award-winning series “Schitt's Creek.”
+title: Best Wishes, Warmest Regards
+author: Daniel Levy and Eugene Levy
+amazon_product_url: https://www.amazon.com/dp/0762499508?tag=NYTBSREV-20
+list_date: 2021/11/21
+published_data: 2021-10-26
+summary: A keepsake coffee-table book celebrating the series, the town, the characters, and the state of mind that is Schitt's Creek. Included here are in-depth character profiles of Johnny, Moira, David, and Alexis Rose, plus all of the major and minor characters that populate or have passed through the town; explorations of the sets and props; and deep dives into every major moment. Also included are special features such as the completely illustrated catalogs of David's Knits and Moira's Wigs, the music of Schitt's Creek, and a complete glossary of Moira's vocabulary. Hometown: Toronto, ON.
+author_new0: Daniel Levy
+author_new1: Eugene Levy

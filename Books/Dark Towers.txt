@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0062878816
+primary_isbn13: 9780062878816
+publisher: Custom House
+description: The New York Times finance editor traces the history and illicit dealings of Deutsche Bank.
+title: Dark Towers
+author: David Enrich
+amazon_product_url: https://www.amazon.com/Dark-Towers-Deutsche-Donald-Destruction/dp/0062878816?tag=NYTBSREV-20
+list_date: 2020/03/22
+published_data: 2020-02-18
+summary: A searing expose by the author of The Spider Network of the most scandalous bank in the world, including its shadowy ties to Donald Trump's business empire. In January 2017, Donald Trump was sworn in as the 45th president of the United States. As he delivered his fiery Inaugural address, a grey-haired woman named Rosemary Vrablic sat in the VIP section of the audience. Vrablic was an executive at Deutsche Bank, and without her, Donald Trump probably wouldn’t have been moving into the White House. This is the never-before-told story of how a 150-year-old German bank became the global face of financial recklessness and criminality, a history that traces back to its role helping the Nazis build Auschwitz. In the 1990s, a succession of hard-charging executives made the fateful decision to chase Wall Street riches—and set Deutsche Bank on an epic path of devastation. Its sins included manipulating markets, violating international sanctions, and laundering money for Russian oligarchs. Desperate for an American foothold, Deutsche started doing business with a self-promoting real estate magnate who most banks deemed too dangerous to touch: Donald Trump. Over the next 20 years, Deutsche executives—including a man with a damaged brain, the son of a Supreme Court justice, and Rosemary Vrablic—loaned billions to Trump and the Kushner family. Why? To unravel this mystery, the book traces the rise and fall of Bill Broeksmit, an American executive who was regarded as the conscience of Deutsche Bank. In 2014, he was found hanging in his London apartment. His son gets access to Broeksmit’s computer files and embarks on a wild quest to understand why his father killed himself. The answers he finds will help explain how Deutsche Bank became the financial equivalent of a weapon of mass destruction.
+author_new0: David Enrich

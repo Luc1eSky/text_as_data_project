@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 125022389X
+primary_isbn13: 9781250223890
+publisher: Thomas Dunne/St. Martin’s
+description: The former special assistant to President Trump recalls what he considers his successes and failures in the White House.
+title: Team Of Vipers
+author: Cliff Sims
+amazon_product_url: https://www.amazon.com/Team-Vipers-Extraordinary-Trump-White/dp/125022389X?tag=NYTBSREV-20
+list_date: 2019/02/17
+published_data: 2019-01-29
+summary: An insider's account of the Trump White House told by former Special Assistant to the President and Director of White House Message Strategy Cliff Sims.
+author_new0: Cliff Sims

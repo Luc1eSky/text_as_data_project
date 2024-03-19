@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0525426760
+primary_isbn13: 9780525426769
+publisher: Viking
+description: Important battles that led to the end of the American Revolution.
+title: In The Hurricane'S Eye
+author: Nathaniel Philbrick
+amazon_product_url: https://www.amazon.com/Hurricanes-Eye-Washington-Victory-Yorktown/dp/0525426760?tag=NYTBSREV-20
+list_date: 2018/11/04
+published_data: 2018-10-16
+summary: NEW YORK TIMES BESTSELLER "Nathaniel Philbrick is a masterly storyteller. Here he seeks to elevate the naval battles between the French and British to a central place in the history of the American Revolution. He succeeds, marvelously."--The New York Times Book Review The thrilling story of the year that won the Revolutionary War from the New York Times bestselling author of In the Heart of the Sea and Mayflower. In the concluding volume of his acclaimed American Revolution series, Nathaniel Philbrick tells the thrilling story of the year that won the Revolutionary War. In the fall of 1780, after five frustrating years of war, George Washington had come to realize that the only way to defeat the British Empire was with the help of the French navy. But coordinating his army's movements with those of a fleet of warships based thousands of miles away was next to impossible. And then, on September 5, 1781, the impossible happened. Recognized today as one of the most important naval engagements in the history of the world, the Battle of the Chesapeake—fought without a single American ship—made the subsequent victory of the Americans at Yorktown a virtual inevitability. A riveting and wide-ranging story, full of dramatic, unexpected turns, In the Hurricane's Eye reveals that the fate of the American Revolution depended, in the end, on Washington and the sea.
+author_new0: Nathaniel Philbrick

@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1501141023
+primary_isbn13: 9781501141027
+publisher: Howard Books
+description: The threat to the United States of shariah law and the dangers of Islamist radicalism.
+title: Unholy Alliance
+author: Jay Sekulow
+amazon_product_url: http://www.amazon.com/Unholy-Alliance-Agenda-Jihadists-Conquering-ebook/dp/B01BT5YCD0?tag=NYTBSREV-20
+list_date: 2016/10/09
+published_date: 2016-09-20
+summary: Offers an examination of the forces of intolerant, radical Islam as a great danger to American liberty, as well as how the governments of Iran, Syria, and Russia continue to be serious threats to America and the world.

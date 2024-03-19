@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1476773955
+primary_isbn13: 9781476773957
+publisher: Simon & Schuster
+description: The former president denounces discrimination and violence against women. 
+title: Call To Action
+author: Jimmy Carter
+amazon_product_url: http://www.amazon.com/Call-Action-Women-Religion-Violence-ebook/dp/B00HT53JLQ?tag=NYTBSREV-20
+list_date: 2014/04/20
+published_date: 2014-03-25
+summary: Looks at the suffering, discrimination, and abuse suffered by women throughout the world, often as a result of distorted readings of religious texts, as witnessed by the author and the testimony of women representing different regions and religions.

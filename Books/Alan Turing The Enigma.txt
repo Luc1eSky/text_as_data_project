@@ -1,0 +1,10 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: None
+primary_isbn13: 9781400865123
+publisher: Princeton University
+description: The life of the British mathematician who broke the Nazis’ wartime codes; the inspiration for the film "The Imitation Game."
+title: Alan Turing: The Enigma
+author: Andrew Hodges
+amazon_product_url: http://www.amazon.com/Alan-Turing-Enigma-Inspired-Imitation-ebook/dp/B00M032W92?tag=NYTBSREV-20
+list_date: 2015/03/15

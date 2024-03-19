@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 9
+primary_isbn10: 162157203X
+primary_isbn13: 9781621572039
+publisher: Regnery
+description: A defense of America against the view that its power in the world should be diminished; also a documentary film.
+title: America
+author: Dinesh D'Souza
+amazon_product_url: http://www.amazon.com/America-Imagine-World-without-Her/dp/162157203X?tag=NYTBSREV-20
+list_date: 2014/09/21
+published_date: 2014-06-02
+summary: #1 New York Times Bestseller Is America a source of pride, as Americans have long held, or shame, as Progressives allege? Beneath an innocent exterior, are our lives complicit in a national project of theft, expropriation, oppression, and murder, or is America still the hope of the world? Dinesh D'Souza says these questions are no mere academic exercise. It is the Progressive view that is taught in our schools, that is preached by Hollywood, and that shapes the policies of the Obama administration. If America is a force for inequality and injustice in the world, its power deserves to be diminished; if traditional America is based on oppression and theft, then traditional America must be reformed—and the federal government can do the reforming. In America: Imagine a World without Her D'Souza offers a passionate and sharply reasoned defense of America, knocking down every important accusation made by Progressives against our country. Provocative in its analysis, stunning in its conclusions, Dinesh D'Souza's America will be the most talked about book of the year.

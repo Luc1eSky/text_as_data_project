@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1599951509
+primary_isbn13: 9781599951508
+publisher: Center Street
+description: The fight to preserve art works stolen by the Nazis during World War II. The basis for the movie.
+title: The Monuments Men
+author: Robert M Edsel with Bret Witter
+amazon_product_url: http://www.amazon.com/The-Monuments-Men-Greatest-Treasure-ebook/dp/B002LHRLNE?tag=NYTBSREV-20
+list_date: 2014/04/20
+published_date: 2010-09-17
+summary: At the same time Adolf Hitler was attempting to take over the western world, his armies were methodically seeking and hoarding the finest art treasures in Europe. The Fuehrer had begun cataloguing the art he planned to collect as well as the art he would destroy: "degenerate" works he despised. In a race against time, behind enemy lines, often unarmed, a special force of American and British museum directors, curators, art historians, and others, called the Momuments Men, risked their lives scouring Europe to prevent the destruction of thousands of years of culture. Focusing on the eleven-month period between D-Day and V-E Day, this fascinating account follows six Monuments Men and their impossible mission to save the world's great art from the Nazis.

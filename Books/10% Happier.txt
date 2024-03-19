@@ -1,0 +1,10 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780062265449
+publisher: It Books
+description: A co-anchor of "Nightline" reports on the science and spiritual dimensions of meditation, and describes how it has improved his life.
+title: 10% Happier
+author: Dan Harris
+amazon_product_url: http://www.amazon.com/10?tag=NYTBSREV-20
+list_date: 2016/02/21

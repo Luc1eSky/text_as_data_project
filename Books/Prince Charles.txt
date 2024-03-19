@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1400067901
+primary_isbn13: 9781400067909
+publisher: Random House
+description: A life of the heir to the British throne, by the author of biographies of Queen Elizabeth II and Diana, Princess of Wales.
+title: Prince Charles
+author: Sally Bedell Smith
+amazon_product_url: https://www.amazon.com/Prince-Charles-Passions-Paradoxes-Improbable/dp/1400067901?tag=NYTBSREV-20
+list_date: 2017/04/30
+published_date: 2017
+summary: This is an unprecedented in-depth look at Prince Charles: the real man, with all of his contradictions, complexities and ambitions. Beginning with his lonely childhood, and moving through his many love affairs, his intellectual quests, his entrepreneurial pursuits, the tragedy of his marriage to Diana and his eventual reunion with his true love Camilla - this is a riveting, insightful portrait of a man who possesses a fiercely independent spirit and yet who has spent his life in waiting for the ultimate role

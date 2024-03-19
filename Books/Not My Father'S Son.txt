@@ -1,0 +1,12 @@
+rank: 1
+weeks_on_list: 2
+primary_isbn10: 
+primary_isbn13: 9780062225085
+publisher: Dey Street
+description: The actor’s memoir describes his abusive father and his family’s secrets as well as his experiences in theater, movies and television.
+title: Not My Father'S Son
+author: Alan Cumming
+amazon_product_url: http://www.amazon.com/Not-My-Fathers-Son-Memoir/dp/0062225065?tag=NYTBSREV-20
+list_date: 2016/01/17
+published_date: 2021-09-15
+summary: N/A

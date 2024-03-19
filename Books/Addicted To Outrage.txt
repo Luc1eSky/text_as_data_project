@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1476798869
+primary_isbn13: 9781476798868
+publisher: Threshold Editions/Mercury Radio Arts
+description: The conservative commentator encourages self-reflection and personal responsibility by Americans across the political spectrum.
+title: Addicted To Outrage
+author: Glenn Beck
+amazon_product_url: https://www.amazon.com/Addicted-Outrage-Thinking-Recovering-Country/dp/1476798869?tag=NYTBSREV-20
+list_date: 2018/10/07
+published_date: 2018-09-18
+summary: Glenn Beck—author of thirteen #1 New York Times bestsellers—issues a startling challenge to people on both sides of the aisle to give up our addiction to outrage. America is addicted to outrage, we’re at the height of a twenty-year bender, and we need an intervention. In Addicted to Outrage, New York Times bestselling author Glenn Beck addresses how America has become more and more divided—both politically and socially. Americans are now less accepting, less forgiving, and have lost faith in many of the country’s signature ideals, he says. We are quick to point a judgmental finger at the opposing party, are unwilling to doubt their own ideologies, and refuse to have any self-awareness whatsoever. Beck states that our current downward spiral will ultimately lead to the destruction of everything America has fought so hard to preserve. This is not simply a Republican problem. This is not simply a Democratic problem. This is everyone’s burden, and we need to think like recovering addicts and change. With a nod to a traditional twelve-step program, each chapter encourages self-reflection and growth and shows us the way to a more hopeful, happy future. Beck draws from his own life experiences and includes relevant examples for each step, from families who learned to forgive killers to remembering to believe in something greater than ourselves to understanding the importance of humility. Addicted to Outrage is a timely and necessary guide for how Americans, right and left, must change to survive.

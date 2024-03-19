@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1982158247
+primary_isbn13: 9781982158248
+publisher: Simon & Schuster
+description: The hip-hop recording artist known as Logic tells his life story.
+title: This Bright Future
+author: Bob Hall
+amazon_product_url: https://www.amazon.com/dp/1982158247?tag=NYTBSREV-20
+list_date: 2021/09/26
+published_data: 2021-09-07
+summary: An explosive memoir from Bobby Hall, the multiplatinum recording artist known as Logic, who emerged from the wreckage of a horrifically abusive childhood to become an era-defining artist of our tumultuous age
+author_new0: Bob Hall

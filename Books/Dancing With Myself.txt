@@ -1,0 +1,10 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1451628501
+primary_isbn13: 9781451628500
+publisher: Touchstone
+description: The punk pioneer's autobiography.
+title: Dancing With Myself
+author: Billy Idol
+amazon_product_url: http://www.amazon.com/Dancing-Myself-Billy-Idol-ebook/dp/B007EE4S76?tag=NYTBSREV-20
+list_date: 2014/10/26

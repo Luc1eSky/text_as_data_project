@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0385537352
+primary_isbn13: 9780385537353
+publisher: Doubleday
+description: A new biography focuses on Nixon’s contradictions and his descent into paranoia and delusion.
+title: Richard Nixon
+author: John A Farrell
+amazon_product_url: https://www.amazon.com/Richard-Nixon-Life-John-Farrell/dp/0385537352?tag=NYTBSREV-20
+list_date: 2017/04/16
+published_date: 2017
+summary: At the end of World War II, Navy lieutenant "Nick" Nixon returned from the Pacific and set his cap at Congress. Amid the turns of that now-legendary 1946 campaign, Nixon's finer attributes gave way to unapologetic ruthlessness; Nixon's sins as a candidate were legion. Finally elected president in 1969, Nixon packed his staff with bright young men who devised forward-thinking reforms addressing health care, welfare, civil rights, and protection of the environment. Farrell shows that Nixon cared little for his legacy, and aspired to make his mark on the world stage.

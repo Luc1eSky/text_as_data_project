@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1476723443
+primary_isbn13: 9781476723440
+publisher: Atria
+description: The novelist's memoir.
+title: Hungry Heart
+author: Jennifer Weiner
+amazon_product_url: http://www.amazon.com/Hungry-Heart-Adventures-Life-Writing-ebook/dp/B00A25FA3K?tag=NYTBSREV-20
+list_date: 2016/10/30
+published_date: 2016-10-11
+summary: "Generous and entertaining." —Publishers Weekly (starred review) Finalist for the PEN/Diamonstein-Spielvogel Award for the Art of the Essay * Nominated for “Best Memoir & Autobiography” by Goodreads Choice Awards 2016 * Named a “Best Book of the Year” by New York Post "You'll laugh, you'll cry, you'll want to read it again." —TheSkimm “I'm mad Jennifer's Weiner's first book of essays is as wonderful as her fiction. You will love this book and wish she was your friend." —Mindy Kaling, author of Why Not Me? "Fiercely funny, powerfully smart, and remarkably brave." —Cheryl Strayed, author of Wild Jennifer Weiner is many things: a bestselling author, a Twitter phenomenon, and an “unlikely feminist enforcer” (The New Yorker). She’s also a mom, a daughter, and a sister, a clumsy yogini, and a reality-TV devotee. In this “unflinching look at her own experiences” (Entertainment Weekly), Jennifer fashions tales of modern-day womanhood as uproariously funny and moving as the best of Nora Ephron and Tina Fey. No subject is off-limits in these intimate and honest essays: sex, weight, envy, money, her mother’s coming out of the closet, her estranged father’s death. From lonely adolescence to hearing her six-year-old daughter say the F word—fat—for the first time, Jen dives into the heart of female experience, with the wit and candor that have endeared her to readers all over the world.

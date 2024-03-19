@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0062101307
+primary_isbn13: 9780062101303
+publisher: Morrow
+description: An out-of-shape newspaperman decides to pay tribute to a deceased friend by climbing all 48 of New Hampshire's 4,000-foot peaks twice in one winter, accompanied by his miniature schnauzer, Atticus.
+title: Following Atticus
+author: Tom Ryan
+amazon_product_url: http://www.amazon.com/Following-Atticus-Tom-Ryan-ebook/dp/B004XVN82Y?tag=NYTBSREV-20
+list_date: 2014/02/16
+published_date: 2011-09-20
+summary: After a close friend died of cancer, middle-aged, overweight, acrophobic newspaperman Tom Ryan decided to pay tribute to her in a most unorthodox manner. Ryan and his friend, miniature schnauzer Atticus M. Finch, would attempt to climb all forty-eight of New Hampshire’s four-thousand-foot peaks twice in one winter while raising money for charity. It was an adventure of a lifetime, leading them across hundreds of miles and deep into an enchanting but dangerous winter wonderland. At the heart of the amazing journey was the extraordinary relationship they shared, one that blurred the line between man and dog. Following Atticus is an unforgettable true saga of adventure, friendship, and the unlikeliest of family, as one remarkable animal opens the eyes and heart of a tough-as-nails newspaperman to the world’s beauty and its possibilities.

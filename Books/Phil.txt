@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 4
+primary_isbn10: 1476797099
+primary_isbn13: 9781476797090
+publisher: Avid Reader
+description: An unauthorized biography of the golf champion Phil Mickelson.
+title: Phil
+author: Alan Shipnuck
+amazon_product_url: https://www.amazon.com/dp/1476797099?tag=NYTBSREV-20
+list_date: 2022/07/03
+published_data: 2022-05-17
+summary: "In this raw, uncensored, and unauthorized biography, Alan Shipnuck captures a singular life defined by thrilling victories, crushing defeats, and countless controversies. Mickelson is a multifaceted character, and all his warring impulses are on display in these pages: he is a smart-ass who built an empire on being the consummate professional; a loving husband dogged by salacious rumors; a high-stakes gambler who knows the house always wins but can't tear himself away. Mickelson's career and public image have been defined by the contrast with his lifelong rival, Tiger Woods. ... Yet as Tiger's career has been curtailed by scandal, addiction, and a broken body, Phil sails on, still relevant on the golf course and in the marketplace"--
+author_new0: Alan Shipnuck

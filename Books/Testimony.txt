@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0307889785
+primary_isbn13: 9780307889782
+publisher: Crown/Archetype
+description: A memoir by the guitarist and principal songwriter of the Band.
+title: Testimony
+author: Robbie Robertson
+amazon_product_url: https://www.amazon.com/Testimony-Robbie-Robertson-ebook/dp/B00VZYX3UE?tag=NYTBSREV-20
+list_date: 2016/12/04
+published_date: 2016
+summary: A memoir by the influential rock artist traces his half-Jewish, half-Mohawk upbringing in Toronto, his early years with rockabilly legend Ronnie Hawkins, the rise of The Band, the stories behind his iconic songs, and The Band's famous farewell concert, The Last Waltz.

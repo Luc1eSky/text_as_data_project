@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0525429565
+primary_isbn13: 9780525429562
+publisher: Viking
+description: A Wharton School professor argues that innovators are made, not born, and offers suggestions  for how to become one.
+title: Originals
+author: Adam Grant
+amazon_product_url: http://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565?tag=NYTBSREV-20
+list_date: 2016/05/01
+published_date: 2016-02-02
+summary: The #1 New York Times bestseller that examines how people can champion new ideas-and how leaders can fight groupthink, from the author of Give and Take and co-author of Option B"Reading Originals made me feel like I was seated across from Adam Grant at a dinner party, as one of my favorite thinkers thrilled me with his insights and his wonderfully new take on the world."--Malcolm Gladwell, author of Outliers and The Tipping Point"Originals is one of the most important and captivating books I have ever read, full of surprising and powerful ideas. It will not only change the way you see the worl.

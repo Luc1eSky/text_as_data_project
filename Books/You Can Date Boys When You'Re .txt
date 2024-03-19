@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0399165940
+primary_isbn13: 9780399165948
+publisher: Putnam
+description: Humorous essays on various topics, including parenting.
+title: You Can Date Boys When You'Re Forty
+author: Dave Barry
+amazon_product_url: http://www.amazon.com/Date-Boys-When-Youre-Forty-ebook/dp/B00DGZKSA8?tag=NYTBSREV-20
+list_date: 2014/03/23
+published_date: 2014
+summary: "In uproarious, brand-new pieces, Barry tackles everything from family trips, bat mitzvah parties and dating (he's serious about that title: "When my daughter can legally commence dating--February 24, 2040--I intend to monitor her closely, even if I am deceased") to funeral instructions ("I would like my eulogy to be given by William Shatner"), the differences between male and female friendships, the deeper meaning of Fifty Shades of Grey, and a father's ultimate sacrifice: accompanying his daughter to a Justin Bieber concert ("It turns out that the noise teenaged girls make to express happiness is the same noise they would make if their feet were being gnawed off by badgers")"--

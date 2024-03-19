@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 1250135990
+primary_isbn13: 9781250135995
+publisher: St. Martin's
+description: A frank and searing discussion of race.
+title: Tears We Cannot Stop
+author: Michael Eric Dyson
+amazon_product_url: https://www.amazon.com/Tears-We-Cannot-Stop-America/dp/1250135990?tag=NYTBSREV-20
+list_date: 2017/02/26
+published_date: 2017-01-17
+summary: NOW A NEW YORK TIMES, PUBLISHER'S WEEKLY, INDIEBOUND, LOS ANGELES TIMES, WASHINGTON POST, CHRONICLE HERALD, SALISBURY POST, GUELPH MERCURY TRIBUNE, AND BOSTON GLOBE BESTSELLER | NAMED A BEST/MOST ANTICIPATED BOOK OF 2017 BY: The Washington Post • Bustle • Men's Journal • The Chicago Reader • StarTribune • Blavity • The Guardian • NBC New York's Bill's Books • Kirkus • Essence “One of the most frank and searing discussions on race ... a deeply serious, urgent book, which should take its place in the tradition of Baldwin's The Fire Next Time and King's Why We Can't Wait." —The New York Times Book Review Toni Morrison hails Tears We Cannot Stop as "Elegantly written and powerful in several areas: moving personal recollections; profound cultural analysis; and guidance for moral redemption. A work to relish." Stephen King says: "Here’s a sermon that’s as fierce as it is lucid...If you’re black, you’ll feel a spark of recognition in every paragraph. If you’re white, Dyson tells you what you need to know—what this white man needed to know, at least. This is a major achievement. I read it and said amen." Short, emotional, literary, powerful—Tears We Cannot Stop is the book that all Americans who care about the current and long-burning crisis in race relations will want to read. As the country grapples with racist division at a level not seen since the 1960s, one man's voice soars above the rest with conviction and compassion. In his 2016 New York Times op-ed piece "Death in Black and White," Michael Eric Dyson moved a nation. Now he continues to speak out in Tears We Cannot Stop—a provocative and deeply personal call for change. Dyson argues that if we are to make real racial progress we must face difficult truths, including being honest about how black grievance has been ignored, dismissed, or discounted. "The time is at hand for reckoning with the past, recognizing the truth of the present, and moving together to redeem the nation for our future. If we don't act now, if you don't address race immediately, there very well may be no future."

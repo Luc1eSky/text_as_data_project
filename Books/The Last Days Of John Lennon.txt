@@ -1,0 +1,15 @@
+rank: 15
+weeks_on_list: 4
+primary_isbn10: 0316429066
+primary_isbn13: 9780316429061
+publisher: Little, Brown
+description: The story of the killing of the former member of the Beatles by Mark David Chapman in 1980 and interviews with some of Lennon’s friends and associates.
+title: The Last Days Of John Lennon
+author: James Patterson with Casey Sherman and Dave Wedge
+amazon_product_url: https://www.amazon.com/dp/0316429066?tag=NYTBSREV-20
+list_date: 2021/01/17
+published_data: 2020
+summary: "John Lennon was one of the world's most influential people. Mark David Chapman was one of the most invisible. By the end of 1980, the Beatles had been broken up for a decade -- a decade John Lennon had spent in search of his true identity: singer, songwriter, activist, burn out. "It's the perfect time to be coming back," he declared. Except that Lennon was a marked man. As early as the Beatles' controversial 1966 American tour, the band had feared for their safety. "You might as well put a target on me," Lennon said, and the Nixon administration complied by opening an FBI file. If only the agents hadn't been so intently focused on the star himself, they might have detected Mark David Chapman's powerful, ever-growing obsession with his onetime idol. Chapman, himself a tragic nowhere man, ultimately achieved the notoriety he craved by actualizing the target on Lennon -- single-handedly wounding the spirit of a generation"--Publisher's description.
+author_new0: James Patterson
+author_new1: Casey Sherman
+author_new2: Dave Wedge

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 
+primary_isbn13: 9780805098235
+publisher: Holt
+description: The 65-year-old comedian’s reminiscences and his complaints about aging.
+title: Still Foolin' 'Em
+author: Billy Crystal
+amazon_product_url: http://www.amazon.com/Still-Foolin-Em-Where-Going-ebook/dp/B00940L38U?tag=NYTBSREV-20
+list_date: 2014/10/05
+published_date: 2021-09-15
+summary: N/A

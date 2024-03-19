@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1984859528
+primary_isbn13: 9781984859525
+publisher: Ten Speed
+description: Photographs and interviews in celebration of the federally recognized Native American Tribal Nations.
+title: Project 562
+author: Matika Wilbur
+amazon_product_url: https://www.amazon.com/dp/1984859528?tag=NYTBSREV-20
+list_date: 2023/05/14
+published_data: 2023-04-25
+summary: A photographic and narrative celebration of contemporary Native American life and cultures, alongside an in-depth examination of issues that Native people face, by celebrated photographer and storyteller Matika Wilbur of the Swinomish and Tulalip Tribes. In 2012, Matika Wilbur sold everything in her Seattle apartment and set out on a Kickstarter-funded pursuit to visit, engage, and photograph people from what were then 562 federally recognized Native American Tribal Nations. Over the next decade, she traveled six hundred thousand miles across fifty states—from Seminole country (now known as the Everglades) to Inuit territory (now known as the Bering Sea)—to meet, interview, and photograph hundreds of Indigenous people. The body of work Wilbur created serves to counteract the one-dimensional and archaic stereotypes of Native people in mainstream media and offers justice to the richness, diversity, and lived experiences of Indian Country. The culmination of this decade-long art and storytelling endeavor, Project 562 is a peerless, sweeping, and moving love letter to Indigenous Americans, containing hundreds of stunning portraits and compelling personal narratives of contemporary Native people—all photographed in clothing, poses, and locations of their choosing. Their narratives touch on personal and cultural identity as well as issues of media representation, sovereignty, faith, family, the protection of sacred sites, subsistence living, traditional knowledge-keeping, land stewardship, language preservation, advocacy, education, the arts, and more. A vital contribution from an incomparable artist, Project 562 inspires, educates, and truly changes the way we see Native America.
+author_new0: Matika Wilbur

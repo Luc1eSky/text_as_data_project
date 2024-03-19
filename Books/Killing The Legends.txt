@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 6
+primary_isbn10: 1250283302
+primary_isbn13: 9781250283306
+publisher: St. Martin's
+description: The conservative commentator’s Killing series profiles Elvis Presley, John Lennon and Muhammad Ali.
+title: Killing The Legends
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: https://www.amazon.com/dp/1250283302?tag=NYTBSREV-20
+list_date: 2022/11/20
+published_data: 2022-09-27
+summary: In the latest book in the multimillion-selling Killing Series, Bill O'Reilly and Martin Dugard tell the larger-than-life stories of Elvis Presley, John Lennon, and Muhammad Ali. The King is dead. The Walrus is shot. The Greatest is no more. Elvis Presley, John Lennon, and Muhammad Ali. These three icons changed not only the worlds of music, film, and sports, but the world itself. Their faces were known everywhere, in every nation, across every culture. And their stories became larger than life—until their lives spun out of control at the hands of those they most trusted. In Killing the Legends, Bill O’Reilly and Martin Dugard explore the lives, legacies, and tragic deaths of three of the most famous people of the 20th century. Each experienced immense success, then failures that forced them to change; each faced the challenge of growing old in fields that privilege youth; and finally, each became isolated, cocooned by wealth but vulnerable to the demands of those in their innermost circles. Dramatic, insightful, and immensely entertaining, Killing the Legends is the twelfth book in O’Reilly and Dugard’s Killing series: the most popular series of narrative history books in the world, with more than 18 million copies in print.
+author_new0: Bill O'Reilly
+author_new1: Martin Dugard

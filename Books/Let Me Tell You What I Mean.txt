@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 059331848X
+primary_isbn13: 9780593318485
+publisher: Knopf
+description: A collection of 12 pieces written between 1968 and 2000 that includes observations on the underground press and the act of writing.
+title: Let Me Tell You What I Mean
+author: Joan Didion
+amazon_product_url: https://www.amazon.com/dp/059331848X?tag=NYTBSREV-20
+list_date: 2021/02/21
+published_data: 2021-01-26
+summary: A NEW YORK TIMES NOTABLE BOOK OF THE YEAR • NEW YORK TIMES BEST SELLER • From one of our most iconic and influential writers, the award-winning author of The Year of Magical Thinking: a timeless collection of mostly early pieces that reveal what would become Joan Didion's subjects, including the press, politics, California robber barons, women, and her own self-doubt. With a forward by Hilton Als, these twelve pieces from 1968 to 2000, never before gathered together, offer an illuminating glimpse into the mind and process of a legendary figure. They showcase Joan Didion's incisive reporting, her empathetic gaze, and her role as "an articulate witness to the most stubborn and intractable truths of our time" (The New York Times Book Review). Here, Didion touches on topics ranging from newspapers ("the problem is not so much whether one trusts the news as to whether one finds it"), to the fantasy of San Simeon, to not getting into Stanford. In "Why I Write," Didion ponders the act of writing: "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means." From her admiration for Hemingway's sentences to her acknowledgment that Martha Stewart's story is one "that has historically encouraged women in this country, even as it has threatened men," these essays are acutely and brilliantly observed. Each piece is classic Didion: incisive, bemused, and stunningly prescient.
+author_new0: Joan Didion

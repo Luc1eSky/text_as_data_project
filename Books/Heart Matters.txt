@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0307951944
+primary_isbn13: 9780307951946
+publisher: Harmony
+description: A woman heart surgeon's memoir. Originally published in 2010.
+title: Heart Matters
+author: Kathy E Magliato
+amazon_product_url: http://www.amazon.com/Heart-Matters-Memoir-Female-Surgeon-ebook/dp/B004I43GIW?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2011-01-11
+summary: An inspiring, surprising, sometimes shocking, and ultimately deeply informative memoir of the high-stakes, high-pressured life of a female heart surgeon Dr. Kathy Magliato is one of the few female heart surgeons practicing in the world today. She is also a member of an even more exclusive group—those surgeons specially trained to perform heart transplants. Heart Matters is the story of the making of a surgeon who is also a wife and mother. In this powerful and moving memoir, which inspired the NBC series Heart Beat, Dr. Magliato takes us into her highly demanding, physically intense, male-dominated world and shows us how she masterfully works to save patients' lives every day, while also maintaining balance at home. Heart Matters is also a wake-up call to all women about their number one killer - heart disease - and explains how to avoid becoming a victim. Magliato offers a vivid behind-the-scenes view of what really goes on in an operating room and the real-life drama that occurs there. She shows the passion and commitment between patient and doctor, revealing that, at the end of a long day, it's our hearts that matter most.

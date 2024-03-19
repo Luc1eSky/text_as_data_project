@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0063001829
+primary_isbn13: 9780063001824
+publisher: Broadside
+description: The conservative commentator describes what he perceives as threats to American business, education and politics.
+title: The Authoritarian Moment
+author: Ben Shapiro
+amazon_product_url: https://www.amazon.com/dp/0063001829?tag=NYTBSREV-20
+list_date: 2021/08/29
+published_data: 2021-07-27
+summary: Synopsis coming soon.......
+author_new0: Ben Shapiro

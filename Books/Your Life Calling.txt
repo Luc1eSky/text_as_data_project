@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1476733767
+primary_isbn13: 9781476733760
+publisher: Simon & Schuster
+description: The challenges of midlife, presented with humor and insight by the broadcast journalist.
+title: Your Life Calling
+author: Jane Pauley
+amazon_product_url: http://www.amazon.com/Your-Life-Calling-Reimagining-Rest-ebook/dp/B00CVR4USI?tag=NYTBSREV-20
+list_date: 2014/02/02
+published_date: 2014-01-07
+summary: Filled with real-life stories, the beloved broadcast journalist and the host of the award-winning "Your Life Calling" segment on the "Today" show offers practical ideas, inspiration and motivation for people over 50 longing for "something different" or "something more."

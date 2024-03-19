@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 6
+primary_isbn10: 1439195455
+primary_isbn13: 9781439195451
+publisher: Simon & Schuster
+description: The latest research in neuroscience and psychology is used to support the assertion that Buddhist meditation and practice can lead to a deeper understanding of the world.
+title: Why Buddhism Is True
+author: Robert Wright
+amazon_product_url: https://www.amazon.com/Why-Buddhism-True-Philosophy-Enlightenment/dp/1439195455?tag=NYTBSREV-20
+list_date: 2017/10/01
+published_date: 2017-08-08
+summary: Author Robert Wright shows how Buddhist meditative practice can loosen the grip of anxiety, regret, and hatred, and deepen your appreciation of beauty and other people." -- Adapted from book jacket.

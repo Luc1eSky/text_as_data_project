@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1324006501
+primary_isbn13: 9781324006503
+publisher: Norton
+description: A look at the religious dimensions of American politics.
+title: The Undertow
+author: Jeff Sharlet
+amazon_product_url: https://www.amazon.com/dp/1324006498?tag=NYTBSREV-20
+list_date: 2023/04/16
+published_data: 2023-03-21
+summary: An Instant New York Times Bestseller. One of America’s finest reporters and essayists explores the powerful currents beneath the roiled waters of a nation coming apart. An unmatched guide to the religious dimensions of American politics, Jeff Sharlet journeys into corners of our national psyche where others fear to tread. The Undertow is both inquiry and meditation, an attempt to understand how, over the last decade, reaction has morphed into delusion, social division into distrust, distrust into paranoia, and hatred into fantasies—sometimes realities—of violence. Across the country, men “of God” glorify materialism, a gluttony of the soul, while citing Scripture and preparing for civil war—a firestorm they long for as an absolution and exaltation. Lies, greed, and glorification of war boom through microphones at hipster megachurches that once upon a time might have preached peace and understanding. Political rallies are as aflame with need and giddy expectation as religious revivals. At a conference for incels, lonely single men come together to rage against women. On the Far Right, everything is heightened—love into adulation, fear into vengeance, anger into white-hot rage. Here, in the undertow, our forty-fifth president, a vessel of conspiratorial fears and fantasies, continues to rise to sainthood, and the insurrectionist Ashli Babbitt, killed on January 6 at the Capitol, is beatified as a martyr of white womanhood. Framing this dangerous vision, Sharlet remembers and celebrates the courage of those who sing a different song of community, and of an America long dreamt of and yet to be fully born, dedicated to justice and freedom for all. Exploring a geography of grief and uncertainty in the midst of plague and rising fascism, The Undertow is a necessary reckoning with our precarious present that brings to light a decade of American failures as well as a vision for American possibility.
+author_new0: Jeff Sharlet

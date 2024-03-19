@@ -1,0 +1,15 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0063090023
+primary_isbn13: 9780063090026
+publisher: Morrow
+description: An oral history of “The Sopranos” by two of its stars who host the podcast “Talking Sopranos.”
+title: Woke Up This Morning
+author: Michael Imperioli and Steve Schirripa with Philip Lerman
+amazon_product_url: https://www.amazon.com/dp/0063090023?tag=NYTBSREV-20
+list_date: 2021/11/21
+published_data: 2021-11
+summary: "The definitive oral history of the landmark television series and streaming hit The Sopranos, packed with untold stories from behind the scenes and on the set. Stars Michael Imperioli and Steve Schirripa--whose Talking Sopranos podcast has become a sensational fan favorite--talk intimately with virtually everyone who has been involved with the show. And they're ready to spill it all"--
+author_new0: Michael Imperioli
+author_new1: Steve Schirripa
+author_new2: Philip Lerman

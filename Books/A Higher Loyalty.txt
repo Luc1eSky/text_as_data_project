@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 7
+primary_isbn10: 1250192455
+primary_isbn13: 9781250192455
+publisher: Flatiron
+description: The former F.B.I. director recounts cases and personal events that shaped his outlook on justice, and analyzes the leadership styles of three presidents.
+title: A Higher Loyalty
+author: James Comey
+amazon_product_url: https://www.amazon.com/Higher-Loyalty-Truth-Lies-Leadership/dp/1250192455?tag=NYTBSREV-20
+list_date: 2018/06/17
+published_date: 2018-04-17
+summary: In his book, former FBI director James Comey shares his never-before-told experiences from some of the highest-stakes situations of his career in the past two decades of American government, exploring what good, ethical leadership looks like, and how it drives sound decisions. His journey provides an unprecedented entry into the corridors of power, and a remarkable lesson in what makes an effective leader. Mr. Comey served as director of the FBI from 2013 to 2017, appointed to the post by President Barack Obama. He previously served as U.S. attorney for the Southern District of New York, and the U.S. deputy attorney general in the administration of President George W. Bush. From prosecuting the Mafia and Martha Stewart to helping change the Bush administration's policies on torture and electronic surveillance, overseeing the Hillary Clinton e-mail investigation as well as ties between the Trump campaign and Russia, Comey has been involved in some of the most consequential cases and policies of recent history.

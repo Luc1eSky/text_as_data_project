@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1982185856
+primary_isbn13: 9781982185855
+publisher: Atria/One Signal
+description: The poet explores her love for her children and commitment to herself after the end of her marriage.
+title: You Could Make This Place Beautiful
+author: Maggie Smith
+amazon_product_url: https://www.amazon.com/dp/1982185856?tag=NYTBSREV-20
+list_date: 2023/05/07
+published_data: 2023-04-11
+summary: INSTANT NEW YORK TIMES BESTSELLER “This book is extraordinary.” —Ann Patchett Named a Most Anticipated Book of 2023 by Good Housekeeping, Goodreads, Zibby Mag, Newsweek, BookPage, and LitHub The bestselling poet and author of the “powerful” (People) and “luminous” (Newsweek) Keep Moving offers a lush and heartrending memoir exploring coming of age in your middle age. “Life, like a poem, is a series of choices.” In her memoir You Could Make This Place Beautiful, poet Maggie Smith explores the disintegration of her marriage and her renewed commitment to herself in lyrical vignettes that shine, hard and clear as jewels. The book begins with one woman’s personal, particular heartbreak, but its circles widen into a reckoning with contemporary womanhood, traditional gender roles, and the power dynamics that persist even in many progressive homes. With the spirit of self-inquiry and empathy she’s known for, Smith interweaves snapshots of a life with meditations on secrets, anger, forgiveness, and narrative itself. The power of these pieces is cumulative: page after page, they build into a larger interrogation of family, work, and patriarchy. You Could Make This Place Beautiful, like the work of Deborah Levy, Rachel Cusk, and Gina Frangello, is an unflinching look at what it means to live and write our own lives. It is a story about a mother’s fierce and constant love for her children, and a woman’s love and regard for herself. Above all, this memoir is an argument for possibility. With a poet’s attention to language and an innovative approach to the genre, Smith reveals how, in the aftermath of loss, we can discover our power and make something new. Something beautiful.
+author_new0: Maggie Smith

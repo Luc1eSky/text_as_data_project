@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1594038759
+primary_isbn13: 9781594038754
+publisher: Encounter
+description: The author discusses the "Ferguson effect," the criminal-justice system and the Black Lives Matter movement.
+title: The War On Cops
+author: Heather Mac Donald
+amazon_product_url: http://www.amazon.com/War-Cops-Attack-Order-Everyone-ebook/dp/B01EEQ9BUA?tag=NYTBSREV-20
+list_date: 2016/08/21
+published_date: 2016
+summary: "This book expands on Mac Donald's ... reporting on 'the Ferguson effect' and the criminal-justice system. It deconstructs the central narrative of the Black Lives Matter movement: [in Mac Donald's view, it isn't] racist cops [that] are the greatest threat to young black males. On the contrary, it is criminals and gangbangers who are responsible for the high black homicide death rate"--Amazon.com.

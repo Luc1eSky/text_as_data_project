@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 8
+primary_isbn10: 1982115858
+primary_isbn13: 9781982115852
+publisher: Simon & Schuster
+description: How the Nobel Prize winner Jennifer Doudna and her colleagues invented CRISPR, a tool that can edit DNA.
+title: The Code Breaker
+author: Walter Isaacson
+amazon_product_url: https://www.amazon.com/dp/1982115858?tag=NYTBSREV-20
+list_date: 2021/05/16
+published_data: 2021-03-09
+summary: "A gripping account of how the pioneering scientist Jennifer Doudna, along with her colleagues and rivals, launched a revolution that will allow us to cure diseases, fend off viruses, and enhance our children"--
+author_new0: Walter Isaacson

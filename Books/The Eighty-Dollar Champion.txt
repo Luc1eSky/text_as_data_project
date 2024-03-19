@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 0345521102
+primary_isbn13: 9780345521101
+publisher: Ballantine
+description: The story of Snowman the horse, the jumper and national celebrity. 
+title: The Eighty-Dollar Champion
+author: Elizabeth Letts
+amazon_product_url: http://www.amazon.com/The-Eighty-Dollar-Champion-Snowman-Inspired-ebook/dp/B004J4WKY2?tag=NYTBSREV-20
+list_date: 2016/07/10
+published_date: 2011-08-23
+summary: #1 NEW YORK TIMES BESTSELLER • The dramatic and inspiring story of a man and his horse, an unlikely duo whose rise to stardom in the sport of show jumping captivated the nation Harry de Leyer first saw the horse he would name Snowman on a truck bound for the slaughterhouse. The recent Dutch immigrant recognized the spark in the eye of the beaten-up nag and bought him for eighty dollars. On Harry’s modest farm on Long Island, he ultimately taught Snowman how to fly. Here is the dramatic and inspiring rise to stardom of an unlikely duo. One show at a time, against extraordinary odds and some of the most expensive thoroughbreds alive, the pair climbed to the very top of the sport of show jumping. Their story captured the heart of Cold War–era America—a story of unstoppable hope, inconceivable dreams, and the chance to have it all. They were the longest of all longshots—and their win was the stuff of legend.

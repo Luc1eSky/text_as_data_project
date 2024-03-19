@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 8
+primary_isbn10: 0062952390
+primary_isbn13: 9780062952394
+publisher: Harper
+description: Lessons learned by the Alboms when they bring a Haitian orphan with a life-threatening illness into their family.
+title: Finding Chika
+author: Mitch Albom
+amazon_product_url: https://www.amazon.com/Finding-Chika-Little-Earthquake-Making/dp/0062952390?tag=NYTBSREV-20
+list_date: 2020/01/12
+published_data: 2019-11-05
+summary: Bestselling author Mitch Albom returns to nonfiction for the first time in more than a decade in this poignant memoir that celebrates Chika, a young Haitian orphan whose short life would forever change his heart. Chika Jeune was born three days before the devastating earthquake that decimated Haiti in 2010. She spent her infancy in a landscape of extreme poverty, and when her mother died giving birth to a baby brother, Chika was brought to The Have Faith Haiti Orphanage that Albom operates in Port Au Prince. With no children of their own, the forty-plus children who live, play, and go to school at the orphanage have become family to Mitch and his wife, Janine. Chika’s arrival makes a quick impression. Brave and self-assured, even as a three-year-old, she delights the other kids and teachers. But at age five, Chika is suddenly diagnosed with something a doctor there says, “No one in Haiti can help you with.” Mitch and Janine bring Chika to Detroit, hopeful that American medical care can soon return her to her homeland. Instead, Chika becomes a permanent part of their household, and their lives, as they embark on a two-year, around-the-world journey to find a cure. As Chika’s boundless optimism and humor teach Mitch the joys of caring for a child, he learns that a relationship built on love, no matter what blows it takes, can never be lost. Told in hindsight, and through illuminating conversations with Chika herself, this is Albom at his most poignant and vulnerable. Chika is a celebration of a girl, her adoptive guardians, and the incredible bond they formed—a devastatingly beautiful portrait of what it means to be a family, regardless of how it is made.
+author_new0: Mitch Albom

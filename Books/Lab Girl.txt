@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1101874945
+primary_isbn13: 9781101874943
+publisher: Knopf
+description: A geobiologist shares her fascination with plants and describes how she found her vocation.
+title: Lab Girl
+author: Hope Jahren
+amazon_product_url: http://www.amazon.com/Lab-Girl-Hope-Jahren-ebook/dp/B00Z3FYQS4?tag=NYTBSREV-20
+list_date: 2017/01/15
+published_date: 2016-04-05
+summary: National Bestseller Winner of the National Book Critics Circle Award for Autobiography A New York Times Notable Book Geobiologist Hope Jahren has spent her life studying trees, flowers, seeds, and soil. Lab Girl is her revelatory treatise on plant life—but it is also a celebration of the lifelong curiosity, humility, and passion that drive every scientist. In these pages, Hope takes us back to her Minnesota childhood, where she spent hours in unfettered play in her father’s college laboratory. She tells us how she found a sanctuary in science, learning to perform lab work “with both the heart and the hands.” She introduces us to Bill, her brilliant, eccentric lab manager. And she extends the mantle of scientist to each one of her readers, inviting us to join her in observing and protecting our environment. Warm, luminous, compulsively readable, Lab Girl vividly demonstrates the mountains that we can move when love and work come together. Winner of the American Association for the Advancement of Science/Subaru Science Books & Film Prize for Excellence in Science Books Finalist for the PEN/E.O. Wilson Literary Science Writing Award One of the Best Books of the Year: The Washington Post, TIME.com, NPR, Slate, Entertainment Weekly, Newsday, Minneapolis Star Tribune, Kirkus Reviews

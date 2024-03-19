@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 10
+primary_isbn10: 0062899961
+primary_isbn13: 9780062899965
+publisher: Dey St.
+description: The singer, actress and fashion designer discloses times of success, trauma and addiction.
+title: Open Book
+author: Jessica Simpson with Kevin Carr O’Leary
+amazon_product_url: https://www.amazon.com/Open-Book-Jessica-Simpson/dp/0062899961?tag=NYTBSREV-20
+list_date: 2020/04/26
+published_data: 2019-11-05
+summary: Jessica Simpson has lived most of her life in the public eye. As a pop culture phenomenon, singer, reality show pioneer, actress, entrepreneur, and global businesswoman, Simpson is an icon. But her journey hasn't been easy, and in her powerful new memoir she isn't afraid to admit that her life has very much been a work in progress.
+author_new0: Jessica Simpson
+author_new1: Kevin Carr O’Leary

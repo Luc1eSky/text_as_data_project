@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1982139382
+primary_isbn13: 9781982139384
+publisher: Gallery
+description: A memoir by a former N.F.L. player and reality TV star of “The Bachelor” and “The Bachelorette.”
+title: The First Time
+author: Colton Underwood
+amazon_product_url: https://www.amazon.com/dp/1982139382?tag=NYTBSREV-20
+list_date: 2020/04/19
+published_data: 2020-03-31
+summary: From former football player and star of The Bachelor and The Bachelorette comes a fascinating and eye-opening behind-the-scenes look at his drama-filled season on the hit reality show. Before Colton Underwood captured the hearts of millions on The Bachelor, he was a goofy, socially awkward, overweight adolescent who succeeded on the football field while struggling with personal insecurities off it. An All American gridiron hero, he was also a complex, sometimes confused, soft-hearted romantic wondering how these contradictions fit together. Old-fashioned and out of step with the swipe right dating culture of today, he was saving the most intimate part of life for the love of his life. If only he could find her… Now, in The First Time, Colton opens up about how he came to find himself and true love at the same time via the Bachelor franchise. Unencumbered by cameras and commercial breaks, he delivers a surprisingly raw, endearing, and seriously juicy account of his journey through The Bachelorette, Bachelor in Paradise, and The Bachelor, along with what has happened with him and Cassie Randolph since his season wrapped. He opens up about being dumped by Becca, his secret dalliance with Tia, what it was like to be the world’s most famous virgin, his behind-the-scenes conflicts with production, and how his on-camera responsibilities as the Bachelor nearly destroyed him after he knew he had already fallen in love with Cassie. A memoir for Bachelor Nation and anyone who believes in the magic of love, The First Time carries a simple but powerful message: It’s okay to laugh and cry and occasionally jump over a fence, if it means coming one step closer to the right person.
+author_new0: Colton Underwood

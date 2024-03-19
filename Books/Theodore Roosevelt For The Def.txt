@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1335016449
+primary_isbn13: 9781335016447
+publisher: Hanover Square
+description: The 1915 courtroom fight between William Barnes and the former president who had accused him of political corruption.
+title: Theodore Roosevelt For The Defense
+author: Dan Abrams and David Fisher
+amazon_product_url: https://www.amazon.com/Theodore-Roosevelt-Defense-Courtroom-Battle/dp/1335016449?tag=NYTBSREV-20
+list_date: 2019/06/09
+published_data: 2019
+summary: Chronicles the epic 1915 libel case in which Theodore Roosevelt, weighing a last presidential run, turned on former allies to challenge corruption in the political party that made him.
+author_new0: Dan Abrams
+author_new1: David Fisher

@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 3
+primary_isbn10: 0805092994
+primary_isbn13: 9780805092998
+publisher: Holt
+description: The New Yorker writer examines the role of man-made influences in causing plant and animal loss.
+title: The Sixth Extinction
+author: Elizabeth Kolbert
+amazon_product_url: http://www.amazon.com/The-Sixth-Extinction-Unnatural-History-ebook/dp/B00EGJE4G2?tag=NYTBSREV-20
+list_date: 2014/03/16
+published_date: 2014-02-11
+summary: Draws on the work of geologists, botanists, marine biologists, and other researchers to discuss the five devastating mass extinctions on Earth and predicts the coming of a sixth.

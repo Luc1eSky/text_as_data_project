@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0374277729
+primary_isbn13: 9780374277727
+publisher: Farrar, Straus & Giroux
+description: The singer and songwriter describes her friendship with Jacqueline Kennedy Onassis.
+title: Touched By The Sun
+author: Carly Simon
+amazon_product_url: https://www.amazon.com/Touched-Sun-My-Friendship-Jackie/dp/0374277729?tag=NYTBSREV-20
+list_date: 2019/11/10
+published_data: 2019-10-22
+summary: A chance encounter at a summer party on Martha’s Vineyard blossomed into an improbable but enduring friendship. Carly Simon and Jacqueline Kennedy Onassis made an unlikely pair—Carly, a free and artistic spirit still reeling from her recent divorce, searching for meaning, new love, and an anchor; and Jackie, one of the most celebrated, meticulous, unknowable women in American history. Nonetheless, over the next decade their lives merged in inextricable and complex ways, and they forged a connection deeper than either could ever have foreseen. The time they spent together—lingering lunches and creative collaborations, nights out on the town and movie dates—brought a welcome lightness and comfort to their days, but their conversations often veered into more profound territory as they helped each other navigate the shifting waters of life lived, publicly, in the wake of great love and great loss. An intimate, vulnerable, and insightful portrait of the bond that grew between two iconic and starkly different American women, Carly Simon’s Touched by the Sun is a chronicle, in loving detail, of the late friendship she and Jackie shared. It is a meditation on the ways someone can unexpectedly enter our lives and change its course, as well as a celebration of kinship in all its many forms.
+author_new0: Carly Simon

@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 2
+primary_isbn10: 0593183746
+primary_isbn13: 9780593183748
+publisher: Dutton Caliber
+description: The story of four soldiers who received the Medal of Honor for their service during World War II.
+title: Against All Odds
+author: Alex Kershaw
+amazon_product_url: https://www.amazon.com/dp/0593183746?tag=NYTBSREV-20
+list_date: 2022/04/17
+published_data: 2022-03-22
+summary: **The instant New York Times bestseller** The untold story of four of the most decorated soldiers of World War II—all Medal of Honor recipients—from the beaches of French Morocco to Hitler’s own mountaintop fortress, by the national bestselling author of The First Wave “Pitch-perfect.”—The Wall Street Journal • “Riveting.”—World War II magazine • “Alex Kershaw is the master of putting the reader in the heat of the action.”—Martin Dugard As the Allies raced to defeat Hitler, four men, all in the same unit, earned medal after medal for battlefield heroism. Maurice “Footsie” Britt, a former professional football player, became the very first American to receive every award for valor in a single war. Michael Daly was a West Point dropout who risked his neck over and over to keep his men alive. Keith Ware would one day become the first and only draftee in history to attain the rank of general before serving in Vietnam. In WWII, Ware owed his life to the finest soldier he ever commanded, a baby-faced Texan named Audie Murphy. In the campaign to liberate Europe, each would gain the ultimate accolade, the Congressional Medal of Honor. Tapping into personal interviews and a wealth of primary source material, Alex Kershaw has delivered his most gripping account yet of American courage, spanning more than six hundred days of increasingly merciless combat, from the deserts of North Africa to the dark heart of Nazi Germany. Once the guns fell silent, these four exceptional warriors would discover just how heavy the Medal of Honor could be—and how great the expectations associated with it. Having survived against all odds, who among them would finally find peace?
+author_new0: Alex Kershaw

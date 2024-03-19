@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 039324072X
+primary_isbn13: 9780393240726
+publisher: Norton
+description: A look at the life and work of the renowned novelist and short-story writer, based on his archive and interviews with his colleagues.
+title: Philip Roth
+author: Blake Bailey
+amazon_product_url: https://www.amazon.com/dp/039324072X?tag=NYTBSREV-20
+list_date: 2021/04/25
+published_data: 2021-04-06
+summary: The renowned biographer's definitive portrait of a literary titan.
+author_new0: Blake Bailey

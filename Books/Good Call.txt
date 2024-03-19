@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1476763534
+primary_isbn13: 9781476763538
+publisher: Howard Books
+description: The second-oldest son of the “Duck Dynasty” family shares anecdotes and reflections on faith.
+title: Good Call
+author: Jase Robertson with Mark Schlabach
+amazon_product_url: http://www.amazon.com/Good-Call-Reflections-Faith-Family/dp/1476763534?tag=NYTBSREV-20
+list_date: 2014/05/25
+published_date: 2014-05-06
+summary: The "funnyman" of the Robertson family recalls his life and discusses his thoughts on family, faith, nature, and work.

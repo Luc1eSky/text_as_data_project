@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0800726804
+primary_isbn13: 9780800726805
+publisher: Baker
+description: A minister on the otherworldly experience he had after an accident.
+title: 90 Minutes In Heaven
+author: Don Piper with Cecil Murphey
+amazon_product_url: http://www.amazon.com/Selections-90-Minutes-Heaven-Inspiring-ebook/dp/B001MV7JFU?tag=NYTBSREV-20
+list_date: 2015/09/27
+published_date: 2015-09-01
+summary: The mega bestselling book that started the heaven publishing phenomenon is now a major motion picture starring Hayden Christensen and Kate Bosworth and produced by Michael Polish. Don Piper's incredible true story continues to expand its reach to more people than ever before. After a semi-truck collided with Don Piper's car, he was pronounced dead at the scene. For the next ninety minutes, he experienced the glories of heaven. Back on earth, a passing minister felt led to stop and pray for the accident victim even though he was told Piper was dead. Miraculously, Piper came back to life, and the pleasure of heaven was replaced by a long and painful recovery. This special edition of Don's life-changing story includes a new preface from Don about the making of the movie, plus a personal update on the impact the book has had on him, his family, and the millions who have already heard his story. It also includes a note from the publisher, stories from readers, and Scriptures and quotations on heaven.

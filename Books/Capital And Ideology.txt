@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0674980824
+primary_isbn13: 9780674980822
+publisher: Belknap
+description: An overview of political and economic inequality and a call for a more balanced approach to those systems.
+title: Capital And Ideology
+author: Thomas Piketty
+amazon_product_url: https://www.amazon.com/dp/0674980824?tag=NYTBSREV-20
+list_date: 2020/03/29
+published_data: 2020
+summary: Thomas Piketty's Capital in the Twenty-First Century showed that capitalism, left to itself, generates deepening inequality. In this audacious follow-up, he challenges us to revolutionize how we think about ideology and history, exposing the ideas that have sustained inequality since premodern times and outlining a fairer economic system.
+author_new0: Thomas Piketty

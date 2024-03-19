@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1101973129
+primary_isbn13: 9781101973127
+publisher: Anchor
+description: A darkly comic account of an American journalist's years in Afghanistan and Pakistan. The basis of the movie "Whiskey Tango Foxtrot."
+title: The Taliban Shuffle
+author: Kim Barker
+amazon_product_url: http://www.amazon.com/Whiskey-Tango-Foxtrot-Taliban-Shuffle/dp/1101973129?tag=NYTBSREV-20
+list_date: 2016/03/27
+published_date: 2016
+summary: A wisecracking foreign correspondent recounts her experiences in Afghanistan and Pakistan while sharing cautionary observations about the region in its first post-Taliban years and the responsibilities of the U.S. and NATO.

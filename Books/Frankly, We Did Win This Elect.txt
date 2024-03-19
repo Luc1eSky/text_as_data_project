@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 3
+primary_isbn10: 153873480X
+primary_isbn13: 9781538734803
+publisher: Twelve
+description: A senior White House reporter for The Wall Street Journal looks at Trump’s 2020 campaign and final year in office.
+title: Frankly, We Did Win This Election
+author: Michael C. Bender
+amazon_product_url: https://www.amazon.com/dp/153873480X?tag=NYTBSREV-20
+list_date: 2021/08/15
+published_data: 2021-08-03
+summary: N/A
+author_new0: Michael C. Bender

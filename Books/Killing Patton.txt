@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 28
+primary_isbn10: 080509668X
+primary_isbn13: 9780805096682
+publisher: Holt
+description: The host of “The O’Reilly Factor” recounts the strange death of Gen. George S. Patton in December 1945.
+title: Killing Patton
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: http://www.amazon.com/Killing-Patton-Strange-Audacious-General/dp/080509668X?tag=NYTBSREV-20
+list_date: 2015/04/19
+published_date: 2014-09-23
+summary: Readers around the world have thrilled to Killing Lincoln, Killing Kennedy, and Killing Jesus—riveting works of nonfiction that journey into the heart of the most famous murders in history. Now from Bill O’Reilly, anchor of The O’Reilly Factor, comes the most epic book of all in this multimillion-selling series: Killing Patton. General George S. Patton, Jr. died under mysterious circumstances in the months following the end of World War II. For almost seventy years, there has been suspicion that his death was not an accident—and may very well have been an act of assassination. Killing Patton takes readers inside the final year of the war and recounts the events surrounding Patton’s tragic demise, naming names of the many powerful individuals who wanted him silenced.

@@ -1,0 +1,10 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0451493249
+primary_isbn13: 9780451493248
+publisher: Knopf
+description: The former New York Times columnist examines the new gilded age and the failures of modern philanthropy.
+title: Winners Take All
+author: Anand Giridharadas
+amazon_product_url: https://www.amazon.com/Winners-Take-All-Charade-Changing/dp/0451493249?tag=NYTBSREV-20
+list_date: 2018/09/16

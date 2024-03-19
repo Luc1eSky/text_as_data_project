@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 0399184414
+primary_isbn13: 9780399184413
+publisher: Riverhead
+description: An introduction to modern physics.
+title: Seven Brief Lessons On Physics
+author: Carlo Rovelli
+amazon_product_url: http://www.amazon.com/Seven-Brief-Lessons-Physics-Rovelli-ebook/dp/B00Z8VTMYG?tag=NYTBSREV-20
+list_date: 2016/05/15
+published_date: 2016-03
+summary: An introduction to modern physics by a founder of the loop quantum gravity theory shares seven succinct lessons on topics ranging from general relativity and quantum mechanics to elementary particles and black holes.

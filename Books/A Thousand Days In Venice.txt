@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1616202750
+primary_isbn13: 9781616202750
+publisher: Algonquin
+description: A memoir by a woman who falls in love with a city and a man. Originally published in 2013.
+title: A Thousand Days In Venice
+author: Marlena de Blasi
+amazon_product_url: http://www.amazon.com/Thousand-Days-Venice-Unexpected-Romance-ebook/dp/B00AFKIRRS?tag=NYTBSREV-20
+list_date: 2016/01/31
+published_date: 2013-06-11
+summary: Fernando first sees Marlena across the Piazza San Marco and falls in love from afar. When he sees her again in a Venice café a year later, he knows it is fate. He knows little English; she, a divorced American chef traveling through Italy, speaks only food-based Italian. Marlena thought she was done with romantic love, incapable of intimacy. Yet within months of their first meeting, she has quit her job, sold her house in St. Louis, kissed her two grown sons good-bye, and moved to Venice to marry “the stranger,” as she calls Fernando. This deliciously satisfying memoir is filled with the foods and flavors of Italy and peppered with culinary observations and recipes. But the main course here is an enchanting true story about a woman who falls in love with both a man and a city, and finally finds the home she didn’t even know she was missing.

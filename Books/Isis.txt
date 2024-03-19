@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1941393578
+primary_isbn13: 9781941393574
+publisher: Regan Arts
+description: An American journalist and a Syrian analyst examine the origins and methods of the terrorist group.
+title: Isis
+author: Michael Weiss and Hassan Hassan
+amazon_product_url: http://www.amazon.com/ISIS-Inside-Terror-Michael-Weiss-ebook/dp/B00SW8BLJ6?tag=NYTBSREV-20
+list_date: 2015/03/15
+published_date: 2015-02-17
+summary: A revelatory look inside the world's most dangerous terrorist group. With brutal attacks across the world—Paris, Beirut, Egypt, Turkey—the Islamic State of Iraq and Syria (ISIS) has proved itself the greatest threat today. They have conquered massive territories in Syria and Iraq in a bid to create a new Muslim caliphate under the strict dictates of Sharia law. In ISIS: Inside the Army of Terror, American journalist Michael Weiss and Syrian analyst Hassan Hassan explain how these violent extremists evolved from a nearly defeated Iraqi insurgent group into a jihadi army of international volunteers who, with slickly produced murder videos, are spreading violence and mayhem across the globe. Beginning with the early days of Abu Musab al-Zarqawi, the founder of ISIS’s first incarnation, Weiss and Hassan explain who the key players are—from their leader Abu Bakr al-Baghdadi to the former Saddam Baathists in their ranks—where they come from, how they have attracted both local and global support, and how they operate—from their social media strategy to their illicit oil revenues. Political and military maneuvering by the United States, Iraq, Iran, and Syria have fueled ISIS’s explosive expansion. Drawing on original interviews with former US military officials and current ISIS fighters, the authors also reveal the internecine struggles within the movement itself, as well as ISIS’s bloody hatred of Shiite Muslims, which is generating another sectarian war in the region. A new generation of terror has dawned in the world and to understand how to stop it, we must understand who they are.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 081299311X
+primary_isbn13: 9780812993110
+publisher: Random House
+description: The Pulitzer Prize-winning author chronicles the personal life, inventions and obsessions of Thomas Alva Edison.
+title: Edison
+author: Edmund Morris
+amazon_product_url: https://www.amazon.com/Edison-Edmund-Morris/dp/081299311X?tag=NYTBSREV-20
+list_date: 2019/11/10
+published_data: 2019
+summary: From Pulitzer Prize-winning author Morris comes a revelatory new biography ofThomas Alva Edison, the most prolific genius in American history.
+author_new0: Edmund Morris

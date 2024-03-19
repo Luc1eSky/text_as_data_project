@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1250244021
+primary_isbn13: 9781250244024
+publisher: St. Martin's
+description: The written confidences and daily life of a Jewish teenager in Poland as the Nazis spread throughout Europe from 1939 to 1942.
+title: Renia'S Diary
+author: Renia Spiegel
+amazon_product_url: https://www.amazon.com/Renias-Diary-Holocaust-Renia-Spiegel/dp/1250244021?tag=NYTBSREV-20
+list_date: 2019/10/13
+published_data: 2019-09-24
+summary: The long-hidden diary of a young Polish woman's life during the Holocaust, translated for the first time into English Renia Spiegel was born in 1924 to an upper-middle class Jewish family living in southeastern Poland, near what was at that time the border with Romania. At the start of 1939 Renia began a diary. “I just want a friend. I want somebody to talk to about my everyday worries and joys. Somebody who would feel what I feel, who would believe me, who would never reveal my secrets. A human being can never be such a friend and that’s why I have decided to look for a confidant in the form of a diary.” And so begins an extraordinary document of an adolescent girl’s hopes and dreams. By the fall of 1939, Renia and her younger sister Elizabeth (née Ariana) were staying with their grandparents in Przemysl, a city in the south, just as the German and Soviet armies invaded Poland. Cut off from their mother, who was in Warsaw, Renia and her family were plunged into war. Like Anne Frank, Renia’s diary became a record of her daily life as the Nazis spread throughout Europe. Renia writes of her mundane school life, her daily drama with best friends, falling in love with her boyfriend Zygmund, as well as the agony of missing her mother, separated by bombs and invading armies. Renia had aspirations to be a writer, and the diary is filled with her poignant and thoughtful poetry. When she was forced into the city’s ghetto with the other Jews, Zygmund is able to smuggle her out to hide with his parents, taking Renia out of the ghetto, but not, ultimately to safety. The diary ends in July 1942, completed by Zygmund, after Renia is murdered by the Gestapo. Renia's Diary has been translated from the original Polish, and includes a preface, afterword, and notes by her surviving sister, Elizabeth Bellak. An extraordinary historical document, Renia Spiegel survives through the beauty of her words and the efforts of those who loved her and preserved her legacy.
+author_new0: Renia Spiegel

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1984855026
+primary_isbn13: 9781984855022
+publisher: Random House
+description: The Pulitzer Prize-winning biographer creates a portrait of Representative John Lewis, the late civil rights leader and congressman for Georgia’s Fifth Congressional District.
+title: His Truth Is Marching On
+author: Jon Meacham
+amazon_product_url: https://www.amazon.com/dp/1984855026?tag=NYTBSREV-20
+list_date: 2020/09/20
+published_data: 2020-08-25
+summary: #1 NEW YORK TIMES BESTSELLER • An intimate and revealing portrait of civil rights icon and longtime U.S. congressman John Lewis, linking his life to the painful quest for justice in America from the 1950s to the present—from the Pulitzer Prize–winning author of The Soul of America NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE WASHINGTON POST AND COSMOPOLITAN John Lewis, who at age twenty-five marched in Selma, Alabama, and was beaten on the Edmund Pettus Bridge, was a visionary and a man of faith. Drawing on decades of wide-ranging interviews with Lewis, Jon Meacham writes of how this great-grandson of a slave and son of an Alabama tenant farmer was inspired by the Bible and his teachers in nonviolence, Reverend James Lawson and Martin Luther King, Jr., to put his life on the line in the service of what Abraham Lincoln called “the better angels of our nature.” From an early age, Lewis learned that nonviolence was not only a tactic but a philosophy, a biblical imperative, and a transforming reality. At the age of four, Lewis, ambitious to become a minister, practiced by preaching to his family’s chickens. When his mother cooked one of the chickens, the boy refused to eat it—his first act, he wryly recalled, of nonviolent protest. Integral to Lewis’s commitment to bettering the nation was his faith in humanity and in God—and an unshakable belief in the power of hope. Meacham calls Lewis “as important to the founding of a modern and multiethnic twentieth- and twenty-first-century America as Thomas Jefferson and James Madison and Samuel Adams were to the initial creation of the Republic itself in the eighteenth century.” A believer in the injunction that one should love one's neighbor as oneself, Lewis was arguably a saint in our time, risking limb and life to bear witness for the powerless in the face of the powerful. In many ways he brought a still-evolving nation closer to realizing its ideals, and his story offers inspiration and illumination for Americans today who are working for social and political change.
+author_new0: Jon Meacham

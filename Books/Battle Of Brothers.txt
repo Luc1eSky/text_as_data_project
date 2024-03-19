@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0063042940
+primary_isbn13: 9780063042940
+publisher: Harper
+description: A look at the potential factors that led to the divergent life paths of Prince William and Prince Harry.
+title: Battle Of Brothers
+author: Robert Lacey
+amazon_product_url: https://www.amazon.com/dp/0063042940?tag=NYTBSREV-20
+list_date: 2020/11/08
+published_data: 2020-10-20
+summary: From bestselling author and historical consultant to the award-winning Netflix series The Crown, an unparalleled insider account of tumult, secrecy and schism in the Royal family. The world has watched Prince William and Prince Harry since they were born. Raised by Princess Diana to be the closest of brothers, how have the boy princes grown into very different, now distanced men? From royal insider, biographer and historian Robert Lacey, this book reveals the untold details of William and Harry's closeness and estrangement, asking what happens when two sons are raised for vastly different futures - one burdened with the responsibility of one day becoming king, the other with the knowledge that he will always remain spare. How have William and Harry both agreed and diverged in their views of what a modern royal owes to their country? Were the seeds of damage sowed by Prince Charles and Princess Diana as their marriage unraveled for all the world to see? In the previous generation, how have Prince Charles and Prince Andrew's own relations strained under the Crown? What role has Queen Elizabeth II played in marshalling her feuding heirs? What parts have Kate Middleton and Meghan Markle played in helping their husbands to choose their differing paths? And what is the real, unvarnished story behind Harry and Meghan's dramatic departure? In the most intimate vision yet of life behind closed doors, with its highs, lows and discretions all laid out, this is a journey into royal life as never offered before.
+author_new0: Robert Lacey

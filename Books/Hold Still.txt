@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0316247766
+primary_isbn13: 9780316247764
+publisher: Little, Brown
+description: The photographer’s thoughts on art, photography, family and the South.
+title: Hold Still
+author: Sally Mann
+amazon_product_url: http://www.amazon.com/Hold-Still-A-Memoir-Photographs/dp/0316247766?tag=NYTBSREV-20
+list_date: 2015/05/31
+published_date: 2015-05-12
+summary: A revealing and beautifully written memoir and family history from acclaimed photographer Sally Mann. In this groundbreaking book, a unique interplay of narrative and image, Mann's preoccupation with family, race, mortality, and the storied landscape of the American South are revealed as almost genetically predetermined, written into her DNA by the family history that precedes her. Sorting through boxes of family papers and yellowed photographs she finds more than she bargained for: "deceit and scandal, alcohol, domestic abuse, car crashes, bogeymen, clandestine affairs, dearly loved and disputed family land . . . racial complications, vast sums of money made and lost, the return of the prodigal son, and maybe even bloody murder." In lyrical prose and startlingly revealing photographs, she crafts a totally original form of personal history that has the page-turning drama of a great novel but is firmly rooted in the fertile soil of her own life.

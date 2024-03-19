@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 1501155563
+primary_isbn13: 9781501155567
+publisher: 37 INK/Atria
+description: The comedian’s personal and professional life.
+title: I Can'T Make This Up
+author: Kevin Hart with Neil Strauss
+amazon_product_url: https://www.amazon.com/Cant-Make-This-Up-Lessons/dp/1501155563?tag=NYTBSREV-20
+list_date: 2017/07/30
+published_date: 2017-06-06
+summary: "Kevin Hart, like Ernest Hemingway, JK Rowling, and Chocolate Droppa before him, was able to defy the odds and turn [his disadvantaged childhood] around. In his literary debut, he takes the reader on a journey through what his life was, what it is today, and how he's overcome each challenge to become the man he is today"--Amazon.com.

@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 1538720477
+primary_isbn13: 9781538720479
+publisher: Grand Central
+description: A memoir by the multiple Grammy Award-winning recording artist.
+title: Billie Eilish
+author: Billie Eilish
+amazon_product_url: https://www.amazon.com/dp/1538720477?tag=NYTBSREV-20
+list_date: 2021/05/30
+published_data: 2021-05-11
+summary: This nonfiction book is publishing in Spring 2021 from Grand Central Publishing.
+author_new0: Billie Eilish

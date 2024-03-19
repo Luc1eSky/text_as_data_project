@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1538708493
+primary_isbn13: 9781538708491
+publisher: Grand Central
+description: A behind-the-scenes look at the popular TV sitcom.
+title: The Big Bang Theory
+author: Jessica Radloff
+amazon_product_url: https://www.amazon.com/dp/1538708493?tag=NYTBSREV-20
+list_date: 2022/10/30
+published_data: 2022
+summary: AN INSTANT NEW YORK TIMES BESTSELLER A USA TODAY BESTSELLER "Talking with Jessica, I realized how easy it had been for me to kind of put all 12 years of my time on Big Bang Theory under one general umbrella, as it were. The questions she asked and the information she'd reveal to me from someone else she'd interviewed forced me into a frame of mind where each season - and sometimes each episode - became it's own, separate entity again. . . Frankly, it turned into a version of therapy I hadn't realized I'd needed and couldn't have known how much I'd enjoy." --Jim Parsons The definitive, behind-the-scenes look at the most popular sitcom of the last decade, The Big Bang Theory, packed with all-new, exclusive interviews with the producers and entire cast. The Big Bang Theory is a television phenomenon. To the casual viewer, it's a seemingly effortless comedy, with relatable characters tackling real-life issues, offering a kind of visual comfort food to its millions of dedicated fans. But the behind-the-scenes journey of the show from a failed pilot to a global sensation is a fascinating story that even the most die-hard fans don't know in its entirety. THE BIG BANG THEORY: THE DEFINITIVE, INSIDE STORY OF THE EPIC HIT SERIES is a riveting, entertaining look at the sitcom sensation, with the blessing and participation of co-creators Chuck Lorre and Bill Prady, executive producers Steve Molaro and Steve Holland, as well as Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik, and more. Glamour senior editor Jessica Radloff, who has written over 150 articles on the series (and even had a cameo in the finale!), gives readers an all-access pass to its intrepid producing and writing team and beloved cast. It's a story of on-and-off screen romance told in hilarious and emotional detail, of casting choices that nearly changed everything (which even some of the actors didn't know until now), of cast members bravely powering through personal tragedies, and when it came time to announce the 12th season would be its last, the complicated reasons why it was more difficult than anyone ever led on. Through hundreds of hours of interviews with the sitcom's major players, Radloff dives into all this and much more. The book is the ultimate celebration of this once-in-a-generation show and a must-have for all fans.
+author_new0: Jessica Radloff

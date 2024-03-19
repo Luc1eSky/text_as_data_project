@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 081299342X
+primary_isbn13: 9780812993424
+publisher: Spiegel & Grau
+description: A journalist contends that economic inequality has created separate  systems of justice for the rich and poor.
+title: The Divide
+author: Matt Taibbi
+amazon_product_url: http://www.amazon.com/The-Divide-American-Injustice-Wealth-ebook/dp/B00EBRUB02?tag=NYTBSREV-20
+list_date: 2014/05/11
+published_date: 2014
+summary: Fueled by in-depth reporting, an investigative journalist and New York Times best-selling author explores America's widening wealth gap that is not only reshaping our economic life, but changing our core sense of right and wrong. 50,000 first printing.

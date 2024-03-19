@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0385349947
+primary_isbn13: 9780385349949
+publisher: Knopf
+description: The chief operating officer of Facebook urges women to pursue their careers without ambivalence.
+title: Lean In
+author: Sheryl Sandberg with Nell Scovell
+amazon_product_url: http://www.amazon.com/Lean-In-Women-Work-Will-ebook/dp/B009LMTDL0?tag=NYTBSREV-20
+list_date: 2014/06/15
+published_date: 2013-03-11
+summary: #1 INTERNATIONAL BESTSELLER • “A landmark manifesto" (The New York Times) that's a revelatory, inspiring call to action and a blueprint for individual growth that will empower women around the world to achieve their full potential. In her famed TED talk, Sheryl Sandberg described how women unintentionally hold themselves back in their careers. Her talk, which has been viewed more than eleven million times, encouraged women to “sit at the table,” seek challenges, take risks, and pursue their goals with gusto. Lean In continues that conversation, combining personal anecdotes, hard data, and compelling research to change the conversation from what women can’t do to what they can. Sandberg, COO of Meta (previously called Facebook) from 2008-2022, provides practical advice on negotiation techniques, mentorship, and building a satisfying career. She describes specific steps women can take to combine professional achievement with personal fulfillment, and demonstrates how men can benefit by supporting women both in the workplace and at home.

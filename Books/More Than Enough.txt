@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0525561587
+primary_isbn13: 9780525561583
+publisher: Viking
+description: The journalist explores several themes such as race, power, identity and love.
+title: More Than Enough
+author: Elaine Welteroth
+amazon_product_url: https://www.amazon.com/More-Than-Enough-Claiming-Matter/dp/0525561587?tag=NYTBSREV-20
+list_date: 2019/06/30
+published_data: 2019-06-11
+summary: INSTANT NEW YORK TIMES BESTSELLER WINNER OF THE 2020 NAACP IMAGE AWARD FOR OUTSTANDING LITERARY WORK — BIOGRAPHY/AUTOBIOGRAPHY NOW OPTIONED FOR DEVELOPMENT AS A TV SERIES BY PARAMOUNT TELEVISION STUDIOS AND ANONYMOUS CONTENT “The millennial Becoming . . . Inspiring and empowering.” —Entertainment Weekly “An essential read for women in the workplace today.” —Refinery29 Part-manifesto, part-memoir, from the revolutionary editor who infused social consciousness into the pages of Teen Vogue, an exploration of what it means to come into your own—on your own terms Throughout her life, Elaine Welteroth has climbed the ranks of media and fashion, shattering ceilings along the way. In this riveting and timely memoir, the groundbreaking journalist unpacks lessons on race, identity, and success through her own journey, from navigating her way as the unstoppable child of an unlikely interracial marriage in small-town California to finding herself on the frontlines of a modern movement for the next generation of change makers. Welteroth moves beyond the headlines and highlight reels to share the profound lessons and struggles of being a barrier-breaker across so many intersections. As a young boss and often the only Black woman in the room, she’s had enough of the world telling her—and all women—they’re not enough. As she learns to rely on herself by looking both inward and upward, we’re ultimately reminded that we’re more than enough.
+author_new0: Elaine Welteroth

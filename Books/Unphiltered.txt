@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1476766231
+primary_isbn13: 9781476766232
+publisher: Howard Books
+description: What the Duck Commander (from the A&E show “Duck Dynasty”) really thinks about various topics.
+title: Unphiltered
+author: Phil Robertson with Mark Schlabach
+amazon_product_url: http://www.amazon.com/unPHILtered-The-Way-See-It-ebook/dp/B00FNVSGQG?tag=NYTBSREV-20
+list_date: 2014/09/28
+published_date: 2014-09-02
+summary: Shares the author's colorful and heartfelt views on life based on the love of God and love of one's neighbor, as well as how adopting those beliefs radically changed his way of life.

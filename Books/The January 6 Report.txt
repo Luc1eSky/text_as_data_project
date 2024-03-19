@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 2
+primary_isbn10: 0063315505
+primary_isbn13: 9780063315501
+publisher: Harper
+description: The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a foreword by Ari Melber.
+title: The January 6 Report
+author: the House January 6th Committee
+amazon_product_url: https://www.amazon.com/dp/0063315505?tag=NYTBSREV-20
+list_date: 2023/01/22
+published_data: 2022-10-13
+summary: The official report and findings of the bipartisan Congressional investigation into the January 6 attack on the Capitol, and Donald Trump's related coup conspiracies to overthrow the election, with an originally reported foreword by attorney and MSNBC anchor Ari Melber. This official edition of the House Report breaks ground with new evidence, analysis, and primary sources, including quotes from newly released interviews. Only the entire, authoritative report--now a historical document--can capture the full range of plots that have been exposed over time, from the violent attack on January 6 to related efforts revealed months after the insurrection. This is the only edition featuring an additional, independent, and newly reported foreword by a journalist and attorney with a front row seat to the committee's work, MSNBC anchor Ari Melber. The Emmy-Award winning reporter has interviewed key players from members of the Committee to planners of the Jan. 6 rally (now cooperating witnesses) to Trump White House aide Peter Navarro (now indicted for defying the probe). Melber's contribution reveals that former President Trump's plots comprised a continuous coup conspiracy, rather than planning for a "single day." He exposes how that effort ranged from lawsuits to elector fraud to blatantly illegal efforts to overturn votes. In chilling detail, he shows how that process might have engineered a technical effort to "override" the election on the floor of Congress--an essential map, and warning, for those who wish to protect democracy. If the warnings are ignored, the failed coup may become a rehearsal. This report is not only a vital document in modern American history, it can also inform efforts to protect the future of American democracy. As a matter of justice, bipartisanship, and even patriotism, this report may very well become essential reading for people intent on facing the next potential coup with a commitment to facts, accountability, and democracy.
+author_new0: the House January 6th Committee

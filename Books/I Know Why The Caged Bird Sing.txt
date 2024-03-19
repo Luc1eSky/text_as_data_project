@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1588369250
+primary_isbn13: 9781588369253
+publisher: Random House
+description: A memoir of childhood and adolescence by the poet, who died in May.
+title: I Know Why The Caged Bird Sings
+author: Maya Angelou
+amazon_product_url: http://www.amazon.com/Know-Why-Caged-Bird-Sings-ebook/dp/B0026LTNFO?tag=NYTBSREV-20
+list_date: 2014/07/20
+published_date: 2009-04-21
+summary: Here is a book as joyous and painful, as mysterious and memorable, as childhood itself. I Know Why the Caged Bird Sings captures the longing of lonely children, the brute insult of bigotry, and the wonder of words that can make the world right. Maya Angelou’s debut memoir is a modern American classic beloved worldwide. Sent by their mother to live with their devout, self-sufficient grandmother in a small Southern town, Maya and her brother, Bailey, endure the ache of abandonment and the prejudice of the local “powhitetrash.” At eight years old and back at her mother’s side in St. Louis, Maya is attacked by a man many times her age—and has to live with the consequences for a lifetime. Years later, in San Francisco, Maya learns that love for herself, the kindness of others, her own strong spirit, and the ideas of great authors (“I met and fell in love with William Shakespeare”) will allow her to be free instead of imprisoned. Poetic and powerful, I Know Why the Caged Bird Sings will touch hearts and change minds for as long as people read. “I Know Why the Caged Bird Sings liberates the reader into life simply because Maya Angelou confronts her own life with such a moving wonder, such a luminous dignity.”—James Baldwin

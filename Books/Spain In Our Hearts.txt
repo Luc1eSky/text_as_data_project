@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0547973187
+primary_isbn13: 9780547973180
+publisher: Houghton Mifflin Harcourt
+description: Americans who fought in and wrote about the Spanish Civil War.
+title: Spain In Our Hearts
+author: Adam Hochschild
+amazon_product_url: http://www.amazon.com/Spain-Our-Hearts-Americans-1936-1939/dp/0547973187?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2016
+summary: A sweeping history of the Spanish Civil War, told through nine American and British characters including Hemingway and George Orwell. It was a war between fascism, communism, and democracy that preceeded World War II, and a tale of idealism and a noble cause that failed.

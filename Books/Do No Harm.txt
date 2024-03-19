@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 125006581X
+primary_isbn13: 9781250065810
+publisher: Thomas Dunne/St. Martin’s
+description: Stories of life, death and operating on the brain from the neurosurgeon featured in the documentary film “The English Surgeon.”
+title: Do No Harm
+author: Henry Marsh
+amazon_product_url: http://www.amazon.com/Do-No-Harm-Stories-Surgery-ebook/dp/B00P5KFCW6?tag=NYTBSREV-20
+list_date: 2015/06/14
+published_date: 2015-05-26
+summary: In an internationally best-selling book, a modern neurosurgeon offers a revealing look into his life and work.

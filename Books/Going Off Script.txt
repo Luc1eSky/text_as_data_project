@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780553446678
+publisher: Crown Archetype
+description: A memoir by the "E News!" host and reality TV star.
+title: Going Off Script
+author: Giuliana Rancic
+amazon_product_url: http://www.amazon.com/Going-Off-Script-Childhood-Rejections-ebook/dp/B00N6PD7UQ?tag=NYTBSREV-20
+list_date: 2015/04/26

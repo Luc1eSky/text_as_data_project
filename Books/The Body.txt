@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 17
+primary_isbn10: 0385539312
+primary_isbn13: 9780385539319
+publisher: Doubleday
+description: An owner’s manual of the human body covering various parts, functions and what happens when things go wrong.
+title: The Body
+author: Bill Bryson
+amazon_product_url: https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson/dp/0385539304?tag=NYTBSREV-20
+list_date: 2021/05/02
+published_data: 2019-10-15
+summary: NEW YORK TIMES BESTSELLER • Bill Bryson, bestselling author of A Short History of Nearly Everything, takes us on a head-to-toe tour of the marvel that is the human body—with a new afterword for this edition. Bill Bryson once again proves himself to be an incomparable companion as he guides us through the human body—how it functions, its remarkable ability to heal itself, and (unfortunately) the ways it can fail. Full of extraordinary facts (your body made a million red blood cells since you started reading this) and irresistible Brysonesque anecdotes, The Body will lead you to a deeper understanding of the miracle that is life in general and you in particular. As Bill Bryson writes, “We pass our existence within this wobble of flesh and yet take it almost entirely for granted.” The Body will cure that indifference with generous doses of wondrous, compulsively readable facts and information. As addictive as it is comprehensive, this is Bryson at his very best, a must-read owner’s manual for every body.
+author_new0: Bill Bryson

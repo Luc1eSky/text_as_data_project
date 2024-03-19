@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307764990
+primary_isbn13: 9780307764997
+publisher: Bantam
+description: The autobiography of the general who commanded the allied forces in the Persian Gulf war of 1991; first published in 1992.
+title: It Doesn'T Take A Hero
+author: H Norman Schwarzkopf with Peter Petre
+amazon_product_url: http://www.amazon.com/Doesnt-Take-Hero-Autobiography-Schwarzkopf-ebook/dp/B0042JSO3U?tag=NYTBSREV-20
+list_date: 2014/08/03
+published_date: 2010-09-22
+summary: He set his star by a simple motto: duty, honor, country. Only rarely does history grant a single individual the ability, personal charisma, moral force, and intelligence to command the respect, admiration, and affection of an entire nation. But such a man is General H. Norman Schwarzkopf, commander of the Allied Forces in the Gulf War. Now, in this refreshingly candid and typically outspoken autobiography, General Schwarzkopf reviews his remarkable life and career: the events, the adventures, and the emotions that molded the character and shaped the beliefs of this uniquely distinguished American leader. Note: The photo insert is not included in this edition.

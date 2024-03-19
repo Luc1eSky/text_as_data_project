@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1984801430
+primary_isbn13: 9781984801432
+publisher: Random House
+description: The Pulitzer Prize-winning author chronicles Jim O’Connell’s work to provide medical care to Boston’s unhoused population.
+title: Rough Sleepers
+author: Tracy Kidder
+amazon_product_url: https://www.amazon.com/dp/1984801430?tag=NYTBSREV-20
+list_date: 2023/02/05
+published_data: 2023-01-17
+summary: NEW YORK TIMES BESTSELLER • The powerful story of an inspiring doctor who made a difference, by helping to create a program to care for Boston’s homeless community—by the Pulitzer Prize–winning, New York Times bestselling author of Mountains Beyond Mountains “I couldn’t put Rough Sleepers down. I am left in awe of the human spirit and inspired to do better.”—Abraham Verghese, author of Cutting for Stone Tracy Kidder has been described by The Baltimore Sun as a “master of the nonfiction narrative.” In Rough Sleepers, Kidder shows how one person can make a difference, as he tells the story of Dr. Jim O’Connell, a gifted man who invented ways to create a community of care for a city’s unhoused population, including those who sleep on the streets—the “rough sleepers.” When Jim O’Connell graduated from Harvard Medical School and was nearing the end of his residency at Massachusetts General Hospital, the chief of medicine made a proposal: Would he defer a prestigious fellowship and spend a year helping to create an organization to bring health care to homeless citizens? Jim took the job because he felt he couldn’t refuse. But that year turned into his life’s calling. Tracy Kidder spent five years following Dr. O’Connell and his colleagues as they served their thousands of homeless patients. In this illuminating book we travel with O’Connell as he navigates the city, offering medical care, socks, soup, empathy, humor, and friendship to some of the city’s most endangered citizens. He emphasizes a style of medicine in which patients come first, joined with their providers in what he calls “a system of friends.” Much as he did with Paul Farmer in Mountains Beyond Mountains, Kidder explores how a small but dedicated group of people have changed countless lives by facing one of American society’s difficult problems instead of looking away.
+author_new0: Tracy Kidder

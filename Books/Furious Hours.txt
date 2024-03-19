@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1101947861
+primary_isbn13: 9781101947869
+publisher: Knopf
+description: Harper Lee’s work on the true-crime story about a rural preacher accused of murdering five of his family members in the 1970s.
+title: Furious Hours
+author: Casey Cep
+amazon_product_url: https://www.amazon.com/Furious-Hours-Murder-Fraud-Harper/dp/1101947861?tag=NYTBSREV-20
+list_date: 2019/06/16
+published_data: 2019
+summary: "This is a Borzoi book published by Alfred A. Knopf"--Title page verso.
+author_new0: Casey Cep

@@ -1,0 +1,10 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: A00B00AHP5NY6
+publisher: George Takei
+description: How a 75-year-old actor, “Star Trek’s” Mr. Sulu, became a star on Twitter, YouTube and Facebook.
+title: Oh Myyy! (There Goes The Internet)
+author: George Takei
+amazon_product_url: http://www.amazon.com/Oh-Myyy-There-Internet-Everything-ebook/dp/B00AHP5NY6?tag=NYTBSREV-20
+list_date: 2014/03/23

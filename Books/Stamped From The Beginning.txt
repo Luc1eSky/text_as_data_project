@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 8
+primary_isbn10: 1568585985
+primary_isbn13: 9781568585987
+publisher: Bold Type
+description: Winner of the 2016 National Book Award for nonfiction. A look at anti-Black racist ideas and their effect on the course of American history.
+title: Stamped From The Beginning
+author: Ibram X Kendi
+amazon_product_url: https://www.amazon.com/Stamped-Beginning-Definitive-History-National/dp/1568584636?tag=NYTBSREV-20
+list_date: 2020/08/09
+published_data: 2017-08-15
+summary: Some Americans cling desperately to the myth that we are living in a post-racial society, that the election of the first black president spelled the doom of racism. In fact, racist thought is alive and well in America--more sophisticated and more insidious than ever. And as award-winning historian Ibram X. Kendi argues in Stamped from the Beginning, if we have any hope of grappling with this stark reality, we must first understand how racist ideas were developed, disseminated, and enshrined in American society. In this deeply researched and fast-moving narrative, Kendi chronicles the entire story of anti-black racist ideas and their staggering power over the course of American history. Stamped from the Beginning uses the life stories of five major American intellectuals to offer a window into the contentious debates between assimilationists and segregationists and between racists and antiracists. From Puritan minister Cotton Mather to Thomas Jefferson, from fiery abolitionist William Lloyd Garrison to brilliant scholar W.E.B. Du Bois to legendary anti-prison activist Angela Davis, Kendi shows how and why some of our leading pro-slavery and pro-civil rights thinkers have challenged or helped cement racist ideas in America. Contrary to popular conceptions, racist ideas did not arise from ignorance or hatred. Instead, they were devised and honed by some of the most brilliant minds of each era. These intellectuals used their brilliance to justify and rationalize deeply entrenched discriminatory policies and the nation's racial disparities in everything from wealth to health. And while racist ideas are easily produced and easily consumed, they can also be discredited. In shedding much-needed light on the murky history of racist ideas, Stamped from the Beginning offers us the tools we need to expose them--and in the process, gives us reason to hope.
+author_new0: Ibram X Kendi

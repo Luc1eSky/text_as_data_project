@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0358423880
+primary_isbn13: 9780358423881
+publisher: Houghton Mifflin Harcourt
+description: The singer-songwriter’s memoir sheds light on her fraught childhood, musical triumphs and activism.
+title: Rememberings
+author: Sinead O’Connor
+amazon_product_url: https://www.amazon.com/dp/0358423880?tag=NYTBSREV-20
+list_date: 2021/06/20
+published_data: 2021
+summary: From the acclaimed, controversial singer-songwriter Sinéad O'Connor comes a revelatory memoir of her fraught childhood, musical triumphs, fearless activism, and of the enduring power of song. Blessed with a singular voice and a fiery temperament, Sinéad O'Connor rose to massive fame in the late 1980s and 1990s with a string of gold records. By the time she was twenty, she was world famous--living a rock star life out loud. From her trademark shaved head to her 1992 appearance on Saturday Night Live when she tore up Pope John Paul II's photograph, Sinéad has fascinated and outraged millions. In Rememberings, O'Connor recounts her painful tale of growing up in Dublin in a dysfunctional, abusive household. Inspired by a brother's Bob Dylan records, she escaped into music. She relates her early forays with local Irish bands; we see Sinéad completing her first album while eight months pregnant, hanging with Rastas in the East Village, and soaring to unimaginable popularity with her cover of Prince's "Nothing Compares 2U." Intimate, replete with candid anecdotes and told in a singular form true to her unconventional career, Sinéad's memoir is a remarkable chronicle of an enduring and influential artist.
+author_new0: Sinead O’Connor

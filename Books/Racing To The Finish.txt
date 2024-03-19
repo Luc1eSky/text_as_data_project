@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0785221603
+primary_isbn13: 9780785221609
+publisher: Thomas Nelson
+description: A memoir by the professional stock car racing driver and television sports analyst.
+title: Racing To The Finish
+author: Dale Earnhardt Jr with Ryan McGee
+amazon_product_url: https://www.amazon.com/Racing-Finish-Dale-Earnhardt-Jr/dp/0785221603?tag=NYTBSREV-20
+list_date: 2018/11/04
+published_data: 2018
+summary: Dale Earnhardt Jr.'s only authorized book revealing the inside track on his final year of racing and retirement from the driver's seat. "Time was running out on my charade... My secrets were about to be exposed to the world." It was a seemingly minor crash at Michigan International Speedway in June 2016 that ended the day early for Dale Earnhardt Jr. What he didn't know was that it would also end his driving for the year. He'd dealt with concussions before, but concussions are like snowflakes, no two are the same. And recovery can be brutal, and lengthy. When NASCAR star Dale Earnhardt Jr. retired from professional stock car racing in 2017, he walked away from his career as a healthy man. But for years, he had worried that the worsening effects of multiple racing-related concussions would end not only his time on the track but his ability to live a full and happy life. Torn between a race-at-all-costs culture and the fear that something was terribly wrong, Earnhardt tried to pretend that everything was fine, but the private notes about his escalating symptoms that he kept on his phone reveal a vicious cycle: suffering injuries on Sunday, struggling through the week, then recovering in time to race again the following weekend. For the first time, he shares these notes and fully reveals the physical and emotional struggles he faced as he fought to close out his career on his own terms. In this candid reflection, Earnhardt opens up about his frustration with the slow recovery, his admiration for the woman who stood by him through it all, and his determination to share his own experience so that others don't have to suffer in silence. Steering his way to the final checkered flag of his storied career proved to be the most challenging race and most rewarding finish of his life.
+author_new0: Dale Earnhardt Jr
+author_new1: Ryan McGee

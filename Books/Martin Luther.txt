@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 110198001X
+primary_isbn13: 9781101980019
+publisher: Viking
+description: A biography of the monk whose writings sparked the Protestant Reformation.
+title: Martin Luther
+author: Eric Metaxas
+amazon_product_url: https://www.amazon.com/Martin-Luther-Rediscovered-Changed-World/dp/110198001X?tag=NYTBSREV-20
+list_date: 2017/11/19
+published_date: 2017-10-03
+summary: NEW YORK TIMES BESTSELLER “Metaxas is a scrupulous chronicler and has an eye for a good story. . . . full, instructive, and pacey.” —The Washington Post From #1 New York Times bestselling author Eric Metaxas comes a brilliant and inspiring biography of the most influential man in modern history, Martin Luther, in time for the 500th anniversary of the Reformation On All Hallow’s Eve in 1517, a young monk named Martin Luther posted a document he hoped would spark an academic debate, but that instead ignited a conflagration that would forever destroy the world he knew. Five hundred years after Luther’s now famous Ninety-five Theses appeared, Eric Metaxas, acclaimed biographer of the bestselling Bonhoeffer: Pastor, Martyr, Prophet, Spy and Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery, paints a startling portrait of the wild figure whose adamantine faith cracked the edifice of Western Christendom and dragged medieval Europe into the future. Written in riveting prose and impeccably researched, Martin Luther tells the searing tale of a humble man who, by bringing ugly truths to the highest seats of power, caused the explosion whose sound is still ringing in our ears. Luther’s monumental faith and courage gave birth to the ideals of liberty, equality, and individualism that today lie at the heart of all modern life.

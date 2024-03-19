@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 3
+primary_isbn10: 1621576426
+primary_isbn13: 9781621576426
+publisher: Regnery
+description: An attack on Hillary Clinton focused on her use of a private email server and the activities of the Clinton Foundation.
+title: Guilty As Sin
+author: Edward Klein
+amazon_product_url: http://www.amazon.com/Guilty-Sin-Uncovering-Corruption-Investigation-ebook/dp/B01L0LVNEE?tag=NYTBSREV-20
+list_date: 2016/11/20
+published_date: 2016-10-04
+summary: A book to challenge the status quo, spark a debate, and get people talking about the issues and questions we face as a country!

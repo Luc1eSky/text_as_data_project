@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 7
+primary_isbn10: 038554376X
+primary_isbn13: 9780385543767
+publisher: Doubleday
+description: From 1945 to 1965, a family in Colorado had 12 children, six of whom went on to develop schizophrenia.
+title: Hidden Valley Road
+author: Robert Kolker
+amazon_product_url: https://www.amazon.com/dp/038554376X?tag=NYTBSREV-20
+list_date: 2020/06/07
+published_data: 2020-04-07
+summary: OPRAH’S BOOK CLUB PICK #1 NEW YORK TIMES BESTSELLER ONE OF THE NEW YORK TIMES TOP TEN BOOKS OF THE YEAR ONE OF THE WALL STREET JOURNAL TOP TEN BOOKS OF THE YEAR PEOPLE'S #1 BEST BOOK OF THE YEAR ONE OF GQ's TOP 50 BOOKS OF LITERARY JOURNALISM IN THE 21st CENTURY Named a BEST BOOK OF THE YEAR by The New York Times, The Washington Post, NPR, TIME, Slate, Smithsonian, The New York Post, and Amazon The heartrending story of a midcentury American family with twelve children, six of them diagnosed with schizophrenia, that became science's great hope in the quest to understand the disease. Don and Mimi Galvin seemed to be living the American dream. After World War II, Don's work with the Air Force brought them to Colorado, where their twelve children perfectly spanned the baby boom: the oldest born in 1945, the youngest in 1965. In those years, there was an established script for a family like the Galvins--aspiration, hard work, upward mobility, domestic harmony--and they worked hard to play their parts. But behind the scenes was a different story: psychological breakdown, sudden shocking violence, hidden abuse. By the mid-1970s, six of the ten Galvin boys, one after another, were diagnosed as schizophrenic. How could all this happen to one family? What took place inside the house on Hidden Valley Road was so extraordinary that the Galvins became one of the first families to be studied by the National Institute of Mental Health. Their story offers a shadow history of the science of schizophrenia, from the era of institutionalization, lobotomy, and the schizophrenogenic mother to the search for genetic markers for the disease, always amid profound disagreements about the nature of the illness itself. And unbeknownst to the Galvins, samples of their DNA informed decades of genetic research that continues today, offering paths to treatment, prediction, and even eradication of the disease for future generations. With clarity and compassion, bestselling and award-winning author Robert Kolker uncovers one family's unforgettable legacy of suffering, love, and hope.
+author_new0: Robert Kolker

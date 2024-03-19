@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 0544814622
+primary_isbn13: 9780544814622
+publisher: Houghton Mifflin Harcourt
+description: How the champion soccer player turned her career around in 2003.
+title: When Nobody Was Watching
+author: Carli Lloyd with Wayne Coffey
+amazon_product_url: http://www.amazon.com/When-Nobody-Was-Watching-Hard-Fought/dp/0544814622?tag=NYTBSREV-20
+list_date: 2016/10/23
+published_date: 2016
+summary: "The celebrated star of the U.S. women's national soccer team chronicles her amazing journey to the top,"--NoveList.

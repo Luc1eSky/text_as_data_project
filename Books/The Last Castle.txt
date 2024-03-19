@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 1476794065
+primary_isbn13: 9781476794068
+publisher: Touchstone
+description: The story of Biltmore House, the largest mansion ever built in the United States, and the Vanderbilt family members who lived there.
+title: The Last Castle
+author: Denise Kiernan
+amazon_product_url: https://www.amazon.com/Last-Castle-American-Royalty-Nations/dp/1476794049?tag=NYTBSREV-20
+list_date: 2018/05/20
+published_date: 2017-09-26
+summary: A New York Times bestseller with an "engaging narrative and array of detail” (The Wall Street Journal), the “intimate and sweeping” (Raleigh News & Observer) untold, true story behind the Biltmore Estate—the largest, grandest private residence in North America, which has seen more than 120 years of history pass by its front door. The story of Biltmore spans World Wars, the Jazz Age, the Depression, and generations of the famous Vanderbilt family, and features a captivating cast of real-life characters including F. Scott Fitzgerald, Thomas Wolfe, Teddy Roosevelt, John Singer Sargent, James Whistler, Henry James, and Edith Wharton. Orphaned at a young age, Edith Stuyvesant Dresser claimed lineage from one of New York’s best known families. She grew up in Newport and Paris, and her engagement and marriage to George Vanderbilt was one of the most watched events of Gilded Age society. But none of this prepared her to be mistress of Biltmore House. Before their marriage, the wealthy and bookish Vanderbilt had dedicated his life to creating a spectacular European-style estate on 125,000 acres of North Carolina wilderness. He summoned the famous landscape architect Frederick Law Olmsted to tame the grounds, collaborated with celebrated architect Richard Morris Hunt to build a 175,000-square-foot chateau, filled it with priceless art and antiques, and erected a charming village beyond the gates. Newlywed Edith was now mistress of an estate nearly three times the size of Washington, DC and benefactress of the village and surrounding rural area. When fortunes shifted and changing times threatened her family, her home, and her community, it was up to Edith to save Biltmore—and secure the future of the region and her husband’s legacy. This is the fascinating, “soaring and gorgeous” (Karen Abbott) story of how the largest house in America flourished, faltered, and ultimately endured to this day.

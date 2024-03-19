@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1476751447
+primary_isbn13: 9781476751443
+publisher: Simon & Schuster
+description: Clinton’s memoir focuses on her years as secretary of state and her views on America’s role in the world.
+title: Hard Choices
+author: Hillary Rodham Clinton
+amazon_product_url: http://www.amazon.com/Hard-Choices-Hillary-Rodham-Clinton-ebook/dp/B00C69EP1S?tag=NYTBSREV-20
+list_date: 2014/08/24
+published_date: 2014-06-10
+summary: Hillary Clinton's candid reflections about the key moments during her time as Secretary of State, as well as her thoughts about how to navigate the challenges of the 21st century.

@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 0358237068
+primary_isbn13: 9780358237068
+publisher: Houghton Mifflin Harcourt
+description: The former F.B.I. deputy assistant director of counterintelligence chronicles the investigation into Russia’s election interference and key moments from his career.
+title: Compromised
+author: Peter Strzok
+amazon_product_url: https://www.amazon.com/dp/0358237068?tag=NYTBSREV-20
+list_date: 2020/10/04
+published_data: 2020-09
+summary: The FBI veteran behind the Russia investigation draws on decades of experience hunting foreign agents in the United States to lay bare the threat posed by President Trump.
+author_new0: Peter Strzok

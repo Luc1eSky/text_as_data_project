@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1627794247
+primary_isbn13: 9781627794244
+publisher: Holt
+description: A New York Times journalist details the career and struggles of the actor and comedian Robin Williams.
+title: Robin
+author: Dave Itzkoff
+amazon_product_url: https://www.amazon.com/Robin-Dave-Itzkoff/dp/1627794247?tag=NYTBSREV-20
+list_date: 2018/06/10
+published_date: 2018-05-15
+summary: Drawing on more than a hundred original interviews with family, friends, and colleagues, as well as extensive archival research, this biography offers a fresh and original look at the life and career of Robin Williams. New York Times culture reporter Dave Itzkoff explores how comic brilliance masked a deep well of conflicting emotions and self-doubt. Itzkoff also shows how Williams struggled mightily with addiction and depression, and with a debilitating condition at the end of his life that affected him in ways his fans never knew.

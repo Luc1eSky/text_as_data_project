@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1984856057
+primary_isbn13: 9781984856050
+publisher: Random House
+description: A former White House aide and close confidant to President Barack Obama traveled the globe to discover just how much America’s fingerprints are on the world we shaped.
+title: After The Fall
+author: Ben Rhodes
+amazon_product_url: https://www.amazon.com/dp/1984856057?tag=NYTBSREV-20
+list_date: 2021/06/27
+published_data: 2021-06-01
+summary: NEW YORK TIMES BESTSELLER • “Vital reading for Americans and people anywhere who seek to understand what is happening ‘after the fall’ of the global system created by the United States” (New York Journal of Books), from the former White House aide, close confidant to President Barack Obama, and author of The World as It Is At a time when democracy in the United States is endangered as never before, Ben Rhodes spent years traveling the world to understand why. He visited dozens of countries, meeting with politicians and activists confronting the same nationalism and authoritarianism that are tearing America apart. Along the way, he discusses the growing authoritarianism of Vladimir Putin, and his aggression towards Ukraine, with the foremost opposition leader in Russia, who was subsequently poisoned and imprisoned; he profiled Hong Kong protesters who saw their movement snuffed out by China under Xi Jinping; and America itself reached the precipice of losing democracy before giving itself a fragile second chance. The characters and issues that Rhodes illuminates paint a picture that shows us where we are today—from Barack Obama to a rising generation of international leaders; from the authoritarian playbook endangering democracy to the flood of disinformation enabling authoritarianism. Ultimately, Rhodes writes personally and powerfully about finding hope in the belief that looking squarely at where America has gone wrong can make clear how essential it is to fight for what America is supposed to be, for our own country and the entire world.
+author_new0: Ben Rhodes

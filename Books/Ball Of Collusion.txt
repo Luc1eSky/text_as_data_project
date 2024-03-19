@@ -1,0 +1,11 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: None
+primary_isbn13: 9781641770262
+publisher: Encounter
+description: The Fox News contributor and former federal prosecutor makes his case that the narrative of collusion between the 2016 Trump campaign and the Kremlin is a fraud.
+title: Ball Of Collusion
+author: Andrew C McCarthy
+amazon_product_url: https://www.amazon.com/Ball-Collusion-Election-Destroy-Presidency/dp/1641770252?tag=NYTBSREV-20
+list_date: 2019/09/08
+author_new0: Andrew C McCarthy

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 054756466X
+primary_isbn13: 9780547564661
+publisher: Houghton Mifflin Harcourt
+description: The author argues that the qualities that matter most have to do with character, not intelligence.
+title: How Children Succeed
+author: Paul Tough
+amazon_product_url: http://www.amazon.com/How-Children-Succeed-Curiosity-Character/dp/0544104404?tag=NYTBSREV-20
+list_date: 2014/10/26
+published_date: 2012-09-04
+summary: "A persuasive wake-up call.”—People A NEW YORK TIMES BESTSELLER From the award-winning journalist Paul Tough, a provocative and profound examination of childhood success and character—an insightful study that reveals the power to transform young people’s lives. Why do some children succeed while others fail? The story we usually tell about childhood and success is the one about intelligence: success comes to those who score highest on tests, from preschool admissions to SATs. In How Children Succeed, Paul Tough argues that success has more to do with character—skills like perseverance, curiosity, optimism, and self-control. In this groundbreaking study, Tough introduces us to key researchers and educators, who, for the first time, are using the tools of science to peel back the mysteries of character. Through their stories—and the stories of the children they are trying to help—Tough reveals how character has the power to transform young people’s lives. This provocative and profoundly hopeful book will not only inspire and engage readers—it will also change our understanding of childhood itself.

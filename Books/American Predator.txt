@@ -1,0 +1,11 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780698191068
+publisher: Viking
+description: How the F.B.I. caught Israel Keyes, a serial killer who, for 14 years, attacked victims across the country and returned to his quiet life in Alaska.
+title: American Predator
+author: Maureen Callahan
+amazon_product_url: https://www.amazon.com/American-Predator-Meticulous-Serial-Century/dp/052542864X?tag=NYTBSREV-20
+list_date: 2019/07/21
+author_new0: Maureen Callahan

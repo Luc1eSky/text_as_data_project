@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1546085181
+primary_isbn13: 9781546085188
+publisher: Center Street
+description: The Fox News host posits those she labels anti-Trump conspirators have committed possible crimes and a plot to destroy liberty.
+title: Radicals, Resistance And Revenge
+author: Jeanine Pirro
+amazon_product_url: https://www.amazon.com/Radicals-Resistance-Revenge-Remake-America/dp/1546085181?tag=NYTBSREV-20
+list_date: 2019/10/06
+published_data: 2019-08-27
+summary: Picking up where her #1 New York Times bestseller, Liars, Leakers and Liberals, left off, Judge Jeanine Pirro exposes the latest chapter in the unfolding liberal attack on our most basic values. For two long years, Donald Trump's presidency has been under siege by the Left and their Deep State fellow travelers who concocted an outrageous case of conspiracy with Russia to keep Trump from doing what he was elected to do: secure America's borders, revive its economy, drain the Washington, D.C. Swamp and restore our constitutional republic. Now that Special Counsel Robert Mueller's investigation has vindicated the Trump campaign and administration, the Department of Justice is hot on the trail of Comey, Brennan, Clapper and the rest of the gang of conspirators who tried to overturn the 2016 election. The Left has dropped all pretense of civility, fairness or decency, revealing the real reason they were so desperate to destroy President Trump. He was the one man who stood in the way of their radical plan to remake America. Judge Pirro's last book, #1 NY Times bestseller, Liars, Leakers and Liberals, exposed the plot to destroy first the Trump campaign and then the Trump administration. Picking up where she left off, Radicals, Resistance and Revenge features Judge Jeanine's keen analysis of explosive new information revealed about the anti-Trump conspirators, their corrupt methods and possible crimes, and dissects the Left's subversive plot against the foundation of American liberty. Overturning presidential elections, nationalizing private industries like healthcare and education, destroying America's borders, erasing its national identity and effectively silencing conservative voices in the cybersphere and public square are just a few examples of the lengths to which the far-left progressives and socialists will go to destroy the America we love and remake it into something unrecognizable: borderless, socialist, and free of any moral compass. Only Donald Trump and his army of patriots can stop this radical plan. Judge Jeanine is sounding the alarm and calling out those who despise our most cherished ideals and institutions, to warn patriotic Americans before it's too late.
+author_new0: Jeanine Pirro

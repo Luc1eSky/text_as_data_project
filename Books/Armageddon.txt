@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1630060585
+primary_isbn13: 9781630060589
+publisher: Humanix
+description: The political strategist offers a game plan for how to defeat Hillary Clinton.
+title: Armageddon
+author: Dick Morris and Eileen McGann
+amazon_product_url: http://www.amazon.com/Armageddon-How-Trump-Beat-Hillary-ebook/dp/B01FCLLLDQ?tag=NYTBSREV-20
+list_date: 2016/10/09
+published_date: 2016-06-28
+summary: Morris and McGann provide "a strategy for winning back the White House in 2016 and putting an end to [what they see as] the Obama agenda of ruinous socialism"--

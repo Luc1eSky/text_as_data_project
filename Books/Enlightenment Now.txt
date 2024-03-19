@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 6
+primary_isbn10: 0525427570
+primary_isbn13: 9780525427575
+publisher: Viking
+description: A case for using reason, science and humanism to counter pessimistic views of Western civilization.
+title: Enlightenment Now
+author: Steven Pinker
+amazon_product_url: https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570?tag=NYTBSREV-20
+list_date: 2018/04/08
+published_date: 2018-02-13
+summary: INSTANT NEW YORK TIMES BESTSELLER A NEW YORK TIMES NOTABLE BOOK OF 2018 ONE OF THE ECONOMIST'S BOOKS OF THE YEAR "My new favorite book of all time." --Bill Gates If you think the world is coming to an end, think again: people are living longer, healthier, freer, and happier lives, and while our problems are formidable, the solutions lie in the Enlightenment ideal of using reason and science. By the author of the new book, Rationality. Is the world really falling apart? Is the ideal of progress obsolete? In this elegant assessment of the human condition in the third millennium, cognitive scientist and public intellectual Steven Pinker urges us to step back from the gory headlines and prophecies of doom, which play to our psychological biases. Instead, follow the data: In seventy-five jaw-dropping graphs, Pinker shows that life, health, prosperity, safety, peace, knowledge, and happiness are on the rise, not just in the West, but worldwide. This progress is not the result of some cosmic force. It is a gift of the Enlightenment: the conviction that reason and science can enhance human flourishing. Far from being a naïve hope, the Enlightenment, we now know, has worked. But more than ever, it needs a vigorous defense. The Enlightenment project swims against currents of human nature--tribalism, authoritarianism, demonization, magical thinking--which demagogues are all too willing to exploit. Many commentators, committed to political, religious, or romantic ideologies, fight a rearguard action against it. The result is a corrosive fatalism and a willingness to wreck the precious institutions of liberal democracy and global cooperation. With intellectual depth and literary flair, Enlightenment Now makes the case for reason, science, and humanism: the ideals we need to confront our problems and continue our progress.

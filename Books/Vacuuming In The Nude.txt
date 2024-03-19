@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1637630999
+primary_isbn13: 9781637630990
+publisher: Forefront
+description: Stories of vacation mishaps, writers’ conferences and a cancer support group.
+title: Vacuuming In The Nude
+author: Peggy Rowe
+amazon_product_url: https://www.amazon.com/dp/1637630999?tag=NYTBSREV-20
+list_date: 2022/09/04
+published_data: 2022-08-16
+summary: Rowe has been writing all of her adult life- even through years of constant rejection from publishing houses. Between her tenacity and the encouragement of her family, her breakthrough finally came-- at the age of eighty! Here she shares her journey of attending myriad writers' conferences and honing her ability to see humor in everyday situations. Along the way Rowe delivers a hilarious array of stories that reflect her addiction to making people laugh. Even in her cancer support group, she manages to use her humor to affect others for the good. -- adapted from jacket
+author_new0: Peggy Rowe

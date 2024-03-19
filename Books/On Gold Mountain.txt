@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1101910089
+primary_isbn13: 9781101910085
+publisher: RosettaBooks
+description: A multi-generational portrait of a Chinese-American family’s experience in the United States, the title’s “Gold Mountain.”
+title: On Gold Mountain
+author: Lisa See
+amazon_product_url: http://www.amazon.com/On-Gold-Mountain-Lisa-See/dp/0307950395?tag=NYTBSREV-20
+list_date: 2015/06/28
+published_date: 2014-08-20
+summary: Out of the stories heard in her childhood in Los Angeles's Chinatown and years of research, See has constructed this sweeping chronicle of her Chinese-American family, a work that takes in stories of racism and romance, entrepreneurial genius and domestic heartache, secret marriages and sibling rivalries, in a powerful history of two cultures meeting in a new world. 82 photos.

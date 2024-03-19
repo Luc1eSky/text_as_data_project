@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1324003316
+primary_isbn13: 9781324003311
+publisher: Norton
+description: In a hand-picked collection of 101 letters, the celebrity astrophysicist answers a vast array of questions from science to faith and Pluto.
+title: Letters From An Astrophysicist
+author: Neil deGrasse Tyson
+amazon_product_url: https://www.amazon.com/Letters-Astrophysicist-Neil-deGrasse-Tyson/dp/1324003316?tag=NYTBSREV-20
+list_date: 2019/10/27
+published_data: 2019-10-08
+summary: New York Times Bestseller A luminous companion to the phenomenal bestseller Astrophysics for People in a Hurry. Astrophysicist Neil deGrasse Tyson has attracted one of the world’s largest online followings with his fascinating, widely accessible insights into science and our universe. Now, Tyson invites us to go behind the scenes of his public fame by revealing his correspondence with people across the globe who have sought him out in search of answers. In this hand-picked collection of 101 letters, Tyson draws upon cosmic perspectives to address a vast array of questions about science, faith, philosophy, life, and of course, Pluto. His succinct, opinionated, passionate, and often funny responses reflect his popularity and standing as a leading educator. Tyson’s 2017 bestseller Astrophysics for People in a Hurry offered more than one million readers an insightful and accessible understanding of the universe. Tyson’s most candid and heartfelt writing yet, Letters from an Astrophysicist introduces us to a newly personal dimension of Tyson’s quest to explore our place in the cosmos.
+author_new0: Neil deGrasse Tyson

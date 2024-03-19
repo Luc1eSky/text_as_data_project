@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 4
+primary_isbn10: 1524762938
+primary_isbn13: 9781524762933
+publisher: Crown
+description: The decline of democracies in Europe and Latin America and ways to avoid authoritarianism.
+title: How Democracies Die
+author: Steven Levitsky and Daniel Ziblatt
+amazon_product_url: https://www.amazon.com/How-Democracies-Die-Steven-Levitsky/dp/1524762938?tag=NYTBSREV-20
+list_date: 2018/02/25
+published_date: 2018
+summary: Fateful alliances -- Gatekeeping in America -- The great Republican abdication -- Subverting democracy -- The guardrails of democracy -- The unwritten rules of American politics -- The unraveling -- Trump against the guardrails -- Saving democracy

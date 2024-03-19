@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 2
+primary_isbn10: 0060929081
+primary_isbn13: 9780060929084
+publisher: HarperCollins
+description: This book by the newly appointed national security adviser, originally published in 1997, argues that officers of the Joint Chiefs of Staff failed to give President Johnson candid advice about the Vietnam War.
+title: Dereliction Of Duty
+author: H R McMaster
+amazon_product_url: https://www.amazon.com/Dereliction-Duty-Johnson-McNamara-Chiefs-ebook/dp/B004HW7834?tag=NYTBSREV-20
+list_date: 2017/03/19
+published_date: 1998-05-08
+summary: "The war in Vietnam was not lost in the field, nor was it lost on the front pages of the New York Times or the college campuses. It was lost in Washington, D.C." - H. R. McMaster (from the Conclusion) Dereliction Of Duty is a stunning new analysis of how and why the United States became involved in an all-out and disastrous war in Southeast Asia. Fully and convincingly researched, based on recently released transcripts and personal accounts of crucial meetings, confrontations and decisions, it is the only book that fully re-creates what happened and why. It also pinpoints the policies and decisions that got the United States into the morass and reveals who made these decisions and the motives behind them, disproving the published theories of other historians and excuses of the participants. Dereliction Of Duty covers the story in strong narrative fashion, focusing on a fascinating cast of characters: President Lyndon Johnson, Robert McNamara, General Maxwell Taylor, McGeorge Bundy and other top aides who deliberately deceived the Joint Chiefs of Staff, the U.S. Congress and the American public. Sure to generate controversy, Dereliction Of Duty is an explosive and authoritative new look at the controversy concerning the United States involvement in Vietnam.

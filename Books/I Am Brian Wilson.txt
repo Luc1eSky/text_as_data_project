@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0306823063
+primary_isbn13: 9780306823060
+publisher: Da Capo
+description: A memoir by the Beach Boys co-founder describes his upbringing by an abusive father, his long struggle with mental illness and the production of the Beach Boys’ music.
+title: I Am Brian Wilson
+author: Brian Wilson and Ben Greenman
+amazon_product_url: http://www.amazon.com/I-Am-Brian-Wilson-Memoir-ebook/dp/B01I5LVFUE?tag=NYTBSREV-20
+list_date: 2016/10/30
+published_date: 2016-10-11
+summary: Memoir of legendary Beach Boy member Brian Wilson

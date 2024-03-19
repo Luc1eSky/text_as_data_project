@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0061959162
+primary_isbn13: 9780061959165
+publisher: HarperCollins
+description: An examination of Anne Frank’s powerful global legacy.
+title: Anne Frank
+author: Francine Prose
+amazon_product_url: http://www.amazon.com/Anne-Frank-Francine-Prose-ebook/dp/B002PEP4FK?tag=NYTBSREV-20
+list_date: 2015/03/29
+published_date: 2009-09-29
+summary: “Prose’s book is a stunning achievement. . . . Now Anne Frank stands before us. . . a figure who will live not only in history but also in the literature she aspired to create.” — Minneapolis Star Tribune In June, 1942, Anne Frank received a diary for her thirteenth birthday, just weeks before she and her family went into hiding from the Nazis in an Amsterdam attic. For two years, she described life in hiding in vivid, unforgettable detail and grappled with the unfolding events of World War II. Before the attic was raided in August, 1944, Anne Frank furiously revised and edited her work, crafting a piece of literature that she hoped would be read by the public after the war. And read it has been. In Anne Frank, bestselling author Francine Prose deftly parses the artistry, ambition, and enduring influence of Anne Frank’s beloved classic, The Diary of a Young Girl. She investigates the diary’s unique afterlife: the obstacles and criticism Otto Frank faced in publishing his daughter’s words; the controversy surrounding the diary’s Broadway and film adaptations, and the social mores of the 1950s that reduced it to a tale of adolescent angst and love; the conspiracy theories that have cried fraud, and the scientific analysis that proved them wrong. Finally, having assigned the book to her own students, Prose considers the rewards and challenges of teaching one of the world’s most read, and banned, books. How has the life and death of one girl become emblematic of the lives and deaths of so many, and why do her words continue to inspire? Approved by both the Anne Frank House Foundation in Amsterdam and the Anne Frank-Fonds in Basel, run by the Frank family, Anne Frank unravels the fascinating story of a memoir that has become one of the most compelling, intimate, and important documents of modern history.

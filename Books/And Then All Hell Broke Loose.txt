@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1451635117
+primary_isbn13: 9781451635119
+publisher: Simon & Schuster
+description: NBC’s chief foreign correspondent discusses the Arab Spring and war in the Middle East.
+title: And Then All Hell Broke Loose
+author: Richard Engel
+amazon_product_url: http://www.amazon.com/And-Then-Hell-Broke-Loose-ebook/dp/B010MHAJTW?tag=NYTBSREV-20
+list_date: 2016/04/03
+published_date: 2016-02-09
+summary: When he was just twenty-three, a recent graduate of Stanford University, Richard Engel set off to Cairo with $2,000 and dreams of being a reporter. Shortly thereafter he was working freelance for Arab news sources and got a call that a busload of Italian tourists were massacred at a Cairo museum. This was his first view of the carnage these years would pile on. Over two decades, Engel has been under fire, blown out of hotel beds, and taken hostage. He has watched Mubarak and Morsi in Egypt arrested and condemned, reported from Jerusalem, been through the Lebanese war, covered the whole shooting match in Iraq, interviewed Libyan rebels who toppled Gaddafi, reported from Syria as Al-Qaeda stepped in, and was kidnapped in the Syrian crosscurrents of fighting. He goes into Afghanistan with the Taliban and to Iraq with ISIS. Engel takes chances, though not reckless ones, keeps a level head and a sense of humor, as well as a grasp of history in the making. Reporting as NBC's chief foreign correspondent, he reveals his unparalleled access to the major figures, the gritty soldiers, and the helpless victims in the Middle East during this watershed time.

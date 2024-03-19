@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0525559108
+primary_isbn13: 9780525559108
+publisher: Penguin Press
+description: The New York Times columnist gives a deconstruction of the various accounts of what happened leading up to the 2016 presidential election.
+title: Deep State
+author: James B Stewart
+amazon_product_url: https://www.amazon.com/Deep-State-Trump-FBI-Rule/dp/0525559108?tag=NYTBSREV-20
+list_date: 2019/10/27
+published_data: 2019-10-08
+summary: There are questions that the Mueller report couldn't -- or wouldn't -- answer. What instigated the Russia investigation? Did President Trump's meddling incriminate him? There's no mystery to what Trump thinks. He claims that the Deep State, a cabal of career bureaucrats, is concerned only with protecting its own power and undermining the democratic process. Conversely, James Comey has defended the FBI as incorruptible apolitical public servants who work tirelessly to uphold the rule of law. James B. Stewart sifts these conflicting accounts to present a clear-eyed view of what happened inside the FBI in the lead-up to the 2016 election, drawing on scores of interviews with key FBI, Department of Justice, and White House officials and voluminous transcripts, notes, and internal reports.This is the saga of the FBI's simultaneous investigations of both Hillary Clinton and Donald Trump. Stewart shows what was set in motion when Trump fired Comey, triggering the appointment of Robert Mueller as an independent special counsel and causing the FBI to open a formal investigation into the president himself. This unprecedented event joined in ongoing combat the presidency and the Federal Bureau of Investigation. There is no room for compromise, but plenty for collateral damage. Deep State goes beyond the limits of the legally constrained Mueller report, showing how the president's obsession with the idea of a conspiracy against him is still upending lives and sending shockwaves through both the FBI and the Department of Justice.
+author_new0: James B Stewart

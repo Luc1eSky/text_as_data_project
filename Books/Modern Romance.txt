@@ -1,0 +1,10 @@
+rank: 10
+weeks_on_list: 20
+primary_isbn10: None
+primary_isbn13: 9780698179967
+publisher: Penguin
+description: The comedian enlists a sociologist to help him understand today’s dating scene.
+title: Modern Romance
+author: Aziz Ansari with Eric Klinenberg
+amazon_product_url: http://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG?tag=NYTBSREV-20
+list_date: 2016/08/21

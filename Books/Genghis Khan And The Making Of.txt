@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0307237818
+primary_isbn13: 9780307237811
+publisher: Broadway
+description: A portrayal of the conqueror as a visionary; first published in 2004.
+title: Genghis Khan And The Making Of The Modern World
+author: Jack Weatherford
+amazon_product_url: http://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206?tag=NYTBSREV-20
+list_date: 2014/10/12
+published_date: 2005-03-22
+summary: New York Times Bestseller • The startling true history of how one extraordinary man from a remote corner of the world created an empire that led the world into the modern age. The Mongol army led by Genghis Khan subjugated more lands and people in twenty-five years than the Romans did in four hundred. In nearly every country the Mongols conquered, they brought an unprecedented rise in cultural communication, expanded trade, and a blossoming of civilization. Vastly more progressive than his European or Asian counterparts, Genghis Khan abolished torture, granted universal religious freedom, and smashed feudal systems of aristocratic privilege. From the story of his rise through the tribal culture to the explosion of civilization that the Mongol Empire unleashed, this brilliant work of revisionist history is nothing less than the epic story of how the modern world was made.

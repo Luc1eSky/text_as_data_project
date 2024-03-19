@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1982160594
+primary_isbn13: 9781982160593
+publisher: Gallery
+description: The 10-time N.B.A. All-Star’s life story from the housing projects of Red Hook, Brooklyn and Baltimore to his achievements on the basketball court.
+title: Where Tomorrows Aren'T Promised
+author: Carmelo Anthony with D. Watkins
+amazon_product_url: https://www.amazon.com/dp/1982160594?tag=NYTBSREV-20
+list_date: 2021/10/03
+published_data: 2021-09-14
+summary: "A memoir of survival and hope"--Jacket.
+author_new0: Carmelo Anthony
+author_new1: D. Watkins

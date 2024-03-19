@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1250087104
+primary_isbn13: 9781250087102
+publisher: St. Martin's
+description: A friend of Adnan Syed, whose murder case was the focus of the popular podcast “Serial,” maintains his innocence.
+title: Adnan'S Story
+author: Rabia Chaudry
+amazon_product_url: http://www.amazon.com/Adnans-Story-Search-Justice-Serial-ebook/dp/B018E6TTPS?tag=NYTBSREV-20
+list_date: 2016/08/28
+published_date: 2016-08-09
+summary: With intimate details and newly-uncovered evidence Adnan's Story goes beyond what the hit podcast Serial covered in it's investigation of Adnan Syed's case.

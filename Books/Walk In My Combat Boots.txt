@@ -1,0 +1,15 @@
+rank: 15
+weeks_on_list: 6
+primary_isbn10: 0316429090
+primary_isbn13: 9780316429092
+publisher: Little, Brown
+description: A collection of interviews with troops who fought overseas.
+title: Walk In My Combat Boots
+author: James Patterson and Matt Eversmann with Chris Mooney
+amazon_product_url: https://www.amazon.com/dp/0316429090?tag=NYTBSREV-20
+list_date: 2021/04/04
+published_data: 2021-02-08
+summary: Soldiers, sailors, airmen, and Marines speak in their own words about real life in today's armed forces. Walk in my Combat Boots is a powerful collection of never-before-told war stories crafted from hundreds of original interviews by James Patterson, America's most trusted storyteller, and First Sergeant US Army (Ret.) Matt Eversmann, part of the Ranger unit involved in the infamous Battle of Mogadishu portrayed in the movie Black Hawk Down. These are the brutally honest stories usually only shared amongst comrades in arms. Here, in the voices of the men and women who've fought overseas from Vietnam to Iraq and Afghanistan, is a rare eye-opening look into what wearing the uniform, fighting in combat, losing friends and coming home is really like. Readers who next thank a military member for their service will finally have a true understanding of what that thanks is for.
+author_new0: James Patterson
+author_new1: Matt Eversmann
+author_new2: Chris Mooney

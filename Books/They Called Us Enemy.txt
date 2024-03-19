@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1603094504
+primary_isbn13: 9781603094504
+publisher: Top Shelf Productions
+description: A graphic novel of Mr. Takei’s firsthand experiences while imprisoned in a Japanese American internment camp during World War II.
+title: They Called Us Enemy
+author: George Takei, Justin Eisinger and Steven Scott
+amazon_product_url: https://www.amazon.com/They-Called-Enemy-George-Takei/dp/1603094504?tag=NYTBSREV-20
+list_date: 2019/08/04
+published_data: 2019-07-16
+summary: New York Times Bestseller! A stunning graphic memoir recounting actor/author/activist George Takei's childhood imprisoned within American concentration camps during World War II. Experience the forces that shaped an American icon -- and America itself -- in this gripping tale of courage, country, loyalty, and love. George Takei has captured hearts and minds worldwide with his captivating stage presence and outspoken commitment to equal rights. But long before he braved new frontiers in Star Trek, he woke up as a four-year-old boy to find his own birth country at war with his father's -- and their entire family forced from their home into an uncertain future. In 1942, at the order of President Franklin D. Roosevelt, every person of Japanese descent on the west coast was rounded up and shipped to one of ten "relocation centers," hundreds or thousands of miles from home, where they would be held for years under armed guard. They Called Us Enemy is Takei's firsthand account of those years behind barbed wire, the joys and terrors of growing up under legalized racism, his mother's hard choices, his father's faith in democracy, and the way those experiences planted the seeds for his astonishing future. What does it mean to be American? Who gets to decide? When the world is against you, what can one person do? To answer these questions, George Takei joins co-writers Justin Eisinger & Steven Scott and artist Harmony Becker for the journey of a lifetime.
+author_new0: George Takei, Justin Eisinger
+author_new1: Steven Scott

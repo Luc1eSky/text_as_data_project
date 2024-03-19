@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1668015986
+primary_isbn13: 9781668015988
+publisher: Atria
+description: The former chief of staff at the Department of Homeland Security, who revealed himself to be the author of “A Warning,” gives his take on where Trumpism might be headed.
+title: Blowback
+author: Miles Taylor
+amazon_product_url: https://www.amazon.com/dp/1668015986?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2023-07-18
+summary: The author behind the “eye-popping” (CNN) #1 New York Times bestseller A Warning presents an urgent look at how our deeply divided nation is setting the stage for “The Next Trump.” Donald Trump will be president again, whether he is on the ballot or not. That is because Trumpism is overtaking the Republican Party and will mount a vigorous comeback, potentially in the hands of a savvier successor—The Next Trump. This prophecy will come true, according to Miles Taylor, if we do not learn the lessons of the recent past. With the 2024 election approaching, the formerly “Anonymous” official is back with bombshell revelations and a sobering national forecast. Through interviews with dozens of ex-Trump aides and government leaders, Taylor predicts what could happen inside “Trump 2.0,” the White House of a more competent and more formidable copycat. What sounds like a political thriller—from shadowy presidential powers and CIA betrayals to angry henchmen and assassination plots—is instead America’s political reality, as Taylor uses untold stories to shed light on the ex-President’s unfulfilled plans, the dark forces haunting our civic lives, and how we can thwart the rise of extremism in the United States. Blowback is also a surprisingly emotional and self-critical portrait of a dissenter, whose own unmasking provides a vivid warning about what happens when we hide the truth from others and, most importantly, ourselves.
+author_new0: Miles Taylor

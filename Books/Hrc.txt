@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0804136750
+primary_isbn13: 9780804136754
+publisher: Crown
+description: An account of Hillary Clinton’s years in the State Department.
+title: Hrc
+author: Jonathan Allen and Amie Parnes
+amazon_product_url: http://www.amazon.com/HRC-Secrets-Rebirth-Hillary-Clinton-ebook/dp/B00ERTEPKG?tag=NYTBSREV-20
+list_date: 2014/03/02
+published_date: 2014
+summary: "An examination of the strategy behind Hillary Clinton's political revitalization and her comeback in the US and abroad"--

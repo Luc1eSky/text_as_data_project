@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 0307889165
+primary_isbn13: 9780307889164
+publisher: Harmony
+description: Defining a human universe in which each of us is a co-creator of reality.
+title: You Are The Universe
+author: Deepak Chopra and Menas Kafatos
+amazon_product_url: https://www.amazon.com/You-Are-Universe-Discovering-Matters/dp/0307889165?tag=NYTBSREV-20
+list_date: 2017/03/05
+published_date: 2017
+summary: "New York Times bestselling author Deepak Chopra joins forces with leading physicist Menas Kafatos to explore some of the most important and baffling questions about our place in the world"--Amazon.com.

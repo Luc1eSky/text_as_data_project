@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1400063361
+primary_isbn13: 9781400063369
+publisher: Random House
+description: The hunt for a 17th-century pirate ship.
+title: Pirate Hunters
+author: Robert Kurson
+amazon_product_url: http://www.amazon.com/Pirate-Hunters-Treasure-Obsession-Legendary-ebook/dp/B00NDTV6W6?tag=NYTBSREV-20
+list_date: 2015/07/05
+published_date: 2015-06
+summary: Traces the high-stakes quest of John Mattera and Shadow Divers' Chatterton to find the lost pirate ship of Joseph Bannister, discussing their teamwork with technology-eschewing Tracy Bowden and the story behind Bannister's elusive treasure. By aNew York Times best-selling author. Illustrations. Map(s). Tour.

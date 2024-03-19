@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1101875550
+primary_isbn13: 9781101875551
+publisher: Knopf
+description: The Pulitzer Prize-winning novelist describes learning to write in another language, Italian.
+title: In Other Words
+author: Jhumpa Lahiri
+amazon_product_url: http://www.amazon.com/In-Other-Words-Jhumpa-Lahiri/dp/1101875550?tag=NYTBSREV-20
+list_date: 2016/02/28
+published_date: 2016
+summary: "A series of reflections on the author's experiences learning a new language and living abroad, in a dual-language edition"--

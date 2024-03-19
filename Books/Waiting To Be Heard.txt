@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9780062217226
+publisher: Harper
+description: Knox, who was convicted of the murder of her roommate in 2009 when she was an American student in Italy — a conviction that has since been overturned — tells her story.
+title: Waiting To Be Heard
+author: Amanda Knox
+amazon_product_url: http://www.amazon.com/Waiting-Be-Heard-A-Memoir/dp/0062217208?tag=NYTBSREV-20
+list_date: 2015/04/19
+published_date: 2021-09-15
+summary: N/A

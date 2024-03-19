@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0525654976
+primary_isbn13: 9780525654971
+publisher: Knopf
+description: When her writing mentor Daniel Pearl is captured and beheaded, an Oxford student's life changes course and she becomes a member of a clandestine ops unit of the C.I.A.
+title: Life Undercover
+author: Amaryllis Fox
+amazon_product_url: https://www.amazon.com/Life-Undercover-Coming-Age-CIA/dp/0525654976?tag=NYTBSREV-20
+list_date: 2019/11/03
+published_data: 2019
+summary: Fox's riveting memoir tells the story of her 10 years in the most elite clandestine ops unit of the CIA, hunting the world's most dangerous terrorists in 16 countries while marrying and giving birth to a daughter.
+author_new0: Amaryllis Fox

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 006202423X
+primary_isbn13: 9780062024237
+publisher: HarperOne/HarperCollins
+description: A retelling of the life of Christ, based on scholarship, personal stories and the Christian tradition, by a Jesuit priest.
+title: Jesus
+author: James Martin
+amazon_product_url: http://www.amazon.com/Jesus-A-Pilgrimage-James-Martin/dp/006202423X?tag=NYTBSREV-20
+list_date: 2014/03/30
+published_date: 2014-03-11
+summary: A gifted storyteller and spiritual director, Father James Martin, SJ, invites readers to experience the stories of the Gospels in a completely new, vivid, and exciting way to gain a deeper understanding of Jesus. Moving sequentially through the Gospels, considering not only familiar passages but also the "hidden life" of Jesus, the book offers a bold retelling of the life of Christ, faithful to the Christian tradition, while meditating on parts of the narrative that have often escaped notice. Martin provides personal stories from his own life, the most up-to-date biblical scholarship, and powerful anecdotes from beloved spiritual teachers, and brings the reader along on his own real-life travels through the Holy Land. Combining the fascinating insights of historical Jesus studies with profound spiritual reflections about the Christ of faith, Martin re-creates the world of first-century Galilee and Judea to usher us into Jesus's life and times and reveal how Jesus speaks to us today. Jesus: A Pilgrimage is an invitation to know Jesus as Father Martin knows him: Messiah and Savior, as well as friend and brother.

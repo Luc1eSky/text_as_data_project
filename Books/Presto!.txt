@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1501140183
+primary_isbn13: 9781501140181
+publisher: Simon & Schuster
+description: The magician's story of how he lost 100 pounds on a "potato diet" includes his trademark humor and social commentary.
+title: Presto!
+author: Penn Jillette
+amazon_product_url: http://www.amazon.com/Presto-Pounds-Disappear-Other-Magical/dp/1501140183?tag=NYTBSREV-20
+list_date: 2016/08/21
+published_date: 2016-08-02
+summary: The legendary magician and speaking half of Penn & Teller discusses, with humor and biting social commentary, his unconventional, rapid weight loss through a vegetarian plan, dubbed the "potato diet," developed by a former NASA scientist and inventor.

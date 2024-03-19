@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0061741213
+primary_isbn13: 9780061741210
+publisher: HarperOne
+description: The story of the great American Indian leader and his people’s doomed bid for freedom.
+title: Chief Joseph & The Flight Of The Nez Perce
+author: Kent Nerburn
+amazon_product_url: http://www.amazon.com/Chief-Joseph-Flight-Nez-Perce-ebook/dp/B000FCKH2O?tag=NYTBSREV-20
+list_date: 2015/08/02
+published_date: 2009-10-13
+summary: Hidden in the shadow cast by the great western expeditions of Lewis and Clark lies another journey every bit as poignant, every bit as dramatic, and every bit as essential to an understanding of who we are as a nation -- the 1,800-mile journey made by Chief Joseph and eight hundred Nez Perce men, women, and children from their homelands in what is now eastern Oregon through the most difficult, mountainous country in western America to the high, wintry plains of Montana. There, only forty miles from the Canadian border and freedom, Chief Joseph, convinced that the wounded and elders could go no farther, walked across the snowy battlefield, handed his rifle to the U.S. military commander who had been pursuing them, and spoke his now-famous words, "From where the sun now stands, I will fight no more forever." The story has been told many times, but never before in its entirety or with such narrative richness. Drawing on four years of research, interviews, and 20,000 miles of travel, Nerburn takes us beyond the surrender to the captives' unlikely welcome in Bismarck, North Dakota, their tragic eight-year exile in Indian Territory, and their ultimate return to the Northwest. Nerburn reveals the true, complex character of Joseph, showing how the man was transformed into a myth by a public hungry for an image of the noble Indian and how Joseph exploited the myth in order to achieve his single goal of returning his people to their homeland. Chief Joseph & the Flight of the Nez Perce is far more than the story of a man and a people. It is a grand saga of a pivotal time in our nation's history. Its pages are alive with the presence of Lewis and Clark, General William Tecumseh Sherman, General George Armstrong Custer, and Sitting Bull. Its events brush against the California Gold Rush, the Civil War, the great western pioneer migration, and the building of the telegraph and the transcontinental railroad. Once you have read this groundbreaking work, you will never look at Chief Joseph, the American Indian, or our nation's westward journey in the same way again.

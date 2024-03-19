@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 2
+primary_isbn10: 1250765781
+primary_isbn13: 9781250765789
+publisher: Andy Cohen
+description: An oral history of the reality TV franchise “The Real Housewives.”
+title: Not All Diamonds And Rosé
+author: Dave Quinn
+amazon_product_url: https://www.amazon.com/dp/1250765781?tag=NYTBSREV-20
+list_date: 2021/11/14
+published_data: 2021-10-19
+summary: Welcome to the ultimate Real Housewives reunion!Not All Diamonds and Rosé is the definitive oral history of the hit television franchise, from its unlikely start in the gated communities of Orange County to the pop culture behemoth it has become--spanning eight cities, hundreds of cast members, and millions of fans. What is it really like to be a housewife? We all want to know, but only the women we love to watch and the people who make the show have the whole story. Well, listen in close, because they're about to tell all. Nearly all the wives, producers, and network executives, as well as Andy Cohen himself, are on the record, unfiltered and unvarnished about what it really takes to have a tagline. This is your VIP pass to the lives behind the glam squads, testimonials, and tabloid feuds. Life's not all diamonds and rosé, but the truth is so much better, isn't it?Includes Color Photographs
+author_new0: Dave Quinn

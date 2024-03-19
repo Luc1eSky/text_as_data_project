@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0399184120
+primary_isbn13: 9780399184123
+publisher: Blue Rider
+description: Imagining the contemporary world as it will appear to those for whom it will be the distant past.
+title: But What If We'Re Wrong?
+author: Chuck Klosterman
+amazon_product_url: http://www.amazon.com/But-What-If-Were-Wrong/dp/0399184120?tag=NYTBSREV-20
+list_date: 2016/07/24
+published_date: 2016
+summary: But What If We're Wrong? visualizes the contemporary world as it will appear to those who'll perceive it as the distant past. Chuck Klosterman asks questions that are profound in their simplicity: How certain are we about our understanding of gravity? How certain are we about our understanding of time? What will be the defining memory of rock music, five hundred years from today? How seriously should we view the content of our dreams? How seriously should we view the content of television? Are all sports destined for extinction? Is it possible that the greatest artist of our era is currently unknown (or--weirder still--widely known, but entirely disrespected)? Is it possible that we "overrate" democracy? And perhaps most disturbing, is it possible that we've reached the end of knowledge? Kinetically slingshotting through a broad spectrum of objective and subjective problems, But What If We're Wrong? is built on interviews with a variety of creative thinkers--George Saunders, David Byrne, Jonathan Lethem, Kathryn Schulz, Neil deGrasse Tyson, Brian Greene, Junot Díaz, Amanda Petrusich, Ryan Adams, Nick Bostrom, Dan Carlin, and Richard Linklater, among others--interwoven with the type of high-wire humor and nontraditional analysis only Klosterman would dare to attempt. It's a seemingly impossible achievement: a book about the things we cannot know, explained as if we did. It's about how we live now, once "now" has become "then."

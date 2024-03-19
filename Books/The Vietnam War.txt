@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0307700259
+primary_isbn13: 9780307700254
+publisher: Knopf
+description: A companion to the PBS series by Ken Burns and Lynn Novick that looks at the events and the legacy of the war.
+title: The Vietnam War
+author: Geoffrey C Ward
+amazon_product_url: https://www.amazon.com/Vietnam-War-Intimate-History/dp/0307700259?tag=NYTBSREV-20
+list_date: 2017/10/08
+published_date: 2017-09-05
+summary: From the award-winning historian and filmmakers of The Civil War, Baseball, The War, The Roosevelts, and others: a vivid, uniquely powerful history of the conflict that tore America apart--the companion volume to the major, multipart PBS film to be aired in September 2017. More than forty years after it ended, the Vietnam War continues to haunt our country. We still argue over why we were there, whether we could have won, and who was right and wrong in their response to the conflict. When the war divided the country, it created deep political fault lines that continue to divide us today. Now, continuing in the tradition of their critically acclaimed collaborations, the authors draw on dozens and dozens of interviews in America and Vietnam to give us the perspectives of people involved at all levels of the war: U.S. and Vietnamese soldiers and their families, high-level officials in America and Vietnam, antiwar protestors, POWs, and many more. The book plunges us into the chaos and intensity of combat, even as it explains the rationale that got us into Vietnam and kept us there for so many years. Rather than taking sides, the book seeks to understand why the war happened the way it did, and to clarify its complicated legacy. Beautifully written and richly illustrated, this is a tour de force that is certain to launch a new national conversation.

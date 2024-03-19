@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0062355929
+primary_isbn13: 9780062355928
+publisher: Harper Perennial
+description: A look at an era and a life through the eyes of the first lady and humanitarian.
+title: The Autobiography Of Eleanor Roosevelt
+author: Eleanor Roosevelt
+amazon_product_url: http://www.amazon.com/The-Autobiography-Eleanor-Roosevelt-ebook/dp/B00ICN4ZUI?tag=NYTBSREV-20
+list_date: 2015/03/29
+published_date: 2014-10-21
+summary: A candid and insightful look at an era and a life through the eyes of one of the most remarkable Americans of the twentieth century, First Lady and humanitarian Eleanor Roosevelt. The daughter of one of New York’s most influential families, niece of Theodore Roosevelt, and wife of President Franklin Delano Roosevelt, Eleanor Roosevelt witnessed some of the most remarkable decades in modern history, as America transitioned from the Gilded Age, the Progressive Era, and the Depression to World War II and the Cold War. A champion of the downtrodden, Eleanor drew on her experience and used her role as First Lady to help those in need. Intimately involved in her husband’s political life, from the governorship of New York to the White House, Eleanor would eventually become a powerful force of her own, heading women’s organizations and youth movements, and battling for consumer rights, civil rights, and improved housing. In the years after FDR’s death, this inspiring, controversial, and outspoken leader would become a U.N. Delegate, chairman of the Commission on Human Rights, a newspaper columnist, Democratic party activist, world-traveler, and diplomat devoted to the ideas of liberty and human rights. This single volume biography brings her into focus through her own words, illuminating the vanished world she grew up, her life with her political husband, and the post-war years when she worked to broaden cooperation and understanding at home and abroad. The Autobiography of Eleanor Roosevelt includes 16 pages of black-and-white photos.

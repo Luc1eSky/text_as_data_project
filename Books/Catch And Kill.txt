@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 11
+primary_isbn10: 0316486639
+primary_isbn13: 9780316486637
+publisher: Little, Brown
+description: The Pulitzer Prize-winning reporter details some surveillance and intimidation tactics used to pressure journalists and elude consequences by certain wealthy and connected men.
+title: Catch And Kill
+author: Ronan Farrow
+amazon_product_url: https://www.amazon.com/Catch-Kill-Conspiracy-Protect-Predators/dp/0316486639?tag=NYTBSREV-20
+list_date: 2020/02/16
+published_data: 2019-10-15
+summary: In this instant New York Times bestselling account of violence and espionage, Pulitzer Prize-winning investigative reporter Ronan Farrow exposes serial abusers and a cabal of powerful interests hell-bent on covering up the truth, at any cost. In 2017, a routine network television investigation led Ronan Farrow to a story only whispered about: one of Hollywood's most powerful producers was a predator, protected by fear, wealth, and a conspiracy of silence. As Farrow drew closer to the truth, shadowy operatives, from high-priced lawyers to elite war-hardened spies, mounted a secret campaign of intimidation, threatening his career, following his every move, and weaponizing an account of abuse in his own family. All the while, Farrow and his producer faced a degree of resistance they could not explain -- until now. And a trail of clues revealed corruption and cover-ups from Hollywood to Washington and beyond. This is the untold story of the exotic tactics of surveillance and intimidation deployed by wealthy and connected men to threaten journalists, evade accountability, and silence victims of abuse. And it's the story of the women who risked everything to expose the truth and spark a global movement. Both a spy thriller and a meticulous work of investigative journalism, Catch and Kill breaks devastating new stories about the rampant abuse of power and sheds far-reaching light on investigations that shook our culture. INDIE BOUND #1 BESTSELLERUSA TODAY BESTSELLERWALL STREET JOURNAL BESTSELLER
+author_new0: Ronan Farrow

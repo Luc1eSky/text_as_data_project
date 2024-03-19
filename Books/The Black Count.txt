@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0307952959
+primary_isbn13: 9780307952950
+publisher: Crown
+description: A biography of the first Alexandre Dumas, a mixed-race general of the French Revolution.
+title: The Black Count
+author: Tom Reiss
+amazon_product_url: http://www.amazon.com/The-Black-Count-Revolution-Biography-ebook/dp/B007OLYPA4?tag=NYTBSREV-20
+list_date: 2015/03/08
+published_date: 2012-09-18
+summary: WINNER OF THE 2013 PULITZER PRIZE FOR BIOGRAPHY General Alex Dumas is a man almost unknown today, yet his story is strikingly familiar—because his son, the novelist Alexandre Dumas, used his larger-than-life feats as inspiration for such classics as The Count of Monte Cristo and The Three Musketeers. But, hidden behind General Dumas's swashbuckling adventures was an even more incredible secret: he was the son of a black slave—who rose higher in the white world than any man of his race would before our own time. Born in Saint-Domingue (now Haiti), Alex Dumas made his way to Paris, where he rose to command armies at the height of the Revolution—until he met an implacable enemy he could not defeat. The Black Count is simultaneously a riveting adventure story, a lushly textured evocation of 18th-century France, and a window into the modern world’s first multi-racial society. TIME magazine called The Black Count "one of those quintessentially human stories of strength and courage that sheds light on the historical moment that made it possible." But it is also a heartbreaking story of the enduring bonds of love between a father and son.

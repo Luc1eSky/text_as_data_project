@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1455559636
+primary_isbn13: 9781455559633
+publisher: Grand Central
+description: The co-anchor of “World News Tonight” and “20/20” describes her long struggle with acute anxiety.
+title: Between Breaths
+author: Elizabeth Vargas
+amazon_product_url: http://www.amazon.com/Between-Breaths-Memoir-Panic-Addiction-ebook/dp/B0169ATL3Q?tag=NYTBSREV-20
+list_date: 2016/10/23
+published_date: 2016-09-13
+summary: Beloved former ABC 20/20 anchor Elizabeth Vargas reveals her alcohol addiction and anxiety disorder in a shockingly honest and emotional memoir. Winner of the Books for a Better Life Award in the First Book category Instant New York Times and USA Today Bestseller From the moment she uttered the brave and honest words, "I am an alcoholic," to interviewer George Stephanopoulos, Elizabeth Vargas began writing her story, as her experiences were still raw. Now, in BETWEEN BREATHS, Vargas discusses her accounts of growing up with anxiety--which began suddenly at the age of six when her father served in Vietnam--and how she dealt with this anxiety as she came of age, eventually turning to alcohol for a release from her painful reality. The now-A&E Network reporter reveals how she found herself living in denial about the extent of her addiction, and how she kept her dependency a secret for so long. She addresses her time in rehab, her first year of sobriety, and the guilt she felt as a working mother who could never find the right balance between a career and parenting. Honest and hopeful, BETWEEN BREATHS is an inspiring read.

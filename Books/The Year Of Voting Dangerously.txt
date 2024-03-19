@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1455539260
+primary_isbn13: 9781455539260
+publisher: Twelve
+description: Essays on the 2016 election by the New York Times columnist.
+title: The Year Of Voting Dangerously
+author: Maureen Dowd
+amazon_product_url: http://www.amazon.com/Year-Voting-Dangerously-Derangement-American/dp/1455539260?tag=NYTBSREV-20
+list_date: 2016/10/16
+published_date: 2016-09-13
+summary: Maureen Dowd's incendiary takes and takedowns from 2016--the most bizarre, disruptive and divisive Presidential race in modern history. Trapped between two candidates with the highest recorded unfavorables, Americans are plunged into The Year of Voting Dangerously. In this perilous and shocking campaign season, The New York Times columnist traces the psychologies and pathologies in one of the nastiest and most significant battles of the sexes ever. Dowd has covered Donald Trump and Hillary Clinton since the '90s. She was with the real estate mogul when he shyly approached his first Presidential rope line in 1999, and she won a Pulitzer prize that same year for her penetrating columns on the Clinton impeachment follies. Like her bestsellers, Bushworld and Are Men Necessary?, THE YEAR OF VOTING DANGEROUSLY will feature Dowd's trademark cocktail of wry humor and acerbic analysis in dispatches from the political madhouse. If America is on the escalator to hell, then THE YEAR OF VOTING DANGEROUSLY is the perfect guide for this surreal, insane ride.

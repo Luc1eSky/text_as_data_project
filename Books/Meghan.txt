@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1538747359
+primary_isbn13: 9781538747353
+publisher: Grand Central
+description: A biography of the actress and fiancée of Prince Harry.
+title: Meghan
+author: Andrew Morton
+amazon_product_url: https://www.amazon.com/Meghan-Hollywood-Princess-Andrew-Morton/dp/1538747359?tag=NYTBSREV-20
+list_date: 2018/05/06
+published_date: 2018-04-17
+summary: The New York Times bestselling biography of Meghan Markle, the American actress who won Prince Harry's heart. Women who smash the royal mold have always fascinated the public, from Grace Kelly to Princess Diana. Now acclaimed royal biographer Andrew Morton, the New York Times bestselling author of Diana: Her True Story, brings us a revealing, juicy, and inspiring look at Meghan Markle, the confident and charismatic duchess whose warm and affectionate engagement interview won the hearts of the world. When Meghan Markle and Prince Harry were set up by a mutual friend on a blind date in July 2016, little did they know that the resulting whirlwind romance would lead to their engagement in November 2017 and marriage in May 2018. Morton goes back to Meghan's roots to uncover the story of her childhood growing up in The Valley in Los Angeles, her studies at an all-girls Catholic school, and her fraught family life-a painful experience mirrored by Harry's own background. Morton also delves into her previous marriage and divorce in 2013, her struggles in Hollywood as her mixed heritage was used against her, her big break in the hit TV show Suits, and her work for a humanitarian ambassador-the latter so reminiscent of Princess Diana's passions. Finally, we see how the royal romance played out across two continents but was kept fiercely secret, before the news finally broke and Meghan was thrust into the global media's spotlight. Drawing on exclusive interviews with her family members and closest friends, and including never-before-seen photographs, Morton introduces us to the real Meghan as he reflects on the impact that she has already had on the rigid traditions of the House of Windsor, as well as what the future might hold.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0062880101
+primary_isbn13: 9780062880109
+publisher: Morrow
+description: The MSNBC host gives her analysis of Donald Trump’s presidency.
+title: The Man Who Sold America
+author: Joy-Ann Reid
+amazon_product_url: https://www.amazon.com/Man-Who-Sold-America-Unraveling/dp/0062880101?tag=NYTBSREV-20
+list_date: 2019/07/21
+published_data: 2019-06-25
+summary: Joy-Ann Reid, the host of MSNBC’s AM Joy, assesses the Trump presidency in this urgent and deeply reported analysis of our national crisis.
+author_new0: Joy-Ann Reid

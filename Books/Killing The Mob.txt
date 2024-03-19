@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 14
+primary_isbn10: 125027365X
+primary_isbn13: 9781250273659
+publisher: St. Martin's
+description: The 10th book in the conservative commentator’s Killing series looks at organized crime in the United States during the 20th century.
+title: Killing The Mob
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: https://www.amazon.com/dp/125027365X?tag=NYTBSREV-20
+list_date: 2021/08/22
+published_data: 2021-05-04
+summary: In the tenth book in the multimillion-selling Killing series, Bill O’Reilly and Martin Dugard take on their most controversial subject yet: The Mob. Killing the Mob is the tenth book in Bill O'Reilly's #1 New York Times bestselling series of popular narrative histories, with sales of nearly 18 million copies worldwide, and over 320 weeks on the New York Times bestseller list. O’Reilly and co-author Martin Dugard trace the brutal history of 20th Century organized crime in the United States, and expertly plumb the history of this nation’s most notorious serial robbers, conmen, murderers, and especially, mob family bosses. Covering the period from the 1930s to the 1980s, O’Reilly and Dugard trace the prohibition-busting bank robbers of the Depression Era, such as John Dillinger, Bonnie & Clyde, Pretty Boy Floyd and Baby-Face Nelson. In addition, the authors highlight the creation of the Mafia Commission, the power struggles within the “Five Families,” the growth of the FBI under J. Edgar Hoover, the mob battles to control Cuba, Las Vegas and Hollywood, as well as the personal war between the U.S. Attorney General Bobby Kennedy and legendary Teamsters boss Jimmy Hoffa. O’Reilly and Dugard turn these legendary criminals and their true-life escapades into a read that rivals the most riveting crime novel. With Killing the Mob, their hit series is primed for its greatest success yet.
+author_new0: Bill O'Reilly
+author_new1: Martin Dugard

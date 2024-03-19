@@ -1,0 +1,14 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0593243625
+primary_isbn13: 9780593243626
+publisher: Random House
+description: An anthology of writing on the Black experience and shame resilience.
+title: You Are Your Best Thing
+author: edited  Tarana Burke and Brené Brown
+amazon_product_url: https://www.amazon.com/dp/0593243625?tag=NYTBSREV-20
+list_date: 2021/05/16
+published_data: 2021-04-27
+summary: NEW YORK TIMES BESTSELLER • Tarana Burke and Dr. Brené Brown bring together a dynamic group of Black writers, organizers, artists, academics, and cultural figures to discuss the topics the two have dedicated their lives to understanding and teaching: vulnerability and shame resilience. Contributions by Kiese Laymon, Imani Perry, Laverne Cox, Jason Reynolds, Austin Channing Brown, and more NAMED ONE OF THE BEST BOOKS OF THE YEAR BY MARIE CLAIRE AND BOOKRIOT It started as a text between two friends. Tarana Burke, founder of the ‘me too.’ Movement, texted researcher and writer Brené Brown to see if she was free to jump on a call. Brené assumed that Tarana wanted to talk about wallpaper. They had been trading home decorating inspiration boards in their last text conversation so Brené started scrolling to find her latest Pinterest pictures when the phone rang. But it was immediately clear to Brené that the conversation wasn’t going to be about wallpaper. Tarana’s hello was serious and she hesitated for a bit before saying, “Brené, you know your work affected me so deeply, but as a Black woman, I’ve sometimes had to feel like I have to contort myself to fit into some of your words. The core of it rings so true for me, but the application has been harder.” Brené replied, “I’m so glad we’re talking about this. It makes sense to me. Especially in terms of vulnerability. How do you take the armor off in a country where you’re not physically or emotionally safe?” Long pause. “That’s why I’m calling,” said Tarana. “What do you think about working together on a book about the Black experience with vulnerability and shame resilience?” There was no hesitation. Burke and Brown are the perfect pair to usher in this stark, potent collection of essays on Black shame and healing. Along with the anthology contributors, they create a space to recognize and process the trauma of white supremacy, a space to be vulnerable and affirm the fullness of Black love and Black life.
+author_new0: edited  Tarana Burke
+author_new1: Brené Brown

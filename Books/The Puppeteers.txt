@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0063034964
+primary_isbn13: 9780063034969
+publisher: Broadside
+description: The Fox News contributor and former congressman argues that liberals remain in power no matter who gets elected.
+title: The Puppeteers
+author: Jason Chaffetz
+amazon_product_url: https://www.amazon.com/dp/0063034964?tag=NYTBSREV-20
+list_date: 2023/07/02
+published_data: 2023
+summary: New York Times bestselling author, Fox News contributor, and former Congressman Jason Chaffetz reveals how an unelected bureaucracy--and not just the government--is infringing on our rights. For years, many Americans have increasingly felt that their votes don't change things. While the powerful unelected bureaucracy has certainly instituted liberal policies that Americans don't want, there is another force pushing leftism into American society. From nonprofit leaders to union bosses to global CEOs, many unelected and unchanging leaders have worked in parallel with the aims of "permanent Washington." Through everything from curriculum to ESG standards, these leaders have quietly mainstreamed progressivism. Ideas that used to be only on the left are now "normal" in American life. In The Puppeteers, Jason Chaffetz exposes a host of unchecked actors who influence American life in profound ways and tells you what you can do about it.
+author_new0: Jason Chaffetz

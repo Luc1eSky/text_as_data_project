@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0525954678
+primary_isbn13: 9780525954675
+publisher: Dutton
+description: The actor, formerly a star in “Parks and Recreation,” takes a humorous look at what makes great Americans great.
+title: Gumption
+author: Nick Offerman
+amazon_product_url: http://www.amazon.com/Gumption-Relighting-Americas-Gutsiest-Troublemakers/dp/0525954678?tag=NYTBSREV-20
+list_date: 2015/06/28
+published_date: 2015-05-26
+summary: The star of Parks and Recreation and author of the New York Times bestseller Paddle Your Own Canoe returns with a second book that humorously highlights twenty-one figures from our nation’s history, from her inception to present day—Nick’s personal pantheon of “great Americans.” To millions of people, Nick Offerman is America. Both Nick and his character, Ron Swanson, are known for their humor and patriotism in equal measure. After the great success of his autobiography, Paddle Your Own Canoe, Offerman now focuses on the lives of those who inspired him. From George Washington to Willie Nelson, he describes twenty-one heroic figures and why they inspire in him such great meaning. He combines both serious history with light-hearted humor—comparing, say, Benjamin Franklin’s abstinence from daytime drinking to his own sage refusal to join his construction crew in getting plastered on the way to work. The subject matter also allows Offerman to expound upon his favorite topics, which readers love to hear—areas such as religion, politics, woodworking and handcrafting, agriculture, creativity, philosophy, fashion, and, of course, meat.

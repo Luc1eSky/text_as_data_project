@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 1982189495
+primary_isbn13: 9781982189495
+publisher: Gallery/13A
+description: The ESPN analyst recounts the highs and lows of his life and career.
+title: Straight Shooter
+author: Stephen A. Smith
+amazon_product_url: https://www.amazon.com/dp/1982189495?tag=NYTBSREV-20
+list_date: 2023/02/19
+published_data: 2023-01-17
+summary: America’s most popular sports media figure tells it like it is in this surprisingly personal book, not only dishing out his signature, uninhibited opinions but also revealing the challenges he overcame in childhood as well as at ESPN, and who he really is when the cameras are off. Stephen A. Smith has never been handed anything, nor was he an overnight success. Growing up poor in Queens, the son of Caribbean immigrants and the youngest of six children, he was a sports-obsessed kid who faced a number of struggles, from undiagnosed dyslexia to getting enough cereal to fill his bowl. As a basketball player at Winston-Salem State University, he got a glimmer of his true calling when he wrote a newspaper column arguing for the retirement of his own Hall of Fame coach, Clarence Gaines. Smith hustled and rose up from a high school reporter at Daily News (New York) to a general sports columnist at The Philadelphia Inquirer in the 1990s, before getting his own show at ESPN in 2005. After he was unceremoniously fired from the network in 2009, he became even more determined to fight for success. He got himself rehired two years later and, with his razor-sharp intelligence and fearless debate style, found his role on the show he was destined to star in: First Take, the network’s flagship morning program. In Straight Shooter, Smith writes about the greatest highs and deepest lows of his life and career. He gives his thoughts on Skip Bayless, Ray Rice, Colin Kaepernick, the New York Knicks, the Dallas Cowboys, and former President Donald Trump. But he also pulls back the curtain and talks about life beyond the set, sharing authentic stories about his negligent father, his loving mother, being a father himself, his battle with life-threatening COVID-19, and what he really thinks about politics and social issues. He does it all with the same intelligence, humor, and charm that has made him a household name. Provocative, moving, and eye-opening, this book is the perfect gift for lovers of sports, television, and anyone who likes their stories delivered straight to the heart.
+author_new0: Stephen A. Smith

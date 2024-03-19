@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 074320137X
+primary_isbn13: 9780743201377
+publisher: Simon & Schuster
+description: A history of the creation of the Panama Canal; first published in 1977.
+title: The Path Between The Seas
+author: David McCullough
+amazon_product_url: http://www.amazon.com/The-Path-Between-Seas-1870-1914-ebook/dp/B002FK3U4Q?tag=NYTBSREV-20
+list_date: 2014/09/21
+published_date: 2001-10-27
+summary: The National Book Award–winning epic chronicle of the creation of the Panama Canal, a first-rate drama of the bold and brilliant engineering feat that was filled with both tragedy and triumph, told by master historian David McCullough. From the Pulitzer Prize–winning author of Truman, here is the national bestselling epic chronicle of the creation of the Panama Canal. In The Path Between the Seas, acclaimed historian David McCullough delivers a first-rate drama of the sweeping human undertaking that led to the creation of this grand enterprise. The Path Between the Seas tells the story of the men and women who fought against all odds to fulfill the 400-year-old dream of constructing an aquatic passageway between the Atlantic and Pacific oceans. It is a story of astonishing engineering feats, tremendous medical accomplishments, political power plays, heroic successes, and tragic failures. Applying his remarkable gift for writing lucid, lively exposition, McCullough weaves the many strands of the momentous event into a comprehensive and captivating tale. Winner of the National Book Award for history, the Francis Parkman Prize, the Samuel Eliot Morison Award, and the Cornelius Ryan Award (for the best book of the year on international affairs), The Path Between the Seas is a must-read for anyone interested in American history, the history of technology, international intrigue, and human drama.

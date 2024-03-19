@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1250153298
+primary_isbn13: 9781250153296
+publisher: Flatiron
+description: The Grammy Award-winning musician retraces her path to discovering her own worth.
+title: More Myself
+author: Alicia Keys with Michelle Burford
+amazon_product_url: https://www.amazon.com/dp/1250153298?tag=NYTBSREV-20
+list_date: 2020/05/17
+published_data: 2019-11-05
+summary: N/A
+author_new0: Alicia Keys
+author_new1: Michelle Burford

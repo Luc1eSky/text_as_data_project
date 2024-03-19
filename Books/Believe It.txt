@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1496436490
+primary_isbn13: 9781496436498
+publisher: Tyndale Momentum
+description: The ups and downs of the quarterback who led the Philadelphia Eagles to their Super Bowl championship in 2018.
+title: Believe It
+author: Nick Foles with Joshua Cooley
+amazon_product_url: https://www.amazon.com/Believe-Journey-Success-Failure-Overcoming/dp/1496436490?tag=NYTBSREV-20
+list_date: 2018/07/15
+published_date: 2018
+summary: How did the man who was on the verge of retiring just two seasons earlier stay optimistic and rally the Philadelphia Eagles to an astounding Super Bowl win? Here Foles discusses the obstacles that threatened to hold him back, his rediscovery of his love for the game, and the faith that grounded him through it all.

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0063227533
+primary_isbn13: 9780063227538
+publisher: Broadside
+description: The conservative filmmaker shares his views on some of America’s institutions.
+title: America'S Cultural Revolution
+author: Christopher F. Rufo
+amazon_product_url: https://www.amazon.com/dp/0063227533?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2023-04-05
+summary: N/A
+author_new0: Christopher F. Rufo

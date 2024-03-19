@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 0525659498
+primary_isbn13: 9780525659495
+publisher: Knopf
+description: The actress and model describes dark times and the salvation she found in her multiple sclerosis diagnosis.
+title: Mean Baby
+author: Selma Blair
+amazon_product_url: https://www.amazon.com/dp/0525659498?tag=NYTBSREV-20
+list_date: 2022/06/12
+published_data: 2022-05-17
+summary: NEW YORK TIMES BEST SELLER • Selma Blair has played many roles: Ingenue in Cruel Intentions. Preppy ice queen in Legally Blonde. Muse to Karl Lagerfeld. Advocate for the multiple sclerosis community. But before all of that, Selma was known best as … a mean baby. In a memoir that is as wildly funny as it is emotionally shattering, Blair tells the captivating story of growing up and finding her truth. "Blair is a rebel, an artist, and it turns out: a writer." —Glennon Doyle, Author of the #1 New York Times Bestseller Untamed and Founder of Together Rising The first story Selma Blair Beitner ever heard about herself is that she was a mean, mean baby. With her mouth pulled in a perpetual snarl and a head so furry it had to be rubbed to make way for her forehead, Selma spent years living up to her terrible reputation: biting her sisters, lying spontaneously, getting drunk from Passover wine at the age of seven, and behaving dramatically so that she would be the center of attention. Although Selma went on to become a celebrated Hollywood actress and model, she could never quite shake the periods of darkness that overtook her, the certainty that there was a great mystery at the heart of her life. She often felt like her arms might be on fire, a sensation not unlike electric shocks, and she secretly drank to escape. Over the course of this beautiful and, at times, devasting memoir, Selma lays bare her addiction to alcohol, her devotion to her brilliant and complicated mother, and the moments she flirted with death. There is brutal violence, passionate love, true friendship, the gift of motherhood, and, finally, the surprising salvation of a multiple sclerosis diagnosis. In a voice that is powerfully original, fiercely intelligent, and full of hard-won wisdom, Selma Blair’s Mean Baby is a deeply human memoir and a true literary achievement.
+author_new0: Selma Blair

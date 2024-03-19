@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0062960091
+primary_isbn13: 9780062960092
+publisher: Broadside
+description: The Fox News commentator offers his analysis of the Mueller Report.
+title: Witch Hunt
+author: Gregg Jarrett
+amazon_product_url: https://www.amazon.com/Witch-Hunt-Greatest-Delusion-Political/dp/0062960091?tag=NYTBSREV-20
+list_date: 2019/10/27
+published_data: 2019-11-05
+summary: The author of the number-one New York Times bestseller The Russia Hoax picks up where that book ended with this hard-hitting, well-reasoned examination of the latest findings about “collusion” between the Trump Administration and the Russians, offering further proof that Special Counsel Robert Mueller’s investigation is nothing more than a politically motivated witch hunt. The president’s enemies cite the number of indictments and guilty pleas wracked up by Special Counsel Robert Mueller and his associates as proof of Donald Trump and his campaign’s criminal wrongdoing. Yet as Fox News’ legal analyst and commentator Gregg Jarrett makes clear, Mueller’s probe has produced no evidence and no indictments in support of his original mandate. Jarrett shows that while the president’s enemies are desperate and determined to find something, their efforts have proved futile. In this book he outlines the various charges since the publication of The Russia Hoax, including the indictments against Trump long-time confidant and advisor Roger Stone. One by one, he knocks the criminal charges and media-driven innuendo down, making clear that the tens of millions of dollars Mueller has spent has been a wasteful misuse of taxpayer money. Jarrett dives deep into the indictment against Stone to explain just how flimsy the accusations of collusion and conspiracy are. “The plain truth is that the improper existence of Mueller’s investigation created the crimes Stone stands accused of committing,” Jarret contends. He reveals how the FBI has been complicit in the scheme to frame Trump thanks to a cabal of top former officials, headed by former director James Comey, who worked with phony opposition research paid for by the Clinton campaign to smear Trump. He also exposes the Justice Department’s double standard in charging Trump associates while giving a pass to Clinton cronies, including Huma Abedin and Cheryl Mills. Factual, highly persuasive, and damning, this must-read expose makes clear that not only was there no collusion, but there was not even a basis for Mueller’s investigation of this charge that has tainted Trump and his administration, and interfered with his presidency.
+author_new0: Gregg Jarrett

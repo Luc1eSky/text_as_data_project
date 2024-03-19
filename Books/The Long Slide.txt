@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 6
+primary_isbn10: 1501183699
+primary_isbn13: 9781501183690
+publisher: Threshold Editions
+description: A collection of previously published essays from 1995 to 2016 by the Fox News host.
+title: The Long Slide
+author: Tucker Carlson
+amazon_product_url: https://www.amazon.com/dp/1501183699?tag=NYTBSREV-20
+list_date: 2021/10/03
+published_data: 2021-08-10
+summary: From the host of Tucker Carlson Tonight on Fox News and the New York Times best-selling author of Ship of Fools, a collection of nostalgic writings that underscore America's long slide from innocence to orthodoxy.
+author_new0: Tucker Carlson

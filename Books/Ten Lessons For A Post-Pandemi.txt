@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0393542130
+primary_isbn13: 9780393542134
+publisher: Norton
+description: The CNN host posits what might happen on the other side of the Covid-19 pandemic.
+title: Ten Lessons For A Post-Pandemic World
+author: Fareed Zakaria
+amazon_product_url: https://www.amazon.com/dp/0393542130?tag=NYTBSREV-20
+list_date: 2020/11/08
+published_data: 2020-10-06
+summary: New York Times Bestseller COVID-19 is speeding up history, but how? What is the shape of the world to come? Lenin once said, "There are decades when nothing happens and weeks when decades happen." This is one of those times when history has sped up. CNN host and best-selling author Fareed Zakaria helps readers to understand the nature of a post-pandemic world: the political, social, technological, and economic consequences that may take years to unfold. Written in the form of ten "lessons," covering topics from natural and biological risks to the rise of "digital life" to an emerging bipolar world order, Zakaria helps readers to begin thinking beyond the immediate effects of COVID-19. Ten Lessons for a Post-Pandemic World speaks to past, present, and future, and, while urgent and timely, is sure to become an enduring reflection on life in the early twenty-first century.
+author_new0: Fareed Zakaria

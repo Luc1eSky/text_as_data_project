@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 5
+primary_isbn10: 1684511348
+primary_isbn13: 9781684511341
+publisher: Regnery
+description: The Republican senator from Texas gives his views on what might happen if liberals gain a simple majority on the Supreme Court.
+title: One Vote Away
+author: Ted Cruz
+amazon_product_url: https://www.amazon.com/dp/1684511348?tag=NYTBSREV-20
+list_date: 2020/11/15
+published_data: 2020-10-06
+summary: When Justice Antonin Scalia was found dead in a West Texas hunting lodge, filling his seat on the Supreme Court became a central-and perhaps the deciding-issue in the 2016 presidential election. For many Americans, it was the most important reason to choose Donald Trump over Hillary Clinton. Americans know that the Supreme Court protects our Constitutional rights-or at least it's supposed to. If controlled by activist judges, however, the Court can gravely damage our basic liberties. And to many, the inner workings of the Court remain a mystery. Senator Ted Cruz-a former law clerk to the Chief Justice and one of the country's top Supreme Court advocates-aims to change that in this riveting new book. Taking readers behind the scenes of landmark constitutional battles, many of which he himself litigated, he reveals the power of a single Justice to affect the life and liberty of every American-for good or for ill. As we head into the 2020 presidential election, the control of the Supreme Court, and with it the fate of our Constitution, hangs in the balance. Senator Cruz's timely and essential book takes readers behind the curtain of America's Highest Court and shows how just one more Justice on either side can preserve our liberties-or destroy them.
+author_new0: Ted Cruz

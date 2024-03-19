@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1982181117
+primary_isbn13: 9781982181116
+publisher: Gallery
+description: A former Secret Service agent recalls his time traveling with Jacqueline Kennedy.
+title: My Travels With Mrs. Kennedy
+author: Clint Hill and Lisa McCubbin Hill
+amazon_product_url: https://www.amazon.com/dp/1982181117?tag=NYTBSREV-20
+list_date: 2022/11/13
+published_data: 2022-10-25
+summary: "Sparked by long-forgotten gifts and memorabilia discovered in an old trunk, the now ninety-year-old Hill reminisces about private moments, shared laughs, and crazy adventures with one of the world's most iconic women during her time as First Lady, and the excruciating year following the assassination of her husband. After all, he notes that 'when you travel with someone, you experience things that can't be fully appreciated by anyone who wasn't there'"--
+author_new0: Clint Hill
+author_new1: Lisa McCubbin Hill

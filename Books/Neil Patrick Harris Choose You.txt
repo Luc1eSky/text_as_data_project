@@ -1,0 +1,10 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0385346999
+primary_isbn13: 9780385346993
+publisher: Crown Archetype
+description: The actor’s life story is structured as a Choose Your Own Adventure book.
+title: Neil Patrick Harris: Choose Your Own Autobiography
+author: Neil Patrick Harris with David Javerbaum
+amazon_product_url: http://www.amazon.com/Neil-Patrick-Harris-Choose-Autobiography/dp/0385346999?tag=NYTBSREV-20
+list_date: 2014/12/14

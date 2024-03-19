@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 031656169X
+primary_isbn13: 9780316561693
+publisher: Little, Brown
+description: An account of Mildred Harnack, an American who became a central figure in the German resistance to Hitler.
+title: All The Frequent Troubles Of Our Days
+author: Rebecca Donner
+amazon_product_url: https://www.amazon.com/dp/031656169X?tag=NYTBSREV-20
+list_date: 2021/08/22
+published_data: 2021-08-03
+summary: 'All the Frequent Troubles of Our Days' is the true story of the life and death of Mildred Harnack, the American leader of the largest underground resistance group in Berlin, who was executed on Hitler's direct orders. Fusing elements of biography, political thriller, and scholarly detective story, Harnack's great-great-niece Rebecca Donner interweaves family archives, original research, exclusive interviews with survivors, and a trove of declassified intelligence documents into an enthralling story, reconstructing the moral courage of an enigmatic woman nearly erased by history.
+author_new0: Rebecca Donner

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 0393635066
+primary_isbn13: 9780393635065
+publisher: Norton
+description: The death of a chimpanzee matriarch frames a broader look into the world of animal and human emotions.
+title: Mama'S Last Hug
+author: Frans de Waal
+amazon_product_url: https://www.amazon.com/Mamas-Last-Hug-Emotions-Ourselves/dp/0393635066?tag=NYTBSREV-20
+list_date: 2019/04/07
+published_data: 2019-03-12
+summary: A New York Times Bestseller and winner of the PEN / E. O. Wilson Literary Science Writing Award Primatologist Frans de Waal explores the fascinating world of animal and human emotions. Frans de Waal has spent four decades at the forefront of animal research. Following up on the best-selling Are We Smart Enough to Know How Smart Animals Are?, which investigated animal intelligence, Mama’s Last Hug delivers a fascinating exploration of the rich emotional lives of animals. Mama’s Last Hug begins with the death of Mama, a chimpanzee matriarch who formed a deep bond with biologist Jan van Hooff. When Mama was dying, van Hooff took the unusual step of visiting her in her night cage for a last hug. Their goodbyes were filmed and went viral. Millions of people were deeply moved by the way Mama embraced the professor, welcoming him with a big smile while reassuring him by patting his neck, in a gesture often considered typically human but that is in fact common to all primates. This story and others like it form the core of de Waal’s argument, showing that humans are not the only species with the capacity for love, hate, fear, shame, guilt, joy, disgust, and empathy. De Waal discusses facial expressions, the emotions behind human politics, the illusion of free will, animal sentience, and, of course, Mama’s life and death. The message is one of continuity between us and other species, such as the radical proposal that emotions are like organs: we don’t have a single organ that other animals don’t have, and the same is true for our emotions. Mama’s Last Hug opens our hearts and minds to the many ways in which humans and other animals are connected, transforming how we view the living world around us.
+author_new0: Frans de Waal

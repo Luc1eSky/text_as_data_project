@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 7
+primary_isbn10: 0525555218
+primary_isbn13: 9780525555216
+publisher: Dutton
+description: A collection of personal essays that review different facets of the human-centered planet.
+title: The Anthropocene Reviewed
+author: John Green
+amazon_product_url: https://www.amazon.com/dp/0525555218?tag=NYTBSREV-20
+list_date: 2021/07/18
+published_data: 2021-05-18
+summary: Goodreads Choice winner for Nonfiction 2021 and instant #1 bestseller! A deeply moving collection of personal essays from John Green, the author of The Fault in Our Stars and Turtles All the Way Down. “The perfect book for right now.” –People “The Anthropocene Reviewed is essential to the human conversation.” –Library Journal, starred review The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity. In this remarkable symphony of essays adapted and expanded from his groundbreaking podcast, bestselling author John Green reviews different facets of the human-centered planet on a five-star scale—from the QWERTY keyboard and sunsets to Canada geese and Penguins of Madagascar. Funny, complex, and rich with detail, the reviews chart the contradictions of contemporary humanity. As a species, we are both far too powerful and not nearly powerful enough, a paradox that came into sharp focus as we faced a global pandemic that both separated us and bound us together. John Green’s gift for storytelling shines throughout this masterful collection. The Anthropocene Reviewed is a open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world. This is a signed edition.
+author_new0: John Green

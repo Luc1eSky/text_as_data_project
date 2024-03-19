@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0684808277
+primary_isbn13: 9780684808277
+publisher: Simon & Schuster
+description: The actress's memoir discusses her marriage to Louis Malle, her work on "Murphy Brown" and the birth of her daughter at 39.
+title: A Fine Romance
+author: Candice Bergen
+amazon_product_url: http://www.amazon.com/A-Fine-Romance-Candice-Bergen/dp/0684808277?tag=NYTBSREV-20
+list_date: 2015/05/17
+published_date: 2015-04-07
+summary: In a follow-up to Knock Wood by the Emmy Award-winning actress traces the milestone events of her life—including her first marriage, the birth of her daughter, her work on Murphy Brown and her struggles with widowhood.

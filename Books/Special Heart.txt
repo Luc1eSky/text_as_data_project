@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9781455583645
+publisher: Center Street
+description: A Fox News anchor on the challenges his family faced in caring for his son, who has congenital heart disease.
+title: Special Heart
+author: Bret Baier with Jim Mills
+amazon_product_url: http://www.amazon.com/Special-Heart-Journey-Faith-Courage/dp/1455583634?tag=NYTBSREV-20
+list_date: 2014/06/22
+published_date: 2021-09-15
+summary: N/A

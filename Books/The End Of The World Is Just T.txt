@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 3
+primary_isbn10: 006323047X
+primary_isbn13: 9780063230477
+publisher: Harper Business
+description: A look at potential changes in globalization.
+title: The End Of The World Is Just The Beginning
+author: Peter Zeihan
+amazon_product_url: https://www.amazon.com/dp/006323047X?tag=NYTBSREV-20
+list_date: 2022/07/17
+published_data: 2022-06-14
+summary: In this eye-opening, counterintuitive book, economics guru and geopolitical strategist Peter Zeihan predicts the coming breakdown of globalization and identifies who will benefit and who will lose. For two generations, the Americans have held up the world's collective ceiling. Globe-spanning supply chains made possible under the protection of the U.S. Navy. Internationalized energy and financial markets underpinned by the American dollar. A global constellation of trade linkages, supply chains and operational norms too sprawling and interconnected to be maintained by the regional powers of Europe or Asia. A global food supply system made possible by massive inputs, technology, investment, and safe transport --all American-subsidized. We know this all as the era of free trade. The era of globalization. But the architecture of our world was always artificial. Temporary. In The End of the World is Just the Beginning, author and geopolitical strategist Peter Zeihan does more than simply explain how we got to where we are or describe the end days of the world we know. He maps out the next world: a world deglobalized. Region by region. Country by country. Industry by industry. The future of transportation in a world made insecure. The future of finance in a world without sufficient capital. The future of energy in a world disconnected. The future of industrial materials in a world deindustrializing. The future of manufacturing in a world of shattered supply chains. The future of agriculture in a world bereft of what's necessary to feed eight billion people. A world ending. A world beginning. Zeihan brings readers along for an illuminating (and a bit terrifying) ride packed with foresight, wit, and his trademark irreverence.
+author_new0: Peter Zeihan

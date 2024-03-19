@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 1433681854
+primary_isbn13: 9781433681851
+publisher: B&H
+description: The actor shares her story, with its insight for women into managing roles, responsibilities and opportunities.
+title: Balancing It All
+author: Candace Cameron Bure with Dana Wilkerson
+amazon_product_url: http://www.amazon.com/Balancing-It-All-Juggling-Priorities-ebook/dp/B00H4ENAL6?tag=NYTBSREV-20
+list_date: 2014/05/25
+published_date: 2014-01-01
+summary: “How do you do it all?” That’s the question that wife, mom, actress, and best-selling author Candace Cameron Bure is often asked. And it’s a question that women everywhere are asking themselves as we seek to balance all of our roles, responsibilities, and opportunities. So, how do we do it? Working since the age of 5, Candace has been in a balancing act for nearly her entire life. She is the first to tell you that there is no miracle formula for perfect execution in every area of your life, but there definitely are some lessons to be learned, lessons that come to life in Candace's story. Come along and dig into Candace’s story from her start in commercials, the balance-necessitating years on Full House, to adding on the roles of wife and mom while also returning to Hollywood. Insightful, funny, and poignant, Candace’s story will help you balance it all.

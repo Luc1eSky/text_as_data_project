@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0316356549
+primary_isbn13: 9780316356541
+publisher: Little, Brown
+description: The story behind the suicide of Madison Holleran, a student athlete at the University of Pennsylvania.
+title: What Made Maddy Run
+author: Kate Fagan
+amazon_product_url: https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356549?tag=NYTBSREV-20
+list_date: 2017/08/20
+published_date: 2017-08-01
+summary: The heartbreaking story of college athlete Madison Holleran, whose life and death by suicide reveal the struggle of young people suffering from mental illness today in this #1 New York Times Sports and Fitness bestseller *Instant New York Times Bestseller* #1 New York Times Monthly Sports and Fitness bestseller If you scrolled through the Instagram feed of 19-year-old Maddy Holleran, you would see a perfect life: a freshman at an Ivy League school, recruited for the track team, who was also beautiful, popular, and fiercely intelligent. This was a girl who succeeded at everything she tried, and who was only getting started. But when Maddy began her long-awaited college career, her parents noticed something changed. Previously indefatigable Maddy became withdrawn, and her thoughts centered on how she could change her life. In spite of thousands of hours of practice and study, she contemplated transferring from the school that had once been her dream. When Maddy's dad, Jim, dropped her off for the first day of spring semester, she held him a second longer than usual. That would be the last time Jim would see his daughter. WHAT MADE MADDY RUN began as a piece that Kate Fagan, a columnist for espnW, wrote about Maddy's life. What started as a profile of a successful young athlete whose life ended in suicide became so much larger when Fagan started to hear from other college athletes also struggling with mental illness. This is the story of Maddy Holleran's life, and her struggle with depression, which also reveals the mounting pressures young people, and college athletes in particular, face to be perfect, especially in an age of relentless connectivity and social media saturation.

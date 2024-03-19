@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0525955054
+primary_isbn13: 9780525955054
+publisher: Dutton
+description: The deadly 13-hour battle for a remote combat outpost in Afghanistan in 2009, by a soldier who received the Medal of Honor for his role.
+title: Red Platoon
+author: Clinton Romesha
+amazon_product_url: http://www.amazon.com/Red-Platoon-Story-American-Valor/dp/0525955054?tag=NYTBSREV-20
+list_date: 2016/05/29
+published_date: 2016-05-03
+summary: "An account of the October 2009 attack on the American Combat Outpost Keating in Afghanistan, told in a frank vernacular by the staff sergeant and Medal of Honor winner, who captures the daily dangers faced by these American soldiers in Afghanistan"--

@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 125012560X
+primary_isbn13: 9781250125606
+publisher: Thomas Dunne
+description: The self-described B-movie actor evaluates his quality of life, moves to Oregon and enjoys further adventures.
+title: Hail To The Chin
+author: Bruce Campbell with Craig Sanborn
+amazon_product_url: https://www.amazon.com/Hail-Chin-Further-Confessions-Movie/dp/125012560X?tag=NYTBSREV-20
+list_date: 2017/09/03
+published_date: 2017-08-15
+summary: HAIL TO THE CHIN is the new raucous and sardonic memoir from Bruce Campbell, a follow-up to the New York Times bestselling If Chins Could Kill.

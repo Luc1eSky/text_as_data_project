@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1250847745
+primary_isbn13: 9781250847744
+publisher: Forge
+description: The comedian and Emmy-nominated TV writer explains the cultural and culinary significance of hot dogs.
+title: Raw Dog
+author: Jamie Loftus
+amazon_product_url: https://www.amazon.com/dp/1250847745?tag=NYTBSREV-20
+list_date: 2023/06/11
+published_data: 2023-05-09
+summary: Part travelogue, part culinary history, all capitalist critique—comedian Jamie Loftus's debut, Raw Dog, will take you on a cross-country road trip in the summer of 2021, and reveal what the creation, culture, and class influence of hot dogs says about America now. Hot dogs. Poor people created them. Rich people found a way to charge fifteen dollars for them. They’re high culture, they’re low culture, they’re sports food, they’re hangover food, and they’re deeply American, despite having no basis whatsoever in America's Indigenous food traditions. You can love them, you can hate them, you can cut them up and put them in a bowl of macaroni and cheese, but you can’t avoid the great American hot dog. Raw Dog: The Naked Truth About Hot Dogs is part investigation into the cultural and culinary significance of hot dogs and part travelogue documenting a cross-country road trip researching the landscape of American hot dogs as they’re served today. From avocado and spice in the West to ass-shattering chili in the East to an entire salad on a slice of meat in Chicago, Loftus, her pets and her ex eat their way across the country during the strange summer of 2021, a brief window of the year between waves of a plague that the American government has the resources to temper, but not the interest. Loftus weighs in on: - The reality of hot dog production and working conditions, from factories to fast food stands, in a post-Upton Sinclair world, - The subcultures thriving around hot dogs, from competitive eaters to Wienermobile drivers, - The baffling number of anthropomorphic pickle brands in the U.S., - And yes, critically overlooked bun infrastructure problems. So grab a dog, lay out your beach towel, and dig into the delicious and inevitable product of centuries of violence, poverty, and ambition, now rolling around at your local 7-11.
+author_new0: Jamie Loftus

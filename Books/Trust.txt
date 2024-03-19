@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1631498770
+primary_isbn13: 9781631498770
+publisher: Liveright
+description: The former mayor of South Bend and 2020 Democratic presidential candidate prescribes ways to restore what he considers an essential element of America’s democracy.
+title: Trust
+author: Pete Buttigieg
+amazon_product_url: https://www.amazon.com/dp/1631498770?tag=NYTBSREV-20
+list_date: 2020/10/25
+published_data: 2020-10-06
+summary: NEW YORK TIMES BESTSELLER In Trust, Pete Buttigieg demonstrates how trust will be essential in order to face the unique challenges of the decades ahead. Trust is essential to the foundation of America’s democracy, asserts Pete Buttigieg, the former presidential candidate and South Bend mayor. Yet, in a century warped by terrorism, financial collapse, Trumpist populism, systemic racism, and now a global pandemic, trust has been squandered, sacrificed, abused, stolen, or never properly built in the first place. And now, more so than ever before, Americans must work side by side to reckon with the monumental challenges posed by our present moment. Interweaving history, political philosophy, and affecting passages of memoir, Buttigieg explores the strong relationship between measures of prosperity and levels of social trust. He provides an impassioned account of a threefold crisis of trust: in our institutions, in each other, and in the American project itself. Today, these perilous patterns of distrust have wreaked havoc on nearly every sector of society, as Americans increasingly resent the very government that needs to be part of the solution. With the internet and partisan television networks acting as accelerants, Americans jettison any sense of shared reality, lose confidence in experts and scientists, and cope with the grim national tragedy of a pandemic that has only further exemplified the lethality of distrust. Buttigieg contends that our success, or failure, at confronting the greatest challenges of the decade—racial and economic justice, pandemic resilience, and climate action—will rest on whether we can effectively cultivate, deepen, and, where necessary, repair the networks of trust that are now endangered, or for so many, have never even existed. An urgent call to foster an “American way of trust” at this painfully polarized juncture in the nation’s history, Trust is a direct reckoning with the prevailing corruption of social responsibility. Yet refusing to give in to the despair that threatens our foundations, Trust seeks to inspire Americans to build a powerful movement that will define all of us in the years to come.
+author_new0: Pete Buttigieg

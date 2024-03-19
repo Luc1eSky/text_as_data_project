@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0062376330
+primary_isbn13: 9780062376336
+publisher: Morrow/HarperCollins
+description: A member of the Navy Seals who has the most career sniper kills in United States military history discusses his childhood, his marriage and his battlefield experiences during the Iraq war.
+title: American Sniper
+author: Chris Kyle with Scott McEwen and Jim DeFelice
+amazon_product_url: http://www.amazon.com/American-Sniper-Autobiography-Military-History/dp/0062238868?tag=NYTBSREV-20
+list_date: 2015/08/16
+published_date: 2014-11-25
+summary: The #1 New York Times bestselling memoir of U.S. Navy Seal Chris Kyle, and the source for Clint Eastwood’s blockbuster movie which was nominated for six academy awards, including best picture. From 1999 to 2009, U.S. Navy SEAL Chris Kyle recorded the most career sniper kills in United States military history. His fellow American warriors, whom he protected with deadly precision from rooftops and stealth positions during the Iraq War, called him “The Legend”; meanwhile, the enemy feared him so much they named him al-Shaitan (“the devil”) and placed a bounty on his head. Kyle, who was tragically killed in 2013, writes honestly about the pain of war—including the deaths of two close SEAL teammates—and in moving first-person passages throughout, his wife, Taya, speaks openly about the strains of war on their family, as well as on Chris. Gripping and unforgettable, Kyle’s masterful account of his extraordinary battlefield experiences ranks as one of the great war memoirs of all time.

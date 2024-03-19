@@ -1,0 +1,12 @@
+rank: 2
+weeks_on_list: 1
+primary_isbn10: 0062417428
+primary_isbn13: 9780062417428
+publisher: HarperCollins
+description: Bryson, with his sidekick "Stephen Katz," retraces a youthful trip he made through Europe in the early '70s; first published in 1992.
+title: Neither Here Nor There
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/Neither-here-nor-there-Travels-ebook/dp/B00T3DR5DA?tag=NYTBSREV-20
+list_date: 2016/04/03
+published_date: 2015-06-02
+summary: In the early seventies, Bill Bryson backpacked across Europe—in search of enlightenment, beer, and women. He was accompanied by an unforgettable sidekick named Stephen Katz (who will be gloriously familiar to readers of Bryson's A Walk in the Woods). Twenty years later, he decided to retrace his journey. The result is the affectionate and riotously funny Neither Here Nor There.

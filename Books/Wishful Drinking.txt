@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 3
+primary_isbn10: 143915371X
+primary_isbn13: 9781439153710
+publisher: Simon & Schuster
+description: A memoir based on Fisher’s one-woman autobiographical show. Originally published in 2008.
+title: Wishful Drinking
+author: Carrie Fisher
+amazon_product_url: http://www.amazon.com/Wishful-Drinking-Carrie-Fisher-ebook/dp/B001NLKS02?tag=NYTBSREV-20
+list_date: 2017/01/29
+published_date: 2009-09-08
+summary: Fisher comes clean (well, sort of) with the crazy truth that is her life, in her first-ever memoir.

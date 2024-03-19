@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0316343684
+primary_isbn13: 9780316343688
+publisher: Little, Brown
+description: How epidemics and pandemics can disrupt everyday life and world order.
+title: Deadliest Enemy
+author: Michael T Osterholm and Mark Olshaker
+amazon_product_url: https://www.amazon.com/dp/0316343692?tag=NYTBSREV-20
+list_date: 2020/04/05
+published_data: 2017-03-14
+summary: A leading epidemiologist shares his "powerful and necessary" (Richard Preston, author of The Hot Zone) stories from the front lines of our war on infectious diseases and explains how to prepare for global epidemics -- featuring a new preface on COVID-19. Unlike natural disasters, whose destruction is concentrated in a limited area over a period of days, and illnesses, which have devastating effects but are limited to individuals and their families, infectious disease has the terrifying power to disrupt everyday life on a global scale, overwhelming public and private resources and bringing trade and transportation to a grinding halt. In today's world, it's easier than ever to move people, animals, and materials around the planet, but the same advances that make modern infrastructure so efficient have made epidemics and even pandemics nearly inevitable. And as outbreaks of COVID-19, Ebola, MERS, and Zika have demonstrated, we are woefully underprepared to deal with the fallout. So what can -- and must -- we do in order to protect ourselves from mankind's deadliest enemy? Drawing on the latest medical science, case studies, policy research, and hard-earned epidemiological lessons, Deadliest Enemy explores the resources and programs we need to develop if we are to keep ourselves safe from infectious disease. The authors show how we could wake up to a reality in which many antibiotics no longer cure, bioterror is a certainty, and the threat of a disastrous influenza or coronavirus pandemic looms ever larger. Only by understanding the challenges we face can we prevent the unthinkable from becoming the inevitable. Deadliest Enemy is high scientific drama, a chronicle of medical mystery and discovery, a reality check, and a practical plan of action.
+author_new0: Michael T Osterholm
+author_new1: Mark Olshaker

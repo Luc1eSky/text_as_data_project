@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0393089746
+primary_isbn13: 9780393089745
+publisher: Norton
+description: The daily accounts by a Jewish schoolgirl from Prague, who survived the concentration camps in Terezín and Auschwitz.
+title: Helga'S Diary
+author: Helga Weiss
+amazon_product_url: https://www.amazon.com/Helgas-Diary-Young-Account-Concentration-ebook/dp/B007Q6XLJS?tag=NYTBSREV-20
+list_date: 2017/09/10
+published_date: 2013-04-22
+summary: A New York Times Bestseller "A sacred reminder of what so many millions suffered, and only a few survived." —Adam Kirsch, New Republic In 1939, Helga Weiss was a young Jewish schoolgirl in Prague. As she endured the first waves of the Nazi invasion, she began to document her experiences in a diary. During her internment at the concentration camp of Terezín, Helga’s uncle hid her diary in a brick wall. Of the 15,000 children brought to Terezín and deported to Auschwitz, there were only one hundred survivors. Helga was one of them. Miraculously, she was able to recover her diary from its hiding place after the war. These pages reveal Helga’s powerful story through her own words and illustrations. Includes a special interview with Helga by translator Neil Bermel.

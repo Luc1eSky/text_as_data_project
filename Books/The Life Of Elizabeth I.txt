@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780307834607
+publisher: Ballantine
+description: A biography of the enigmatic queen; first published in 1998.
+title: The Life Of Elizabeth I
+author: Alison Weir
+amazon_product_url: http://www.amazon.com/The-Life-Elizabeth-Alison-Weir-ebook/dp/B00C4BA3K0?tag=NYTBSREV-20
+list_date: 2014/06/01
+published_date: 2021-09-15
+summary: N/A

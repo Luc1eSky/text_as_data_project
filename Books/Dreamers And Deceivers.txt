@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1476783896
+primary_isbn13: 9781476783895
+publisher: Threshold Editions/Mercury Radio Arts
+description: More little-known stories from America’s past.
+title: Dreamers And Deceivers
+author: Glenn Beck with Kevin Balfe
+amazon_product_url: http://www.amazon.com/Dreamers-Deceivers-Stories-Villains-America/dp/1476783896?tag=NYTBSREV-20
+list_date: 2015/01/11
+published_date: 2014-10-28
+summary: From the #1 best-selling author and controversial radio and television host comes his take who the good guys and bad guys were throughout U.S. history.

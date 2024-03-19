@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0307587843
+primary_isbn13: 9780307587848
+publisher: Crown
+description: The scion of a wealthy Texas family,claiming to be a Christian patriarch, moves to a remote Alaska town.
+title: Pilgrim'S Wilderness
+author: Tom Kizzia
+amazon_product_url: http://www.amazon.com/Pilgrims-Wilderness-Madness-Alaska-Frontier-ebook/dp/B00B3GMO22?tag=NYTBSREV-20
+list_date: 2015/02/01
+published_date: 2013-07-16
+summary: Into the Wild meets Helter Skelter in this riveting true story of a modern-day homesteading family in the deepest reaches of the Alaskan wilderness—and of the chilling secrets of its maniacal, spellbinding patriarch. When Papa Pilgrim, his wife, and their fifteen children appeared in the Alaska frontier outpost of McCarthy, their new neighbors saw them as a shining example of the homespun Christian ideal. But behind the family's proud piety and beautiful old-timey music lay Pilgrim's dark past: his strange connection to the Kennedy assassination and a trail of chaos and anguish that followed him from Dallas and New Mexico. Pilgrim soon sparked a tense confrontation with the National Park Service fiercely dividing the community over where a citizen’s rights end and the government’s power begins. As the battle grew more intense, the turmoil in his brood made it increasingly difficult to tell whether his children were messianic followers or hostages in desperate need of rescue. In this powerful piece of Americana, written with uncommon grace and high drama, veteran Alaska journalist, Tom Kizzia uses his unparalleled access to capture an era-defining clash between environmentalists and pioneers ignited by a mesmerizing sociopath who held a town and a family captive.

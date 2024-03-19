@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1538731975
+primary_isbn13: 9781538731970
+publisher: Grand Central
+description: An account of the marriage between Vivien Leigh and Laurence Olivier.
+title: Truly, Madly
+author: Stephen Galloway
+amazon_product_url: https://www.amazon.com/dp/1538731975?tag=NYTBSREV-20
+list_date: 2022/04/10
+published_data: 2022-03-22
+summary: In the spirit of Furious Love, a sweeping Hollywood biography of the passionate, turbulent marriage of Laurence Olivier and Vivien Leigh based on new research, including exclusive access to uncovered correspondence and interviews. In 1934, a friend brought fledgling actress Vivien Leigh to see Theatre Royal, where she would first lay eyes on Laurence Olivier in his brilliant performance as Anthony Cavendish. That night, she told her friend that he was the man she was going to marry. There was just one problem: she was already married, and so was he. MADLY is the biography of a marriage, a love affair that still captivates millions, even decades after both actors' deaths. Vivien and Laurence were two of the first truly global celebrities - their fame fueled by the explosive growth of tabloids and television, which helped and hurt them in equal measure. They seemed to have it all and yet, in their own minds, they were doomed, blighted by mental illness which transformed their relationship from the stuff of dreams into a living nightmare. Author Stephen Galloway takes readers on a bewitching journey as he studies their turbulent relationship, one that lasted through some of the world's most unstable decades as the duo fled war, struggled with the loss of fame, and rebuilt their lives again and again.
+author_new0: Stephen Galloway

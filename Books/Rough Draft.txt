@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1982118180
+primary_isbn13: 9781982118181
+publisher: Atria/One Signal
+description: The MSNBC anchor describes growing up with her helicopter journalist parents and her own journey in covering the news.
+title: Rough Draft
+author: Katy Tur
+amazon_product_url: https://www.amazon.com/dp/1982118180?tag=NYTBSREV-20
+list_date: 2022/07/10
+published_data: 2022-06-14
+summary: "When a box from her mother showed up on Katy Tur's doorstep, months into the pandemic and just as she learned she was pregnant with her second child, she didn't now what to expect. The box contained thousands of hours of video - the work of her pioneering helicopter journalist parents. They grew rich and famous for their aerial coverage of Madonna and Sean Penn's secret wedding, the Reginald Denny beating in the 1992 Lost Angeles riots, and O.J. Simpson's notorious run in the white Bronco. To Katy, these family videos were an inheritance of sorts, and a reminder of who she was before she was her own breakout success as a reporter"--Dust jacket flap.
+author_new0: Katy Tur

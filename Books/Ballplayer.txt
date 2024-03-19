@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1101984406
+primary_isbn13: 9781101984406
+publisher: Dutton
+description: Recollections of a 19-year career with the Atlanta Braves by the eight-time All-Star switch hitter.
+title: Ballplayer
+author: Chipper Jones with Carroll Rogers Walton
+amazon_product_url: https://www.amazon.com/Ballplayer-Chipper-Jones/dp/1101984406?tag=NYTBSREV-20
+list_date: 2017/04/23
+published_date: 2017
+summary: Before Chipper Jones became an eight-time All-Star who amassed Hall of Fame-worthy statistics during his nineteen-year career with the Atlanta Braves, he was a country boy from small-town Pierson, Florida, who played baseball in the backyard with his dad and dreamed of the major leagues. With his trademark candor and astonishing recall, Jones tells the story of his rise to the MLB ranks and what it took to stay with one organization his entire career. Beginning with learning the art of switch-hitting and being the number one overall pick for the Braves in the 1990 draft, Jones takes us into the clubhouse of the Braves' extraordinary dynasty, from the climax of the World Series championship in 1995 to the last-gasp division win by the 2005 "Baby Braves". Along the way, he delves into his relationships with Bobby Cox and the famous Braves brothers -- Maddux, Glavine and Smoltz -- and opponents from Cal Ripken Jr. to Barry Bonds, his overnight rise to superstardom and the personal pitfalls that came with fame, his spirited rivalry with the Mets, and his reflections on modern baseball and his special last season in 2012.

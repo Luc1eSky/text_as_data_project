@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 16
+primary_isbn10: 1250866448
+primary_isbn13: 9781250866448
+publisher: Flatiron
+description: The actor, known for playing Chandler Bing on “Friends,” shares stories from his childhood and his struggles with sobriety.
+title: Friends, Lovers, And The Big Terrible Thing
+author: Matthew Perry
+amazon_product_url: https://www.amazon.com/dp/1250866448?tag=NYTBSREV-20
+list_date: 2023/03/05
+published_data: 2022-11
+summary: "The beloved star of Friends takes us behind the scenes of the hit sitcom and his struggles with addiction in this candid, funny, and revelatory memoir that delivers a powerful message of hope and persistence In an extraordinary story that only he could tell, Matthew Perry takes readers onto the soundstage of the most successful sitcom of all time while opening up about his private struggles with addiction. Candid, self-aware, and told with his trademark humor, Perry vividly details his lifelong battle with the disease and what fueled it despite seemingly having it all. Friends, Lovers, and the Big Terrible Thing is an unforgettable memoir that shares the most intimate details of the love Perry lost, his darkest days, and his greatest friends. Unflinchingly honest, moving, and hilarious: this is the book fans have been waiting for"--
+author_new0: Matthew Perry

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1451695195
+primary_isbn13: 9781451695199
+publisher: Simon & Schuster
+description: A neurosurgeon recounts his near death experience during a coma from bacterial meningitis.
+title: Proof Of Heaven
+author: Eben Alexander
+amazon_product_url: http://www.amazon.com/Proof-Heaven-Neurosurgeons-Journey-Afterlife/dp/1451695195?tag=NYTBSREV-20
+list_date: 2014/07/20
+published_date: 2012-10-23
+summary: Shares an account of his religiously transformative near-death experience and revealing week-long coma, describing his scientific study of near-death phenomena while explaining what he learned about the nature of human consciousness.

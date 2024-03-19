@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 1250253829
+primary_isbn13: 9781250253828
+publisher: Holt
+description: The author of “Fire and Fury” weaves a story of the second year of the Trump White House.
+title: Siege
+author: Michael Wolff
+amazon_product_url: https://www.amazon.com/Siege-Trump-Under-Michael-Wolff/dp/1250253829?tag=NYTBSREV-20
+list_date: 2019/06/30
+published_data: 2019-06-04
+summary: Michael Wolff, author of the bombshell bestseller Fire and Fury, once again takes us inside the Trump presidency to reveal a White House under siege. With Fire and Fury, Michael Wolff defined the first phase of the Trump administration; now, in Siege, he has written an equally essential and explosive book about a presidency that is under fire from almost every side. A stunningly fresh narrative that begins just as Trump’s second year as president is getting underway and ends with the delivery of the Mueller report, Siege reveals an administration that is perpetually beleaguered by investigations and a president who is increasingly volatile, erratic, and exposed.
+author_new0: Michael Wolff

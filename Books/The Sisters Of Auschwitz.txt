@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 0063097621
+primary_isbn13: 9780063097629
+publisher: Harper
+description: Janny and Lien Brilleslijper from Amsterdam were sent by train to Auschwitz when the Jewish safehouse they created in the woods was discovered.
+title: The Sisters Of Auschwitz
+author: Roxane van Iperen
+amazon_product_url: https://www.amazon.com/dp/0063097621?tag=NYTBSREV-20
+list_date: 2021/10/17
+published_data: 2021-08-31
+summary: The unforgettable story of two unsung heroes of World War II: sisters Janny and Lien Brilleslijper who joined the Dutch Resistance, helped save dozen of lives, were captured by the Nazis, and ultimately survived the Holocaust. Eight months after Germany's invasion of Poland, the Nazis roll into The Netherlands, expanding their reign of brutality to the Dutch. But by the Winter of 1943, resistance is growing. Among those fighting their brutal Nazi occupiers are two Jewish sisters, Janny and Lien Brilleslijper from Amsterdam. Risking arrest and death, the sisters help save others, sheltering them in a clandestine safehouse in the woods, they called "The High Nest." This secret refuge would become one of the most important Jewish safehouses in the country, serving as a hiding place and underground center for resistance partisans as well as artists condemned by Hitler. From The High Nest, an underground web of artists arises, giving hope and light to those living in terror in Holland as they begin to restore the dazzling pre-war life of Amsterdam and The Hague. When the house and its occupants are eventually betrayed, the most terrifying time of the sisters' lives begins. As Allied troops close in, the Brilleslijper family are rushed onto the last train to Auschwitz, along with Anne Frank and her family. The journey will bring Janny and Lien close to Anne and her older sister Margot. The days ahead will test the sisters beyond human imagination as they are stripped of everything but their courage, their resilience, and their love for each other. Based on meticulous research and unprecedented access to the Brilleslijpers' personal archives of memoirs and photos, Sisters of Auschwitz is a long-overdue homage to two young women's heroism and moral bravery--and a reminder of the power each of us has to change the world.
+author_new0: Roxane van Iperen

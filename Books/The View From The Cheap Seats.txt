@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062262262
+primary_isbn13: 9780062262264
+publisher: HarperCollins
+description: A collection of nonfiction essays on such topics as art, dreams, myth and memories.
+title: The View From The Cheap Seats
+author: Neil Gaiman
+amazon_product_url: http://www.amazon.com/View-Cheap-Seats-Selected-Nonfiction/dp/0062262262?tag=NYTBSREV-20
+list_date: 2016/06/19
+published_date: 2016-05-31
+summary: An enthralling collection of nonfiction essays on a myriad of topics—from art and artists to dreams, myths, and memories—observed in #1 New York Times bestselling author Neil Gaiman’s probing, amusing, and distinctive style. An inquisitive observer, thoughtful commentator, and assiduous craftsman, Neil Gaiman has long been celebrated for the sharp intellect and startling imagination that informs his bestselling fiction. Now, The View from the Cheap Seats brings together for the first time ever more than sixty pieces of his outstanding nonfiction. Analytical yet playful, erudite yet accessible, this cornucopia explores a broad range of interests and topics, including (but not limited to): authors past and present; music; storytelling; comics; bookshops; travel; fairy tales; America; inspiration; libraries; ghosts; and the title piece, at turns touching and self-deprecating, which recounts the author’s experiences at the 2010 Academy Awards in Hollywood. Insightful, incisive, witty, and wise, The View from the Cheap Seats explores the issues and subjects that matter most to Neil Gaiman—offering a glimpse into the head and heart of one of the most acclaimed, beloved, and influential artists of our time.

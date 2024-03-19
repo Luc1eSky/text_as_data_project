@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 0399592466
+primary_isbn13: 9780399592461
+publisher: Spiegel & Grau
+description: Dispatches from the 2016 campaign.
+title: Insane Clown President
+author: Matt Taibbi
+amazon_product_url: https://www.amazon.com/Insane-Clown-President-Dispatches-Circus/dp/0399592466?tag=NYTBSREV-20
+list_date: 2017/02/12
+published_date: 2017
+summary: In twenty-five pieces from Rolling Stoneplus two original essaysMatt Taibbi tells the story of Western civilizations very own train wreck, from its tragicomic beginnings to its apocalyptic conclusion.--Amazon.com.

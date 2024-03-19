@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 32
+primary_isbn10: None
+primary_isbn13: 9781101611302
+publisher: Dutton
+description: An account of the mission that killed Osama bin Laden, by a former member of the Navy SEALs.
+title: No Easy Day
+author: Mark Owen with Kevin Maurer
+amazon_product_url: http://www.amazon.com/No-Easy-Day-Firsthand-Account/dp/0451468740?tag=NYTBSREV-20
+list_date: 2014/11/23

@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1101904194
+primary_isbn13: 9781101904190
+publisher: Crown/Archetype
+description: The story of Oleg Gordievsky, a K.G.B. spy who secretly worked for the British intelligence service, and Aldrich Ames, a C.I.A. officer who was a K.G.B. double agent.
+title: The Spy And The Traitor
+author: Ben Macintyre
+amazon_product_url: https://www.amazon.com/Spy-Traitor-Greatest-Espionage-Story/dp/1101904194?tag=NYTBSREV-20
+list_date: 2018/10/07
+published_date: 2018
+summary: The son of two KGB agents and the product of the best Soviet institutions, Oleg Gordievsky grew to see his nation's communism as both criminal and philistine. He took his first posting for Russian intelligence in 1968 and became the Soviet Union's top man in London, but from 1973 on he was secretly working for MI6. Desperate to keep the circle of trust close, MI6 never revealed Gordievsky's name to its counterparts in the CIA, which in turn grew obsessed with figuring out the identity of Britain's obviously top-level source. The CIA officer assigned to identify him was Aldrich Ames, who would become infamous for secretly spying for the Soviets. -- adapted from jacket.

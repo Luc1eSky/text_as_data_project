@@ -1,0 +1,14 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0063230291
+primary_isbn13: 9780063230293
+publisher: HarperOne
+description: A 98-year-old woman who gained attention through TikTok videos tells her story of surviving Auschwitz.
+title: Lily'S Promise
+author: Lily Ebert and Dov Forman
+amazon_product_url: https://www.amazon.com/dp/0063230291?tag=NYTBSREV-20
+list_date: 2022/05/29
+published_data: 2022-05-10
+summary: "Utterly compelling, heartbreaking, truthful and yet redemptive, a memoir of the Holocaust, a testimony of irrepressible spirit and an unforgettable family chronicle, written in lucid prose by a truly remarkable woman about her life from Hungary to Auschwitz, Israel to London. I couldn't stop reading it."--Simon Sebag Montefiore In this heartbreaking yet life-affirming intergenerational memoir, a Holocaust survivor and her great-grandson share her remarkable story. It isan unforgettable tale of resilience and resistance in the face of extreme hardship, the importance and bravery of starting over, the power of healing, and the gift of keeping memories alive from generation to generation. On Yom Kippur, 1944, Lily Ebert made a promise. She would survive the hell of Auschwitz and, when finally freed, tell the world her story to help prevent such evil from ever happening again. Now, at ninety-seven, this remarkable woman fulfills that vow, sharing the details of her experiences with candor, charm, and overflowing heart.Lily's Promise begins with her happy childhood in Hungary, and the terror that descended when war broke out. Deported to Auschwitz, Lily speaks movingly of the shocking cruelty and systematic dehumanization inflicted by the Nazis, and how survival with her younger sisters Rene and Piri felt impossible. But the girls' love for each other allowed them to endure the horror after they lost their mother and two youngest siblings, and even when they faced a death march in the war's final days. Lily's care for others, strength of character, and small acts of resistance against evil kept her alive and made her an incredible leader for those around her. When she was liberated from Auschwitz in 1945, a Jewish-American soldier gave her a bank note on which he'd written "Good luck and happiness." Nearly seventy-five years later, her great-grandson, Dov, turned to social media to find that GI's family, and word of Lily's remarkable heroism began to spread. Dov knows that it is up to younger people like him to keep Lily's promise alive, to remind us we cannot forget. Together, he and Lily bridge the gap between generations to impart the truth about the Holocaust to others. Featuring a 16 page black-and-white photo insert, Lily's Promise makes clear that their family history is our history as well--and reminds us that joy accompanies the solemn responsibility of keeping the past and our stories alive.
+author_new0: Lily Ebert
+author_new1: Dov Forman

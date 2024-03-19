@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 7
+primary_isbn10: 0062964615
+primary_isbn13: 9780062964618
+publisher: Harper
+description: The CNN host and descendant of the Vanderbilt family charts the rise and fall of this American dynasty.
+title: Vanderbilt
+author: Anderson Cooper and Katherine Howe
+amazon_product_url: https://www.amazon.com/dp/0062964615?tag=NYTBSREV-20
+list_date: 2022/01/16
+published_data: 2021-09-21
+summary: CNN anchor and New York Times bestselling author Anderson Cooper teams with New York Times bestselling historian and novelist Katherine Howe to chronicle the rise and fall of a legendary American dynasty--his mother's family, the Vanderbilts. Few names are as synonymous with wealth and glamour as "Vanderbilt." When Cornelius Vanderbilt, the teenaged son of a ferryman in New York Harbor who was born at the end of the eighteenth century, decided to go into business on his own, few would have believed that within six decades he would epitomize American wealth, magnate of a shipping and railroad empire that made him the richest man in the country. In the wake of his death in 1877, Cornelius's heirs bitterly fought over his estate, sowing familial discord that would never fully heal. The generations of Vanderbilts who followed lived lives of unimaginable excess, steeped in tides of success and failure. By 2018, when the last Vanderbilt left the Breakers--the summer estate in Newport, Rhode Island, his grandson and namesake Cornelius Vanderbilt II built--the family would have been unrecognizable to the Commodore. Now, the Commodore's great-great-great-grandson, Anderson Cooper, joins with historian Katherine Howe to explore the story of his legendary family and their remarkable influence. Cooper and Howe breathe life into the ancestors who built the family's empire, basked in the Commodore's wealth, hosted lavish galas, and became synonymous with unfettered American capitalism and high society. Moving from the hardscrabble wharves of Staten Island to the lavish drawing rooms of Gilded Age Fifth Avenue, from the ornate summer palaces of Newport to the courts Europe, Cooper and Howe wryly recount the triumphs and tragedies of an American family unlike any other. Drawing on never-before-seen documents and told from a unique insider's viewpoint, this is a rollicking, quintessentially American history as remarkable as the family it so vividly captures.
+author_new0: Anderson Cooper
+author_new1: Katherine Howe

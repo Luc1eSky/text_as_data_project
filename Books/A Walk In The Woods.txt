@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307717836
+primary_isbn13: 9780307717832
+publisher: Broadway
+description: A journey to rediscover America by trekking the 2,100 miles of the Appalachian Trail. First published in 1998; a 2015 movie.
+title: A Walk In The Woods
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/Walk-Woods-Rediscovering-Appalachian-Official-ebook/dp/B000S1LSAM?tag=NYTBSREV-20
+list_date: 2015/10/25
+published_date: 2010-09-08
+summary: NEW YORK TIMES BESTSELLER • The classic chronicle of a “terribly misguided and terribly funny” (The Washington Post) hike of the Appalachian Trail, from the author of A Short History of Nearly Everything and The Body “The best way of escaping into nature.”—The New York Times Back in America after twenty years in Britain, Bill Bryson decided to reacquaint himself with his native country by walking the 2,100-mile Appalachian Trail, which stretches from Georgia to Maine. The AT offers an astonishing landscape of silent forests and sparkling lakes—and to a writer with the comic genius of Bill Bryson, it also provides endless opportunities to witness the majestic silliness of his fellow human beings. For a start there’s the gloriously out-of-shape Stephen Katz, a buddy from Iowa along for the walk. But A Walk in the Woods is more than just a laugh-out-loud hike. Bryson’s acute eye is a wise witness to this beautiful but fragile trail, and as he tells its fascinating history, he makes a moving plea for the conservation of America’s last great wilderness. An adventure, a comedy, and a celebration, A Walk in the Woods is a modern classic of travel literature. NOW A MAJOR MOTION PICTURE

@@ -1,0 +1,14 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 030692370X
+primary_isbn13: 9780306923708
+publisher: Hachette
+description: The founding member of Mötley Crüe chronicles his journey to finding his rock persona and years of sobriety.
+title: The First 21
+author: Frank Feranna and Nikki Sixx
+amazon_product_url: https://www.amazon.com/dp/030692370X?tag=NYTBSREV-20
+list_date: 2021/11/07
+published_data: 2021-10-19
+summary: A book about the story of Lou's life, as told by Lou himself.
+author_new0: Frank Feranna
+author_new1: Nikki Sixx

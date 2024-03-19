@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1455566977
+primary_isbn13: 9781455566976
+publisher: Grand Central
+description: The story of the American socialite whose relationship with King Edward VIII forced him to abdicate his throne.
+title: Wallis In Love
+author: Andrew Morton
+amazon_product_url: https://www.amazon.com/Wallis-Love-Duchess-Windsor-Monarchy/dp/1455566977?tag=NYTBSREV-20
+list_date: 2018/03/04
+published_date: 2018-02-13
+summary: For fans of the Netflix series The Crown and from the author of the New York Times bestseller 17 Carnations comes a captivating biography of Wallis Simpson, the notorious woman for whom Edward VIII gave up the throne. "You have no idea how hard it is to live out a great romance." -Wallis Simpson Before she became known as the woman who enticed a king from his throne and birthright, Bessie Wallis Warfield was a prudish and particular girl from Baltimore. At turns imaginative, ambitious, and spoiled, Wallis's first words as recalled by her family were "me, me." From that young age, she was in want of nothing but stability, status, and social acceptance as she fought to climb the social ladder and take her place in London society. As irony would have it, she would gain the love and devotion of a king, but only at the cost of his throne and her reputation. In WALLIS IN LOVE, acclaimed biographer Andrew Morton offers a fresh portrait of Wallis Simpson in all her vibrancy and brazenness as she transformed from a hard-nosed gold-digger to charming chatelaine. Using diary entries, letters, and other never-before-seen records, Morton takes us through Wallis's romantic adventures in Washington, China, and her entrance into the strange wonderland that is London society. During her journey, we meet an extraordinary array of characters, many of whom smoothed the way for her dalliance with the king of England, Edward VIII. WALLIS IN LOVE goes beyond Wallis's infamous persona and reveals a complex, domineering woman striving to determine her own fate and grapple with matters of the heart.

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 1982159006
+primary_isbn13: 9781982159009
+publisher: Simon & Schuster
+description: An investigative reporter for The Washington Post gives an account of how three successive presidents and their military commanders handled America’s invasion of Afghanistan after 9/11.
+title: The Afghanistan Papers
+author: Craig Whitlock
+amazon_product_url: https://www.amazon.com/dp/1982159006?tag=NYTBSREV-20
+list_date: 2021/09/26
+published_data: 2021-08-31
+summary: "The groundbreaking investigative story of how three successive presidents and their military commanders deceived the public year after year about the longest war in American history"--
+author_new0: Craig Whitlock

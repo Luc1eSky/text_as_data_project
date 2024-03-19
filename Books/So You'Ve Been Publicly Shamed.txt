@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780698172524
+publisher: Riverhead
+description: The Welsh journalist describes the phenomenon of social media denunciation.
+title: So You'Ve Been Publicly Shamed
+author: Jon Ronson
+amazon_product_url: http://www.amazon.com/So-Youve-Been-Publicly-Shamed/dp/1594487138?tag=NYTBSREV-20
+list_date: 2015/04/19

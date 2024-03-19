@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 150114524X
+primary_isbn13: 9781501145247
+publisher: Simon & Schuster
+description: A collection of articles and speeches by the Supreme Court justice.
+title: My Own Words
+author: Ruth Bader Ginsburg with Mary Hartnett and Wendy W. Williams
+amazon_product_url: http://www.amazon.com/Own-Words-Ruth-Bader-Ginsburg/dp/150114524X?tag=NYTBSREV-20
+list_date: 2016/10/30
+published_date: 2016-10-04
+summary: "The first book from Ruth Bader Ginsburg since becoming a Supreme Court Justice in 1993--a ... collection of writings and speeches from the woman who has had [an] ... influence on law, women's rights, and popular culture"--

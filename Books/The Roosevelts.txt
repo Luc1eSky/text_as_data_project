@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0307700232
+primary_isbn13: 9780307700230
+publisher: Knopf
+description: A companion volume to the PBS series examines the lives of Theodore, Eleanor and Franklin.
+title: The Roosevelts
+author: Geoffrey C Ward and Ken Burns
+amazon_product_url: http://www.amazon.com/The-Roosevelts-An-Intimate-History/dp/0307700232?tag=NYTBSREV-20
+list_date: 2014/10/12
+published_date: 2014
+summary: Presents a portrait of a great American political family, discussing their impact on the United States and the personal struggles they overcame.

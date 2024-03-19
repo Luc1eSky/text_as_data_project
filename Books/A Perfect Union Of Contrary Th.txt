@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1495024423
+primary_isbn13: 9781495024429
+publisher: Backbeat
+description: A biography of the lead singer and songwriter of the alternative metal group Tool.
+title: A Perfect Union Of Contrary Things
+author: Sarah Jensen with Maynard James Keenan
+amazon_product_url: https://www.amazon.com/Perfect-Union-Contrary-Things/dp/1495024423?tag=NYTBSREV-20
+list_date: 2016/11/27
+published_date: 2016
+summary: An "authorized biography of musician and vintner Maynard James Keenan"--Amazon.com.

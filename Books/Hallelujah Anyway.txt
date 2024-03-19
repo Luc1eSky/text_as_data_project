@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0735213585
+primary_isbn13: 9780735213586
+publisher: Riverhead
+description: The importance of mercy in our lives.
+title: Hallelujah Anyway
+author: Anne Lamott
+amazon_product_url: https://www.amazon.com/Hallelujah-Anyway-Rediscovering-Anne-Lamott/dp/0735213585?tag=NYTBSREV-20
+list_date: 2017/05/14
+published_date: 2017-04-04
+summary: “Anne Lamott is my Oprah.” —Chicago Tribune The New York Times bestseller from the author of Dusk, Night, Dawn, Almost Everything and Bird by Bird, a powerful exploration of mercy and how we can embrace it. "Mercy is radical kindness," Anne Lamott writes in her enthralling and heartening book, Hallelujah Anyway. It's the permission you give others—and yourself—to forgive a debt, to absolve the unabsolvable, to let go of the judgment and pain that make life so difficult. In Hallelujah Anyway: Rediscovering Mercy Lamott ventures to explore where to find meaning in life. We should begin, she suggests, by "facing a great big mess, especially the great big mess of ourselves." It's up to each of us to recognize the presence and importance of mercy everywhere—"within us and outside us, all around us"—and to use it to forge a deeper understanding of ourselves and more honest connections with each other. While that can be difficult to do, Lamott argues that it's crucial, as "kindness towards others, beginning with myself, buys us a shot at a warm and generous heart, the greatest prize of all." Full of Lamott’s trademark honesty, humor and forthrightness, Hallelujah Anyway is profound and caring, funny and wise—a hopeful book of hands-on spirituality.

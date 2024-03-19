@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 163286830X
+primary_isbn13: 9781632868305
+publisher: Bloomsbury
+description: The journalist describes nine causes of depression and anxiety, and offers potential solutions.
+title: Lost Connections
+author: Johann Hari
+amazon_product_url: https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/163286830X?tag=NYTBSREV-20
+list_date: 2018/03/04
+published_date: 2018-01-23
+summary: From the New York Times bestselling author of Chasing the Scream: The First and Last Days of the War on Drugs, a radical new way of thinking about depression and anxiety.

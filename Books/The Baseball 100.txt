@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1982180587
+primary_isbn13: 9781982180584
+publisher: Avid Reader
+description: The accomplishments of some of the sport’s greatest players past and present are put into context with one another
+title: The Baseball 100
+author: Joe Posnanski
+amazon_product_url: https://www.amazon.com/dp/1982180587?tag=NYTBSREV-20
+list_date: 2021/10/17
+published_data: 2021-09-28
+summary: A sportswriter and lifelong student of the game, Posnanski that tells the story of baseball through the lives of its greatest players. His choices include iconic Hall of Famers, unfairly forgotten All-Stars, talents of today, and more. Rather than relying on records and statistics, he retraces players' origins, illuminates their characters, and places their accomplishments in the context of baseball's past and present. The result is a rich pageant of baseball history, and stories that have long gone unheard. -- adapted from jacket
+author_new0: Joe Posnanski

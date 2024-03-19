@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0143125478
+primary_isbn13: 9780143125471
+publisher: Penguin
+description: The story of the American rowers who pursued gold at the 1936 Berlin Olympic Games. Originally published in 2013.
+title: The Boys In The Boat
+author: Daniel James Brown
+amazon_product_url: http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=NYTBSREV-20
+list_date: 2016/10/23
+published_date: 2014-05-27
+summary: Soon to be a major motion picture directed by George Clooney The #1 New York Times–bestselling story about the American Olympic rowing triumph in Nazi Germany—from the author of Facing the Mountain. For readers of Unbroken, out of the depths of the Depression comes an irresistible story about beating the odds and finding hope in the most desperate of times—the improbable, intimate account of how nine working-class boys from the American West showed the world at the 1936 Olympics in Berlin what true grit really meant. It was an unlikely quest from the start. With a team composed of the sons of loggers, shipyard workers, and farmers, the University of Washington’s eight-oar crew team was never expected to defeat the elite teams of the East Coast and Great Britain, yet they did, going on to shock the world by defeating the German team rowing for Adolf Hitler. The emotional heart of the tale lies with Joe Rantz, a teenager without family or prospects, who rows not only to regain his shattered self-regard but also to find a real place for himself in the world. Drawing on the boys’ own journals and vivid memories of a once-in-a-lifetime shared dream, Brown has created an unforgettable portrait of an era, a celebration of a remarkable achievement, and a chronicle of one extraordinary young man’s personal quest.

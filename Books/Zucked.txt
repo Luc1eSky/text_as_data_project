@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0525561358
+primary_isbn13: 9780525561354
+publisher: Penguin Press
+description: A Silicon Valley investor and mentor to Mark Zuckerberg describes some of the negative effects of the attention economy on our democracy and the greater culture.
+title: Zucked
+author: Roger McNamee
+amazon_product_url: https://www.amazon.com/Zucked-Waking-Up-Facebook-Catastrophe/dp/0525561358?tag=NYTBSREV-20
+list_date: 2019/02/24
+published_data: 2019
+summary: Pre-publication subtitle: The education of an unlikely activist.
+author_new0: Roger McNamee

@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0358391172
+primary_isbn13: 9780358391173
+publisher: Mariner
+description: A Supreme Court lawyer, who is also a former acting solicitor general, argues that President Trump should be removed from office.
+title: Impeach
+author: Neal Katyal and Sam Koppelman
+amazon_product_url: https://www.amazon.com/Impeach-Case-Against-Donald-Trump/dp/0358391172?tag=NYTBSREV-20
+list_date: 2019/12/15
+published_data: 2019-11-26
+summary: Why President Trump has left us with no choice but to remove him from office, as explained by celebrated Supreme Court lawyer and former Acting Solicitor General Neal Katyal.
+author_new0: Neal Katyal
+author_new1: Sam Koppelman

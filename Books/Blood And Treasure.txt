@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1250247136
+primary_isbn13: 9781250247131
+publisher: St. Martin's
+description: A depiction of the frontiersman Daniel Boone.
+title: Blood And Treasure
+author: Bob Drury and Tom Clavin
+amazon_product_url: https://www.amazon.com/dp/1250247136?tag=NYTBSREV-20
+list_date: 2021/05/09
+published_data: 2021-04-20
+summary: N/A
+author_new0: Bob Drury
+author_new1: Tom Clavin

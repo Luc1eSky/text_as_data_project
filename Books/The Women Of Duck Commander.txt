@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1476763305
+primary_isbn13: 9781476763309
+publisher: Howard Books
+description: The “Duck Dynasty” wives discuss their marriages, families and faith.  
+title: The Women Of Duck Commander
+author: Kay Robertson and others with Beth Clarkl
+amazon_product_url: http://www.amazon.com/The-Women-Duck-Commander-Surprising/dp/1476763305?tag=NYTBSREV-20
+list_date: 2014/04/20
+published_date: 2014-04
+summary: The female members of the Duck Dynasty cast outline their behind-the-scenes roles in the Robertson family while discussing the core values that make their relationships work, explaining how their spiritual beliefs shape family dynamics and have helped them work through various challenges. TV tie-in.

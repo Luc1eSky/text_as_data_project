@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 1250164680
+primary_isbn13: 9781250164681
+publisher: Andy Cohen/Holt
+description: The career highlights, public life and private struggles of the singer and songwriter.
+title: The Meaning Of Mariah Carey
+author: Mariah Carey with Michaela Angela Davis
+amazon_product_url: https://www.amazon.com/dp/1250164680?tag=NYTBSREV-20
+list_date: 2020/11/01
+published_data: 2020-09-29
+summary: The Instant #1 New York Times Bestseller The global icon, award-winning singer, songwriter, producer, actress, mother, daughter, sister, storyteller, and artist finally tells the unfiltered story of her life in The Meaning of Mariah Carey It took me a lifetime to have the courage and the clarity to write my memoir. I want to tell the story of the moments - the ups and downs, the triumphs and traumas, the debacles and the dreams, that contributed to the person I am today. Though there have been countless stories about me throughout my career and very public personal life, it’s been impossible to communicate the complexities and depths of my experience in any single magazine article or a ten-minute television interview. And even then, my words were filtered through someone else’s lens, largely satisfying someone else’s assignment to define me. This book is composed of my memories, my mishaps, my struggles, my survival and my songs. Unfiltered. I went deep into my childhood and gave the scared little girl inside of me a big voice. I let the abandoned and ambitious adolescent have her say, and the betrayed and triumphant woman I became tell her side. Writing this memoir was incredibly hard, humbling and healing. My sincere hope is that you are moved to a new understanding, not only about me, but also about the resilience of the human spirit. Love, Mariah
+author_new0: Mariah Carey
+author_new1: Michaela Angela Davis

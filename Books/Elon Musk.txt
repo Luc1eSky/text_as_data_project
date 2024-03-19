@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 4
+primary_isbn10: 
+primary_isbn13: 9780062301260
+publisher: Ecco/HarperCollins
+description: A technology writer follows Musk’s life from his difficult South African childhood to his involvement in Internet start-ups like the rocket company SpaceX and the electric-car company Tesla.
+title: Elon Musk
+author: Ashlee Vance
+amazon_product_url: http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS?tag=NYTBSREV-20
+list_date: 2016/05/15
+published_date: 2021-09-15
+summary: N/A

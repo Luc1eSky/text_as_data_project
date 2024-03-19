@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 006285156X
+primary_isbn13: 9780062851567
+publisher: Broadside
+description: The former Republican congressman alleges that parts of the federal bureaucracy try to undermine President Trump.
+title: The Deep State
+author: Jason Chaffetz
+amazon_product_url: https://www.amazon.com/Deep-State-Bureaucrats-Protected-Working/dp/006285156X?tag=NYTBSREV-20
+list_date: 2018/10/14
+published_date: 2018-09-18
+summary: Former Congressman and current Fox News contributor Jason Chaffetz explains how we ended up with a federal government that actively works to defend the Democratic party and undermine Trump. The liberal media frequently declares the Obama years were free of scandal. They pretend this is true because every office in the Executive Branch worked to slow the information about Hillary’s e-mails, the cover-up of Benghazi, the IRS, and so much more. Yet these same tight-lipped lifers leaked like a sieve once President Trump was sworn in, making it sound like everything he does is the new Watergate. In Deep State, Jason Chaffetz explains how the federal government has grown into a branch of the Democratic party of the past decade or more. The former chairman of the House Oversight committee explains what really happened during the Obama administration, and how we can start to undo the damage caused by this army of liberal sycophants, and build a better future.

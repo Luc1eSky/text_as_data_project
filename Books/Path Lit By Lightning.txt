@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 4
+primary_isbn10: 1476748411
+primary_isbn13: 9781476748412
+publisher: Simon & Schuster
+description: The life story of the Olympic athlete, All-American football player and Major League Baseball player Jim Thorpe.
+title: Path Lit By Lightning
+author: David Maraniss
+amazon_product_url: https://www.amazon.com/dp/1476748411?tag=NYTBSREV-20
+list_date: 2022/09/18
+published_data: 2022-08-09
+summary: "Jim Thorpe rose to world fame as a mythic talent who excelled at every sport. He won gold medals in the decathlon and pentathlon at the 1912 Stockholm Olympics, was an All-American football player at the Carlisle Indian School, in the first class of the Pro Football Hall of Fame, and played major league baseball for the New York Giants. But despite his colossal skills, Thorpe's life was a struggle against the odds. As a member of the Sac and Fox Nation, he encountered duplicitous authorities who turned away from him when their reputations were at risk. At Carlisle, he dealt with the racist assimilationist philosophy Kill the Indian, Save the Man. His gold medals were unfairly rescinded because he had played minor league baseball. His later life was troubled by alcohol, broken marriages, and financial distress. But for all his travails, Thorpe did not succumb. The man survived, complications and all, and so did the myth"--
+author_new0: David Maraniss

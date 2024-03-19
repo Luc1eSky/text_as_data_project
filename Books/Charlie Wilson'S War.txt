@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1555848095
+primary_isbn13: 9781555848095
+publisher: Grove
+description: A chronicle of a congressman’s efforts in the 1980s to steer billions to the anti-Soviet side in Afghanistan.
+title: Charlie Wilson'S War
+author: George Crile
+amazon_product_url: http://www.amazon.com/Charlie-Wilsons-War-Extraordinary-Congress-ebook/dp/B008V43QWQ?tag=NYTBSREV-20
+list_date: 2015/03/22
+published_date: 2007-12-01
+summary: The bestselling true story of a Texas congressman’s secret role in the Afghan defeat of Russian invaders is “a tour de force of reporting and writing” (Dan Rather). A New York Times, Washington Post, and Los Angeles Times bestseller. Charlie Wilson’s penchant for cocktails and beauty-contest winners was well known, but in the early 1980s, the dilettante congressman quietly conducted one of the most successful covert operations in US history. Using his seat on the House Appropriations Committee, Wilson channeled hundreds of millions of dollars to support a ragged band of Afghan “freedom fighters” in their resistance against Soviet invaders. Weapons were secretly procured and distributed with the help of an outcast CIA operative named Gust Avrakotos, who stretched the agency’s rules to the breaking point. Moving from the back rooms of Washington to secret chambers at Langley, and from arms-dealers’ conventions to the Khyber Pass, Wilson and Avrakotos helped the mujahideen win an unlikely victory against the Russians. Adapted into a film starring Tom Hanks, Julia Roberts, and Philip Seymour Hoffman, Charlie Wilson’s War chronicles an overlooked chapter in the collapse of the Soviet Union—and the emergence of a brand-new foe in the form of radical Islam. “Put the Tom Clancy clones back on the shelf; this covert-ops chronicle is practically impossible to put down. No thriller writer would dare invent Wilson.” —Publishers Weekly “An engaging, well-written, newsworthy study of practical politics and its sometimes unlikely players, and one with plenty of implications.” —Kirkus Reviews

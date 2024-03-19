@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 3
+primary_isbn10: 0593296311
+primary_isbn13: 9780593296318
+publisher: Penguin Press
+description: A staff writer at The Atlantic details how some Republicans shifted their loyalty to Donald Trump.
+title: Thank You For Your Servitude
+author: Mark Leibovich
+amazon_product_url: https://www.amazon.com/dp/0593296311?tag=NYTBSREV-20
+list_date: 2022/08/14
+published_data: 2022-07-12
+summary: The #1 New York Times Bestseller “He’s one of the best chroniclers of politics today.” –Jake Tapper “This is a really funny book.” –Kara Swisher “His writing is so damn good.” –John Berman “Really fascinating...There are so many revelations.” –Anderson Cooper “The new must read summer book.” –Stephanie Ruhle From the author of the #1 New York Times bestseller This Town, the eyewitness account of how the GOP collaborated with Donald Trump to transform Washington’s “swamp” into a gold-plated hot tub—and a onetime party of rugged individualists into a sycophantic personality cult. In the early months of Trump’s candidacy, the Republican Party’s most important figures, people such as Marco Rubio, Ted Cruz, and Lindsey Graham, were united—and loud—in their scorn and contempt. Even more, in their outrage: Trump was a menace and an affront to our democracy. Then, awkwardly, Trump won. Thank You for Your Servitude is Mark Leibovich’s unflinching account of the moral rout of a major American political party, tracking the transformation of Rubio, Cruz, Graham, and their ilk into the administration’s chief enablers, and the swamp’s lesser lights into frantic chasers of the grift. What would these politicos do to preserve their place in the sun, or at least the orbit of the spray tan? What would they do to preserve their “relevance”? Almost anything, it turns out. Trump’s savage bullying of everyone in his circle, along with his singular command of his political base, created a dangerous culture of submission in the Republican Party. Meanwhile, many of the most alpha of the lapdogs happily conceded to Mark Leibovich that they were “in on the joke.” As Lindsey Graham told the author, his supporters in South Carolina generally don’t read The New York Times, and they won’t read this book, either. All that cynicism, shading into nihilism, led to a country truly unhinged from reality, and to the events of January 6, 2021. It’s a vista that makes the Washington of This Town seem like a comedy of manners in comparison. Thank You for Your Servitude isn’t another view from the Oval Office: it’s the view from the Trump Hotel. We can check out any time we want, but only time will tell if we can ever leave.
+author_new0: Mark Leibovich

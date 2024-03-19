@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0316495530
+primary_isbn13: 9780316495530
+publisher: Voracious
+description: The Scottish actor travels along West Highland Way to connect with moments that shaped his views.
+title: Waypoints
+author: Sam Heughan
+amazon_product_url: https://www.amazon.com/dp/0316495530?tag=NYTBSREV-20
+list_date: 2022/11/13
+published_data: 2022-10-25
+summary: Journey deep into the Highlands in the first memoir by #1 New York Times bestselling author and star of Outlander Sam Heughan - exploring his life and reflecting on the waypoints that define him In this intimate journey of self-discovery, Sam Heughan sets out along Scotland's rugged West Highland Way to explore his heritage and reflect on the personal waypoints that define him. The result is a love letter to the wild Scottish landscape that means so much to Sam, full of charming, funny, wise, and searching insights into the world through his eyes. The nearly 100-mile walk itself is the backdrop for this narrative, which tells the story of Sam's life while exploring his outlook, values, and interests. Sam is a figure of fascinating contrasts: A Hollywood star with deep roots in Scotland, he's both outgoing and content in his own company. He has strong connections with his fans while recognizing the fragility and value of anonymity, and in his global health community My Peak Challenge he has created a network that brings people together as they chase individual goals. In his new book, while charting a path through a stunning wilderness, Sam maps out the moments that shaped his views on dreams and ambition, family, friendships, love, and life. Waypoints is a deeply personal journey that reveals as much to Sam about himself as it does to his readers.
+author_new0: Sam Heughan

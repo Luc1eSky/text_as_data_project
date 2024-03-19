@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 3
+primary_isbn10: 0307405729
+primary_isbn13: 9780307405722
+publisher: Three Rivers
+description: A life with Asperger’s syndrome; first published in 2007.
+title: Look Me In The Eye
+author: John Elder Robison
+amazon_product_url: http://www.amazon.com/Look-Me-Eye-Life-Aspergers-ebook/dp/B000W91562?tag=NYTBSREV-20
+list_date: 2016/04/24
+published_date: 2007-09-25
+summary: NEW YORK TIMES BESTSELLER • “As sweet and funny and sad and true and heartfelt a memoir as one could find.” —from the foreword by Augusten Burroughs Ever since he was young, John Robison longed to connect with other people, but by the time he was a teenager, his odd habits—an inclination to blurt out non sequiturs, avoid eye contact, dismantle radios, and dig five-foot holes (and stick his younger brother, Augusten Burroughs, in them)—had earned him the label “social deviant.” It was not until he was forty that he was diagnosed with a form of autism called Asperger’s syndrome. That understanding transformed the way he saw himself—and the world. A born storyteller, Robison has written a moving, darkly funny memoir about a life that has taken him from developing exploding guitars for KISS to building a family of his own. It’s a strange, sly, indelible account—sometimes alien yet always deeply human.

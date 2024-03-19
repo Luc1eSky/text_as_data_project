@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0063221349
+primary_isbn13: 9780063221345
+publisher: HarperOne
+description: A collection of essays on journalism and finding commonalities by the host of NPR’s “All Things Considered.”
+title: The Best Strangers In The World
+author: Ari Shapiro
+amazon_product_url: https://www.amazon.com/dp/0063221349?tag=NYTBSREV-20
+list_date: 2023/04/09
+published_data: 2023-03-21
+summary: From the beloved host of NPR's All Things Considered, a stirring memoir-in-essays that is also a lover letter to journalism. In his first book, broadcaster Ari Shapiro takes us around the globe to reveal the stories behind narratives that are sometimes heartwarming, sometimes heartbreaking, but always poignant. He details his time traveling on Air Force One with President Obama, or following the path of Syrian refugees fleeing war, or learning from those fighting for social justice both at home and abroad. As the self-reinforcing bubbles we live in become more impenetrable, Ari Shapiro keeps seeking ways to help people listen to one another; to find connection and commonality with those who may seem different; to remind us that, before religion, or nationality, or politics, we are all human. The Best Strangers in the World is a testament to one journalist's passion for Considering All Things--and sharing what he finds with the rest of us.
+author_new0: Ari Shapiro

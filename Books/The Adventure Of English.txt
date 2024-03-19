@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9781628720242
+publisher: Arcade
+description: The biography of a language; the companion volume to the History Channel series.
+title: The Adventure Of English
+author: Melvyn Bragg
+amazon_product_url: http://www.amazon.com/The-Adventure-English-Biography-Language-ebook/dp/B00CKXAAHS?tag=NYTBSREV-20
+list_date: 2015/02/15
+published_date: 2021-09-15
+summary: N/A

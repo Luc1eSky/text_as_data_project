@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0812996933
+primary_isbn13: 9780812996937
+publisher: Random House
+description: A journalist comes to terms with the loss of a pregnancy and her spouse.
+title: The Rules Do Not Apply
+author: Ariel Levy
+amazon_product_url: https://www.amazon.com/Rules-Do-Not-Apply-Memoir/dp/0812996933?tag=NYTBSREV-20
+list_date: 2017/04/16
+published_date: 2017
+summary: When Ariel Levy left for a reporting trip to Mongolia in 2012, she was pregnant, married, financially secure, and successful on her own terms. A month later, none of that was true.

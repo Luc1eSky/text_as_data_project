@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 2
+primary_isbn10: 0316267651
+primary_isbn13: 9780316267656
+publisher: Little, Brown
+description: The author and screenwriter describes losing her sister and husband to cancer, finding love again and receiving a leukemia diagnosis.
+title: Left On Tenth
+author: Delia Ephron
+amazon_product_url: https://www.amazon.com/dp/0316267651?tag=NYTBSREV-20
+list_date: 2022/05/08
+published_data: 2022-04-12
+summary: The beloved writer of romantic comedies tells her own late-in-life love story, complete with a tragic second act and joyous resolution. Delia Ephron tried to disconnect her late husband's landline and crashed her internet. After a prolonged battle with Verizon, she did what she always does. She wrote about it, channeling her grief and frustration into a New York Times op ed. Months later, she got an email to commiserate from a man she'd had two dates with while in college, 54 years ago. She didn't remember him but he remembered her. After three weeks of mutually passionate emails and 60s folk songs, he flew across the country to see her. They were crazily in love. What could go wrong? Acute Myeloid Leukemia, which also took her beloved older sister, struck her three months into this new blissful life. Because Delia Ephron survived and is a singular writer who tells her story in a way that brings you right next to her and seesaws you between tears and laughter, in this memoir, you will join her, going inside the giddy highs (even the initial falling in love emails are here) and the suicidal lows of enduring cutting-edge treatment (accurately presented and vetted by her amazing team of doctors) for a life-threatening cancer. The collision of love and illness makes for a traumatic but ultimately redemptive roller coaster ride, which Ephron writes with page-turning drama. With Peter's devotion, with close friends and family buoying her with hope, with startling clarity, warmth, and honesty about facing death, Delia invites us to join her team of warriors and become believers ourselves.
+author_new0: Delia Ephron

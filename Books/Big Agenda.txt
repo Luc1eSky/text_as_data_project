@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 8
+primary_isbn10: 1630060879
+primary_isbn13: 9781630060879
+publisher: Humanix
+description: A battle plan for the Trump White House.
+title: Big Agenda
+author: David Horowitz
+amazon_product_url: https://www.amazon.com/Big-Agenda-President-Trumps-America/dp/1630060879?tag=NYTBSREV-20
+list_date: 2017/04/23
+published_date: 2017
+summary: One of the nation's foremost conservative commentators, Horowitz presents a White House battle plan to halt what President Trump sees as the Democrats' destruction of American values.

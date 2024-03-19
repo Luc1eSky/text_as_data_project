@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0805099689
+primary_isbn13: 9780805099683
+publisher: Holt
+description: A biography of Tom Petty by his friend Zanes, a writer and musician, also sheds light on band dynamics.
+title: Petty
+author: Warren Zanes
+amazon_product_url: http://www.amazon.com/Petty-The-Biography-Warren-Zanes/dp/0805099689?tag=NYTBSREV-20
+list_date: 2015/11/29
+published_date: 2015-11-10
+summary: Zanes provides an honest and evocative examination of Petty's music, and the remarkable rock and roll history he and his band helped to write. Petty was a kid without a whole lot of promise; rock and roll made it otherwise. His story has all the drama of a rock and roll epic. Dark and mysterious, Petty manages to come back, again and again, showing us what the music can do and where it can take us.

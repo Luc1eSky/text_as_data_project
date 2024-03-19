@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1476769893
+primary_isbn13: 9781476769899
+publisher: Simon & Schuster
+description: A social scientist argues that income inequality is creating an “opportunity gap” for poor children that is destroying the American dream.
+title: Our Kids
+author: Robert D Putnam
+amazon_product_url: http://www.amazon.com/Our-Kids-American-Dream-Crisis/dp/1476769893?tag=NYTBSREV-20
+list_date: 2015/03/29
+published_date: 2015-03-10
+summary: In an authoritative, yet personal, examination of the growing inequality gap, a leading humanist and renowned scientist who has consulted for the last four U.S. Presidents, drawing on poignant life stories of rich and poor kids across the country, provides a disturbing account of the American dream. By the author of Bowling Alone. Includes 30 charts and graphs.

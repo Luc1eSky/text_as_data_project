@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 0393652106
+primary_isbn13: 9780393652109
+publisher: Norton
+description: The Pulitzer Prize-winning journalist chronicles the deterioration of American diplomacy.
+title: War On Peace
+author: Ronan Farrow
+amazon_product_url: https://www.amazon.com/War-Peace-Diplomacy-American-Influence/dp/0393652106?tag=NYTBSREV-20
+list_date: 2018/06/03
+published_date: 2018-04-24
+summary: A harrowing exploration of the collapse of American diplomacy and the abdication of global leadership, by the winner of the 2018 Pulitzer Prize in Public Service. US foreign policy is undergoing a dire transformation, forever changing America’s place in the world. Institutions of diplomacy and development are bleeding out after deep budget cuts; the diplomats who make America’s deals and protect its citizens around the world are walking out in droves. Offices across the State Department sit empty, while abroad the military-industrial complex has assumed the work once undertaken by peacemakers. We’re becoming a nation that shoots first and asks questions later. In an astonishing journey from the corridors of power in Washington, DC, to some of the most remote and dangerous places on earth—Afghanistan, Somalia, and North Korea among them—acclaimed investigative journalist Ronan Farrow illuminates one of the most consequential and poorly understood changes in American history. His firsthand experience as a former State Department official affords a personal look at some of the last standard bearers of traditional statecraft, including Richard Holbrooke, who made peace in Bosnia and died while trying to do so in Afghanistan. Drawing on newly unearthed documents, and richly informed by rare interviews with warlords, whistle-blowers, and policymakers—including every living former secretary of state from Henry Kissinger to Hillary Clinton to Rex Tillerson—War on Peace makes a powerful case for an endangered profession. Diplomacy, Farrow argues, has declined after decades of political cowardice, shortsightedness, and outright malice—but it may just offer America a way out of a world at war.

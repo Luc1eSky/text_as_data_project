@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1594205736
+primary_isbn13: 9781594205736
+publisher: Penguin Press
+description: The coach of the University of Kentucky’s men’s basketball team discusses the game and his career.
+title: Players First
+author: John Calipari and Michael Sokolove
+amazon_product_url: http://www.amazon.com/Players-First-Coaching-Inside-Out/dp/1594205736?tag=NYTBSREV-20
+list_date: 2014/05/04
+published_date: 2014
+summary: "In Players First, John Calipari relates for the first time anywhere his experiences over his first four years coaching the Kentucky Wildcats, college basketball's most fabled program, from the doldrums to a national championship, drawing lessons about leadership, character, and the path to personal and collective victory. At its core, Calipari's coaching philosophy centers on keeping his focus on the players--what they need to get the best out of themselves and one another. He is beloved by his players for being utterly honest with them and making promises that he always keeps, no matter what. He knows that in this age, they come to Kentucky to prepare for the NBA; every year he gets players who in a previous era would have gone directly into the pros from high school but now have to play college basketball for one year. Calipari has fought against this system, but he has to play within it, and so he does, better than anyone"--

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1250278457
+primary_isbn13: 9781250278456
+publisher: St. Martin's
+description: The author of “Too Much and Never Enough” examines potential trauma caused by current and historical events.
+title: The Reckoning
+author: Mary L. Trump
+amazon_product_url: https://www.amazon.com/dp/1250278457?tag=NYTBSREV-20
+list_date: 2021/09/19
+published_data: 2021-08-17
+summary: From the #1 bestselling author of Too Much and Never Enough: A diagnosis of America's national trauma, and a way to heal. The Reckoning will examine America’s national trauma, rooted in our history but dramatically exacerbated by the impact of current events and the Trump administration’s corrupt and immoral policies. Our failure to acknowledge this trauma, let alone root it out, has allowed it to metastasize. Whether it manifests itself in rising levels of rage and hatred, or hopelessness and apathy, the stress of living in a country we no longer recognize has affected all of us. America is suffering from PTSD—a new leader alone cannot fix us. An enormous amount of healing must be done to rebuild our faith in leadership, and our hope for this nation. It starts with The Reckoning.
+author_new0: Mary L. Trump

@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 21
+primary_isbn10: 0374533555
+primary_isbn13: 9780374533557
+publisher: Farrar, Straus & Giroux
+description: The winner of the Nobel in economic science discusses how we make choices.
+title: Thinking, Fast And Slow
+author: Daniel Kahneman
+amazon_product_url: http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20
+list_date: 2017/02/12

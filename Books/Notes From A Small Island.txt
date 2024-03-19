@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0062417436
+primary_isbn13: 9780062417435
+publisher: HarperCollins
+description: An affectionate and irreverent walking tour of Britain. Originally published in 1996.
+title: Notes From A Small Island
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/Notes-Small-Island-Bill-Bryson-ebook/dp/B00T3DR5A8?tag=NYTBSREV-20
+list_date: 2016/04/10
+published_date: 2015-06-02
+summary: Before New York Times bestselling author Bill Bryson wrote The Road to Little Dribbling, he took this delightfully irreverent jaunt around the unparalleled floating nation of Great Britain, which has produced zebra crossings, Shakespeare, Twiggie Winkie’s Farm, and places with names like Farleigh Wallop and Titsey.

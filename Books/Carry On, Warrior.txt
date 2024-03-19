@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1451698224
+primary_isbn13: 9781451698220
+publisher: Scribner
+description: Reflections on marriage, motherhood, faith, addiction and recovery; from the author of the blog Momastery.com.
+title: Carry On, Warrior
+author: Glennon Doyle Melton
+amazon_product_url: http://www.amazon.com/Carry-Warrior-Power-Embracing-Beautiful-ebook/dp/B008J4GRTM?tag=NYTBSREV-20
+list_date: 2016/09/25
+published_date: 2014-04-08
+summary: A New York Times essayist shares her journey from a self-destructive college student to a devoted family woman and teacher while illuminating the importance of trusting in a higher power and being truthful about life's challenges.

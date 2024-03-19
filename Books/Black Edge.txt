@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0812995805
+primary_isbn13: 9780812995800
+publisher: Random House
+description: The career of the hedge-fund manager Steven A. Cohen, whose firm was the target of a seven-year investigation that resulted in a plea of guilty to insider trading, although he himself was not charged.
+title: Black Edge
+author: Sheelah Kolhatkar
+amazon_product_url: https://www.amazon.com/Black-Edge-Inside-Information-Wanted/dp/0812995805?tag=NYTBSREV-20
+list_date: 2017/02/26
+published_date: 2017
+summary: "The rise over the last two decades of a powerful new class of billionaire financiers marks a singular shift in the American economic and political landscape. Their vast reserves of concentrated wealth have allowed a small group of big winners to write their own rules of capitalism and public policy. How did we get here? ... Kolhatkar shows how Steve Cohen became one of the richest and most influential figures in finance--and what happened when the Justice Department put him in its crosshairs"--Amazon.com.

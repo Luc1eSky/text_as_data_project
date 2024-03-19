@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0525557407
+primary_isbn13: 9780525557401
+publisher: Viking
+description: The story of four Japanese-American families, who faced bigotry, and their sons, who volunteered for the 442nd Regimental Combat Team during World War II.
+title: Facing The Mountain
+author: Daniel James Brown
+amazon_product_url: https://www.amazon.com/dp/0525557407?tag=NYTBSREV-20
+list_date: 2021/06/06
+published_data: 2021-05-11
+summary: A NEW YORK TIMES BESTSELLER One of NPR's "Books We Love" of 2021 Longlisted for the PEN/Jacqueline Bograd Weld Award for Biography Winner of the Christopher Award “Masterly. An epic story of four Japanese-American families and their sons who volunteered for military service and displayed uncommon heroism… Propulsive and gripping, in part because of Mr. Brown’s ability to make us care deeply about the fates of these individual soldiers...a page-turner.” – Wall Street Journal From the #1 New York Times bestselling author of The Boys in the Boat, a gripping World War II saga of patriotism and resistance, focusing on four Japanese American men and their families, and the contributions and sacrifices that they made for the sake of the nation. In the days and months after Pearl Harbor, the lives of Japanese Americans across the continent and Hawaii were changed forever. In this unforgettable chronicle of war-time America and the battlefields of Europe, Daniel James Brown portrays the journey of Rudy Tokiwa, Fred Shiosaki, and Kats Miho, who volunteered for the 442nd Regimental Combat Team and were deployed to France, Germany, and Italy, where they were asked to do the near impossible. Brown also tells the story of these soldiers' parents, immigrants who were forced to submit to life in concentration camps on U.S. soil. Woven throughout is the chronicle of Gordon Hirabayashi, one of a cadre of patriotic resisters who stood up against their government in defense of their own rights. Whether fighting on battlefields or in courtrooms, these were Americans under unprecedented strain, doing what Americans do best—striving, resisting, pushing back, rising up, standing on principle, laying down their lives, and enduring.
+author_new0: Daniel James Brown

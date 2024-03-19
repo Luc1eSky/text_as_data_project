@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 3
+primary_isbn10: 1982176520
+primary_isbn13: 9781982176525
+publisher: Avid Reader
+description: The intelligence gathering, security strategizing and military planning during the final eight months of the pursuit of Osama bin Laden.
+title: Countdown Bin Laden
+author: Chris Wallace with Mitch Weiss
+amazon_product_url: https://www.amazon.com/dp/1982176520?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021-09-07
+summary: Following Chris Wallace’s “riveting” (The New York Times) and “propulsive” (Time) #1 national bestseller Countdown 1945 comes a deeply reported, revelatory, and thrillingly told account of the final months of the hunt for Osama bin Laden. On August 27, 2010, three CIA officers ask for a private meeting with CIA Director Leon Panetta. During that secret session, they tell Panetta that agents have tracked a courier with deep Al Qaeda ties to a three-story house at the end of a dead-end street in Abbottabad, Pakistan. But they say it’s more than a house—it’s a heavily protected fortress. No one in the meeting says the name bin Laden. They don’t have to. Everyone understands that finally, after nearly a decade, maybe, just maybe, they’ve found the world’s most wanted man. In Countdown bin Laden, celebrated journalist and anchor of Fox News Sunday Chris Wallace delivers a thrilling new account of the final eight months of intelligence gathering, national security strategizing, and meticulous military planning that leads to the climactic mission when SEAL Team Six closes in on its target. The book delivers new information collected from Wallace’s in-depth interviews with more than a dozen central figures, including Admiral William H. McRaven—leader of the operation in Pakistan—as well as CIA Director Panetta, Secretary of State Hillary Rodham Clinton, Defense Secretary Robert Gates, National Security Advisor Tom Donilon, and two members of SEAL Team Six who participate in the raid, including the special operator who kills Osama bin Laden. Wallace also brings to life the human elements of this story, talking to families who lost loved ones on 9/11, sharing what relatives of SEAL Team Six went through, and bringing us inside the tense Situation Room during the raid. Published on the twentieth anniversary of 9/11, Countdown bin Laden is a historical thriller filled with intrigue, cinematic action, and fresh reporting about the race to apprehend and bring to justice the mastermind of the most consequential terrorist attack in American history.
+author_new0: Chris Wallace
+author_new1: Mitch Weiss

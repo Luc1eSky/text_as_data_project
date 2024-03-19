@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1538754274
+primary_isbn13: 9781538754276
+publisher: Grand Central
+description: The travel writer and television director describes coming of age in the New York area and starring in iconic 1980s movie roles.
+title: Brat
+author: Andrew McCarthy
+amazon_product_url: https://www.amazon.com/dp/1538754274?tag=NYTBSREV-20
+list_date: 2021/05/30
+published_data: 2021-05-11
+summary: Patti Smith's Just Kids meets Rob Lowe's Stories I Only Tell My Friends in this beautifully written, entertaining and emotionally honest memoir by actor, director, and author, Andrew McCarthy. Most people know Andrew McCarthy from his movie roles in Pretty in Pink, St. Elmo's Fire, Weekend at Bernie's, and Less than Zero, and as a charter member of Hollywood's Brat Pack. The iconic group of ingenues and heartthrobs that included Rob Lowe, Molly Ringwald, Emilio Estevez, and Demi Moore, and has come to represent both a genre of film and an era of pop culture. In his memoir Brat: An '80s Story, McCarthy focuses his gaze on that singular moment in time. The result is a revealing look at coming of age in a maelstrom, reckoning with conflicted ambition, innocence, addiction, and masculinity. New York City of the 1980's is brought to vivid life in these pages -- scoring loose joints in Washington Square Park and skipping school in favor of the dark revival houses of the Village where he fell in love with the movies that would change his life. Filled with personal revelations of innocence lost to heady days in Hollywood with John Hughes and an iconic cast of characters, Brat is a surprising and intimate story of an outsider caught up in a most unwitting success.
+author_new0: Andrew McCarthy

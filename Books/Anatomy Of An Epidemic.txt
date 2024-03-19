@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0307452433
+primary_isbn13: 9780307452436
+publisher: Broadway
+description: A study of the increase of mentally ill Americans on government disability rolls; first published in 2010.
+title: Anatomy Of An Epidemic
+author: Robert Whitaker
+amazon_product_url: http://www.amazon.com/Anatomy-Epidemic-Bullets-Psychiatric-Astonishing-ebook/dp/B0036S4EGE?tag=NYTBSREV-20
+list_date: 2015/04/05
+published_date: 2010-04-13
+summary: Updated with bonus material, including a new foreword and afterword with new research, this New York Times bestseller is essential reading for a time when mental health is constantly in the news. In this astonishing and startling book, award-winning science and history writer Robert Whitaker investigates a medical mystery: Why has the number of disabled mentally ill in the United States tripled over the past two decades? Interwoven with Whitaker’s groundbreaking analysis of the merits of psychiatric medications are the personal stories of children and adults swept up in this epidemic. As Anatomy of an Epidemic reveals, other societies have begun to alter their use of psychiatric medications and are now reporting much improved outcomes . . . so why can’t such change happen here in the United States? Why have the results from these long-term studies—all of which point to the same startling conclusion—been kept from the public? Our nation has been hit by an epidemic of disabling mental illness, and yet, as Anatomy of an Epidemic reveals, the medical blueprints for curbing that epidemic have already been drawn up. Praise for Anatomy of an Epidemic “The timing of Robert Whitaker’s Anatomy of an Epidemic, a comprehensive and highly readable history of psychiatry in the United States, couldn’t be better.”—Salon “Anatomy of an Epidemic offers some answers, charting controversial ground with mystery-novel pacing.”—TIME “Lucid, pointed and important, Anatomy of an Epidemic should be required reading for anyone considering extended use of psychiatric medicine. Whitaker is at the height of his powers.” —Greg Critser, author of Generation Rx

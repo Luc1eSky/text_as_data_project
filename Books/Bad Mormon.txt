@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1982199539
+primary_isbn13: 9781982199531
+publisher: Gallery
+description: A star of “The Real Housewives of Salt Lake City” describes leaving the Mormon Church and finding success as a businesswoman and single mother.
+title: Bad Mormon
+author: Heather Gay
+amazon_product_url: https://www.amazon.com/dp/1982199539?tag=NYTBSREV-20
+list_date: 2023/02/26
+published_data: 2023-02-07
+summary: "The funny, brash, and vulnerable memoir from the star of Bravo's The Real Housewives of Salt Lake City bravely explores her leaving the Mormon Church and her journey to success in business, television, and single motherhood. Straight off the slopes and into the spotlight, Heather Gay is known to dish God's honest truth. Whether as a businesswoman, mother, or television personality, Heather is unafraid to blaze a new trail, even if it means losing family, friends, and even her church. A born and bred Mormon, Heather did everything that was expected of her and then some. From an eighteen-month mission to attending Brigham Young University and marrying into church royalty, Heather was the ultimate good Mormon. But her seemingly perfect life was upended when her husband unexpectedly filed for divorce and she suddenly found herself struggling to find healing after heartbreak and accomplishment after abandonment. Now, with her signature witty, compassionate, and charming voice, Heather recounts her difficult but rewarding experiences navigating life post-divorce and post-Mormonism. She explores the challenges of raising strong women despite feeling broken and teases out the complicated relationship between duty to self and duty to God. An honest, witty, and ultimately healing memoir, Bad Mormon is an unputdownable read in the vein of Unveiling Grace, What Remains, and One Day You'll Thank Me"--
+author_new0: Heather Gay

@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0063304937
+primary_isbn13: 9780063304932
+publisher: Broadside
+description: An entrepreneur gives her assessment of the impact that organizations and market forces may have on the assets of individuals.
+title: You Will Own Nothing
+author: Carol Roth
+amazon_product_url: https://www.amazon.com/dp/0063304937?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2023-05-09
+summary: The New York Times bestselling author and entrepreneur investigates what would happen if a new financial world order took hold, one in which global elites own everything and you own nothing--and yet you are somehow happy. When Carol Roth first heard that one of the World Economic Forum's predictions for 2030 was "You will own nothing, and be happy," she thought it was an outlandish fantasy. Then, she researched it. What she found was that a number of businesses, governments, and global elites share a vision of a future that sounds utopian: Everyone will have everything they need, and no one will own anything. From declines in home and vehicle ownership to global inflation and government spending, many of the trends of modern life reveal that a new world that is emerging--one in which Western citizens, by choice or by circumstance, increasingly do not own possessions or accumulate wealth. It's the perfect economic environment for the rich and powerful to solidify their positions and prevent anyone else from getting ahead. In You Will Own Nothing, Roth reveals how the agendas of Wall Street, world governments, international organizations, socialist activists, and multinational corporations like Blackrock all work together to reduce the power of the dollar and prevent millions of Americans from taking control of their wealth. She shows why owning fewer assets makes you poorer and less free. This book is essential guide to protecting your hard-earned wealth for the coming generations.
+author_new0: Carol Roth

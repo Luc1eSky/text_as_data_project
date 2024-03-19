@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 0062820699
+primary_isbn13: 9780062820693
+publisher: Dey St.
+description: The Pulitzer Prize-winning author's journey from being an immigrant to being an activist outsider to serving in President Obama’s cabinet.
+title: The Education Of An Idealist
+author: Samantha Power
+amazon_product_url: https://www.amazon.com/Education-Idealist-Memoir-Samantha-Power/dp/0062820699?tag=NYTBSREV-20
+list_date: 2019/10/06
+published_data: 2019-09-10
+summary: An intimate and powerful memoir by Pulitzer Prize–winner and former U.N. Ambassador Samantha Power.
+author_new0: Samantha Power

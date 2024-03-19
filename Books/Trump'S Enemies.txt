@@ -1,0 +1,14 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1546076220
+primary_isbn13: 9781546076223
+publisher: Center Street
+description: The authors of “Let Trump Be Trump” give their perspectives on the president’s foes.
+title: Trump'S Enemies
+author: Corey R Lewandowski and David N Bossie
+amazon_product_url: https://www.amazon.com/Trumps-Enemies-State-Undermining-Presidency/dp/1546076220?tag=NYTBSREV-20
+list_date: 2018/12/16
+published_data: 2018-11-27
+summary: Corey R. Lewandowski and David N. Bossie, the authors of the blockbuster, Let Trump Be Trump: the Inside Story of His Rise to the Presidency, are back with their next New York Times bestseller. The assault on the 45th president began immediately following Donald J. Trump's victory in the 2016 presidential election. It was then that Democrats concocted the absurd story of Russian spies and international plots as an excuse for Hillary's humiliating defeat. It was in those early days, too, during the presidential transition, when enemies of Donald Trump began to tunnel their way into the White House with the intent to undermine the president and subvert his agenda. Perhaps there are no two people better to tell what is certain to be the story of our lifetime than Corey R. Lewandowski and David N. Bossie. The guys in the room who brought you the bestselling account of the 2016 Donald J. Trump for President campaign, Let Trump Be Trump, Lewandowski and Bossie now offer a first-hand account of what is, perhaps, the battle for the life of our very democracy. Using unparalleled, behind-the-scenes sourcing from inside the White House and on Capitol Hill, and access to the president and other key players, Trump's Enemies offers a never-before-seen look deep into the forces aligned against the president. Lewandowski and Bossie were present in Trump Tower and at Bedminster during the presidential transition and saw the events that gave root to the unelected "resistance" in the White House today. Bossie was witness to the moment the fake Russia investigation was enacted by James Comey, who legitimized the phony "Steele dossier" by presenting it to the new president-elect. A close confidant of the president, Lewandowski knows what goes on behind the West Wing walls as well as anyone. But Trump's Enemies is also the story of how President Trump is fighting back. In the face of a gale of media disinformation and the looming black cloud of Mueller's politically motivated investigation, President Trump has still managed to accomplish more than any of his predecessor in the short time he's been in office. Often traveling with the president on Air Force One to rallies around the country, Lewandowski and Bossie tell, as no one else can, the story of Donald Trump bringing his message to the people who are the only ones who should decide the future of his presidency-the American voters.
+author_new0: Corey R Lewandowski
+author_new1: David N Bossie

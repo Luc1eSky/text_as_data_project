@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 9
+primary_isbn10: 0062931067
+primary_isbn13: 9780062931061
+publisher: HarperCollins
+description: The late iconic actress describes how she worked to change perceptions of Black women through her career choices.
+title: Just As I Am
+author: Cicely Tyson with Michelle Burford
+amazon_product_url: https://www.amazon.com/dp/0062931067?tag=NYTBSREV-20
+list_date: 2021/04/11
+published_data: 2021-01-26
+summary: The Academy, Tony, and Emmy Award-winning actor and trailblazer tells her stunning story, looking back at her life and six-decade career.
+author_new0: Cicely Tyson
+author_new1: Michelle Burford

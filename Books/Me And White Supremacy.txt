@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 9
+primary_isbn10: 1728209803
+primary_isbn13: 9781728209807
+publisher: Sourcebooks
+description: Ways to understand and possibly counteract white privilege.
+title: Me And White Supremacy
+author: Layla F Saad
+amazon_product_url: https://www.amazon.com/Me-White-Supremacy-Combat-Ancestor/dp/1728209803?tag=NYTBSREV-20
+list_date: 2020/08/02
+published_data: 2020
+summary: "Originally published as The me and white supremacy workbook in 2019"--Copyright page.
+author_new0: Layla F Saad

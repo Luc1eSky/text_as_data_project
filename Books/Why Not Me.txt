@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0804138141
+primary_isbn13: 9780804138147
+publisher: Crown Archetype
+description: More personal essays from the comedian and actress, the creator and star of "The Mindy Project."
+title: Why Not Me?
+author: Mindy Kaling
+amazon_product_url: http://www.amazon.com/Why-Not-Me-Mindy-Kaling-ebook/dp/B00N6PEMZK?tag=NYTBSREV-20
+list_date: 2016/01/24
+published_date: 2015
+summary: Hollywood starlet Mindy Kaling Kaling shares her ongoing, laugh-out-loud journey to find contentment and excitement in her adult life.

@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1250150647
+primary_isbn13: 9781250150646
+publisher: All Points/St. Martin's
+description: The conservative radio host gives historical perspective to President Donald J. Trump's agenda.
+title: Billionaire At The Barricades
+author: Laura Ingraham
+amazon_product_url: https://www.amazon.com/Billionaire-Barricades-Populist-Revolution-Reagan/dp/1250150647?tag=NYTBSREV-20
+list_date: 2017/10/29
+published_date: 2017-10-10
+summary: Bestselling author Laura Ingraham tells the story of Donald Trump's surprising ascent to the White House at the head of a much-maligned and misunderstood populist revolt.

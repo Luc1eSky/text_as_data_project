@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0062484222
+primary_isbn13: 9780062484222
+publisher: Dey Street Books
+description: A look at the various ways the movie franchise illuminates political, moral, and familial themes.
+title: The World According To Star Wars
+author: Cass R Sunstein
+amazon_product_url: http://www.amazon.com/World-According-Star-Wars/dp/0062484222?tag=NYTBSREV-20
+list_date: 2016/06/19
+published_date: 2016-05-31
+summary: NEW YORK TIMES BESTSELLER #1 Washington Post Bestseller There’s Santa Claus, Shakespeare, Mickey Mouse, the Bible, and then there’s Star Wars. Nothing quite compares to sitting down with a young child and hearing the sound of John Williams’s score as those beloved golden letters fill the screen. In this fun, erudite, and often moving book, Cass R. Sunstein explores the lessons of Star Wars as they relate to childhood, fathers, the Dark Side, rebellion, and redemption. As it turns out, Star Wars also has a lot to teach us about constitutional law, economics, and political uprisings. In rich detail, Sunstein tells the story of the films’ wildly unanticipated success and explores why some things succeed while others fail. Ultimately, Sunstein argues, Star Wars is about freedom of choice and our never-ending ability to make the right decision when the chips are down. Written with buoyant prose and considerable heart, The World According to Star Wars shines a bright new light on the most beloved story of our time.

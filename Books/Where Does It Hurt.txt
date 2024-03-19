@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1591846773
+primary_isbn13: 9781591846772
+publisher: Portfolio/Penguin
+description: A co-founder of Athenahealth calls for the application of new business models to health care.
+title: Where Does It Hurt?
+author: Jonathan Bush with Stephen Baker
+amazon_product_url: http://www.amazon.com/Where-Does-It-Hurt-Entrepreneurs/dp/1591846773?tag=NYTBSREV-20
+list_date: 2014/06/01
+published_date: 2014
+summary: The CEO of Athenahealth reflects on his journey from ambulance driver to CEO of one of the nation's fastest-growing tech companies to outline a blueprint for improving the current health-care system through innovation, less regulation and a wider range of customer choices.

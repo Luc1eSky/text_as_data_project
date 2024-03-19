@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 4
+primary_isbn10: None
+primary_isbn13: 9781453246566
+publisher: Open Road Media
+description: The story of the heroic evacuation of British troops in 1940, retold in a current movie. Originally published in 1982.
+title: The Miracle Of Dunkirk
+author: Walter Lord
+amazon_product_url: https://www.amazon.com/Miracle-Dunkirk-Story-Operation-Dynamo/dp/1504047540?tag=NYTBSREV-20
+list_date: 2017/09/24

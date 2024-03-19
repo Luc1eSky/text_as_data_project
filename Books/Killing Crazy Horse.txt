@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 14
+primary_isbn10: 1627797041
+primary_isbn13: 9781627797047
+publisher: Holt
+description: The ninth book in the conservative commentator’s Killing series focuses on conflicts with Native Americans.
+title: Killing Crazy Horse
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: https://www.amazon.com/dp/1627797041?tag=NYTBSREV-20
+list_date: 2021/01/10
+published_data: 2020-05-12
+summary: The latest installment of the multimillion-selling Killing series is a gripping journey through the American West and the historic clashes between Native Americans and settlers. The bloody Battle of Tippecanoe was only the beginning. It’s 1811 and President James Madison has ordered the destruction of Shawnee warrior chief Tecumseh’s alliance of tribes in the Great Lakes region. But while General William Henry Harrison would win this fight, the armed conflict between Native Americans and the newly formed United States would rage on for decades. Bestselling authors Bill O’Reilly and Martin Dugard venture through the fraught history of our country’s founding on already occupied lands, from General Andrew Jackson’s brutal battles with the Creek Nation to President James Monroe’s epic “sea to shining sea” policy, to President Martin Van Buren’s cruel enforcement of a “treaty” that forced the Cherokee Nation out of their homelands along what would be called the Trail of Tears. O’Reilly and Dugard take readers behind the legends to reveal never-before-told historical moments in the fascinating creation story of America. This fast-paced, wild ride through the American frontier will shock readers and impart unexpected lessons that reverberate to this day.
+author_new0: Bill O'Reilly
+author_new1: Martin Dugard

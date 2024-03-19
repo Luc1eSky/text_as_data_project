@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1501169351
+primary_isbn13: 9781501169359
+publisher: Simon & Schuster
+description: An account of a woman’s struggle with metastatic breast cancer.
+title: The Bright Hour
+author: Nina Riggs
+amazon_product_url: https://www.amazon.com/Bright-Hour-Memoir-Living-Dying/dp/1501169351?tag=NYTBSREV-20
+list_date: 2017/06/25
+published_date: 2017-06-06
+summary: "Built on her ... Modern Love column, 'When a Couch is More Than a Couch' (9/23/2016), a ... memoir of living meaningfully with 'death in the room' by the 38-year-old great-great-great granddaughter of Ralph Waldo Emerson--mother to two young boys, wife of 16 years--after her terminal cancer diagnosis"--

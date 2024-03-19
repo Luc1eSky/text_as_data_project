@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 8
+primary_isbn10: 1627790438
+primary_isbn13: 9781627790437
+publisher: Holt
+description: The Pulitzer Prize-winning historian and journalist begins his Revolution Trilogy with events from 1775 to 1777.
+title: The British Are Coming
+author: Rick Atkinson
+amazon_product_url: https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438?tag=NYTBSREV-20
+list_date: 2019/07/28
+published_data: 2019-05-14
+summary: From the bestselling author of the Liberation Trilogy comes the extraordinary first volume of his new trilogy about the American Revolution Rick Atkinson, author of the Pulitzer Prize-winning An Army at Dawn and two other superb books about World War II, has long been admired for his deeply researched, stunningly vivid narrative histories. Now he turns his attention to a new war, and in the initial volume of the Revolution Trilogy he recounts the first twenty-one months of America’s violent war for independence. From the battles at Lexington and Concord in spring 1775 to those at Trenton and Princeton in winter 1777, American militiamen and then the ragged Continental Army take on the world’s most formidable fighting force. It is a gripping saga alive with astonishing characters: Henry Knox, the former bookseller with an uncanny understanding of artillery; Nathanael Greene, the blue-eyed bumpkin who becomes a brilliant battle captain; Benjamin Franklin, the self-made man who proves to be the wiliest of diplomats; George Washington, the commander in chief who learns the difficult art of leadership when the war seems all but lost. The story is also told from the British perspective, making the mortal conflict between the redcoats and the rebels all the more compelling. Full of riveting details and untold stories, The British Are Coming is a tale of heroes and knaves, of sacrifice and blunder, of redemption and profound suffering. Rick Atkinson has given stirring new life to the first act of our country’s creation drama.
+author_new0: Rick Atkinson

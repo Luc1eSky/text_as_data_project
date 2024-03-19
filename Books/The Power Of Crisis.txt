@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1982167505
+primary_isbn13: 9781982167509
+publisher: Simon & Schuster
+description: A look at the crises of global health emergencies, transformative climate change and the artificial intelligence revolution.
+title: The Power Of Crisis
+author: Ian Bremmer
+amazon_product_url: https://www.amazon.com/dp/1982167505?tag=NYTBSREV-20
+list_date: 2022/06/05
+published_data: 2022-05-17
+summary: Renowned political scientist Ian Bremmer draws lessons from global challenges of the past 100 years—including the pandemic—to show how we can respond to three great crises unfolding over the next decade. In this revelatory, unnerving, and ultimately hopeful book, Bremmer details how domestic and international conflicts leave us unprepared for a trio of looming crises—global health emergencies, transformative climate change, and the AI revolution. Today, Americans cannot reach consensus on any significant political issue, and US and Chinese leaders behave as if they’re locked in a new Cold War. We are squandering opportunities to meet the challenges that will soon confront us all. In coming years, humanity will face viruses deadlier and more infectious than Covid. Intensifying climate change will put tens of millions of refugees in flight and require us to reimagine how we live our daily lives. Most dangerous of all, new technologies will reshape the geopolitical order, disrupting our livelihoods and destabilizing our societies faster than we can grasp and address their implications. The good news? Some farsighted political leaders, business decision-makers, and individual citizens are already collaborating to tackle all these crises. The question that should keep us awake is whether they will work well and quickly enough to limit the fallout—and, most importantly, whether we can use these crises to innovate our way toward a better world. Drawing on strategies both time-honored and cutting-edge, from the Marshall Plan to the Green New Deal, The Power of Crisis provides a roadmap for surviving—even thriving in—the 21st century. Bremmer shows governments, corporations, and every concerned citizen how we can use these coming crises to create the worldwide prosperity and opportunity that 20th-century globalism promised but failed to deliver.
+author_new0: Ian Bremmer

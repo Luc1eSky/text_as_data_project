@@ -1,0 +1,10 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780698155091
+publisher: Berkley
+description: The movie tie-in edition of "A Long Way Home," published in 2014, the story of how the author was lost on a train in India at age 5, adopted by an Australian couple and eventually found his birth family.
+title: Lion
+author: Saroo Brierley
+amazon_product_url: https://www.amazon.com/Lion-Movie-Tie-Saroo-Brierley/dp/0399584692?tag=NYTBSREV-20
+list_date: 2017/03/19

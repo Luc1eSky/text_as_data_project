@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0062905686
+primary_isbn13: 9780062905680
+publisher: Morrow
+description: The Fox News host describes a meeting between Franklin D. Roosevelt, Winston Churchill and Joseph Stalin in Tehran during World War II.
+title: Three Days At The Brink
+author: Bret Baier with Catherine Whitney
+amazon_product_url: https://www.amazon.com/Three-Days-Brink-Daring-Gamble/dp/0062905686?tag=NYTBSREV-20
+list_date: 2019/11/17
+published_data: 2019-10-22
+summary: From the #1 bestselling author of Three Days in Moscow and anchor of Fox News Channel's Special Report with Bret Baier, a gripping history set during the darkest hours of World War II.
+author_new0: Bret Baier
+author_new1: Catherine Whitney

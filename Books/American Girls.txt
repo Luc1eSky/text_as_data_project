@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0385353928
+primary_isbn13: 9780385353922
+publisher: Knopf
+description: How social media has changed the way girls grow up.
+title: American Girls
+author: Nancy Jo Sales
+amazon_product_url: http://www.amazon.com/American-Girls-Social-Secret-Teenagers/dp/0385353928?tag=NYTBSREV-20
+list_date: 2016/03/20
+published_date: 2016
+summary: Explores the changes in the way teenage girls are growing up in America, discussing the new norms, from extreme behaviors to lack of basic communication skills.

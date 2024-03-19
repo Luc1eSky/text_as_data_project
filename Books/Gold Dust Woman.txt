@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 125003289X
+primary_isbn13: 9781250032898
+publisher: St. Martin's
+description: A biography of the Fleetwood Mac singer Stevie Nicks.
+title: Gold Dust Woman
+author: Stephen Davis
+amazon_product_url: https://www.amazon.com/Gold-Dust-Woman-Biography-Stevie/dp/125003289X?tag=NYTBSREV-20
+list_date: 2017/12/10
+published_date: 2017-11-21
+summary: An in-depth portrait of the classic-rock artist covers her role in the stardom of Fleetwood Mac, the affairs that inspired her greatest songs, her struggles with addiction, and her successful solo career.--

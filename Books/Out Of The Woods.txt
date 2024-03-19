@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780062199218
+publisher: Harper Perennial
+description: A memoir of a widow’s move from Manhattan to a backwoods cabin in Vermont.
+title: Out Of The Woods
+author: Lynn Darling
+amazon_product_url: http://www.amazon.com/Out-Woods-A-Memoir-Wayfinding-ebook/dp/B00DB32R0E?tag=NYTBSREV-20
+list_date: 2015/03/22

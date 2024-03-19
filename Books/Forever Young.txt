@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1538704196
+primary_isbn13: 9781538704196
+publisher: Grand Central
+description: The Disney child star of the 1960s and daughter of an acclaimed British actor shares some of her experiences in Hollywood.
+title: Forever Young
+author: Hayley Mills
+amazon_product_url: https://www.amazon.com/dp/1538704196?tag=NYTBSREV-20
+list_date: 2021/09/26
+published_data: 2021-09-07
+summary: Iconic actress Hayley Mills shares personal memories from her storied childhood, growing up in a famous acting family and becoming a Disney child star, trying to grow up in a world that wanted her to stay forever young. The daughter of acclaimed British actor Sir John Mills was still a preteen when she began her acting career and was quickly thrust into the spotlight. Under the wing of Walt Disney himself, Hayley Mills was transformed into one of the biggest child starlets of the 1960s through her iconic roles in Pollyanna, The Parent Trap, and many more. She became one of only twelve actors in history to be bestowed with the Academy Juvenile Award, presented at the Oscars by its first recipient, Shirley Temple, and went on to win a number of awards including a Golden Globe, multiple BAFTAs, and a Disney Legacy Award. Now, in her charming and forthright memoir, she provides a unique window into when Hollywood was still 'Tinseltown' and the great Walt Disney was at his zenith, ruling over what was (at least in his own head) still a family business. This behind-the-scenes look at the drama of having a sky-rocketing career as a young teen in an esteemed acting family will offer both her childhood impressions of the wild and glamorous world she was swept into, and the wisdom and broader knowledge that time has given her. Hayley will delve intimately into her relationship with Walt Disney, as well as the emotional challenges of being bound to a wholesome, youthful public image as she grew into her later teen years, and how that impacted her and her choices--including marrying a producer over 30 years her senior when she was 20! With her regrets, her joys, her difficulties, and her triumphs, this is a compelling read for any fan of classic Disney films and an inside look at a piece of real Hollywood history.
+author_new0: Hayley Mills

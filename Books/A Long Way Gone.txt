@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0374531269
+primary_isbn13: 9780374531263
+publisher: Farrar, Straus & Giroux
+description: A former child soldier's killing spree and return to humanity.
+title: A Long Way Gone
+author: Ishmael Beah
+amazon_product_url: http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269?tag=NYTBSREV-20
+list_date: 2015/08/23
+published_date: 2008-08-05
+summary: A human rights activist offers a firsthand account of war from the perspective of a former child soldier, detailing the violent civil war that wracked his native Sierra Leone and the government forces that transformed a gentle young boy into a killer as a member of the army.

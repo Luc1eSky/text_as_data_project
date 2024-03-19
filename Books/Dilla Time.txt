@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0374139946
+primary_isbn13: 9780374139940
+publisher: MCD
+description: The life, work and cultural influence of the late hip-hop producer J Dilla.
+title: Dilla Time
+author: Dan Charnas
+amazon_product_url: https://www.amazon.com/dp/0374139946?tag=NYTBSREV-20
+list_date: 2022/02/20
+published_data: 2022-02
+summary: "Equal parts musicology, biography, and cultural history, Dilla Time chronicles the invention of a new kind of beat by the most underappreciated musical genius of our time"--
+author_new0: Dan Charnas

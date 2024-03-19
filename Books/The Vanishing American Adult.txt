@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1250114403
+primary_isbn13: 9781250114402
+publisher: St. Martin's
+description: The Nebraska Republican senator’s advice on how to raise resilient, responsible children.
+title: The Vanishing American Adult
+author: Ben Sasse
+amazon_product_url: https://www.amazon.com/Vanishing-American-Adult-Coming-Crisis-/dp/1250114403?tag=NYTBSREV-20
+list_date: 2017/06/25
+published_date: 2017-05-16
+summary: THE INSTANT NEW YORK TIMES BESTSELLER In an era of safe spaces, trigger warnings, and an unprecedented election, the country's youth are in crisis. Senator Ben Sasse warns the nation about the existential threat to America's future. Raised by well-meaning but overprotective parents and coddled by well-meaning but misbegotten government programs, America's youth are ill-equipped to survive in our highly-competitive global economy. Many of the coming-of-age rituals that have defined the American experience since the Founding: learning the value of working with your hands, leaving home to start a family, becoming economically self-reliant—are being delayed or skipped altogether. The statistics are daunting: 30% of college students drop out after the first year, and only 4 in 10 graduate. One in three 18-to-34 year-olds live with their parents. From these disparate phenomena: Nebraska Senator Ben Sasse who as president of a Midwestern college observed the trials of this generation up close, sees an existential threat to the American way of life. In The Vanishing American Adult, Sasse diagnoses the causes of a generation that can't grow up and offers a path for raising children to become active and engaged citizens. He identifies core formative experiences that all young people should pursue: hard work to appreciate the benefits of labor, travel to understand deprivation and want, the power of reading, the importance of nurturing your body—and explains how parents can encourage them. Our democracy depends on responsible, contributing adults to function properly—without them America falls prey to populist demagogues. A call to arms, The Vanishing American Adult will ignite a much-needed debate about the link between the way we're raising our children and the future of our country.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1472966155
+primary_isbn13: 9781472966155
+publisher: Bloomsbury Continuum
+description: The cover-up of sexual abuse, the clerical culture of secrecy and the double lives of priests in the Roman Catholic Church.
+title: In The Closet Of The Vatican
+author: Frédéric Martel
+amazon_product_url: https://www.amazon.com/Closet-Vatican-Power-Homosexuality-Hypocrisy-ebook/dp/B07NJ9DQSK?tag=NYTBSREV-20
+list_date: 2019/03/10
+published_data: 2019-02-21
+summary: The New York Times Bestseller '[An] earth-shaking exposé of clerical corruption' - National Catholic Reporter In the Closet of the Vatican exposes the rot at the heart of the Vatican and the Roman Catholic Church today. This brilliant piece of investigative writing is based on four years' authoritative research, including extensive interviews with those in power. The celibacy of priests, the condemnation of the use of contraceptives, the cover up of countless cases of sexual abuse, the resignation of Benedict XVI, misogyny among the clergy, the dramatic fall in Europe of the number of vocations to the priesthood, the plotting against Pope Francis – all these issues are clouded in mystery and secrecy. In the Closet of the Vatican is a book that reveals these secrets and penetrates this enigma. It derives from a system founded on a clerical culture of secrecy which starts in junior seminaries and continues right up to the Vatican itself. It is based on the double lives of priests and on extreme homophobia. The resulting schizophrenia in the Church is hard to fathom. But the more a prelate is homophobic, the more likely it is that he is himself gay. 'Behind rigidity there is always something hidden, in many cases a double life'. These are the words of Pope Francis himself and with them the Pope has unlocked the Closet. No one can claim to really understand the Catholic Church today until they have read this book. It reveals a truth that is extraordinary and disturbing.
+author_new0: Frédéric Martel

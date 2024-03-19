@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0358278147
+primary_isbn13: 9780358278146
+publisher: Houghton Mifflin Harcourt
+description: The Harvard science professor shares his theory that a piece of advanced technology created by a distant alien civilization recently visited our solar system.
+title: Extraterrestrial
+author: Avi Loeb
+amazon_product_url: https://www.amazon.com/dp/0358278147?tag=NYTBSREV-20
+list_date: 2021/02/14
+published_data: 2021
+summary: Harvard's top astronomer lays out his controversial theory that our solar system was recently visited by advanced alien technology from a distant star
+author_new0: Avi Loeb

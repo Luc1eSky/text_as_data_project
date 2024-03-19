@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1501127241
+primary_isbn13: 9781501127243
+publisher: Threshold Editions
+description: 
+title: The Last Punisher
+author: Kevin Lacz and Lindsey Lacz
+amazon_product_url: http://www.amazon.com/Last-Punisher-Snipers-Account-Battle-ebook/dp/B0176M3PUG?tag=NYTBSREV-20
+list_date: 2016/08/14
+published_date: 2016-07-12
+summary: "A first-person account of the Iraq War, from a Navy SEAL who was part of SEAL Team 3 with American Sniper Chris Kyle, describes their legendary unit, "The Punishers," and provides gripping details of their missions in Ramadi,"--NoveList.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1452189749
+primary_isbn13: 9781797209463
+publisher: Chronicle Prism
+description: A second illustrated collection of poems chronicling and satirizing current events.
+title: Trumpty Dumpty Wanted A Crown
+author: John Lithgow
+amazon_product_url: https://www.amazon.com/dp/1797209469?tag=NYTBSREV-20
+list_date: 2020/11/01
+published_data: 2020-09-29
+summary: Signed EditionFollowing the success of New York Times bestseller Dumpty comes award-winning actor and national bestselling author John Lithgow's next book of satirical poetry chronicling the era of Trump madness. Darker, funnier, and more hard-hitting than ever, Lithgow writes with poetic fury and cutting satire, taking readers verse-by-verse through the last year of even more unthinkable and shocking real events surrounding Trump and his administration--including poems about the impeachment, Rudy Giuliani, Mick Mulvaney, Jay Sekulow, Jim Jordan, Roger Stone, and others.With completely new poems and never-before-seen line drawings, Lithgow will once again make readers laugh in frenzied times with this mix of striking and humorous prose--dismantling the reign of Dumpty one stanza at a time.
+author_new0: John Lithgow

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 6
+primary_isbn10: 0393356310
+primary_isbn13: 9780393356311
+publisher: Norton
+description:  A look at an expanding low-cost labor pool, which largely consists of transient older adults, and what this might portend.
+title: Nomadland
+author: Jessica Bruder
+amazon_product_url: https://www.amazon.com/dp/0393356310?tag=NYTBSREV-20
+list_date: 2021/05/16
+published_data: 2018-09-04
+summary: The inspiration for Chloé Zhao's 2020 Golden Globe award-winning film starring Frances McDormand. "People who thought the 2008 financial collapse was over a long time ago need to meet the people Jessica Bruder got to know in this scorching, beautifully written, vivid, disturbing (and occasionally wryly funny) book." —Rebecca Solnit From the beet fields of North Dakota to the campgrounds of California to Amazon’s CamperForce program in Texas, employers have discovered a new, low-cost labor pool, made up largely of transient older adults. These invisible casualties of the Great Recession have taken to the road by the tens of thousands in RVs and modified vans, forming a growing community of nomads. Nomadland tells a revelatory tale of the dark underbelly of the American economy—one which foreshadows the precarious future that may await many more of us. At the same time, it celebrates the exceptional resilience and creativity of these Americans who have given up ordinary rootedness to survive, but have not given up hope.
+author_new0: Jessica Bruder

@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0804179077
+primary_isbn13: 9780804179072
+publisher: Ballantine
+description: The New York senator tells her personal story and urges women to become more involved in politics.
+title: Off The Sidelines
+author: Kirsten Gillibrand with Elizabeth Weil
+amazon_product_url: http://www.amazon.com/Off-Sidelines-Raise-Voice-Change/dp/0804179077?tag=NYTBSREV-20
+list_date: 2014/09/28
+published_date: 2014
+summary: were essential to shaping the future of this country, and that she had a greater purpose in life: to speak up and effect change. Now the senator, wife, and mother of two recounts her personal journey in public service and galvanizes women to reach beyond their busy lives and make a meaningful difference in the world around them. Off the Sidelines is a playbook for women who want to step up, whether in Congress or the boardroom or the local PTA. If women were fully represented in politics, Gillibrand says, national priorities would shift to issues that directly impact them: affordable daycare, paid family medical leave, and equal pay. Pulling back the curtain on Beltway politics, she speaks candidly about her legislative successes (securing federally funded medical care for 9/11 first responders, repealing Don't Ask, Don't Tell) and her crushing disappointments (failing by five votes to pass a bill protecting survivors of sexual assault in the military).

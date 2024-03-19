@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 6
+primary_isbn10: 1982148039
+primary_isbn13: 9781982148034
+publisher: Simon & Schuster
+description: The former national security advisor gives his account of the 17 months he spent working for President Trump.
+title: The Room Where It Happened
+author: John Bolton
+amazon_product_url: https://www.amazon.com/dp/1982148039?tag=NYTBSREV-20
+list_date: 2020/08/16
+published_data: 2020-03-17
+summary: John Bolton served as National Security Advisor to President Donald Trump for 519 days. A seasoned public servant who had previously worked for Presidents Reagan, Bush #41, and Bush #43, Bolton brought to the administration thirty years of experience in international issues and a reputation for tough, blunt talk. In his memoir, he offers a substantive and factual account of his time in the room where it happened.
+author_new0: John Bolton

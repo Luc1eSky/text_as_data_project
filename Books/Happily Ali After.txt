@@ -1,0 +1,10 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0062238515
+primary_isbn13: 9780062238511
+publisher: Harper
+description: As she approaches 50, the actress and comedian embarks on a (humorous) quest for self-improvement.
+title: Happily Ali After
+author: Ali Wentworth
+amazon_product_url: http://www.amazon.com/Happily-Ali-After-Other-Fairly-ebook/dp/B00NVKUOR0?tag=NYTBSREV-20
+list_date: 2015/06/28

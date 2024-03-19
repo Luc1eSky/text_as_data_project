@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 4
+primary_isbn10: 0063226561
+primary_isbn13: 9780063226562
+publisher: Dey Street
+description: The actress and activist details her childhood, rise to fame and the ways she is reclaiming the narrative of her life.
+title: Love, Pamela
+author: Pamela Anderson
+amazon_product_url: https://www.amazon.com/dp/0063226561?tag=NYTBSREV-20
+list_date: 2023/03/12
+published_data: 2023-01-24
+summary: A heartrending, intimate memoir from the iconic pin-up and Playboy's last great Playmate
+author_new0: Pamela Anderson

@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1250096944
+primary_isbn13: 9781250096944
+publisher: St. Martin's
+description: The father of Scientology’s leader criticizes his management of the organization.
+title: Ruthless
+author: Ron Miscavige with Dan Koon
+amazon_product_url: http://www.amazon.com/Ruthless-Scientology-Son-David-Miscavige-ebook/dp/B0191KRCOG?tag=NYTBSREV-20
+list_date: 2016/05/22
+published_date: 2016-05-03
+summary: *Now a #1 New York Times bestseller* "Compulsively readable..." —LA Weekly “Excoriating memoir" —Publisher's Weekly “A sad and painful but bravely told story.” —Kirkus Reviews The only book to examine the origins of Scientology's current leader, RUTHLESS tells the revealing story of David Miscavige's childhood and his path to the head seat of the Church of Scientology told through the eyes of his father. Ron Miscavige's personal, heartfelt story is a riveting insider's look at life within the world of Scientology. Not for sale outside the U.S.

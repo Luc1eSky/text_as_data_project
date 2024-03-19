@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 0062415824
+primary_isbn13: 9780062415820
+publisher: Dey Street
+description: A celebration of the life and career of Supreme Court Justice Ruth Bader Ginsburg.
+title: Notorious Rbg
+author: Irin Carmon and Shana Knizhnik
+amazon_product_url: http://www.amazon.com/Notorious-RBG-Times-Bader-Ginsburg/dp/0062415832?tag=NYTBSREV-20
+list_date: 2018/02/11
+published_date: 2015-10-27
+summary: New York Times Bestseller Featured in the critically acclaimed documentary RBG "It was beyond my wildest imagination that I would one day become the 'Notorious RBG." — Ruth Bader Ginsburg, 2019 She was a fierce dissenter with a serious collar game. A legendary, self-described “flaming feminist litigator” who made the world more equal. And an intergenerational icon affectionately known as the Notorious RBG. As the nation mourns the loss of Ruth Bader Ginsburg, discover the story of a remarkable woman and learn how to carry on her legacy. This runaway bestseller, brought to you by the attorney founder of the Notorious RBG Tumblr and an award-winning feminist journalist, is more than just a love letter. It draws on intimate access to Ginsburg's family members, close friends, colleagues, and clerks, as well as an interview with the Justice herself. An original hybrid of reported narrative, annotated dissents, rare archival photos and documents, and illustrations, the book tells a never-before-told story of an unusual and transformative woman who transcended divides and changed the world forever.

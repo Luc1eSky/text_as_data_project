@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1621572676
+primary_isbn13: 9781621572671
+publisher: Regnery
+description: The political commentator denounces immigrants and their liberal supporters.
+title: Adios, America!
+author: Ann Coulter
+amazon_product_url: http://www.amazon.com/Adios-America-Lefts-Country-Hellhole-ebook/dp/B00R3L7502?tag=NYTBSREV-20
+list_date: 2015/07/26
+published_date: 2015-06-01
+summary: A New York Times Bestseller! Ann Coulter is back, more fearless than ever. In Adios, America she touches the third rail in American politics, attacking the immigration issue head-on and flying in the face of La Raza, the Democrats, a media determined to cover up immigrants' crimes, churches that get paid by the government for their "charity," and greedy Republican businessmen and campaign consultants—all of whom are profiting handsomely from mass immigration that’s tearing the country apart. Applying her trademark biting humor to the disaster that is U.S. immigration policy, Coulter proves that immigration is the most important issue facing America today.

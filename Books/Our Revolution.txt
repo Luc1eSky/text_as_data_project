@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1250132924
+primary_isbn13: 9781250132925
+publisher: Thomas Dunne/St. Martin’s Press
+description: The Vermont senator and former candidate for the Democratic nomination for president delivers his message of social and economic justice.
+title: Our Revolution
+author: Bernie Sanders
+amazon_product_url: https://www.amazon.com/Our-Revolution-Believe-Bernie-Sanders-ebook/dp/B01HW70IY6?tag=NYTBSREV-20
+list_date: 2017/01/08
+published_date: 2016-11-15
+summary: An inside account of Sanders' extraordinary campaign—and a blueprint for future political action.

@@ -1,0 +1,10 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9781443433099
+publisher: Various publishers
+description: The narrative, first published in 1853, of a freeman who was sold into slavery and spent 12 years in bondage before escaping. The basis of the movie.
+title: Twelve Years A Slave
+author: Solomon Northup
+amazon_product_url: http://www.amazon.com/Twelve-Years-Slave-Solomon-Northup-ebook/dp/B00FDS85EM?tag=NYTBSREV-20
+list_date: 2014/05/18

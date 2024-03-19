@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062066412
+primary_isbn13: 9780062066411
+publisher: Morrow/HarperCollins
+description: A personal account of the Army’s 10th Mountain Division’s heroic 16-months of nearly continuous combat in the mountains of Afghanistan.
+title: Outlaw Platoon
+author: Sean Parnell with John R Bruning
+amazon_product_url: http://www.amazon.com/Outlaw-Platoon-Renegades-Brotherhood-Afghanistan-ebook/dp/B005LC0S7W?tag=NYTBSREV-20
+list_date: 2016/04/03
+published_date: 2012-02-28
+summary: A riveting story of American fighting men, Outlaw Platoon is Lieutenant Sean Parnell’s stunning personal account of the legendary U.S. Army’s 10th Mountain Division’s heroic stand in the mountains of Afghanistan. Acclaimed for its vivid, poignant, and honest recreation of sixteen brutal months of nearly continuous battle in the deadly Hindu Kesh, Outlaw Platoon is a Band of Brothers or We Were Soldiers Once and Young for the early 21st century—an action-packed, highly emotional true story of enormous sacrifice and bravery. A magnificent account of heroes, renegades, infidels, and brothers, it stands with Sebastian Junger’s War as one of the most important books to yet emerge from the heat, smoke, and fire of America’s War in Afghanistan.

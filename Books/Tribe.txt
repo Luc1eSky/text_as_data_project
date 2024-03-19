@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1455566381
+primary_isbn13: 9781455566389
+publisher: Twelve
+description: How modern society’s loss of the sense of belonging — now achieved mostly in the military and in disasters — has led to income inequality, incivility and mental disorders like PTSD.
+title: Tribe
+author: Sebastian Junger
+amazon_product_url: http://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger-ebook/dp/B01BCJDSNI?tag=NYTBSREV-20
+list_date: 2016/08/28
+published_date: 2016-05-24
+summary: Now a New York Times bestseller We have a strong instinct to belong to small groups defined by clear purpose and understanding--"tribes." This tribal connection has been largely lost in modern society, but regaining it may be the key to our psychological survival. Decades before the American Revolution, Benjamin Franklin lamented that English settlers were constantly fleeing over to the Indians-but Indians almost never did the same. Tribal society has been exerting an almost gravitational pull on Westerners for hundreds of years, and the reason lies deep in our evolutionary past as a communal species. The most recent example of that attraction is combat veterans who come home to find themselves missing the incredibly intimate bonds of platoon life. The loss of closeness that comes at the end of deployment may explain the high rates of post-traumatic stress disorder suffered by military veterans today. Combining history, psychology, and anthropology, TRIBE explores what we can learn from tribal societies about loyalty, belonging, and the eternal human quest for meaning. It explains the irony that-for many veterans as well as civilians-war feels better than peace, adversity can turn out to be a blessing, and disasters are sometimes remembered more fondly than weddings or tropical vacations. TRIBE explains why we are stronger when we come together, and how that can be achieved even in today's divided world.

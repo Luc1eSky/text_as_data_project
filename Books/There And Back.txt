@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1984859501
+primary_isbn13: 9781984859501
+publisher: Ten Speed
+description: Photographs and stories of expeditions on all seven continents by the Academy Award-winning documentary filmmaker.
+title: There And Back
+author: Jimmy Chin
+amazon_product_url: https://www.amazon.com/dp/1984859501?tag=NYTBSREV-20
+list_date: 2021/12/26
+published_data: 2021-12-07
+summary: NEW YORK TIMES BESTSELLER • The Academy Award–winning director of Free Solo and National Geographic photographer presents the first collection of his iconic adventure photography, featuring some of the greatest moments of the most accomplished climbers and outdoor athletes in the world, and including more than 200 extraordinary photographs. “An extraordinary work of art.”—Jon Krakauer Filmmaker, photographer, and world-class mountaineer Jimmy Chin goes where few can follow to capture stunning images in death-defying situations. There and Back draws from his breathtaking portfolio of photographs, captured over twenty years during cutting-edge expeditions on all seven continents—from skiing Mount Everest, to an unsupported traverse of Tibet's Chang Tang Plateau on foot, to first ascents in Chad’s Ennedi Desert and Antarctica’s Queen Maud Land. Along the way, Chin shares behind-the-scenes details about how he captured such astounding images in impossible conditions, and tells the stories of the legendary adventurers and remarkable athletes he has photographed, including Alex Honnold, the star of his Academy Award–winning documentary film Free Solo; ski mountaineer Kit DesLauriers; snowboarder Travis Rice; and mountaineers Conrad Anker and Yvon Chouinard. These larger-than-life images, coupled with stories of outsized drive and passion, of impossible goals with life or death stakes, of partnerships forged through incredible hardship, are sure to inspire wonder and awe.
+author_new0: Jimmy Chin

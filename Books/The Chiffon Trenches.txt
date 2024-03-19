@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0593129253
+primary_isbn13: 9780593129258
+publisher: Ballantine
+description: A memoir by the former creative director at Vogue and a look at the changes in the fashion industry.
+title: The Chiffon Trenches
+author: André Leon Talley
+amazon_product_url: https://www.amazon.com/dp/0593129253?tag=NYTBSREV-20
+list_date: 2020/06/07
+published_data: 2020
+summary: Discover what truly happens behind the scenes in the world of high fashion in this detailed, storied memoir from style icon, bestselling author, and former Vogue creative director Andr Leon Talley. During Andr Leon Talley's first magazine job assisting Andy Warhol at Interview, a fateful meeting with Karl Lagerfeld began a decade's long friendship with the enigmatic, often caustic designer. Propelled into the upper echelons by his knowledge and adoration of fashion, Talley moved to Paris as bureau chief of John Fairchild's Women's Wear Daily, befriending fashion's most important designers. But as Talley made friends, he also made enemies. A racially tinged encounter with a member of the house of Yves Saint Laurent sent him back to New York and into the offices of Vogue under Grace Mirabella. There, he developed an unlikely but intimate friendship with Anna Wintour, and as she rose to the top of Vogue's masthead, Talley became the most influential man in fashion. The Chiffon Trenches is a candid look at the who's who of the last fifty years of fashion, and proof that fact is always fascinatingly more devilish than fiction. Andr Leon Talley's engaging memoir tells the story of how he not only survived but thrived--despite racism, illicit rumors, and all the other challenges of this notoriously cutthroat industry--to become one of the most legendary voices and faces in fashion.
+author_new0: André Leon Talley

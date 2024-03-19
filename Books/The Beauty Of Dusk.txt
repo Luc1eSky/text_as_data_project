@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1982108576
+primary_isbn13: 9781982108571
+publisher: Avid Reader
+description: A New York Times columnist describes his medical journey and shifting priorities after a rare stroke affected his vision.
+title: The Beauty Of Dusk
+author: Frank Bruni
+amazon_product_url: https://www.amazon.com/dp/1982108576?tag=NYTBSREV-20
+list_date: 2022/03/20
+published_data: 2022-03
+summary: From New York Times columnist and bestselling author Frank Bruni comes a wise and moving memoir about aging, affliction, and optimism after partially losing his eyesight. One morning in late 2017, New York Times columnist Frank Bruni woke up with strangely blurred vision. He wondered at first if some goo or gunk had worked its way into his right eye. But this was no fleeting annoyance, no fixable inconvenience. Overnight, a rare stroke had cut off blood to one of his optic nerves, rendering him functionally blind in that eye—forever. And he soon learned from doctors that the same disorder could ravage his left eye, too. He could lose his sight altogether. In The Beauty of Dusk, Bruni hauntingly recounts his adjustment to this daunting reality, a medical and spiritual odyssey that involved not only reappraising his own priorities but also reaching out to, and gathering wisdom from, longtime friends and new acquaintances who had navigated their own traumas and afflictions. The result is a poignant, probing, and ultimately uplifting examination of the limits that all of us inevitably encounter, the lenses through which we choose to evaluate them and the tools we have for perseverance. Bruni’s world blurred in one sense, as he experienced his first real inklings that the day isn’t forever and that light inexorably fades, but sharpened in another. Confronting unexpected hardship, he felt more blessed than ever before. There was vision lost. There was also vision found.
+author_new0: Frank Bruni

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0393244814
+primary_isbn13: 9780393244816
+publisher: Norton
+description: A security expert offers tips for protecting your privacy and proposes an alternative to mass surveillance by government and corporations.
+title: Data And Goliath
+author: Bruce Schneier
+amazon_product_url: http://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/0393244814?tag=NYTBSREV-20
+list_date: 2015/03/22
+published_date: 2015-03-03
+summary: You are under surveillance right now. Your cell phone provider tracks your location and knows who’s with you. Your online and in-store purchasing patterns are recorded, and reveal if you're unemployed, sick, or pregnant. Your e-mails and texts expose your intimate and casual friends. Google knows what you’re thinking because it saves your private searches. Facebook can determine your sexual orientation without you ever mentioning it. The powers that surveil us do more than simply store this information. Corporations use surveillance to manipulate not only the news articles and advertisements we each see, but also the prices we’re offered. Governments use surveillance to discriminate, censor, chill free speech, and put people in danger worldwide. And both sides share this information with each other or, even worse, lose it to cybercriminals in huge data breaches. Much of this is voluntary: we cooperate with corporate surveillance because it promises us convenience, and we submit to government surveillance because it promises us protection. The result is a mass surveillance society of our own making. But have we given up more than we’ve gained? In Data and Goliath, security expert Bruce Schneier offers another path, one that values both security and privacy. He shows us exactly what we can do to reform our government surveillance programs and shake up surveillance-based business models, while also providing tips for you to protect your privacy every day. You'll never look at your phone, your computer, your credit cards, or even your car in the same way again.

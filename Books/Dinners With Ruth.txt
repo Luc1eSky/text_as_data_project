@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: 1982188081
+primary_isbn13: 9781982188085
+publisher: Simon & Schuster
+description: The NPR legal affairs correspondent details her professional accomplishments and friendship with the late Supreme Court Justice Ruth Bader Ginsburg.
+title: Dinners With Ruth
+author: Nina Totenberg
+amazon_product_url: https://www.amazon.com/dp/1982188081?tag=NYTBSREV-20
+list_date: 2022/11/27
+published_data: 2022-09-13
+summary: NPR legal affairs correspondent Nina Totenberg examines her life, career, and female colleagues and relatives, focusing on her 50-year friendship with Supreme Court Justice Ruth Bader Ginsburg.
+author_new0: Nina Totenberg

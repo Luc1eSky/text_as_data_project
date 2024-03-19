@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 1476773084
+primary_isbn13: 9781476773087
+publisher: Threshold Editions
+description: The radio host argues that the founding fathers would be shocked by the expansion of modern government.
+title: Rediscovering Americanism
+author: Mark R Levin
+amazon_product_url: https://www.amazon.com/Rediscovering-Americanism-Progressivism-Mark-Levin/dp/1476773084?tag=NYTBSREV-20
+list_date: 2017/08/20
+published_date: 2017-06-27
+summary: From #1 New York Times bestselling author and radio host Mark R. Levin comes a searing plea for a return to America’s most sacred values. In Rediscovering Americanism, Mark R. Levin revisits the founders’ warnings about the perils of overreach by the federal government and concludes that the men who created our country would be outraged and disappointed to see where we've ended up. Levin returns to the impassioned question he's explored in each of his bestselling books: How do we save our exceptional country? Because our values are in such a precarious state, he argues that a restoration to the essential truths on which our country was founded has never been more urgent. Understanding these principles, in Levin’s words, can “serve as the antidote to tyrannical regimes and governments.” Rediscovering Americanism is not an exercise in nostalgia, but an appeal to his fellow citizens to reverse course. This essential book brings Levin’s celebrated, sophisticated analysis to the troubling question of America's future, and reminds us what we must restore for the sake of our children and our children's children.

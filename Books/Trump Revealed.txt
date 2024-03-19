@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1501155784
+primary_isbn13: 9781501155789
+publisher: Scribner
+description: A biography by two Washington Post editors based on the work of more than 20 of the paper’s reporters and fact-checkers.
+title: Trump Revealed
+author: Michael Kranish and Marc Fisher
+amazon_product_url: http://www.amazon.com/Trump-Revealed-American-Journey-Ambition-ebook/dp/B01E4NF0GC?tag=NYTBSREV-20
+list_date: 2016/09/11
+published_date: 2016-08-23
+summary: A comprehensive biography of Donald Trump, the Republican front-runner in the presidential election campaign. Trump Revealed will be reported by a team of award-winning Washington Post journalists and co-authored by investigative political reporter Michael Kranish and senior editor Marc Fisher. Trump Revealed will offer the most thorough and wide-ranging examination of Donald Trump’s public and private lives to date, from his upbringing in Queens and formative years at the New York Military Academy, to his turbulent careers in real estate and entertainment, to his astonishing rise as the front-runner for the Republican presidential nomination. The book will be based on the investigative reporting of more than two dozen Washington Post reporters and researchers who will leverage their expertise in politics, business, legal affairs, sports, and other areas. The effort will be guided by a team of editors headed by Executive Editor Martin Baron, who joined the newspaper in 2013 after his successful tenure running The Boston Globe, which included the “Spotlight” team’s investigation of sexual abuse in the Catholic Church.

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1250017645
+primary_isbn13: 9781250017642
+publisher: Thomas Dunne/St. Martin’s
+description: The former first lady’s struggles after John Kennedy’s assassination.
+title: Jacqueline Bouvier Kennedy Onassis
+author: Barbara Leaming
+amazon_product_url: http://www.amazon.com/Jacqueline-Bouvier-Kennedy-Onassis-Untold-ebook/dp/B00JI0RS12?tag=NYTBSREV-20
+list_date: 2014/11/16
+published_date: 2014-10-28
+summary: Traces the pattern of Jacqueline Onassis' life from her youth to her transformation into a deft political wife and unique First Lady, and examines her thirty-year struggle with PTSD after the assassination of her husband, John F. Kennedy.

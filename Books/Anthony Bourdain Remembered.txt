@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062956582
+primary_isbn13: 9780062956583
+publisher: Ecco
+description: A collection of photographs and remembrances by some who were impacted by the chef and television host.
+title: Anthony Bourdain Remembered
+author: CNN
+amazon_product_url: https://www.amazon.com/Anthony-Bourdain-Remembered-CNN/dp/0062956582?tag=NYTBSREV-20
+list_date: 2019/06/16
+published_data: 2019-05-28
+summary: A moving and insightful collection of quotes, memories, and images celebrating the life of Anthony Bourdain When Anthony Bourdain died in June 2018, the outpouring of love from his fans around the world was momentous. The tributes spoke to his legacy: That the world is much smaller than we imagine and people are more alike than they are different. As Bourdain once said, “If I’m an advocate of anything, it’s to move…Walk in someone else’s shoes or at least eat their food.” Anthony Bourdain Remembered brings together memories and anecdotes from fans reminiscing about Bourdain’s unique achievements and his enduring effect on their lives as well as comments from chefs, journalists, filmmakers, musicians, and writers inspired by Tony including Barack Obama, Eric Ripert, Jill Filipovic, Ken Burns, Questlove, and José Andrés, among many others. These remembrances give us a glimpse of Tony’s widespread impact through his political and social commitments; his dedication to travel and eating well (and widely); and his love of the written word, along with his deep compassion, open-mindedness, and interest in lives different from his own. Anthony Bourdain Remembered captures Tony’s inimitable spirit and passion in the words of his devoted fans as well as some of his closest friends and colleagues.
+author_new0: CNN

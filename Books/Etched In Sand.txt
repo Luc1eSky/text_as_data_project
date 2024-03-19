@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 4
+primary_isbn10: 0062218840
+primary_isbn13: 9780062218841
+publisher: Morrow/HarperCollins
+description: Five siblings survive childhood abuse, foster care and homelessness on Long Island. 
+title: Etched In Sand
+author: Regina Calcaterra
+amazon_product_url: http://www.amazon.com/Etched-Sand-Regina-Calcaterra-ebook/dp/B009NG18Z8?tag=NYTBSREV-20
+list_date: 2015/09/06
+published_date: 2013-08-06
+summary: Regina’s Calcaterra memoir, Etched in Sand, is an inspiring and triumphant coming-of-age story of tenacity and hope. Regina Calcaterra is a successful lawyer, New York State official, and activist. Her painful early life, however, was quite different. Regina and her four siblings survived an abusive and painful childhood only to find themselves faced with the challenges of the foster-care system and intermittent homelessness in the shadows of Manhattan and the Hamptons. A true-life rags-to-riches story, Etched in Sand chronicles Regina’s rising above her past, while fighting to keep her brother and three sisters together through it all. Beautifully written, with heartbreaking honesty, Etched in Sand is an unforgettable reminder that regardless of social status, the American Dream is still within reach for those who have the desire and the determination to succeed.

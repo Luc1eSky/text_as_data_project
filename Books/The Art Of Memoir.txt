@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0062223062
+primary_isbn13: 9780062223067
+publisher: Harper
+description: The author of “The Liars’ Club,”  “Cherry” and “Lit” offers instruction in memoir-writing and discusses her favorite writers’ work.
+title: The Art Of Memoir
+author: Mary Karr
+amazon_product_url: http://www.amazon.com/The-Art-Memoir-Mary-Karr/dp/0062223062?tag=NYTBSREV-20
+list_date: 2015/10/04
+published_date: 2015-09-15
+summary: Bestselling author and renowned professor Mary Karr offers a master class in the essential elements of great memoir—delivered with her signature wit, insight, and candor. Credited with sparking the current memoir explosion, Mary Karr’s The Liars’ Club spent more than a year at the top of the New York Times list. She followed with two other smash bestsellers: Cherry and Lit, which were critical hits as well. For thirty years Karr has also taught the form, winning teaching prizes at Syracuse. (The writing program there produced such acclaimed authors as Cheryl Strayed, Keith Gessen, and Koren Zailckas.) In The Art of Memoir, she synthesizes her expertise as professor and therapy patient, writer and spiritual seeker, recovered alcoholic and “black belt sinner,” providing a unique window into the mechanics and art of the form that is as irreverent, insightful, and entertaining as her own work in the genre. Anchored by excerpts from her favorite memoirs and anecdotes from fellow writers’ experience, The Art of Memoir lays bare Karr’s own process. (Plus all those inside stories about how she dealt with family and friends get told— and the dark spaces in her own skull probed in depth.) As she breaks down the key elements of great literary memoir, she breaks open our concepts of memory and identity, and illuminates the cathartic power of reflecting on the past; anybody with an inner life or complicated history, whether writer or reader, will relate. Joining such classics as Stephen King’s On Writing and Anne Lamott’s Bird by Bird, The Art of Memoir is an elegant and accessible exploration of one of today’s most popular literary forms—a tour de force from an accomplished master pulling back the curtain on her craft.

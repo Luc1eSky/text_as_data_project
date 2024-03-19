@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 3
+primary_isbn10: 1797205099
+primary_isbn13: 9781797205090
+publisher: Chronicle
+description: The country music icon offers insights on 175 of her songs.
+title: Dolly Parton, Songteller
+author: Dolly Parton with Robert K Oermann
+amazon_product_url: https://www.amazon.com/dp/1797205099?tag=NYTBSREV-20
+list_date: 2020/12/20
+published_data: 2020-11-17
+summary: Dolly Parton, Songteller: My Life in Lyrics is a landmark celebration of the remarkable life and career of a country music and pop culture legend. As told by Dolly Parton in her own inimitable words, explore the songs that have defined her journey. Illustrated throughout with previously unpublished images from Dolly Parton's personal and business archives. Mining over 60 years of songwriting, Dolly Parton highlights 150 of her songs and brings readers behind the lyrics. * Packed with never-before-seen photographs and classic memorabilia * Explores personal stories, candid insights, and myriad memories behind the songs Dolly Parton, Songteller: My Life in Lyrics reveals the stories and memories that have made Dolly a beloved icon across generations, genders, and social and international boundaries. Containing rare photos and memorabilia from Parton's archives, this book is a show-stopping must-have for every Dolly Parton fan. * Learn the history behind classic Parton songs like "Jolene," "9 to 5," "I Will Always Love You," and more. * The perfect gift for Dolly Parton fans (everyone loves Dolly!) as well as lovers of music history and country Add it to the shelf with books likeCoat of Many Colors by Dolly Parton,The Beatles Anthology by The Beatles, andBorn to Run by Bruce Springsteen.
+author_new0: Dolly Parton
+author_new1: Robert K Oermann

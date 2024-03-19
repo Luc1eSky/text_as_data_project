@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 1629994766
+primary_isbn13: 9781629994765
+publisher: FrontLine
+description: Ancient figures from the Middle East are used to explain the rise and fall of contemporary leaders and events.
+title: The Paradigm
+author: Jonathan Cahn
+amazon_product_url: https://www.amazon.com/Paradigm-Ancient-Blueprint-Holds-Mystery/dp/1629994766?tag=NYTBSREV-20
+list_date: 2017/10/29
+published_date: 2017
+summary: A detailed analysis of parallels between the Old Testament story of Jezebel and the career of Hillary Clinton, including the victory of Donald Trump.

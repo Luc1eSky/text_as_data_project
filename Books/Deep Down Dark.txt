@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 0374280606
+primary_isbn13: 9780374280604
+publisher: Farrar, Straus & Giroux
+description: An account, based on interviews, of the experience of the 33 Chilean miners who were trapped underground for 69 days in 2010 and, incredibly, rescued.
+title: Deep Down Dark
+author: Héctor Tobar
+amazon_product_url: http://www.amazon.com/Deep-Down-Dark-Stories-Chilean-ebook/dp/B00J6TV17C?tag=NYTBSREV-20
+list_date: 2015/02/08
+published_date: 2014-10-07
+summary: Presents a firsthand, official account of the 2010 survival story involving thirty-three miners who were trapped for a record sixty-nine days in a Chilean mine.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 1631498835
+primary_isbn13: 9781631498831
+publisher: Liveright
+description: The Pulitzer Prize winner weaves together American history with personal memoir to show the importance of events in Galveston, Texas, on June 19, 1865.
+title: On Juneteenth
+author: Annette Gordon-Reed
+amazon_product_url: https://www.amazon.com/dp/1631498835?tag=NYTBSREV-20
+list_date: 2021/07/11
+published_data: 2021-05-04
+summary: NEW YORK TIMES BESTSELLER The essential, sweeping story of Juneteenth’s integral importance to American history, as told by a Pulitzer Prize–winning historian and Texas native. Weaving together American history, dramatic family chronicle, and searing episodes of memoir, Annette Gordon-Reed’s On Juneteenth provides a historian’s view of the country’s long road to Juneteenth, recounting both its origins in Texas and the enormous hardships that African-Americans have endured in the century since, from Reconstruction through Jim Crow and beyond. All too aware of the stories of cowboys, ranchers, and oilmen that have long dominated the lore of the Lone Star State, Gordon-Reed—herself a Texas native and the descendant of enslaved people brought to Texas as early as the 1820s—forges a new and profoundly truthful narrative of her home state, with implications for us all. Combining personal anecdotes with poignant facts gleaned from the annals of American history, Gordon-Reed shows how, from the earliest presence of Black people in Texas to the day in Galveston on June 19, 1865, when Major General Gordon Granger announced the end of legalized slavery in the state, African-Americans played an integral role in the Texas story. Reworking the traditional “Alamo” framework, she powerfully demonstrates, among other things, that the slave- and race-based economy not only defined the fractious era of Texas independence but precipitated the Mexican-American War and, indeed, the Civil War itself. In its concision, eloquence, and clear presentation of history, On Juneteenth vitally revises conventional renderings of Texas and national history. As our nation verges on recognizing June 19 as a national holiday, On Juneteenth is both an essential account and a stark reminder that the fight for equality is exigent and ongoing.
+author_new0: Annette Gordon-Reed

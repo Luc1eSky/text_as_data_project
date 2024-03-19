@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0399564454
+primary_isbn13: 9780399564451
+publisher: Sentinel
+description: Early Americans who warned against a central government, by the Republican senator from Utah.
+title: Written Out Of History
+author: Mike Lee
+amazon_product_url: https://www.amazon.com/Written-Out-History-Forgotten-Government/dp/0399564454?tag=NYTBSREV-20
+list_date: 2017/06/18
+published_date: 2017
+summary: Discusses the men and women who, in the early days of the United States, spoke out about the threat of a too powerful and intrusive federal government.

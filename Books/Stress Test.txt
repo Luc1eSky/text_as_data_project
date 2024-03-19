@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0804138591
+primary_isbn13: 9780804138598
+publisher: Crown
+description: The former Treasury secretary explains the choices he and others made during the financial crisis.
+title: Stress Test
+author: Timothy F Geithner
+amazon_product_url: http://www.amazon.com/Stress-Test-Reflections-Financial-Crises-ebook/dp/B00IN73B9E?tag=NYTBSREV-20
+list_date: 2014/06/15
+published_date: 2014
+summary: From the former Treasury Secretary, the definitive account of the unprecedented effort to save the U.S. economy from collapse in the wake of the worst global financial crisis since the Great Depression.

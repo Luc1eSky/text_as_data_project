@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 19
+primary_isbn10: None
+primary_isbn13: 9780399185069
+publisher: Avery
+description: A discussion between two spiritual leaders about how to find joy in the face of suffering.
+title: The Book Of Joy
+author: the Dalai Lama and Desmond Tutu with Douglas Abrams
+amazon_product_url: http://www.amazon.com/Book-Joy-Lasting-Happiness-Changing/dp/0399185046?tag=NYTBSREV-20
+list_date: 2017/08/27

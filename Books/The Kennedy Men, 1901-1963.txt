@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062039881
+primary_isbn13: 9780062039880
+publisher: HarperCollins
+description: The first volume of a multigenerational history.
+title: The Kennedy Men, 1901-1963
+author: Laurence Leamer
+amazon_product_url: http://www.amazon.com/The-Kennedy-Men-Laurence-Leamer-ebook/dp/B003YCOP1G?tag=NYTBSREV-20
+list_date: 2015/03/08
+published_date: 2011-02-22
+summary: The renowned biographer and New York Times bestselling author of The Kennedy Women returns with this first volume in a multigenerational history that will forever change the way America views its most famous family ...

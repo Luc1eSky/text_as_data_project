@@ -1,0 +1,14 @@
+rank: 1
+weeks_on_list: 1
+primary_isbn10: 006306605X
+primary_isbn13: 9780063066052
+publisher: Harper
+description: Two Washington Post journalists give an account of the Trump administration’s handling of the Covid-19 pandemic.
+title: Nightmare Scenario
+author: Yasmeen Abutaleb and Damian Paletta
+amazon_product_url: https://www.amazon.com/dp/006306605X?tag=NYTBSREV-20
+list_date: 2021/07/18
+published_data: 2021-06-29
+summary: N/A
+author_new0: Yasmeen Abutaleb
+author_new1: Damian Paletta

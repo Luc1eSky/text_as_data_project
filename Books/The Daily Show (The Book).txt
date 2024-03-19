@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 1455565350
+primary_isbn13: 9781455565351
+publisher: Grand Central
+description: An oral history of the show, based on extensive interviews with Jon Stewart and others.
+title: The Daily Show (The Book)
+author: Chris Smith
+amazon_product_url: https://www.amazon.com/Daily-Show-Book-History-Correspondents/dp/1455565385?tag=NYTBSREV-20
+list_date: 2017/01/15
+published_date: 2016-11-22
+summary: NEW YORK TIMES BESTSELLER The complete, uncensored history of the award-winning The Daily Show with Jon Stewart, as told by its correspondents, writers, and host. For almost seventeen years, The Daily Show with Jon Stewart brilliantly redefined the borders between television comedy, political satire, and opinionated news coverage. It launched the careers of some of today's most significant comedians, highlighted the hypocrisies of the powerful, and garnered 23 Emmys. Now the show's behind-the-scenes gags, controversies, and camaraderie will be chronicled by the players themselves, from legendary host Jon Stewart to the star cast members and writers-including Samantha Bee, Stephen Colbert, John Oliver, and Steve Carell - plus some of The Daily Show's most prominent guests and adversaries: John and Cindy McCain, Glenn Beck, Tucker Carlson, and many more. This oral history takes the reader behind the curtain for all the show's highlights, from its origins as Comedy Central's underdog late-night program to Trevor Noah's succession, rising from a scrappy jester in the 24-hour political news cycle to become part of the beating heart of politics-a trusted source for not only comedy but also commentary, with a reputation for calling bullshit and an ability to effect real change in the world. Through years of incisive election coverage, passionate debates with President Obama and Hillary Clinton, feuds with Bill O'Reilly and Fox, and provocative takes on Wall Street and racism, The Daily Show has been a cultural touchstone. Now, for the first time, the people behind the show's seminal moments come together to share their memories of the last-minute rewrites, improvisations, pranks, romances, blow-ups, and moments of Zen both on and off the set of one of America's most groundbreaking shows.

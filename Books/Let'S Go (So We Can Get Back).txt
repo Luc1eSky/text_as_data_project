@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1101985267
+primary_isbn13: 9781101985267
+publisher: Dutton
+description: The founding member of the rock band Wilco discusses his life and artistic process.
+title: Let'S Go (So We Can Get Back)
+author: Jeff Tweedy
+amazon_product_url: https://www.amazon.com/Lets-Can-Get-Back-Discording/dp/1101985267?tag=NYTBSREV-20
+list_date: 2018/12/02
+published_data: 2018-11-13
+summary: Wilco singer/songwriter Jeff Tweedy tells stories about his childhood in Belleville, Illinois; the St. Louis record store, rock clubs, and live-music circuit that sparked his songwriting and performing career; and the Chicago scene that brought it all together. He discusses his collaborators in Uncle Tupelo, Wilco, and more; and writes lovingly about his parents, wife Susie, and sons, Spencer and Sammy.
+author_new0: Jeff Tweedy

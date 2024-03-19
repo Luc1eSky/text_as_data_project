@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 052565609X
+primary_isbn13: 9780525656098
+publisher: Knopf
+description: An ecologist describes ways trees communicate, cooperate and compete.
+title: Finding The Mother Tree
+author: Suzanne Simard
+amazon_product_url: https://www.amazon.com/dp/052565609X?tag=NYTBSREV-20
+list_date: 2021/05/23
+published_data: 2021-05-04
+summary: NEW YORK TIMES BEST SELLER • From the world's leading forest ecologist who forever changed how people view trees and their connections to one another and to other living things in the forest—a moving, deeply personal journey of discovery “Finding the Mother Tree reminds us that the world is a web of stories, connecting us to one another. [The book] carries the stories of trees, fungi, soil and bears--and of a human being listening in on the conversation. The interplay of personal narrative, scientific insights and the amazing revelations about the life of the forest make a compelling story.”—Robin Wall Kimmerer, author of Braiding Sweetgrass Suzanne Simard is a pioneer on the frontier of plant communication and intelligence; her TED talks have been viewed by more than 10 million people worldwide. In this, her first book, now available in paperback, Simard brings us into her world, the intimate world of the trees, in which she brilliantly illuminates the fascinating and vital truths--that trees are not simply the source of timber or pulp, but are a complicated, interdependent circle of life; that forests are social, cooperative creatures connected through underground networks by which trees communicate their vitality and vulnerabilities with communal lives not that different from our own. Simard writes--in inspiring, illuminating, and accessible ways—how trees, living side by side for hundreds of years, have evolved, how they learn and adapt their behaviors, recognize neighbors, compete and cooperate with one another with sophistication, characteristics ascribed to human intelligence, traits that are the essence of civil societies--and at the center of it all, the Mother Trees: the mysterious, powerful forces that connect and sustain the others that surround them. And Simard writes of her own life, born and raised into a logging world in the rainforests of British Columbia, of her days as a child spent cataloging the trees from the forest and how she came to love and respect them. And as she writes of her scientific quest, she writes of her own journey, making us understand how deeply human scientific inquiry exists beyond data and technology, that it is about understanding who we are and our place in the world.
+author_new0: Suzanne Simard

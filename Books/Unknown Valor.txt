@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 2
+primary_isbn10: 0062853856
+primary_isbn13: 9780062853851
+publisher: Harper
+description: The Fox News anchor weaves stories of combat veterans who fought during World War II.
+title: Unknown Valor
+author: Martha MacCallum
+amazon_product_url: https://www.amazon.com/Valor-Family-Courage-Sacrifice-Harbor/dp/0062853856?tag=NYTBSREV-20
+list_date: 2020/03/22
+published_data: 2020-02-25
+summary: In honor of the 75th Anniversary of one of the most critical battles of World War II, the popular primetime Fox News anchor of The Story with Martha MacCallum pays tribute to the heroic men who sacrificed everything at Iwo Jima to defeat the Armed Forces of Emperor Hirohito--among them, a member of her own family, Harry Gray. Admiral Chester Nimitz spoke of the "uncommon valor" of the men who fought on Iwo Jima, one of the bloodiest and most brutal battles of World War II. In thirty-six grueling days, nearly 7,000 Marines were killed and 22,000 were wounded. Martha MacCallum takes us from Pearl Harbor to Iwo Jima through the lives of these men of valor, among them Harry Gray, a member of her own family. In Unknown Valor, she weaves their stories--from Boston, Massachusetts, to Gulfport, Mississippi, as told through letters and recollections--into the larger history of what American military leaders rightly saw as an eventual showdown in the Pacific with Japan. In a relentless push through the jungles of Guadalcanal, over the coral reefs of Tarawa, past the bloody ridge of Peleliu, against the banzai charges of Guam, and to the cliffs of Saipan, these men were on a path that ultimately led to the black sands of Iwo Jima, the doorstep of the Japanese Empire. Meticulously researched, heart-wrenching, and illuminating, Unknown Valor reveals the sacrifices of ordinary Marines who saved the world from tyranny and left indelible marks on those back home who loved them.
+author_new0: Martha MacCallum

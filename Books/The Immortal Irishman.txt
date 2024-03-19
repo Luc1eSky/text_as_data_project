@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0544272889
+primary_isbn13: 9780544272880
+publisher: Houghton Mifflin Harcourt
+description: The life of Thomas Francis Meagher, an Irish revolutionary who led New York's Civil War Irish Brigade.
+title: The Immortal Irishman
+author: Timothy Egan
+amazon_product_url: http://www.amazon.com/The-Immortal-Irishman-Revolutionary-American/dp/0544272889?tag=NYTBSREV-20
+list_date: 2016/05/01
+published_date: 2016
+summary: A National Book Award-winning author illuminates the dawn of the great Irish American story, with all its twists and triumphs, through the life of the heroic Thomas Francis Meagher

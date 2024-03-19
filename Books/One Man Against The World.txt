@@ -1,0 +1,13 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1627790837
+primary_isbn13: 9781627790833
+publisher: Holt
+description: An award-winning journalist’s chilling account of the Nixon  presidency, based in part on recently declassified material.
+
+title: One Man Against The World
+author: Tim Weiner
+amazon_product_url: http://www.amazon.com/One-Man-Against-World-Tragedy-ebook/dp/B00W1FQYYS?tag=NYTBSREV-20
+list_date: 2015/07/05
+published_date: 2015-06-16
+summary: Draws on recently declassified documents to chronicle Nixon's presidency, presenting a portrait of a brilliant man overcome by his deep insecurities and his distrust of his cabinet, Congress, and the American people.

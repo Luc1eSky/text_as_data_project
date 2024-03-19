@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0802128815
+primary_isbn13: 9780802128812
+publisher: Grove
+description: A collection of observational essays by the nature writer on themes of captivity, immigration and freedom.
+title: Vesper Flights
+author: Helen Macdonald
+amazon_product_url: https://www.amazon.com/dp/0802128815?tag=NYTBSREV-20
+list_date: 2020/09/13
+published_data: 2020-08-11
+summary: From the New York Times bestselling author of H is for Hawk and winner of the Samuel Johnson Prize for nonfiction, comes a transcendent collection of essays about the human relationship to the natural world
+author_new0: Helen Macdonald

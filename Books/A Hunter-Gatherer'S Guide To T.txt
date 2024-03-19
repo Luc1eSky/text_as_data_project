@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0593086880
+primary_isbn13: 9780593086889
+publisher: Portfolio
+description: The evolutionary biologists posit that the modern world is out of sync with our ancient brains and bodies.
+title: A Hunter-Gatherer'S Guide To The 21St Century
+author: Heather Heying and Bret Weinstein
+amazon_product_url: https://www.amazon.com/dp/0593086880?tag=NYTBSREV-20
+list_date: 2021/10/17
+published_data: 2021-09-14
+summary: A provocative exploration of the tension between our evolutionary history and our modern woes—and what we can do about it. We are living through the most prosperous age in all of human history, yet we are listless, divided, and miserable. Wealth and comfort are unparalleled, but our political landscape is unmoored, and rates of suicide, lone­liness, and chronic illness continue to skyrocket. How do we explain the gap between these truths? And how should we respond? For evolutionary biologists Heather Heying and Bret Weinstein, the cause of our troubles is clear: the accelerat­ing rate of change in the modern world has outstripped the capacity of our brains and bodies to adapt. We evolved to live in clans, but today many people don’t even know their neighbors’ names. In our haste to discard outdated gender roles, we increasingly deny the flesh-and-blood realities of sex—and its ancient roots. The cognitive dissonance spawned by trying to live in a society we are not built for is killing us. In this book, Heying and Weinstein draw on decades of their work teaching in college classrooms and explor­ing Earth’s most biodiverse ecosystems to confront today’s pressing social ills—from widespread sleep deprivation and dangerous diets to damaging parenting styles and back­ward education practices. Asking the questions many mod­ern people are afraid to ask, A Hunter-Gatherer’s Guide to the 21st Century outlines a science-based worldview that will empower you to live a better, wiser life.
+author_new0: Heather Heying
+author_new1: Bret Weinstein

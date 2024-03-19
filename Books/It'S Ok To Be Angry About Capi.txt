@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 0593238710
+primary_isbn13: 9780593238714
+publisher: Crown
+description: The Vermont senator depicts the impact capitalism has on key areas of our lives and ways to address this.
+title: It'S Ok To Be Angry About Capitalism
+author: Bernie Sanders with John Nichols
+amazon_product_url: https://www.amazon.com/dp/0593238710?tag=NYTBSREV-20
+list_date: 2023/04/09
+published_data: 2023-02-21
+summary: NEW YORK TIMES BESTSELLER • A progressive takedown of the uber-capitalist status quo that has enriched millionaires and billionaires at the expense of the working class, and a blueprint for what transformational change would actually look like It’s OK to be angry about capitalism. Reflecting on our turbulent times, Senator Bernie Sanders takes on the billionaire class and speaks blunt truths about our country’s failure to address the destructive nature of a system that is fueled by uncontrolled greed and rigidly committed to prioritizing corporate profits over the needs of ordinary Americans. Sanders argues that unfettered capitalism is to blame for an unprecedented level of income and wealth inequality, is undermining our democracy, and is destroying our planet. How can we accept an economic order that allows three billionaires to control more wealth than the bottom half of our society? How can we accept a political system that allows the super rich to buy elections and politicians? How can we accept an energy system that rewards the fossil fuel corporations causing the climate crisis? Sanders believes that, in the face of these overwhelming challenges, the American people must ask tough questions about the systems that have failed us and demand fundamental economic and political change. This is where the path forward begins. It’s OK to Be Angry About Capitalism presents a vision that extends beyond the promises of past campaigns to reveal what would be possible if the political revolution took place, if we would finally recognize that economic rights are human rights, and if we would work to create a society that provides a decent standard of living for all. This isn’t some utopian fantasy; this is democracy as we should know it.
+author_new0: Bernie Sanders
+author_new1: John Nichols

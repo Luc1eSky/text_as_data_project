@@ -1,0 +1,10 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: None
+primary_isbn13: 9781451654707
+publisher: Simon & Schuster
+description: A biography of the influential Sioux leader Red Cloud.
+title: The Heart Of Everything That Is
+author: Bob Drury and Tom Clavin
+amazon_product_url: http://www.amazon.com/The-Heart-Everything-That-Is/dp/1451654669?tag=NYTBSREV-20
+list_date: 2015/02/15

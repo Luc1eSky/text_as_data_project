@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 0593132955
+primary_isbn13: 9780593132951
+publisher: Random House
+description: Pulitzer Prize winner Jon Meacham and Grammy Award winner Tim McGraw explore how America was shaped by music.
+title: Songs Of America
+author: Jon Meacham and Tim McGraw
+amazon_product_url: https://www.amazon.com/Songs-America-Patriotism-Protest-Nation/dp/0593132955?tag=NYTBSREV-20
+list_date: 2019/07/28
+published_data: 2019-06-11
+summary: NEW YORK TIMES BESTSELLER • A celebration of American history through the music that helped to shape a nation, by Pulitzer Prize winner Jon Meacham and music superstar Tim McGraw “Jon Meacham and Tim McGraw form an irresistible duo—connecting us to music as an unsung force in our nation's history.”—Doris Kearns Goodwin Through all the years of strife and triumph, America has been shaped not just by our elected leaders and our formal politics but also by our music—by the lyrics, performers, and instrumentals that have helped to carry us through the dark days and to celebrate the bright ones. From “The Star-Spangled Banner” to “Born in the U.S.A.,” Jon Meacham and Tim McGraw take readers on a moving and insightful journey through eras in American history and the songs and performers that inspired us. Meacham chronicles our history, exploring the stories behind the songs, and Tim McGraw reflects on them as an artist and performer. Their perspectives combine to create a unique view of the role music has played in uniting and shaping a nation. Beginning with the battle hymns of the revolution, and taking us through songs from the defining events of the Civil War, the fight for women’s suffrage, the two world wars, the Great Depression, the civil rights movement, the Vietnam War, and into the twenty-first century, Meacham and McGraw explore the songs that defined generations, and the cultural and political climates that produced them. Readers will discover the power of music in the lives of figures such as Harriet Tubman, Franklin Roosevelt, Eleanor Roosevelt, and Martin Luther King, Jr., and will learn more about some of our most beloved musicians and performers, including Marian Anderson, Elvis Presley, Sam Cooke, Aretha Franklin, Bob Dylan, Duke Ellington, Carole King, Bruce Springsteen, and more. Songs of America explores both famous songs and lesser-known ones, expanding our understanding of the scope of American music and lending deeper meaning to the historical context of such songs as “My Country, ’Tis of Thee,” “God Bless America,” “Over There,” “We Shall Overcome,” and “Blowin’ in the Wind.” As Quincy Jones says, Meacham and McGraw have “convened a concert in Songs of America,” one that reminds us of who we are, where we’ve been, and what we, at our best, can be.
+author_new0: Jon Meacham
+author_new1: Tim McGraw

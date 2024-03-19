@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062320408
+primary_isbn13: 9780062320407
+publisher: It Books
+description: Humorous political observations from the radio and television host, based on his popular podcast.
+title: President Me
+author: Adam Carolla
+amazon_product_url: http://www.amazon.com/President-Me-America-Thats-Head-ebook/dp/B00FJ3AFL2?tag=NYTBSREV-20
+list_date: 2014/06/01
+published_date: 2014-05-13
+summary: Imagine a world where New York Times bestselling author, comedian, actor, television, and podcast host Adam Carolla is the President of the United States. Can’t do it? You don’t have to! Adam has done it for you! Podcast king Adam Carolla first shared his unique, but always funny world view in his New York Times bestseller In Fifty Years We’ll All Be Chicks—but he’s not done. In President Me, Carolla shares his vision for a different, better America free from big issues like big government down to small problems like hotel alarm clock placement. Running on an anti-narcissism platform, President Carolla calls for a return to the values of an earlier time when stew and casserole were on every dinner table and there were no “service dogs” on airplanes. President Me hits right at the heart of what makes our country really annoying, and offers a plan to make all of our lives, but mostly Adam’s, much better.

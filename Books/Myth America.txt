@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1541601394
+primary_isbn13: 9781541601390
+publisher: Basic
+description: A collection of essays by historians who separate fact from fiction as they detail our nation’s past.
+title: Myth America
+author: edited  Kevin M. Kruse and Julian E. Zelizer
+amazon_product_url: https://www.amazon.com/dp/1541601394?tag=NYTBSREV-20
+list_date: 2023/01/22
+published_data: 2022-10-18
+summary: America's top historians set the record straight on the most pernicious myths about our nation's past The United States is in the grip of a crisis of bad history. Distortions of the past promoted in the conservative media have led large numbers of Americans to believe in fictions over facts, making constructive dialogue impossible and imperiling our democracy. In Myth America, Kevin M. Kruse and Julian E. Zelizer have assembled an all-star team of fellow historians to push back against this misinformation. The contributors debunk narratives that portray the New Deal and Great Society as failures, immigrants as hostile invaders, and feminists as anti-family warriors--among numerous other partisan lies. Based on a firm foundation of historical scholarship, their findings revitalize our understanding of American history. Replacing myths with research and reality, Myth America is essential reading amid today's heated debates about our nation's past.
+author_new0: edited  Kevin M. Kruse
+author_new1: Julian E. Zelizer

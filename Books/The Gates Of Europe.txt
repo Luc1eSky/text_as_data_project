@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1541675649
+primary_isbn13: 9781541675643
+publisher: Basic
+description: The historian details Ukraine’s search for its identity and the turmoil over its sovereignty.
+title: The Gates Of Europe
+author: Serhii Plokhy
+amazon_product_url: https://www.amazon.com/dp/1541675649?tag=NYTBSREV-20
+list_date: 2022/04/03
+published_data: 2021-05-25
+summary: Ukraine is currently embroiled in a tense fight with Russia to preserve its territorial integrity and political independence. But today's conflict is only the latest in a long history of battles over Ukraine's territory and its existence as a sovereign nation. As the award-winning historian Serhii Plokhy argues in The Gates of Europe, we must examine Ukraine's past in order to understand its present and future. Situated between Central Europe, Russia, and the Middle East, Ukraine was shaped by the empires that used it as a strategic gateway between East and West -- from the Roman and Ottoman empires to the Third Reich and the Soviet Union. For centuries, Ukraine has been a meeting place of various cultures. The mixing of sedentary and nomadic peoples and Christianity and Islam on the steppe borderland produced the class of ferocious warriors known as the Cossacks, for example, while the encounter between the Catholic and Orthodox churches created a religious tradition that bridges Western and Eastern Christianity. Ukraine has also been a home to millions of Jews, serving as the birthplace of Hassidism -- and as one of the killing fields of the Holocaust. Plokhy examines the history of Ukraine's search for its identity through the lives of the major figures in Ukrainian history: Prince Yaroslav the Wise of Kyiv, whose daughter Anna became queen of France; the Cossack ruler Ivan Mazepa, who was immortalized in the poems of Byron and Pushkin; Nikita Khrushchev and his protege-turned-nemesis Leonid Brezhnev, who called Ukraine their home; and the heroes of the Maidan protests of 2013 and 2014, who embody the current struggle over Ukraine's future. As Plokhy explains, today's crisis is a tragic case of history repeating itself, as Ukraine once again finds itself in the center of the battle of global proportions. An authoritative history of this vital country, The Gates of Europe provides a unique insight into the origins of the most dangerous international crisis since the end of the Cold War.
+author_new0: Serhii Plokhy

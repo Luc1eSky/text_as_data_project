@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 1591848040
+primary_isbn13: 9781591848042
+publisher: Sentinel
+description: A discussion of the Constitution by the candidate for the Republican presidential nomination.
+title: A More Perfect Union
+author: Ben Carson with Candy Carson
+amazon_product_url: http://www.amazon.com/More-Perfect-Union-Constitutional-Liberties-ebook/dp/B00SI0B4NG?tag=NYTBSREV-20
+list_date: 2015/11/29
+published_date: 2015-10-06
+summary: Dr. Ben Carson, the acclaimed, bestselling author of One Nation, America the Beautiful, and Gifted Hands, returns with his unique blend of insight, clarity, and common sense in A More Perfect Union. Dr. Carson proves that you don't have to be a legal scholar to understand, appreciate, and defend the United States Constitution.

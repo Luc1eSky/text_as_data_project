@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1501174231
+primary_isbn13: 9781501174230
+publisher: Gallery
+description: Real-life tales of dating and other mishaps by the former assistant district attorney from Georgia and star of "The Bachelorette."
+title: Single State Of Mind
+author: Andi Dorfman
+amazon_product_url: https://www.amazon.com/Single-State-Mind-Andi-Dorfman-ebook/dp/B074ZLZ9P8?tag=NYTBSREV-20
+list_date: 2018/01/28
+published_date: 2018-01-09
+summary: The breakout star of ABC’s The Bachelorette and New York Times bestselling author of It’s Not Okay returns with a “relatable AF” (Cosmopolitan) collection of her adventures as a still-single gal surviving and thriving in New York City. Sharing moments like finding her first New York apartment (the front door broke so she had to use the fire escape), her first dates on “celebrity Tinder” (just as bad as regular Tinder) and finally, watching her ex-fiancé propose to another woman on Bachelor in Paradise, Andi Dorfman doesn’t shy away from pulling back the curtain on the life of a reality star who’s returned to reality. Once again, Dorfman “doesn’t hold back” (HuffPost) as she recounts her romantic mishaps, city adventures, and, of course, insider Bachelor experiences. Single State of Mind is Sex and the City for the reality TV generation.

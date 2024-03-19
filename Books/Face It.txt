@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 006074958X
+primary_isbn13: 9780060749583
+publisher: Dey St.
+description: A memoir by the lead singer of Blondie and downtown New York City icon.
+title: Face It
+author: Debbie Harry
+amazon_product_url: https://www.amazon.com/Face-Memoir-Debbie-Harry/dp/006074958X?tag=NYTBSREV-20
+list_date: 2019/10/20
+published_data: 2019-10
+summary: Debbie Harry invites us into her world for the first time, offering the real and honest truth of her life. Print run 250,000.
+author_new0: Debbie Harry

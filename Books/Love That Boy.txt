@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0804140480
+primary_isbn13: 9780804140485
+publisher: Harmony
+description: A journalist learns to be a good father to his son, who has high-functioning autism.
+title: Love That Boy
+author: Ron Fournier
+amazon_product_url: http://www.amazon.com/Love-That-Boy-Presidents-Expectations/dp/0804140480?tag=NYTBSREV-20
+list_date: 2016/05/08
+published_date: 2016
+summary: "Ron Fournier, ... editor of the National Journal and former head of the Associated Press's Washington Bureau, writes ... of the outsized and crushing expectations that come from parents and with parenting today, through the lens of his relationship with his son Tyler, who has mild Asperger's"--

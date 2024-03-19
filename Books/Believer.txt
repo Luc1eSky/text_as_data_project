@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1594205876
+primary_isbn13: 9781594205873
+publisher: Penguin Press
+description: A memoir by the political consultant who became Barack Obama’s campaign strategist and White House adviser.
+title: Believer
+author: David Axelrod
+amazon_product_url: http://www.amazon.com/Believer-My-Forty-Years-Politics-ebook/dp/B00LFZ8PHO?tag=NYTBSREV-20
+list_date: 2015/03/15
+published_date: 2015
+summary: The legendary strategist, the mastermind behind Barack Obama's historic election campaigns, shares a wealth of stories from his forty-year journey through the inner workings of American democracy.

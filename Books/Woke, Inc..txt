@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1546090789
+primary_isbn13: 9781546090786
+publisher: Center Street
+description: The founder and executive chairman of the biopharmaceutical company Roivant Sciences shares his perspectives on American capitalism.
+title: Woke, Inc.
+author: Vivek Ramaswamy
+amazon_product_url: https://www.amazon.com/dp/1546090789?tag=NYTBSREV-20
+list_date: 2021/09/12
+published_data: 2021
+summary: AN INSTANT NEW YORK TIMES BESTSELLER! A young entrepreneur makes the case that politics has no place in business, and sets out a new vision for the future of American capitalism. There's a new invisible force at work in our economic and cultural lives. It affects every advertisement we see and every product we buy, from our morning coffee to a new pair of shoes. "Stakeholder capitalism" makes rosy promises of a better, more diverse, environmentally-friendly world, but in reality this ideology championed by America's business and political leaders robs us of our money, our voice, and our identity. Vivek Ramaswamy is a traitor to his class. He's founded multibillion-dollar enterprises, led a biotech company as CEO, he became a hedge fund partner in his 20s, trained as a scientist at Harvard and a lawyer at Yale, and grew up the child of immigrants in a small town in Ohio. Now he takes us behind the scenes into corporate boardrooms and five-star conferences, into Ivy League classrooms and secretive nonprofits, to reveal the defining scam of our century. The modern woke-industrial complex divides us as a people. By mixing morality with consumerism, America's elites prey on our innermost insecurities about who we really are. They sell us cheap social causes and skin-deep identities to satisfy our hunger for a cause and our search for meaning, at a moment when we as Americans lack both. This book not only rips back the curtain on the new corporatist agenda, it offers a better way forward. America's elites may want to sort us into demographic boxes, but we don't have to stay there. Woke, Inc. begins as a critique of stakeholder capitalism and ends with an exploration of what it means to be an American in 2021--a journey that begins with cynicism and ends with hope.
+author_new0: Vivek Ramaswamy

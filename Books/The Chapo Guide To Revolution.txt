@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1501187287
+primary_isbn13: 9781501187285
+publisher: Touchstone
+description: The podcasters present a satirical guide to American politics and culture.
+title: The Chapo Guide To Revolution
+author: Chapo Trap House
+amazon_product_url: https://www.amazon.com/Chapo-Guide-Revolution-Manifesto-Against/dp/1501187287?tag=NYTBSREV-20
+list_date: 2018/09/09
+published_date: 2018-08-21
+summary: Instant New York Times bestseller “Howard Zinn on acid or some bullsh*t like that.” —Tim Heidecker The creators of the cult-hit podcast Chapo Trap House deliver a manifesto for everyone who feels orphaned and alienated—politically, culturally, and economically—by the bloodless Wall Street centrism of the Democrats and the lizard-brained atavism of the right: there is a better way, the Chapo Way. In a manifesto that renders all previous attempts at political satire obsolete, The Chapo Guide to Revolution shows you that you don’t have to side with either the pear-shaped vampires of the right or the craven, lanyard-wearing wonks of contemporary liberalism. These self-described “assholes from the internet” offer a fully ironic ideology for all who feel politically hopeless and prefer broadsides and tirades to reasoned debate. Learn the “secret” history of the world, politics, media, and everything in-between that THEY don’t want you to know and chart a course from our wretched present to a utopian future where one can post in the morning, game in the afternoon, and podcast after dinner without ever becoming a poster, gamer, or podcaster. The Chapo Guide to Revolution features illustrated taxonomies of contemporary liberal and conservative characters, biographies of important thought leaders, “never before seen” drafts of Aaron Sorkin’s Newsroom manga, and the ten new laws that govern Chapo Year Zero (everyone gets a dog, billionaires are turned into Soylent, and logic is outlawed). If you’re a fan of sacred cows, prisoners being taken, and holds being barred, then this book is NOT for you. However, if you feel disenfranchised from the political and cultural nightmare we’re in, then Chapo, let’s go...

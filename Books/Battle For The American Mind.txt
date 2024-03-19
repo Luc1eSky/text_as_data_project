@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 9
+primary_isbn10: 0063215047
+primary_isbn13: 9780063215047
+publisher: Broadside
+description: The "Fox & Friends Weekend" host makes his case for what he calls classical Christian education.
+title: Battle For The American Mind
+author: Pete Hegseth with David Goodwin
+amazon_product_url: https://www.amazon.com/dp/0063215047?tag=NYTBSREV-20
+list_date: 2022/09/25
+published_data: 2022
+summary: "Fox News host and New York Times bestselling author Pete Hegseth delivers his most important book yet: an excoriating examination of the state of America's broken education system that offers a helpful road map to raising children to uphold the values Americans have always treasured"--
+author_new0: Pete Hegseth
+author_new1: David Goodwin

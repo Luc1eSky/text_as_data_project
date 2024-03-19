@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1400078458
+primary_isbn13: 9781400078455
+publisher: Vintage
+description: A New Yorker writer searches for a British explorer who disappeared in the Amazon in 1925. Originally published in 2009 and the basis of the 2017 movie.
+title: The Lost City Of Z
+author: David Grann
+amazon_product_url: http://www.amazon.com/The-Lost-City-Deadly-Obsession/dp/1400078458?tag=NYTBSREV-20
+list_date: 2017/05/14
+published_date: 2010-01-26
+summary: #1 NEW YORK TIMES BESTSELLER • From the author of Killers of the Flower Moon comes a masterpiece of narrative nonfiction that unravels the greatest exploration mystery of the twentieth century—the story of the legendary British explorer who ventured into the Amazon jungle in search of a fabled civilization and never returned. “Suspenseful…rollicking.” —The New York Times In 1925, Percy Fawcett went into the Amazon jungle, in search of a fabled civilization. He never returned. Over the years countless perished trying to find evidence of his party and the place he called “The Lost City of Z.” In this masterpiece, journalist David Grann interweaves the spellbinding stories of Fawcett’s quest for “Z” and his own journey into the deadly jungle. Look for David Grann’s new book, The Wager, coming in April 2023!

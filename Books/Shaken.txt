@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 7
+primary_isbn10: 0735289867
+primary_isbn13: 9780735289864
+publisher: Waterbrook
+description: The Heisman Trophy winner writes about overcoming obstacles.
+title: Shaken
+author: Tim Tebow
+amazon_product_url: https://www.amazon.com/Shaken-Discovering-Identity-Midst-Storms-ebook/dp/B01FPH0HPA?tag=NYTBSREV-20
+list_date: 2017/01/08
+published_date: 2016
+summary: Tim Tebow discusses what he has learned from the highs and lows of his career with the NFL, along with sharing wisdom from Scripture and stories of people who have impacted his life.

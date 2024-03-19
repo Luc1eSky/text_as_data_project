@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0593330250
+primary_isbn13: 9780593330258
+publisher: Portfolio
+description: A memoir by the first F.D.N.Y. chief to respond to the 9/11 attacks at the World Trade Center.
+title: Ordinary Heroes
+author: Joseph Pfeifer
+amazon_product_url: https://www.amazon.com/dp/0593330250?tag=NYTBSREV-20
+list_date: 2021/09/26
+published_data: 2021-09-07
+summary: New York Times Bestseller From the first FDNY chief to respond to the 9/11 attacks, an intimate memoir and a tribute to those who died that others might live When Chief Joe Pfeifer led his firefighters to investigate an odor of gas in downtown Manhattan on the morning of 9/11, he had no idea that his life was about to change forever. A few moments later, he watched as the first plane crashed into the World Trade Center. Pfeifer, the closest FDNY chief to the scene, spearheaded rescue efforts on one of the darkest days in American history. Ordinary Heroes is the unforgettable and intimate account of what Chief Pfeifer witnessed at Ground Zero, on that day and the days that followed. Through his eyes, we see the horror of the attack and the courage of the firefighters who ran into the burning towers to save others. We see him send his own brother up the stairs of the North Tower, never to return. And we walk with him and his fellow firefighters through weeks of rescue efforts and months of numbing grief, as they wrestle with the real meaning of heroism and leadership. This gripping narrative gives way to resiliency and a determination that permanently reshapes Pfeifer, his fellow firefighters, NYC, and America. Ordinary Heroes takes us on a journey that turns traumatic memories into hope, so we can make good on our promise to never forget 9/11.
+author_new0: Joseph Pfeifer

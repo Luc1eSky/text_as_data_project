@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0525536132
+primary_isbn13: 9780525536130
+publisher: Sentinel
+description: The former independent counsel recounts his investigation of the Clinton administration and its outcomes.
+title: Contempt
+author: Ken Starr
+amazon_product_url: https://www.amazon.com/Contempt-Clinton-Investigation-Ken-Starr/dp/0525536132?tag=NYTBSREV-20
+list_date: 2018/09/30
+published_date: 2018-09-11
+summary: Twenty years after the Starr Report and the Clinton impeachment, former special prosecutor Ken Starr finally shares his definitive account of one of the most divisive periods in American history. You could fill a library with books about the scandals of the Clinton administration, which eventually led to President Clinton's impeachment by the House of Representatives. Bill and Hillary Clinton have told their version of events, as have various journalists and participants. Whenever liberals recall those years, they usually depict independent counsel Ken Starr as an out-of-control, politically driven prosecutor. But as a New York Times columnist asked in 2017, "What if Ken Starr was right?" What if the popular media in the 1990s completely misunderstood Starr's motives, his tactics, and his ultimate goal: to ensure that no one, especially not the president of the United States, is above the law? Starr -- the man at the eye of the hurricane -- has kept his unique perspective to himself for two full decades. In this long-awaited memoir, he finally sheds light on everything he couldn't tell us during the Clinton years, even in his carefully detailed "Starr Report" of September 1998. Contempt puts you, the reader, into the shoes of Starr and his team as they tackle the many scandals of that era, from Whitewater to Vince Foster's death to Travelgate to Monica Lewinsky. Starr explains in vivid detail how all those scandals shared a common thread: the Clintons' contempt for our system of justice. This book proves that Bill and Hillary Clinton weren't victims of a so-called "vast right-wing conspiracy." They played fast and loose with the law and abused their powers and privileges. Today, from the #MeToo aftermath and Russiagate to President Trump’s impeachment trial, the office of the American presidency is in crisis—and Starr’s insights are more relevant now than ever.

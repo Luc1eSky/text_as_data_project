@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0593185838
+primary_isbn13: 9780593185834
+publisher: Dutton
+description: The star of “Cobra Kai” discusses the personal and pop culture impact of “The Karate Kid.”
+title: Waxing On
+author: Ralph Macchio
+amazon_product_url: https://www.amazon.com/dp/0593185838?tag=NYTBSREV-20
+list_date: 2022/11/06
+published_data: 2022-10-18
+summary: An instant New York Times bestseller! Since The Karate Kid first crane-kicked its way into the pop culture stratosphere in June 1984, there hasn’t been a week Ralph Macchio hasn’t heard friendly shouts of “Wax on, wax off” or “Sweep the leg!” Now, with Macchio reprising his role as Daniel LaRusso in the #1 ranked Netflix show Cobra Kai, he is finally ready to look back at this classic movie and give the fans something they’ve long craved. The book will be Ralph Macchio’s celebratory reflection on the legacy of The Karate Kid in film, pop culture, and his own life. It will be a comprehensive look at a film that shaped him as much as it influenced the world. Macchio will share an insider's perspective of the untold story behind his starring role—the innocence of the early days, the audition process, and the filmmaking experience--as well as take readers through the birth of some of the film’s most iconic moments. Ultimately, the book centers on the film itself, focusing on the reason that the characters and themes have endured in such a powerful way and how these personal experiences have impacted Macchio's life. It will bring readers back to the day they met Daniel LaRusso and Mr. Miyagi for the first time, but will also provide a fascinating lens into how our pasts shape all of us and how the past can come back to enrich one's life in surprising and wonderful ways.
+author_new0: Ralph Macchio

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 9
+primary_isbn10: 147670869X
+primary_isbn13: 9781476708690
+publisher: Simon & Schuster
+description: Studies of the people who created computers and the Internet, beginning in the 1840s.
+title: The Innovators
+author: Walter Isaacson
+amazon_product_url: http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution-ebook/dp/B00JGAS65Q?tag=NYTBSREV-20
+list_date: 2015/01/11
+published_date: 2014-10-07
+summary: A revelatory history of the people who created the computer and the internet discusses the process through which innovation happens in the modern world, citing the pivotal contributions of such figures as programming pioneer Ada Lovelace. By the author of Steve Jobs. 500,000 first printing.

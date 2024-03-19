@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0525521038
+primary_isbn13: 9780525521037
+publisher: Knopf
+description: A collection of essays and speeches written over four decades, including a eulogy for James Baldwin and the author's Nobel lecture.
+title: The Source Of Self-Regard
+author: Toni Morrison
+amazon_product_url: https://www.amazon.com/Source-Self-Regard-Selected-Speeches-Meditations/dp/0525521038?tag=NYTBSREV-20
+list_date: 2019/08/25
+published_data: 2019-02-12
+summary: NATIONAL BESTSELLER • Here is the Nobel Prize winner in her own words: a rich gathering of her most important essays and speeches, spanning four decades that "speaks to today’s social and political moment as directly as this morning’s headlines” (NPR). These pages give us her searing prayer for the dead of 9/11, her Nobel lecture on the power of language, her searching meditation on Martin Luther King Jr., her heart-wrenching eulogy for James Baldwin. She looks deeply into the fault lines of culture and freedom: the foreigner, female empowerment, the press, money, “black matter(s),” human rights, the artist in society, the Afro-American presence in American literature. And she turns her incisive critical eye to her own work (The Bluest Eye, Sula, Tar Baby, Jazz, Beloved, Paradise) and that of others. An essential collection from an essential writer, The Source of Self-Regard shines with the literary elegance, intellectual prowess, spiritual depth, and moral compass that have made Toni Morrison our most cherished and enduring voice.
+author_new0: Toni Morrison

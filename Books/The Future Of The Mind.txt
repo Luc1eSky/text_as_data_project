@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 038553082X
+primary_isbn13: 9780385530828
+publisher: Doubleday
+description: A theoretical physicist examines research that points to the day when uploading memories will be possible.
+title: The Future Of The Mind
+author: Michio Kaku
+amazon_product_url: http://www.amazon.com/The-Future-Mind-Scientific-Understand/dp/038553082X?tag=NYTBSREV-20
+list_date: 2014/04/06
+published_date: 2014
+summary: A survey of current research into the human mind reveals how top international laboratories have innovated unique technologies for recording profound mental capabilities and enabling controversial opportunities in the field of cognition enhancement.

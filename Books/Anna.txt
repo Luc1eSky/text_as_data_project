@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1982122633
+primary_isbn13: 9781982122638
+publisher: Gallery
+description: A biography of the editor in chief of American Vogue and the chief content officer of Condé Nast, Anna Wintour.
+title: Anna
+author: Amy Odell
+amazon_product_url: https://www.amazon.com/dp/1982122633?tag=NYTBSREV-20
+list_date: 2022/05/22
+published_data: 2022-05-03
+summary: This biography of the legendary fashion journalist and media mogul follows her journey from the trendy fashion scene of swinging 1960s London to becoming the editor-in-chief of Vogue magazine.
+author_new0: Amy Odell

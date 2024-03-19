@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0525559442
+primary_isbn13: 9780525559443
+publisher: Viking
+description: A memoir by the mayor who called for the removal of four Confederate monuments in New Orleans.
+title: In The Shadow Of Statues
+author: Mitch Landrieu
+amazon_product_url: https://www.amazon.com/Shadow-Statues-Southerner-Confronts-History/dp/0525559442?tag=NYTBSREV-20
+list_date: 2018/04/08
+published_date: 2018
+summary: 'There is a difference between remembrance of history and reverence for it.' When Mitch Landrieu addressed the people of New Orleans in May 2017 about his decision to take down four Confederate monuments, including the statue of Robert E. Lee, he struck a nerve nationally, and his speech has now been heard or seen by millions across the country. In his first book, Mayor Landrieu discusses his personal journey on race as well as the path he took to making the decision to remove the monuments, tackles the broader history of slavery, race and institutional inequities that still bedevil America, and traces his personal relationship to this history. His father, as state senator and mayor, was a huge force in the integration of New Orleans in the 1960s and 19070s. Landrieu grew up with a progressive education in one of the nation's most racially divided cities, but even he had to relearn Southern history as it really happened. Equal parts unblinking memoir, history, and prescription for fin

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 11
+primary_isbn10: 1250038820
+primary_isbn13: 9781250038821
+publisher: St. Martin's
+description: Four hundred color photos of New Yorkers, with brief commentary by Stanton. 
+title: Humans Of New York
+author: Brandon Stanton
+amazon_product_url: http://www.amazon.com/Humans-New-York-Brandon-Stanton/dp/1250038820?tag=NYTBSREV-20
+list_date: 2015/12/20
+published_date: 2013-10-15
+summary: In this photographic census of New York City, which is inspired by the blog of the same name, the author showcases 400 color photos, including exclusive portraits and all-new stories that capture the outsized personalities of New York and pay tribute to the human side of a great city. 100,000 first printing.

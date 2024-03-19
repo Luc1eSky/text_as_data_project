@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0385542747
+primary_isbn13: 9780385542746
+publisher: Doubleday
+description: The theoretical physicist explains the controversy around the synthesis of the theory of relativity and quantum theory.
+title: The God Equation
+author: Michio Kaku
+amazon_product_url: https://www.amazon.com/dp/0385542747?tag=NYTBSREV-20
+list_date: 2021/05/02
+published_data: 2021-04-06
+summary: #1 NEW YORK TIMES BEST SELLER • The epic story of the greatest quest in all of science—the holy grail of physics that would explain the creation of the universe—from renowned theoretical physicist and author of The Future of the Mind and The Future of Humanity When Newton discovered the law of gravity, he unified the rules governing the heavens and the Earth. Since then, physicists have been placing new forces into ever-grander theories. But perhaps the ultimate challenge is achieving a monumental synthesis of the two remaining theories—relativity and the quantum theory. This would be the crowning achievement of science, a profound merging of all the forces of nature into one beautiful, magnificent equation to unlock the deepest mysteries in science: What happened before the Big Bang? What lies on the other side of a black hole? Are there other universes and dimensions? Is time travel possible? Why are we here? Kaku also explains the intense controversy swirling around this theory, with Nobel laureates taking opposite sides on this vital question. It is a captivating, gripping story; what’s at stake is nothing less than our conception of the universe. Written with Kaku’s trademark enthusiasm and clarity, this epic and engaging journey is the story of The God Equation.
+author_new0: Michio Kaku

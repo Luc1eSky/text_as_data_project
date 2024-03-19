@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0718042220
+primary_isbn13: 9780718042226
+publisher: Thomas Nelson
+description: The evangelist shares his vision of Heaven, the afterlife and eternity.
+title: Where I Am
+author: Billy Graham
+amazon_product_url: http://www.amazon.com/Where-Am-Eternity-Thorndike-Inspirational/dp/1410483878?tag=NYTBSREV-20
+list_date: 2015/10/25
+published_date: 2015
+summary: "While his earthly vision dims, the glory of heaven is illuminated as Billy Graham, the beloved evangelist, shares from his past, and present, the reality of eternity"--Page ix.

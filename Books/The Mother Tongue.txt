@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 0062417444
+primary_isbn13: 9780062417442
+publisher: Morrow
+description: A celebration of the resilience of the English language; first published in 1990 and just reissued.
+title: The Mother Tongue
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/The-Mother-Tongue-English-that-ebook/dp/B00T3DR56C?tag=NYTBSREV-20
+list_date: 2015/07/05
+published_date: 2015-06-02
+summary: “Vastly informative and vastly entertaining…A scholarly and fascinating book.” —Los Angeles Times With dazzling wit and astonishing insight, Bill Bryson explores the remarkable history, eccentricities, resilience and sheer fun of the English language. From the first descent of the larynx into the throat (why you can talk but your dog can’t), to the fine lost art of swearing, Bryson tells the fascinating, often uproarious story of an inadequate, second-rate tongue of peasants that developed into one of the world’s largest growth industries.

@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1501141511
+primary_isbn13: 9781501141515
+publisher: Simon & Schuster
+description: The singer-songwriter’s autobiography.
+title: Born To Run
+author: Bruce Springsteen
+amazon_product_url: http://www.amazon.com/Born-Run-Bruce-Springsteen/dp/1501141511?tag=NYTBSREV-20
+list_date: 2017/01/22
+published_date: 2016-09-27
+summary: The revelatory and wildly bestselling memoir by legendary rock star Bruce Springsteen: “Glorious…a philosophically rich ramble through a rock ’n roll life…It’s the lyric he was born to write” (USA TODAY, 4 out of 4 stars). Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life. The result is “an utterly unique, endlessly exhilarating, last-chance-power-drive of a memoir” (Rolling Stone) that offers the same honesty, humor, and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger, and darkness that fueled his imagination, leading up to the moment he refers to as “The Big Bang”: seeing Elvis Presley’s debut on The Ed Sullivan Show. He vividly recounts his relentless drive to become a musician, his early days as a bar band king in Asbury Park, and the rise of the E Street Band. With disarming candor, he also tells for the first time the story of the personal struggles that inspired his best work. Rarely has a performer told his own story with such force and sweep. Like many of his songs (“Thunder Road,” “Badlands,” “Darkness on the Edge of Town,” “The River” “Born in the U.S.A,” “The Rising,” and “The Ghost of Tom Joad,” to name just a few), Bruce Springsteen’s autobiography is written with the lyricism of a singular songwriter and the wisdom of a man who has thought deeply about his experiences. “Both an entertaining account of Springsteen’s marathon race to the top and a reminder that the one thing you can’t run away from is yourself” (Entertainment Weekly), Born to Run is much more than a legendary rock star’s memoir. This book is a “a virtuoso performance, the 508-page equivalent to one of Springsteen and the E Street Band's famous four-hour concerts: Nothing is left onstage, and diehard fans and first-timers alike depart for home sated and yet somehow already aching for more” (NPR).

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1476752419
+primary_isbn13: 9781476752419
+publisher: Simon & Schuster
+description: An addiction memoir by a beauty editor and party girl.
+title: How To Murder Your Life
+author: Cat Marnell
+amazon_product_url: https://www.amazon.com/How-Murder-Your-Life-Memoir-ebook/dp/B01J1XU88K?tag=NYTBSREV-20
+list_date: 2017/02/19
+published_date: 2017-01-31
+summary: From the New York Times bestselling author and former beauty editor Cat Marnell, a “vivid, maddening, heartbreaking, very funny, chaotic” (The New York Times) memoir of prescription drug addiction and self-sabotage, set in the glamorous world of fashion magazines and downtown nightclubs. At twenty-six, Cat Marnell was an associate beauty editor at Lucky, one of the top fashion magazines in America—and that’s all most people knew about her. But she hid a secret life. She was a prescription drug addict. She was also a “doctor shopper” who manipulated Upper East Side psychiatrists for pills, pills, and more pills; a lonely bulimic who spent hundreds of dollars a week on binge foods; a promiscuous party girl who danced barefoot on banquets; a weepy and hallucination-prone insomniac who would take anything—anything—to sleep. This is a tale of self-loathing, self-sabotage, and yes, self-tanner. It begins at a posh New England prep school—and with a prescription for the Attention Deficit Disorder medication Ritalin. It continues to New York, where we follow Marnell’s amphetamine-fueled rise from intern to editor through the beauty departments of NYLON, Teen Vogue, Glamour, and Lucky. We see her fight between ambition and addiction and how, inevitably, her disease threatens everything she worked so hard to achieve. From the Condé Nast building to seedy nightclubs, from doctors’ offices and mental hospitals, Marnell “treads a knife edge between glamorizing her own despair and rendering it with savage honesty.…with the skill of a pulp novelist” (The New York Times Book Review) what it is like to live in the wild, chaotic, often sinister world of a young female addict who can’t say no. Combining “all the intoxicating intrigue of a thriller and yet all the sobering pathos of a gifted writer’s true-life journey to recover her former health, happiness, ambitions, and identity” (Harper’s Bazaar), How to Murder Your Life is mesmerizing, revelatory, and necessary.

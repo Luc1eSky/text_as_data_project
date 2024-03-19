@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 3
+primary_isbn10: 039916815X
+primary_isbn13: 9780399168154
+publisher: Blue Rider
+description: he reporter investigates how “grandmothering” transforms a woman’s life.
+title: Becoming Grandma
+author: Lesley Stahl
+amazon_product_url: http://www.amazon.com/Becoming-Grandma-Joys-Science-Grandparenting/dp/039916815X?tag=NYTBSREV-20
+list_date: 2016/05/29
+published_date: 2016
+summary: The joys and science of the new grandparenting.

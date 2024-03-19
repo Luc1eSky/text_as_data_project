@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 2
+primary_isbn10: 1501115413
+primary_isbn13: 9781501115417
+publisher: Threshold Editions
+description: The former vice president and his daughter chart their vision for a formidable future America.
+title: Exceptional
+author: Dick Cheney and Liz Cheney
+amazon_product_url: http://www.amazon.com/Exceptional-World-Needs-Powerful-America-ebook/dp/B00VMFTSDC?tag=NYTBSREV-20
+list_date: 2015/09/27
+published_date: 2015-09
+summary: A new book by former Vice President and #1 New York Times bestselling author Dick Cheney and Liz Cheney.

@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1451606303
+primary_isbn13: 9781451606300
+publisher: Threshold Editions
+description: The talk-radio host urges young Americans to resist the statist masterminds who he says are burdening them with debt, inferior education and illegal immigration.
+title: Plunder And Deceit
+author: Mark R Levin
+amazon_product_url: http://www.amazon.com/Plunder-Deceit-Mark-R-Levin/dp/1451606303?tag=NYTBSREV-20
+list_date: 2015/10/11
+published_date: 2015-08-04
+summary: In a like-minded appeal to reason and audacity, calls for a new civil rights movement that fosters liberty and prosperity and ceases the exploitation of young people by statist masterminds.

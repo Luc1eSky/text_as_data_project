@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1524762849
+primary_isbn13: 9781524762841
+publisher: Currency
+description: A memoir by the founder of the nonprofit Charity: Water.
+title: Thirst
+author: Scott Harrison with Lisa Sweetingham
+amazon_product_url: https://www.amazon.com/Thirst-Story-Redemption-Compassion-Mission/dp/1524762849?tag=NYTBSREV-20
+list_date: 2018/10/21
+published_date: 2018-10-02
+summary: NEW YORK TIMES BESTSELLER • An inspiring personal story of redemption, second chances, and the transformative power within us all, from the founder and CEO of the nonprofit charity: water. At 28 years old, Scott Harrison had it all. A top nightclub promoter in New York City, his life was an endless cycle of drugs, booze, models—repeat. But 10 years in, desperately unhappy and morally bankrupt, he asked himself, "What would the exact opposite of my life look like?" Walking away from everything, Harrison spent the next 16 months on a hospital ship in West Africa and discovered his true calling. In 2006, with no money and less than no experience, Harrison founded charity: water. Today, his organization has raised over $400 million to bring clean drinking water to more than 10 million people around the globe. In Thirst, Harrison recounts the twists and turns that built charity: water into one of the most trusted and admired nonprofits in the world. Renowned for its 100% donation model, bold storytelling, imaginative branding, and radical commitment to transparency, charity: water has disrupted how social entrepreneurs work while inspiring millions of people to join its mission of bringing clean water to everyone on the planet within our lifetime. In the tradition of such bestselling books as Shoe Dog and Mountains Beyond Mountains, Thirst is a riveting account of how to build a better charity, a better business, a better life—and a gritty tale that proves it’s never too late to make a change. 100% of the author’s net proceeds from Thirst will go to fund charity: water projects around the world.

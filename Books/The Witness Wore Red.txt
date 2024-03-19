@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 
+primary_isbn13: 9781455527847
+publisher: Grand Central
+description: A memoir by a woman who helped expose crimes within a polygamous sect that she fled.
+title: The Witness Wore Red
+author: Rebecca Musser with Bridget Cook
+amazon_product_url: http://www.amazon.com/The-Witness-Wore-Red-Polygamous/dp/1455527858?tag=NYTBSREV-20
+list_date: 2014/03/09
+published_date: 2021-09-15
+summary: N/A

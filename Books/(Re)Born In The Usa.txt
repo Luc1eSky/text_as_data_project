@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0062958690
+primary_isbn13: 9780062958693
+publisher: Dey Street
+description: The soccer commentator describes how he embraced American popular culture while growing up in Liverpool.
+title: (Re)Born In The Usa
+author: Roger Bennett
+amazon_product_url: https://www.amazon.com/dp/0062958690?tag=NYTBSREV-20
+list_date: 2021/07/18
+published_data: 2021
+summary: One-half of the celebrated Men in Blazers duo, longtime culture and soccer commentator Roger Bennett traces the origins of his love affair with America, and how he went from a depraved, pimply faced Jewish boy in 1980's Liverpool to become the quintessential Englishman in New York. A memoir for fans of Jon Ronson and Chuck Klosterman, but with Roger Bennett's signature pop culture flair and humor. One of the earliest beliefs that I still cling onto in life, is that I was born a American trapped in an Englishman's body. That is the kind of story you manufacture about yourself when you grow up in a place like Liverpool in the 1980's. Reborn in the USA is Roger Bennett's homage to an adolescence as a triple outsider (Jewish in largely Catholic Liverpool, middle class in an overwhelmingly working-class community, and obsessed with American culture while his peers tended towards more deviant, borderline hooligan, behavior.) Throw in the fact that his father was a judge who campaigned on behalf of Margaret Thatcher in a town who thought of her as Medusa--the perfect recipe for ostracism. Bennett was happiest when playing chess with his grandfather, watching The Love Boat and Miami Vice, reading his hoarded copies of Rolling Stone, and blasting John Mellencamp's Scarecrow, Public Enemy's Yo! Bum Rush the Show, or Tracy Chapman's debut Fast Car. An American stuck in his native England. Bennett gives voice to every teenager who longs to leave their hometown behind, who pines for a different life, and who will do just about anything to escape what makes their formative years awful. In this funny and moving book, he beautifully captures the universality of growing pains, growing up, and growing out of where you come from. And when given the chance to taste the sweet fruit of his dream and travel to the USofA, Bennett expresses the reckless abandon that prevails when youth experiences freedom (and The Beastie Boys) for the first time. Rich with late '80s and '90s pop culture references from both sides of the pond--and with Roger's over-the-top sense of humor--Reborn in the USA is both a truly unique coming-of-age story in the vein of Jon Ronson and Chuck Klosterman and the love letter to America that this country needs right now.
+author_new0: Roger Bennett

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 0063159988
+primary_isbn13: 9780063159983
+publisher: Custom House
+description: An account of the murder of Maurizio Gucci in 1995; the basis of the film.
+title: The House Of Gucci
+author: Sara G. Forden
+amazon_product_url: https://www.amazon.com/dp/0063159988?tag=NYTBSREV-20
+list_date: 2021/12/12
+published_data: 2021-10-26
+summary: Synopsis coming soon.......
+author_new0: Sara G. Forden

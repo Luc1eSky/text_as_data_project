@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0544749006
+primary_isbn13: 9780544749009
+publisher: Houghton Mifflin Harcourt
+description: An executive and philanthropist identifiess five domestic policy problems and proposes solutions.
+title: Five Easy Theses
+author: James Stone
+amazon_product_url: http://www.amazon.com/Five-Easy-Theses-Commonsense-Challenges/dp/0544749006?tag=NYTBSREV-20
+list_date: 2016/05/22
+published_date: 2016
+summary: A business leader and esteemed economic thinker outlines simple solutions to America's five most pressing public policy issues, from healthcare to education to inequality

@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 8
+primary_isbn10: 1627792295
+primary_isbn13: 9781627792295
+publisher: Holt
+description: One year in the (social) life of the TV producer and host of “Watch What Happens Live.”
+title: The Andy Cohen Diaries
+author: Andy Cohen
+amazon_product_url: http://www.amazon.com/The-Andy-Cohen-Diaries-Shallow-ebook/dp/B00K9NWRFE?tag=NYTBSREV-20
+list_date: 2015/01/18
+published_date: 2014-11-11
+summary: A New York Times bestseller, The Andy Cohen Diaries chronicles a year in the whirlwind life of the beloved pop icon, in his own cheeky, candid, and irreverent words As a TV Producer and host of the smash late night show Watch What Happens Live, Andy Cohen has a front row seat to an exciting world not many get to see. In this dishy, detailed diary of one year in his life, Andy goes out on the town, drops names, hosts a ton of shows, becomes codependent with Real Housewives, makes trouble, calls his mom, drops some more names, and, while searching for love, finds it with a dog. We learn everything from which celebrity peed in her WWHL dressing room to which Housewives are causing trouble and how. Nothing is off limits – including dating. We see Andy at home and with close friends and family (including his beloved and unforgettable mom). Throughout, Andy tells us not only what goes down, but exactly what he thinks about it. Inspired by the diaries of another celebrity-obsessed Andy (Warhol), this honest, irreverent, and laugh-out-loud funny book is a one-of-a-kind account of the whos and whats of pop culture in the 21st century.

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1250625084
+primary_isbn13: 9781250625083
+publisher: Celadon
+description: A style journalist looks at the fashion of four members of the British royal family.
+title: Hrh
+author: Elizabeth Holmes
+amazon_product_url: https://www.amazon.com/dp/1250625084?tag=NYTBSREV-20
+list_date: 2020/12/06
+published_data: 2020-11-17
+summary: **THE INSTANT NEW YORK TIMES BESTSELLER** Veteran style journalist Elizabeth Holmes expands her popular Instagram series, So Many Thoughts, into a nuanced look at the fashion and branding of the four most influential members of the British Royal Family: Queen Elizabeth II; Diana, Princess of Wales; Catherine, The Duchess of Cambridge; and Meghan, The Duchess of Sussex. Kate Middleton and Meghan Markle are global style icons, their every fashion choice chronicled and celebrated. With all eyes on them, the duchesses select clothes that send a message about their values, interests, and priorities. Their thoughtful sartorial strategies follow in the footsteps of Queen Elizabeth II and Diana, Princess of Wales, two towering figures known for using their personal style to great acclaim. With one section devoted to each woman, HRH is a celebration of their stories and their style, pairing hundreds of gorgeous photographs with extensive research. A picture emerges of the British monarchy’s evolution and the power of royal fashion, showing there’s always more than what meets the eye.
+author_new0: Elizabeth Holmes

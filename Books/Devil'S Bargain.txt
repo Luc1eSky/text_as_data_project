@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 6
+primary_isbn10: 0735225028
+primary_isbn13: 9780735225022
+publisher: Penguin Press
+description: A deeply reported account of the relationship between Donald Trump and his strategist, Steve Bannon.
+title: Devil'S Bargain
+author: Joshua Green
+amazon_product_url: https://www.amazon.com/Devils-Bargain-Bannon-Storming-Presidency/dp/0735225028?tag=NYTBSREV-20
+list_date: 2017/09/10
+published_date: 2017
+summary: Based on dozens of interviews conducted over six years, Green spins the master narrative of the 2016 campaign from its origins in the far fringes of right-wing politics and reality television to its culmination inside Trump's penthouse on election night.

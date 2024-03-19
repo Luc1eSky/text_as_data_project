@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307476073
+primary_isbn13: 9780307476074
+publisher: Knopf
+description: An account of the life-changing 1,100-mile solo hike along the Pacific Crest Trail in 1995. Originally published in 2012 and a 2014 movie.
+title: Wild
+author: Cheryl Strayed
+amazon_product_url: http://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073?tag=NYTBSREV-20
+list_date: 2015/09/27
+published_date: 2013-03-26
+summary: #1 NEW YORK TIMES BESTSELLER • A powerful, blazingly honest memoir: the story of an eleven-hundred-mile solo hike that broke down a young woman reeling from catastrophe—and built her back up again. At twenty-two, Cheryl Strayed thought she had lost everything. In the wake of her mother’s death, her family scattered and her own marriage was soon destroyed. Four years later, with nothing more to lose, she made the most impulsive decision of her life. With no experience or training, driven only by blind will, she would hike more than a thousand miles of the Pacific Crest Trail from the Mojave Desert through California and Oregon to Washington State—and she would do it alone. Told with suspense and style, sparkling with warmth and humor, Wild powerfully captures the terrors and pleasures of one young woman forging ahead against all odds on a journey that maddened, strengthened, and ultimately healed her.

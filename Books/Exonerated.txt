@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1642933414
+primary_isbn13: 9781642933413
+publisher: Post Hill
+description: The Fox News contributor and former Secret Service agent gives his take on the Mueller investigation.
+title: Exonerated
+author: Dan Bongino
+amazon_product_url: https://www.amazon.com/Exonerated-Failed-Takedown-President-Donald/dp/1642933414?tag=NYTBSREV-20
+list_date: 2019/10/13
+published_data: 2019-09-24
+summary: As seen on The Ben Shapiro Show! A NEW YORK TIMES BESTSELLER “Great new book by wonderful and very street smart author Dan Bongino, EXONERATED, THE FAILED TAKEDOWN OF PRESIDENT DONALD TRUMP BY THE SWAMP. Dan hits all of the crooked points of the greatest Witch Hunt in political history. Nevertheless, the Scam continues!” —President Donald J. Trump An explosive, whistle-blowing exposé, Exonerated: The Failed Takedown of Donald Trump by the Swamp reveals how Deep State actors relied on a cynical plug-and-play template to manufacture the now-discredited Russiagate scandal. With the cutting analysis and insight he exhibited in his blockbuster bestseller Spygate: The Attempted Sabotage of Donald J. Trump, Fox News contributor Bongino exposes who masterminded the dangerous playbook to take down Trump, their motives, and how a plan filled with faked allegations backfired—forcing investigators to up the ante and hide their missteps and half-truths in a desperate effort to prove a collusion case that never happened. The result? The misguided multimillion Mueller investigation that tore the nation apart, tried to destabilize the presidency and led, as the world now knows, to nowhere!
+author_new0: Dan Bongino

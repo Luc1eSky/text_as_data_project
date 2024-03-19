@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0544938321
+primary_isbn13: 9780544938328
+publisher: Houghton Mifflin Harcourt
+description: The naturalist’s memoir covering lessons of empathy, gratitude and loss she learned while studying 13 animals.
+title: How To Be A Good Creature
+author: Sy Montgomery
+amazon_product_url: https://www.amazon.com/How-Be-Good-Creature-Thirteen/dp/0544938321?tag=NYTBSREV-20
+list_date: 2018/10/14
+published_date: 2018
+summary: National Book Award finalist Sy Montgomery reflects on the personalities and quirks of 13 animals--her friends--who have profoundly affected her in this stunning, poetic, and life-affirming memoir featuring illustrations by Rebecca Green.

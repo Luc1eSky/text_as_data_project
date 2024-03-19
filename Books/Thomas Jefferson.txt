@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0061753971
+primary_isbn13: 9780061753978
+publisher: Harper Perennial
+description: A brief portrait. Originally published in 2005.
+title: Thomas Jefferson
+author: Christopher Hitchens
+amazon_product_url: http://www.amazon.com/Thomas-Jefferson-Eminent-Christopher-Hitchens-ebook/dp/B000JMKTHS?tag=NYTBSREV-20
+list_date: 2016/02/28
+published_date: 2009-10-13
+summary: In this unique biography of Thomas Jefferson, leading journalist and social critic Christopher Hitchens offers a startlingly new and provocative interpretation of our Founding Father. Situating Jefferson within the context of America's evolution and tracing his legacy over the past two hundred years, Hitchens brings the character of Jefferson to life as a man of his time and also as a symbolic figure beyond it. Conflicted by power, Jefferson wrote the Declaration of Independence and acted as Minister to France yet yearned for a quieter career in the Virginia legislature. Predicting that slavery would shape the future of America's development, this professed proponent of emancipation elided the issue in the Declaration and continued to own human property. An eloquent writer, he was an awkward public speaker; a reluctant candidate, he left an indelible presidential legacy. Jefferson's statesmanship enabled him to negotiate the Louisiana Purchase with France, doubling the size of the nation, and he authorized the Lewis and Clark expedition, opening up the American frontier for exploration and settlement. Hitchens also analyzes Jefferson's handling of the Barbary War, a lesser-known chapter of his political career, when his attempt to end the kidnapping and bribery of Americans by the Barbary states, and the subsequent war with Tripoli, led to the building of the U.S. navy and the fortification of America's reputation regarding national defense. In the background of this sophisticated analysis is a large historical drama: the fledgling nation's struggle for independence, formed in the crucible of the eighteenth-century Enlightenment, and, in its shadow, the deformation of that struggle in the excesses of the French Revolution. This artful portrait of a formative figure and a turbulent era poses a challenge to anyone interested in American history -- or in the ambiguities of human nature.

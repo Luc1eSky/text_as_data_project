@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 8
+primary_isbn10: 154608603X
+primary_isbn13: 9781546086031
+publisher: Center Street
+description: Forays into politics and views on liberals from the executive vice president of the Trump Organization.
+title: Triggered
+author: Donald Trump Jr
+amazon_product_url: https://www.amazon.com/Triggered-Left-Thrives-Wants-Silence/dp/154608603X?tag=NYTBSREV-20
+list_date: 2020/01/12
+published_data: 2019-11-05
+summary: This is the book that the leftist elites don't want you to read -- Donald Trump, Jr., exposes all the tricks that the left uses to smear conservatives and push them out of the public square, from online "shadow banning" to rampant "political correctness." In Triggered, Donald Trump, Jr. will expose all the tricks that the left uses to smear conservatives and push them out of the public square, from online "shadow banning" to fake accusations of "hate speech." No topic is spared from political correctness. This is the book that the leftist elites don't want you to read! Trump, Jr. will write about the importance of fighting back and standing up for what you believe in. From his childhood summers in Communist Czechoslovakia that began his political thought process, to working on construction sites with his father, to the major achievements of President Trump's administration, Donald Trump, Jr. spares no details and delivers a book that focuses on success and perseverance, and proves offense is the best defense.
+author_new0: Donald Trump Jr

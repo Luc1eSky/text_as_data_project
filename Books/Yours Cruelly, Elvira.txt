@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0306874350
+primary_isbn13: 9780306874352
+publisher: Hachette
+description: The actress details the moments from her life and career that shaped the creation of her character Elvira, Mistress of the Dark.
+title: Yours Cruelly, Elvira
+author: Cassandra Peterson
+amazon_product_url: https://www.amazon.com/dp/0306874350?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2020-09-22
+summary: N/A
+author_new0: Cassandra Peterson

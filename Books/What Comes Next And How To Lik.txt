@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1476785074
+primary_isbn13: 9781476785073
+publisher: Scribner
+description: 
+title: What Comes Next And How To Like It
+author: Abigail Thomas
+amazon_product_url: http://www.amazon.com/What-Comes-Next-How-Like-ebook/dp/B00LD1OKQ0?tag=NYTBSREV-20
+list_date: 2015/04/12
+published_date: 2015-03-24
+summary: The New York Times bestseller from the beloved author of A Three Dog Life—an exhilarating, superbly written memoir on friendship, family, creativity, tragedy, and the richness of life: “If you only read one book this year, make it this one” (Ann Patchett). In her bestselling memoir A Three Dog Life, Abigail Thomas wrote about the devastating loss of her husband. In What Comes Next and How to Like It, “a keenly observed memoir…Thomas writes of the changes aging brings us all and of coping through love: of family, dogs, a well-turned phrase. She is superb company” (People). Thomas was startled to overhear herself described as “a nice old lady with a tattoo,” because she thinks of herself as not nice, not old, nor a lady. But she has wondered: what comes next? What comes after the death of a spouse? What form does a lifelong friendship take after deepest betrayal? How does a mother cope with her child’s dire illness? Or the death of a cherished dog? And how to like it? How to accept, appreciate, enjoy? How to find solace and pleasure? How to sustain and be sustained by our most trusted, valuable companions? At its heart, What Comes Next and How to Like It is about the complicated friendship between Thomas and a man she met thirty-five years ago—a rich bond that has lasted through marriages, child-raising, and the vicissitudes and tragedies of life. “After all,” she writes, “there are those people we love, and then there are those we recognize. These are the unbreakable connections.” Exquisitely observed, lush with sentences you will read over and over again, What Comes Next and How to Like It “is a beautifully felt, deeply moving memoir, the best work yet by a woman who has already done some of the best work in the field. Abigail Thomas is the Emily Dickinson of memoirists, and so much of this book’s wisdom is between the lines and in the white spaces. It may only take you two days to read, but the impact will stay with you for a long, long time” (Stephen King). This is a glorious guide to living imperfectly and exuberantly.

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 0062448307
+primary_isbn13: 9780062448309
+publisher: Harper Design
+description: A memoir by the actor and Grammy Award-winning singer and songwriter.
+title: Hindsight
+author: Justin Timberlake
+amazon_product_url: https://www.amazon.com/Hindsight-All-Things-Cant-Front/dp/0062448307?tag=NYTBSREV-20
+list_date: 2018/11/25
+published_data: 2018-10-30
+summary: An Instant New York Times Bestseller "I can't help that my music shows who I am in this moment, what I'm drawn to, what I'm wondering about. I don't want to help it. What you hear in the words, what you feel in those songs—that's what I was feeling when I wrote them. I want you to see me, just like I want to see you." — Justin Timberlake In his first book, Justin Timberlake has created a characteristically dynamic experience, one that combines an intimate, remarkable collection of anecdotes, reflections, and observations on his life and work with hundreds of candid images from his personal archives that range from his early years to the present day, in locations around the world, both on and off the stage. Justin discusses many aspects of his childhood, including his very early love of music and the inspiration behind many of his hit songs and albums. He talks about his songwriting process, offering the back story to many of his hits. He muses on his collaborations with other artists and directors, sharing the details of many performances in concert, TV comedy, and film. He also reflects on who he is, examining what makes him tick, speaking candidly about fatherhood, family, close relationships, struggles, and his search to find an inner calm and strength. Living a creative life, observing and finding inspiration in the world, taking risks and listening to an inner voice—this is Justin Timberlake.
+author_new0: Justin Timberlake

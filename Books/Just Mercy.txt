@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 10
+primary_isbn10: 
+primary_isbn13: 9780812994537
+publisher: Spiegel & Grau
+description: A law professor and MacArthur grant recipient’s memoir of his decades of work to free innocent people condemned to death.
+title: Just Mercy
+author: Bryan Stevenson
+amazon_product_url: http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=NYTBSREV-20
+list_date: 2017/12/10
+published_date: 2021-09-15
+summary: N/A

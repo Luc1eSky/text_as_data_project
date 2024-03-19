@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1501158945
+primary_isbn13: 9781501158940
+publisher: Gallery Books
+description: Recollections from Jackie Kennedy’s longtime assistant.
+title: Jackie'S Girl
+author: Kathy McKeon
+amazon_product_url: https://www.amazon.com/Jackies-Girl-Life-Kennedy-Family/dp/1501158945?tag=NYTBSREV-20
+list_date: 2017/05/28
+published_date: 2017-05-09
+summary: A "coming-of-age memoir by a young woman who spent thirteen years as Jackie Kennedy's personal assistant and occasional nanny--and the lessons about life and love she learned from the glamorous [former] first lady"--Amazon.com.

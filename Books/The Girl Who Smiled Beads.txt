@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0451495322
+primary_isbn13: 9780451495327
+publisher: Crown
+description: A child and her sister flee the Rwandan genocide and suffer hardships together in Africa, only to go on different paths as refugees in the United States.
+title: The Girl Who Smiled Beads
+author: Clemantine Wamariya and Elizabeth Weil
+amazon_product_url: https://www.amazon.com/Girl-Who-Smiled-Beads-Story/dp/0451495322?tag=NYTBSREV-20
+list_date: 2018/05/13
+published_date: 2018
+summary: "Clemantine Wamariya was six years old when her mother and father began to speak in whispers, when neighbors began to disappear, and when she heard the loud, ugly sounds her brother said were thunder. It was 1994, and in 100 days more than 800,000 people would be murdered in Rwanda and millions more displaced. Clemantine and her fifteen-year-old sister Claire ran and spent the next six years wandering through seven African countries searching for safety"--

@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1476775583
+primary_isbn13: 9781476775586
+publisher: Gallery
+description: 
+title: The Good Son
+author: Christopher Andersen
+amazon_product_url: http://www.amazon.com/The-Good-Son-Mother-Loved/dp/1476775567?tag=NYTBSREV-20
+list_date: 2014/11/16
+published_date: 2014-10-28
+summary: The #1 New York Times bestselling author delivers another dramatic look into the lives of the Kennedys—including new details about JFK Jr., his relationship with his mother, his many girlfriends, and the night of his tragic death. Critically acclaimed author Christopher Andersen is a master of celebrity biographies—boasting sixteen bestsellers, among them These Few Precious Days, Mick, and William and Kate. Now, in his latest thrilling book, new and untold details of the life and death of JFK Jr. come to light. At the heart of The Good Son is the most important relationship in JFK Jr.’s life: that with his mother, the beautiful and mysterious Jackie Kennedy Onassis. Andersen explores his reactions to his mother’s post-Dallas suicidal depression and growing dependence on prescription drugs (as well as men); how Jackie felt about the women in her son’s life, from Madonna and Sarah Jessica Parker to Daryl Hannah and Carolyn Bessette, to his turbulent marriage; the plane crash the took his life; and the aftermath of shock, loss, grief, and confusion. Offering new insights into the intense, tender, often stormy relationship between this iconic mother and son, The Good Son is a riveting, bittersweet biography for lovers of all things Kennedy.

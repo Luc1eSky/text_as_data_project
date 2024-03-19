@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 26
+primary_isbn10: 0718079183
+primary_isbn13: 9780718079185
+publisher: W Publishing/Thomas Nelson
+description: The couple who star in the HGTV show “Fixer Upper.”
+title: The Magnolia Story
+author: Chip Gaines and Joanna Gaines with Mark Dagostino
+amazon_product_url: https://www.amazon.com/Magnolia-Story-Bonus-Content-ebook/dp/B01CH2EW20?tag=NYTBSREV-20
+list_date: 2017/05/28
+published_date: 2016-10-18
+summary: Chip and Joanna Gaines, the stars of the TV show Fixer Upper, describe their lives and renovation projects and the origins of the show.

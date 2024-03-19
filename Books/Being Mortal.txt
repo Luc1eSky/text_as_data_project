@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 67
+primary_isbn10: 1250076226
+primary_isbn13: 9781250076229
+publisher: Metropolitan/Holt
+description: The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.
+title: Being Mortal
+author: Atul Gawande
+amazon_product_url: http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBSREV-20
+list_date: 2018/04/01
+published_date: 2016-04-05
+summary: Named a Best Book of the Year by The Washington Post Apple iBooks The New York Times Book Review NPR Amazon Chicago Tribune Medicine has triumphed in modern times, transforming the dangers of childbirth, injury, and disease from harrowing to manageable. But when it comes to the inescapable realities of aging and death, what medicine can do often runs counter to what it should. Through eye-opening research and gripping stories of his own patients and family, Gawande reveals the suffering this dynamic has produced. Nursing homes, devoted above all to safety, battle with residents over the food they are allowed to eat and the choices they are allowed to make. Doctors, uncomfortable discussing patients' anxieties about death, fall back on false hopes and treatments that are actually shortening lives instead of improving them. In his bestselling books, Atul Gawande, a practicing surgeon, has fearlessly revealed the struggles of his profession. Now he examines its ultimate limitations and failures-in his own practices as well as others'-as life draws to a close. Riveting, honest, and humane, Being Mortal shows how the ultimate goal is not a good death but a good life-all the way to the very end.

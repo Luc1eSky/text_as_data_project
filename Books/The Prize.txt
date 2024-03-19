@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0547840055
+primary_isbn13: 9780547840055
+publisher: Houghton Mifflin Harcourt
+description: What happened when Mark Zuckerberg, Chris Christie and Cory Booker took on school reform in Newark, N.J.
+title: The Prize
+author: Dale Russakoff
+amazon_product_url: http://www.amazon.com/The-Prize-Charge-Americas-Schools-ebook/dp/B00AXS6BIE?tag=NYTBSREV-20
+list_date: 2015/09/27
+published_date: 2015
+summary: As serialized in the New Yorker, a roiling, behind-the-scenes look at the high-pressure race to turn around Newark's failing schools, with Facebook's Mark Zuckerberg, Governor Chris Christie, and Senator Cory Booker in eyebrow-raising leading roles

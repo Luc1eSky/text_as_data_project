@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0316514039
+primary_isbn13: 9780316514033
+publisher: Grand Central
+description: The real-life story of the fight between two men after one botches the murder of the other's wife.
+title: Murder, Interrupted
+author: James Patterson
+amazon_product_url: https://www.amazon.com/Murder-Interrupted-James-Pattersons-Forever-ebook/dp/B071YYP32X?tag=NYTBSREV-20
+list_date: 2018/01/21
+published_date: 2018-01-02
+summary: As seen on Discovery's Murder is Forever TV series: In these two true crime thrillers, a reluctant hitman and a cheating husband fight for their lives . . . and a single mother exacts her revenge. In Murder, Interrupted, rich, cheating financier Frank Howard wants his wife dead, and he's willing to pay Billie Earl Johnson whatever it takes: $750,000, to be exact. When his bullet misses the mark, Billie Earl and Frank will turn on each other in a fight for their lives . . . Mother of All Murders is the story of local celebrity Dee Dee Blancharde. Television reports praise her as a single mother who tirelessly cares for her wheelchair-bound, chronically ill daughter. But when the teenaged Gypsy Rose realizes she isn't actually sick and Dee Dee has lied all these years, Gypsy Rose exacts her revenge . . .

@@ -1,0 +1,11 @@
+rank: 13
+weeks_on_list: 61
+primary_isbn10: None
+primary_isbn13: 9780593230268
+publisher: Random House
+description: The Pulitzer Prize-winning journalist examines aspects of caste systems across civilizations and reveals a rigid hierarchy in America today.
+title: Caste
+author: Isabel Wilkerson
+amazon_product_url: https://www.amazon.com/dp/0593230256?tag=NYTBSREV-20
+list_date: 2023/05/21
+author_new0: Isabel Wilkerson

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0062914669
+primary_isbn13: 9780062914668
+publisher: Harper
+description: The New York Times Op-Ed columnist gives a call to action for Black people to achieve equality on their own terms.
+title: The Devil You Know
+author: Charles M Blow
+amazon_product_url: https://www.amazon.com/dp/0062914669?tag=NYTBSREV-20
+list_date: 2021/02/14
+published_data: 2021-02-02
+summary: From journalist and New York Times bestselling author Charles Blow comes a powerful manifesto and call to action for Black Americans to amass political power and fight white supremacy. Race, as we have come to understand it, is a fiction; but, racism, as we have come to live it, is a fact. The point here is not to impose a new racial hierarchy, but to remove an existing one. After centuries of waiting for white majorities to overturn white supremacy, it seems to me that it has fallen to Black people to do it themselves. Acclaimed columnist and author Charles Blow never wanted to write a "race book." But as violence against Black people-both physical and psychological-seemed only to increase in recent years, culminating in the historical pandemic and protests of the summer of 2020, he felt compelled to write a new story for Black Americans. He envisioned a succinct, counterintuitive, and impassioned corrective to the myths that have for too long governed our thinking about race and geography in America. Drawing on both political observations and personal experience as a Black son of the South, Charles set out to offer a call to action by which Black people can finally achieve equality, on their own terms. So what will it take to make lasting change when small steps have so frequently failed It's going to take an unprecedented shift in power. The Devil You Know is a groundbreaking manifesto, proposing nothing short of the most audacious power play by Black people in the history of this country. This book is a grand exhortation to generations of a people, offering a road map to true and lasting freedom.
+author_new0: Charles M Blow

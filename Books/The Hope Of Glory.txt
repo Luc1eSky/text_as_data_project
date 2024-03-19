@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0593236661
+primary_isbn13: 9780593236666
+publisher: Convergent
+description: The Pulitzer Prize-winning biographer delves into the seven last sayings of Jesus as recorded in the Gospels.
+title: The Hope Of Glory
+author: Jon Meacham
+amazon_product_url: https://www.amazon.com/Hope-Glory-Reflections-Words-Jesus/dp/0593236661?tag=NYTBSREV-20
+list_date: 2020/03/22
+published_data: 2020-02-18
+summary: NEW YORK TIMES BESTSELLER • Pulitzer Prize–winning author Jon Meacham explores the seven last sayings of Jesus as recorded in the Gospels, combining rich historical and theological insights to reflect on the true heart of the Christian story. For Jon Meacham, as for believers worldwide, the events of Good Friday and Easter reveal essential truths about Christianity. A former vestryman of Trinity Church Wall Street and St. Thomas Church Fifth Avenue, Meacham delves into that intersection of faith and history in this meditation on the seven phrases Jesus spoke from the cross. Beginning with “Father, forgive them, for they do not know what they do” and ending with “Father, into thy hands I commend my spirit,” Meacham captures for the reader how these words epitomize Jesus’s message of love, not hate; grace, not rage; and, rather than vengeance, extraordinary mercy. For each saying, Meacham composes an essay on the origins of Christianity and how Jesus’s final words created a foundation for oral and written traditions that upended the very order of the world. Writing in a tone more intimate than any of his previous works, Jon Meacham returns us to the moment that transformed Jesus from a historical figure into the proclaimed Son of God, worshiped by billions.
+author_new0: Jon Meacham

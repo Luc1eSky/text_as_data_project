@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 0525537090
+primary_isbn13: 9780525537090
+publisher: Riverhead
+description: The former NASA roboticist dispenses complex and excessive solutions to common problems.
+title: How To
+author: Randall Munroe
+amazon_product_url: https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090?tag=NYTBSREV-20
+list_date: 2020/01/05
+published_data: 2019-09-03
+summary: AN INSTANT #1 NEW YORK TIMES BESTSELLER “How To will make you laugh as you learn…With How To, you can't help but appreciate the glorious complexity of our universe and the amazing breadth of humanity's effort to comprehend it. If you want some lightweight edification, you won't go wrong with How To.” —CNET “[How To] has science and jokes in it, so 10/10 can recommend.” —Simone Giertz The world's most entertaining and useless self-help guide from the brilliant mind behind the wildly popular webcomic xkcd, the bestsellers What If? and Thing Explainer, and What If? 2, coming September 13, 2022 For any task you might want to do, there's a right way, a wrong way, and a way so monumentally complex, excessive, and inadvisable that no one would ever try it. How To is a guide to the third kind of approach. It's full of highly impractical advice for everything from landing a plane to digging a hole. Bestselling author and cartoonist Randall Munroe explains how to predict the weather by analyzing the pixels of your Facebook photos. He teaches you how to tell if you're a baby boomer or a 90's kid by measuring the radioactivity of your teeth. He offers tips for taking a selfie with a telescope, crossing a river by boiling it, and powering your house by destroying the fabric of space-time. And if you want to get rid of the book once you're done with it, he walks you through your options for proper disposal, including dissolving it in the ocean, converting it to a vapor, using tectonic plates to subduct it into the Earth's mantle, or launching it into the Sun. By exploring the most complicated ways to do simple tasks, Munroe doesn't just make things difficult for himself and his readers. As he did so brilliantly in What If?, Munroe invites us to explore the most absurd reaches of the possible. Full of clever infographics and fun illustrations, How To is a delightfully mind-bending way to better understand the science and technology underlying the things we do every day.
+author_new0: Randall Munroe

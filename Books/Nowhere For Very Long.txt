@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0063047985
+primary_isbn13: 9780063047983
+publisher: HarperOne
+description: A young woman and her companions travel the deserts of the American West in an orange van.
+title: Nowhere For Very Long
+author: Brianna Madia
+amazon_product_url: https://www.amazon.com/dp/0063047985?tag=NYTBSREV-20
+list_date: 2022/04/24
+published_data: 2022-05-12
+summary: N/A
+author_new0: Brianna Madia

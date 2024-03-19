@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1455533769
+primary_isbn13: 9781455533763
+publisher: Twelve
+description: A former right-wing operative describes his transformation and passionately defends Hillary Clinton
+title: Killing The Messenger
+author: David Brock
+amazon_product_url: http://www.amazon.com/Killing-Messenger-Right-Wing-Hillary-Government/dp/1455533769?tag=NYTBSREV-20
+list_date: 2015/10/04
+published_date: 2015-09-15
+summary: THE NEW YORK TIMES BESTSELLER New York Times bestselling author and founder of Media Matters, David Brock takes readers on his daring and eye-opening odyssey through the maze of political trenches. David Brock is the ultimate happy warrior. Once a leading right-wing hit man, Brock is now the Left's pre-eminent defender and truth-teller. In this incisive, personal account, Brock disarms the major tentacles of the Republican Leviathan: the Koch Brothers, the Clinton haters, and the Fox Noise Machine. With the acumen of a seasoned political player, Brock takes readers inside his Democratic war rooms and their 24/7 battles with right-wing forces for control of the story lines and messages that will decide the 2016 election. And he chronicles his own evolution from lead Clinton attack-dog to one of Hillary Clinton's fiercest defenders as he knocks down the conservative case against her. Finally, KILLING THE MESSENGER provides the no holds barred playbook for what the new right-wing conspirators will do in this election cycle to tear apart the electorate-and what good, engaged, and informed citizens can do to stop them.

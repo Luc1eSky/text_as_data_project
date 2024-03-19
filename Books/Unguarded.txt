@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1982165197
+primary_isbn13: 9781982165192
+publisher: Atria
+description: The six-time N.B.A. champion, two-time Olympic gold medalist and Hall of Famer details his life on and off the court.
+title: Unguarded
+author: Scottie Pippen with Michael Arkush
+amazon_product_url: https://www.amazon.com/dp/1982165197?tag=NYTBSREV-20
+list_date: 2021/11/28
+published_data: 2021-11-09
+summary: An unflinching memoir from the six-time NBA Champion, two-time Olympic gold medalist, and Hall of Famer—revealing how Scottie Pippen, the youngest of twelve, overcame two family tragedies and universal disregard by college scouts to become an essential component of the greatest basketball dynasty of the last fifty years. Scottie Pippen has been called one of the greatest NBA players for good reason. Simply put, without Pippen, there are no championship banners—let alone six—hanging from the United Center rafters. There’s no Last Dance documentary. There’s no “Michael Jordan” as we know him. The 1990s Chicago Bulls teams would not exist as we know them. So how did the youngest of twelve go from growing up poor in the small town of Hamburg, Arkansas, enduring two family tragedies along the way, to become a revered NBA legend? How did the scrawny teen, overlooked by every major collegiate basketball program, go on to become the fifth overall pick in the 1987 NBA Draft? And, perhaps most compelling, how did Pippen set aside his ego (and his own limitless professional ceiling) in order for the Bulls to become the most dominant basketball dynasty of the last half century? In Unguarded, the six-time champion and two-time Olympic gold medalist finally opens up to offer pointed and transparent takes on Michael Jordan, Phil Jackson, and Dennis Rodman, among others. Pippen details how he cringed at being labeled Jordan’s sidekick, and discusses how he could have (and should have) received more respect from the Bulls’ management and the media. Pippen reveals never-before-told stories about some of the most famous games in league history, including the 1994 playoff game against the New York Knicks when he took himself out with 1.8 seconds to go. He discusses what it was like dealing with Jordan on a day-to-day basis, while serving as the facilitator for the offense and the anchor for the defense. On the 30th anniversary of the Bulls’ first championship, Pippen is finally giving millions of adoring basketball fans what they crave; a raw, unvarnished look into his life, and role within one of the greatest, most popular teams of all time.
+author_new0: Scottie Pippen
+author_new1: Michael Arkush

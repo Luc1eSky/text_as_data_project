@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 4
+primary_isbn10: 1101902752
+primary_isbn13: 9781101902752
+publisher: Crown
+description: The mother of one of the Columbine shooters wrestles with her grief and guilt and discusses how parents can become more aware of the signs of mental illness in teenagers.
+title: A Mother'S Reckoning
+author: Sue Klebold
+amazon_product_url: http://www.amazon.com/Mothers-Reckoning-Living-Aftermath-Tragedy-ebook/dp/B01208WN3G?tag=NYTBSREV-20
+list_date: 2016/03/27
+published_date: 2016
+summary: "The mother of one of the two shooters at Columbine High School draws on personal recollections, journal entries and video recordings to piece together what led to her son's unpredicted breakdown and share insights into how other families might recognize warning signs,"--NoveList.

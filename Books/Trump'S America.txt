@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 1546077065
+primary_isbn13: 9781546077060
+publisher: Center Street
+description: The former speaker of the House’s views on the achievements of and obstacles facing the current administration.
+title: Trump'S America
+author: Newt Gingrich
+amazon_product_url: https://www.amazon.com/Trumps-America-Truth-Nations-Comeback/dp/1546077065?tag=NYTBSREV-20
+list_date: 2018/07/08
+published_date: 2018-06-05
+summary: From the #1 New York Times bestselling author of Understanding Trump, this "essential" book reveals the truth about the Trump presidency and explains his groundbreaking plans for our nation and world (Rush Limbaugh). No one understands the "Make America Great Again" effort with more insight and experience than former Speaker of the House Newt Gingrich. From his enthusiastic support of the Reagan administration to the 1994 Republican Revolution, he has spearheaded many successful initiatives to fight the Washington swamp, challenge the establishment, and restore conservative influence for his entire career. With his political expertise, Gingrich -- who has been called the President's chief explainer -- presents a clear picture of this historic presidency and its tremendous positive impact on our nation and the world. From the fight over the Southern Border Wall to the unending efforts to undermine and oppose the President, he unmasks all branches of the anti-Trump coalition, reveals the flaws in their ideological assaults, and offers a battle plan for those in Trump's America to help the President defeat these attacks. Throughout Trump's America, Gingrich distills decades of experience fighting Washington elites with a lifetime of studying history to help us understand how we can all keep working to make America great.

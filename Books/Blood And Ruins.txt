@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 067002516X
+primary_isbn13: 9780670025169
+publisher: Viking
+description: A reassessment of World War II as the "last imperial war" and a call for a more global perspective on the war.
+title: Blood And Ruins
+author: Richard Overy
+amazon_product_url: https://www.amazon.com/dp/067002516X?tag=NYTBSREV-20
+list_date: 2022/04/24
+published_data: 2022-04-05
+summary: “Monumental… [A] vast and detailed study that is surely the finest single-volume history of World War II. Richard Overy has given us a powerful reminder of the horror of war and the threat posed by dictators with dreams of empire.” – The Wall Street Journal A thought-provoking and original reassessment of World War II, from Britain’s leading military historian A New York Times bestseller Richard Overy sets out in Blood and Ruins to recast the way in which we view the Second World War and its origins and aftermath. As one of Britain’s most decorated and respected World War II historians, he argues that this was the “last imperial war,” with almost a century-long lead-up of global imperial expansion, which reached its peak in the territorial ambitions of Italy, Germany and Japan in the 1930s and early 1940s, before descending into the largest and costliest war in human history and the end, after 1945, of all territorial empires. Overy also argues for a more global perspective on the war, one that looks broader than the typical focus on military conflict between the Allied and Axis states. Above all, Overy explains the bitter cost for those involved in fighting, and the exceptional level of crime and atrocity that marked the war and its protracted aftermath—which extended far beyond 1945. Blood and Ruins is a masterpiece, a new and definitive look at the ultimate struggle over the future of the global order, which will compel us to view the war in novel and unfamiliar ways. Thought-provoking, original and challenging, Blood and Ruins sets out to understand the war anew.
+author_new0: Richard Overy

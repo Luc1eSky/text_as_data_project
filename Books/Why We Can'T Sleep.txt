@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0802147852
+primary_isbn13: 9780802147851
+publisher: Grove
+description: The cultural and political contexts of the crises that Generation X women face.
+title: Why We Can'T Sleep
+author: Ada Calhoun
+amazon_product_url: https://www.amazon.com/Why-We-Cant-Sleep-Midlife/dp/0802147852?tag=NYTBSREV-20
+list_date: 2020/02/09
+published_data: 2020-01-07
+summary: When Ada Calhoun found herself in the throes of a midlife crisis, she thought that she had no right to complain. She was married with children and a good career. So why did she feel miserable? And why did it seem that other Generation X women were miserable, too? Calhoun decided to find some answers. She looked into housing costs, HR trends, credit card debt averages, and divorce data. At every turn, she saw a pattern: sandwiched between the Boomers and the Millennials, Gen X women were facing new problems as they entered middle age, problems that were being largely overlooked. Speaking with women across America about their experiences as the generation raised to "have it all," Calhoun found that most were exhausted, terrified about money, under-employed, and overwhelmed. Instead of their issues being heard, they were told instead to lean in, take "me-time," or make a chore chart to get their lives and homes in order. In Why We Can't Sleep, Calhoun opens up the cultural and political contexts of Gen X's predicament and offers solutions for how to pull oneself out of the abyss--and keep the next generation of women from falling in. The result is reassuring, empowering, and essential reading for all middle-aged women, and anyone who hopes to understand them.
+author_new0: Ada Calhoun

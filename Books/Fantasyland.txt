@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 4
+primary_isbn10: 1400067219
+primary_isbn13: 9781400067213
+publisher: Random House
+description: The politics and culture of 21st-century America are put in the context of five centuries of historical events and movements, including elements of conspiracy theories, crackpot ideas and hucksterism.
+title: Fantasyland
+author: Kurt Andersen
+amazon_product_url: https://www.amazon.com/Fantasyland-America-Haywire-500-Year-History/dp/1400067219?tag=NYTBSREV-20
+list_date: 2017/10/15
+published_date: 2014-09-02
+summary: "Offers a new understanding of our post-truth world and explains the American instinct to believe in make-believe, from the Pilgrims to P.T. Barnum to Disneyland to zealots of every stripe ... to Donald Trump"--

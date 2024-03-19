@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1982132116
+primary_isbn13: 9781982132118
+publisher: Atria
+description: A senior writer for Sports Illustrated gives a history of the New York Knicks during the 1990s.
+title: Blood In The Garden
+author: Chris Herring
+amazon_product_url: https://www.amazon.com/dp/1982132116?tag=NYTBSREV-20
+list_date: 2022/02/06
+published_data: 2022-01-18
+summary: For nearly an entire generation the New York Knicks have been a laughingstock franchise. But in the 1990s they had earned respect not only by winning, but also through brute force. The Knicks fought opponents. They fought each other. They even fought their own coaches at time-- and coach Pat Riley encouraged the nastiness. They never won a championship in those years-- but endeared themselves to millions of fans. Herring delves into the origin, evolution, and eventual demise of the iconic club in eye-opening detail. He pulls no punches-- which is just how those rough-and-tumble Knights would like it. -- adapted from jacket
+author_new0: Chris Herring

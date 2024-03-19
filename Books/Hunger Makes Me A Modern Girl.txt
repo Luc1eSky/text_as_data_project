@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1594486638
+primary_isbn13: 9781594486630
+publisher: Riverhead
+description: The guitarist of the riot girrl band Sleater-Kinney (and co-star of “Portlandia”) describes finding a life in music.
+title: Hunger Makes Me A Modern Girl
+author: Carrie Brownstein
+amazon_product_url: http://www.amazon.com/Hunger-Makes-Me-Modern-Girl/dp/1594486638?tag=NYTBSREV-20
+list_date: 2015/11/15
+published_date: 2015
+summary: Before Carrie Brownstein became a music icon, she was a young girl growing up in the Pacific Northwest just as it was becoming the setting for one of the most important movements in rock history. This book is an intimate and revealing narrative of her escape from a turbulent family life into a world where music was the means toward self-invention, community, and rescue

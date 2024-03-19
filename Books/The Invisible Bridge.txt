@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1476782415
+primary_isbn13: 9781476782416
+publisher: Simon & Schuster
+description: Society and politics in America from 1973 to 1976, the years between Nixon’s resignation and the beginning of Ronald Reagan’s ascent.
+title: The Invisible Bridge
+author: Rick Perlstein
+amazon_product_url: http://www.amazon.com/The-Invisible-Bridge-Nixon-Reagan-ebook/dp/B00HXGD5CE?tag=NYTBSREV-20
+list_date: 2014/08/24
+published_date: 2014-08-05
+summary: Presents a portrait of the United States during the turbulent political and economic upheavals of the 1970s, covering the transition from Richard Nixon's downfall to the rise of Ronald Reagan during the 1976 presidential campaign.

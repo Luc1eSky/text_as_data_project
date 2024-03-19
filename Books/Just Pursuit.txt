@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1982173769
+primary_isbn13: 9781982173760
+publisher: Simon & Schuster
+description: The CNN senior legal analyst and former assistant U.S. attorney for the District of Columbia describes how our legal system treats Black people differently.
+title: Just Pursuit
+author: Laura Coates
+amazon_product_url: https://www.amazon.com/dp/1982173769?tag=NYTBSREV-20
+list_date: 2022/02/06
+published_data: 2022-01-18
+summary: "A ... true story and ... account of bias in the courtroom from CNN senior legal analyst Laura Coates, recounting her time as a Black female prosecutor for the US Department of Justice"--
+author_new0: Laura Coates

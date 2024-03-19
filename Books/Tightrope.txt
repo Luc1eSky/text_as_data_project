@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0525655085
+primary_isbn13: 9780525655084
+publisher: Knopf
+description: The Pulitzer Prize-winning authors examine issues affecting working-class Americans.
+title: Tightrope
+author: Nicholas D Kristof and Sheryl WuDunn
+amazon_product_url: https://www.amazon.com/Tightrope-Americans-Reaching-Nicholas-Kristof/dp/0525655085?tag=NYTBSREV-20
+list_date: 2020/02/09
+published_data: 2020
+summary: "This is a Borzoi book published by Alfred A. Knopf"--Copyright page.
+author_new0: Nicholas D Kristof
+author_new1: Sheryl WuDunn

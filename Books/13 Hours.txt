@@ -1,0 +1,10 @@
+rank: 14
+weeks_on_list: 13
+primary_isbn10: None
+primary_isbn13: 9781455582297
+publisher: Twelve
+description: Six C.I.A. contract employees discuss their experience during the attack on the State Department compound and the C.I.A. station called the “annex” in Benghazi in 2012.
+title: 13 Hours
+author: Mitchell Zuckoff with members of the Annex Security Team
+amazon_product_url: http://www.amazon.com/13-Hours-Account-Happened-Benghazi-ebook/dp/B00LEWR0SS?tag=NYTBSREV-20
+list_date: 2016/06/26

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1685890547
+primary_isbn13: 9781685890544
+publisher: Melville House
+description: The author of “Disloyal” and former personal attorney to Donald Trump describes how Trump went after his critics.
+title: Revenge
+author: Michael Cohen
+amazon_product_url: https://www.amazon.com/dp/1685890547?tag=NYTBSREV-20
+list_date: 2022/10/30
+published_data: 2022-10-11
+summary: The man the New York State Attorney General credited with inspiring her prosecution of Donald Trump — New York Times number one bestselling author Michael Cohen — tells the behind-the-scenes story of what can happen to you — and what really happened to him — when a President who believes himself to be above the law decides to go after his critics . . . . When Michael Cohen's secret payoff to porn star Stormy Daniels on behalf of Donald Trump made Cohen look like a liability to the by-then-President of the United States, the end to their decade-long relationship came swiftly — with a knock on the door from the FBI. Soon, Cohen would find himself imprisoned — even though he had plenty of evidence to show he was innocent of most of the charges. Meanwhile, with the release of the Steele Dossier, Cohen also found himself battling endless news reports citing the Dossier's claims that he'd had clandestine dealings with Russia — reports that only mounted despite his exoneration by the Mueller Report. In a story now being echoed in recent breaking news stories about IRS persecution of Trump foes such as former FBI head James Comey and others, Cohen details — in his inimitable blunt language, with absolutely no holds barred and naming names — his attempt to clear his name and tell the truth about Donald Trump. Chillingly, he also makes clear what happens when you try to speak truth to power, and the power knows no bounds.
+author_new0: Michael Cohen

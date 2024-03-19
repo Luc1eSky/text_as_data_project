@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 0593315693
+primary_isbn13: 9780593315699
+publisher: Vintage
+description: A new collection of essays detailing personal and professional experiences by the author of “Wow, No Thank You."
+title: Quietly Hostile
+author: Samantha Ir
+amazon_product_url: https://www.amazon.com/dp/0593315693?tag=NYTBSREV-20
+list_date: 2023/06/18
+published_data: 2023-05-16
+summary: A much-anticipated, hilarious new essay collection from #1 New York Times bestselling unabashed fan-favorite Samantha Irby invites us to share in the gory particulars of her real life, all that festers behind the glitter and glam. Beloved writer Samantha Irby has returned to the printed page for her much-anticipated, sidesplitting fourth book following her 2020 breakout, Wow, No Thank You, a Vintage Books Original. The success of Irby’s career has taken her to new heights. She fields calls with job offers from Hollywood and walks the red carpet with the iconic ladies of Sex and the City. Finally, she has made it. But, behind all that new-found glam, Irby is just trying to keep her life together as she always had. Her teeth are poisoning her from inside her mouth, and her diarrhea is back. She gets turned away from a restaurant for wearing ugly clothes, she goes to therapy and tries out Lexapro, gets healed with RReiki, explores the power of crystals, and becomes addicted to QVC. Making light of herself as she takes us on an outrageously funny tour of all the details that make up a true portrait of her life, Irby is once again the relatable, uproarious tonic we all need. A VINTAGE ORIGINAL.
+author_new0: Samantha Ir

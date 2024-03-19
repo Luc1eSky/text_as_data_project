@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 1501197622
+primary_isbn13: 9781501197628
+publisher: Simon & Schuster
+description: The humorist spotlights frequently unnoticed aspects of deceased celebrities and historical figures.
+title: Mobituaries
+author: Mo Rocca and Jonathan Greenberg
+amazon_product_url: https://www.amazon.com/Mobituaries-Great-Lives-Worth-Reliving/dp/1501197622?tag=NYTBSREV-20
+list_date: 2020/01/05
+published_data: 2019-11-05
+summary: From beloved CBS Sunday Morning correspondent and humorist Mo Rocca, an entertaining and rigorously researched book that celebrates the dead people who have long fascinated him. Mo Rocca has always loved obituaries—reading about the remarkable lives of global leaders, Hollywood heavyweights, and innovators who changed the world. But not every notable life has gotten the send-off it deserves. His quest to right that wrong inspired Mobituaries, his #1 hit podcast. Now with Mobituaries, the book, he has gone much further, with all new essays on artists, entertainers, sports stars, political pioneers, founding fathers, and more. Even if you know the names, you’ve never understood why they matter...until now. Take Herbert Hoover: before he was president, he was the “Great Humanitarian,” the man who saved tens of millions from starvation. But after less than a year in the White House, the stock market crashed, and all the good he had done seemed to be forgotten. Then there’s Marlene Dietrich, well remembered as a screen goddess, less remembered as a great patriot. Alongside American servicemen on the front lines during World War II, she risked her life to help defeat the Nazis of her native Germany. And what about Billy Carter and history’s unruly presidential brothers? Were they ne’er-do-well liabilities…or secret weapons? Plus, Mobits for dead sports teams, dead countries, the dearly departed station wagon, and dragons. Yes, dragons. Rocca is an expert researcher and storyteller. He draws on these skills here. With his dogged reporting and trademark wit, Rocca brings these men and women back to life like no one else can. Mobituaries is an insightful and unconventional account of the people who made life worth living for the rest of us, one that asks us to think about who gets remembered, and why.
+author_new0: Mo Rocca
+author_new1: Jonathan Greenberg

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1982151242
+primary_isbn13: 9781982151249
+publisher: Gallery
+description: The former director of special events at Vogue describes parting ways with the First Lady after being made the scapegoat for inauguration finance irregularities.
+title: Melania And Me
+author: Stephanie Winston Wolkoff
+amazon_product_url: https://www.amazon.com/dp/1982151242?tag=NYTBSREV-20
+list_date: 2020/10/04
+published_data: 2020-09-01
+summary: #1 NEW YORK TIMES BESTSELLER What Melania wants, Melania gets. The former director of special events at Vogue and producer of nine legendary Met Galas, Stephanie Winston Wolkoff met Melania Knauss in 2003 and had a front row seat to the transformation of Donald Trump’s then girlfriend from a rough-cut gem to a precious diamond. As their friendship deepened over lunches at Manhattan hot spots, black-tie parties, and giggle sessions in the penthouse at Trump Tower, Wolkoff watched the newest Mrs. Trump raise her son, Barron, and manage her highly scrutinized marriage. After Trump won the 2016 election, Wolkoff was recruited to help produce the 58th Presidential Inaugu­ration and to become the First Lady’s trusted advisor. Melania put Wolkoff in charge of hiring her staff, organizing her events, helping her write speeches, and creating her debut initiatives. Then it all fell apart when she was made the scapegoat for inauguration finance irregularities. Melania could have defended her innocent friend and confidant, but she stood by her man, knowing full well who was really to blame. The betrayal nearly destroyed Wolkoff. In this candid and emotional memoir, Stephanie Winston Wolkoff takes you into Trump Tower and the White House to tell the funny, thrilling, and heartbreaking story of her intimate friendship with one of the most famous women in the world, a woman few people truly understand. How did Melania react to the Access Hollywood tape and her husband’s affair with Stormy Daniels? Does she get along well with Ivanka? Why did she wear that jacket with “I really don’t care, do u?” printed on the back? Is Melania happy being First Lady? And what really happened with the inauguration’s funding of $107 million? Wolkoff has some ideas...
+author_new0: Stephanie Winston Wolkoff

@@ -1,0 +1,10 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780957111615
+publisher: Crux Publishing
+description: A concise overview, with 32 maps.
+title: A Short History Of The World
+author: Christopher Lascelles
+amazon_product_url: http://www.amazon.com/Short-History-World-Christopher-Lascelles-ebook/dp/B006YBXM22?tag=NYTBSREV-20
+list_date: 2015/01/18

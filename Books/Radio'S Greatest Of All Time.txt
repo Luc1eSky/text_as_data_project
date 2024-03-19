@@ -1,0 +1,15 @@
+rank: 10
+weeks_on_list: 5
+primary_isbn10: 1668001845
+primary_isbn13: 9781668001844
+publisher: Threshold Editions
+description: A collection of the late conservative commentator’s on-air moments, with memories from his widow and brother.
+title: Radio'S Greatest Of All Time
+author: Rush Limbaugh with Kathryn Adams Limbaugh and David Limbaugh
+amazon_product_url: https://www.amazon.com/dp/1668001845?tag=NYTBSREV-20
+list_date: 2023/01/08
+published_data: 2022-10-25
+summary: A collection of Limbaugh's radio programs, including anecdotes; interview, and speech transcripts. Each section includes commentary and tributes to Limbaugh from family, friends, and prominent figures.
+author_new0: Rush Limbaugh
+author_new1: Kathryn Adams Limbaugh
+author_new2: David Limbaugh

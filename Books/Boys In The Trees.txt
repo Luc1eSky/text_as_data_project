@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 5
+primary_isbn10: 1250095905
+primary_isbn13: 9781250095909
+publisher: Flatiron
+description: A memoir by the singer.
+title: Boys In The Trees
+author: Carly Simon
+amazon_product_url: http://www.amazon.com/Boys-Trees-Memoir-Carly-Simon-ebook/dp/B011LONEEC?tag=NYTBSREV-20
+list_date: 2016/01/17
+published_date: 2015-11-24
+summary: Carly Simon's New York Times bestselling memoir, Boys in the Trees, reveals her remarkable life, beginning with her storied childhood as the third daughter of Richard L. Simon, the co-founder of publishing giant Simon & Schuster, her musical debut as half of The Simon Sisters performing folk songs with her sister Lucy in Greenwich Village, to a meteoric solo career that would result in 13 top 40 hits, including the #1 song "You're So Vain." She was the first artist in history to win a Grammy Award, an Academy Award and a Golden Globe Award, for her song "Let the River Run" from the movie Working Girl. The memoir recalls a childhood enriched by music and culture, but also one shrouded in secrets that would eventually tear her family apart. Simon brilliantly captures moments of creative inspiration, the sparks of songs, and the stories behind writing "Anticipation" and "We Have No Secrets" among many others. Romantic entanglements with some of the most famous men of the day fueled her confessional lyrics, as well as the unraveling of her storybook marriage to James Taylor.

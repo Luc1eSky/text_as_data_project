@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1524742384
+primary_isbn13: 9781524742386
+publisher: Dutton
+description: A historian describes John F. Kennedy Jr. through the lens of their decades-long friendship.
+title: America'S Reluctant Prince
+author: Steven M Gillon
+amazon_product_url: https://www.amazon.com/Americas-Reluctant-Prince-Life-Kennedy/dp/1524742384?tag=NYTBSREV-20
+list_date: 2019/08/04
+published_data: 2019
+summary: Through the lens of their decades-long friendship, the noted historian and New York Times-bestselling author examines John F. Kennedy Jr.'s life and legacy from before his birth to the day he died.
+author_new0: Steven M Gillon

@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 7
+primary_isbn10: 1501174215
+primary_isbn13: 9781501174216
+publisher: Simon & Schuster
+description: A collection of speeches by the Pulitzer Prize-winning historian, focused on American values.
+title: The American Spirit
+author: David McCullough
+amazon_product_url: https://www.amazon.com/American-Spirit-Who-What-Stand/dp/1501174215?tag=NYTBSREV-20
+list_date: 2017/07/02
+published_date: 2017-04-18
+summary: "This timely collection of speeches by David McCullough, the most honored historian in the United States--winner of two Pulitzer Prizes, two National Book Awards, and the Presidential Medal of Freedom, among many other honors--reminds us of fundamental American principles. Over the course of his distinguished career, David McCullough has spoken before Congress, the White House, colleges and universities, historical societies, and other esteemed institutions. Now, as many Americans engage in self-reflection following a bitter election campaign that has left the country divided, McCullough has collected some of his most important speeches in a brief volume that articulates important principles and characteristics that are particularly American..."--Jacket.

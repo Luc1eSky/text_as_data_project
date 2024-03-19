@@ -1,0 +1,10 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780762769209
+publisher: Lyons Press
+description: The founder of ShrinkTalk.net explains how he deals with his own personal problems and those of the people he treats.
+title: Crazy
+author: Rob Dobrenski
+amazon_product_url: http://www.amazon.com/Crazy-Notes-On-Off-Couch-ebook/dp/B00MJD6K14?tag=NYTBSREV-20
+list_date: 2014/08/03

@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1455563110
+primary_isbn13: 9781455563111
+publisher: Twelve
+description: 
+title: The Time Of Our Lives
+author: Peggy Noonan
+amazon_product_url: http://www.amazon.com/The-Time-Our-Lives-Collected-ebook/dp/B00U6DNZEY?tag=NYTBSREV-20
+list_date: 2015/11/22
+published_date: 2015-11-03
+summary: The 2017 Pulitzer Prize Winner for Commentary and conservative icon Peggy Noonan offers her most insightful work, including her Wall Street Journal columns about the 2016 Election New York Times bestseller The Time of Our Lives travels the path of Peggy Noonan's remarkable and influential career, beginning with a revealing essay about her motivations as a writer and thinker. It's followed by an address to students at Harvard University on the drafting of President Reagan's speech the day the space shuttle Challenger exploded. Then comes one surprising chapter after the next including: "People I Miss" - memorable salutes to the likes of Tim Russert, Joan Rivers, Margaret Thatcher, and others. "Making Trouble" - Peggy's sharpest, funniest and most critical columns about Democrats and Republicans, the idiocracy of government, and Beltway disconnect. "I Just Called to Say I Love You" - Peggy's most poignant writing capturing the country's grief and recovery in the wake of 9-11, and clear-eyed foresight on what lay ahead in terms of war and sacrifice. "The Loneliest President Since Nixon" - tracking hope and change as it became disillusionment and disappointment with President Obama. And other sections where Peggy discerns the mood of the country ("State of the Union"), the melodrama of the historic 2008 election ("My Beautiful Election"), her battles with the Catholic Church ("What I Told the Bishops") and lighter meditations on baseball, a snowy afternoon in Brooklyn, and motherhood ("Having Fun"). Annotated throughout, The Time of Our Lives articulates Peggy's conservative vision, demonstrating why she has been awarded the Pulitzer Prize, journalism's highest honor.

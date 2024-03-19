@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1476714541
+primary_isbn13: 9781476714547
+publisher: Simon & Schuster
+description: A memoir by the Aerosmith guitarist and songwriter.
+title: Rocks
+author: Joe Perry with David Ritz
+amazon_product_url: http://www.amazon.com/Rocks-My-Life-out-Aerosmith/dp/1476714541?tag=NYTBSREV-20
+list_date: 2014/11/02
+published_date: 2014-10-07
+summary: The lead guitarist of Aerosmith shares behind-the-scenes perspectives into the band, discussing his decision to drop out of school, enduring relationship with Steven Tyler, and experiences with fame and recovery.

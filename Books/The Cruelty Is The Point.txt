@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0593230809
+primary_isbn13: 9780593230800
+publisher: One World
+description: A journalist for The Atlantic examines the historic forces that fed the intentions of the Trump administration.
+title: The Cruelty Is The Point
+author: Adam Serwer
+amazon_product_url: https://www.amazon.com/dp/0593230809?tag=NYTBSREV-20
+list_date: 2021/07/18
+published_data: 2021-06-29
+summary: NEW YORK TIMES BESTSELLER • From an award-winning journalist at The Atlantic, these searing essays make a powerful case that “real hope lies not in a sunny nostalgia for American greatness but in seeing this history plain—in all of its brutality, unadorned by euphemism” (The New York Times). NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR • “No writer better demonstrates how American dreams are so often sabotaged by American history. Adam Serwer is essential.”—Ta-Nehisi Coates To many, our most shocking political crises appear unprecedented—un-American, even. But they are not, writes The Atlantic’s Adam Serwer in this prescient essay collection, which dissects the most devastating moments in recent memory to reveal deeply entrenched dynamics, patterns as old as the country itself. The January 6 insurrection, anti-immigrant sentiment, and American authoritarianism all have historic roots that explain their continued power with or without President Donald Trump—a fact borne out by what has happened since his departure from the White House. Serwer argues that Trump is not the cause, he is a symptom. Serwer’s phrase “the cruelty is the point” became among the most-used descriptions of Trump’s era, but as this book demonstrates, it resonates across centuries. The essays here combine revelatory reporting, searing analysis, and a clarity that’s bracing. In this new, expanded version of his bestselling debut, Serwer elegantly dissects white supremacy’s profound influence on our political system, looking at the persistence of the Lost Cause, the past and present of police unions, the mythology of migration, and the many faces of anti-Semitism. In so doing, he offers abundant proof that our past is present and demonstrates the devastating costs of continuing to pretend it’s not. The Cruelty Is the Point dares us, the reader, to not look away.
+author_new0: Adam Serwer

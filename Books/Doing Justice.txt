@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0525521127
+primary_isbn13: 9780525521129
+publisher: Knopf
+description: The former U.S. Attorney for the Southern District of New York describes some of his career highlights and gives insights into our legal system.
+title: Doing Justice
+author: Preet Bharara
+amazon_product_url: https://www.amazon.com/Doing-Justice-Prosecutors-Thoughts-Punishment/dp/0525521127?tag=NYTBSREV-20
+list_date: 2019/04/21
+published_data: 2019
+summary: "This is a Borzoi Book"--Copyright page.
+author_new0: Preet Bharara

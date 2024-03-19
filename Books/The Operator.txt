@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 7
+primary_isbn10: 1501145037
+primary_isbn13: 9781501145032
+publisher: Scribner
+description: The 400-mission career of a SEAL Team operator.
+title: The Operator
+author: Robert O'Neill
+amazon_product_url: https://www.amazon.com/Operator-Firing-Shots-Killed-Warrior/dp/1501145037?tag=NYTBSREV-20
+list_date: 2017/08/13
+published_date: 2017-04-25
+summary: New York Times Bestseller A stirringly evocative, thought-provoking, and often jaw-dropping account, The Operator ranges across SEAL Team Operator Robert O'Neill's awe-inspiring four-hundred-mission career, which included his involvement in attempts to rescue "Lone Survivor" Marcus Luttrell and abducted-by-Somali-pirates Captain Richard Phillips and which culminated in those famous three shots that dispatched the world's most wanted terrorist, Osama bin Laden. In these pages, O'Neill describes his idyllic childhood in Butte, Montana; his impulsive decision to join the SEALs; the arduous evaluation and training process; and the even tougher gauntlet he had to run to join the SEALs' most elite unit. After officially becoming a SEAL, O'Neill would spend more than a decade in the most intense counterterror effort in US history. For extended periods, not a night passed without him and his small team recording multiple enemy kills--and though he was lucky enough to survive, several of the SEALs he'd trained with and fought beside never made it home. The Operator describes the nonstop action of O'Neill's deployments in Iraq and Afghanistan, evokes the black humor of years-long combat, brings to vivid life the lethal efficiency of the military's most selective units, and reveals firsthand details of the most celebrated terrorist takedown in history.

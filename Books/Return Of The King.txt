@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1478971681
+primary_isbn13: 9781478971689
+publisher: Grand Central
+description: LeBron James’s return to the Cleveland Cavaliers and the effort to build a championship team.
+title: Return Of The King
+author: Brian Windhorst and Dave McMenamin
+amazon_product_url: https://www.amazon.com/Return-King-Cleveland-Cavaliers-Greatest/dp/1478971681?tag=NYTBSREV-20
+list_date: 2017/04/30
+published_date: 2017-04-11
+summary: Now a New York Times bestseller! The inside story of LeBron James's return and ultimate triumph in Cleveland. What really happened when LeBron James stunned the NBA by leaving a potential dynasty in Miami to come home to play with the Cleveland Cavaliers? How did the Cavs use secret meetings to put together the deal to add star Kevin Love? Who really made the controversial decision to fire coach David Blatt when the team was in first place? Where did the greatest comeback in NBA history truly begin-and end? RETURN OF THE KING takes you onto the private planes, inside the locker-room conversations, and into the middle of the intense huddles where one of the greatest stories in basketball history took place, resulting in the Cavs winning the 2016 NBA title after trailing the Golden State Warriors three games to one. You'll hear from all the characters involved: the players, the executives, the agents, and the owners as they reveal stories never before told. Get the background on all the controversies, the rivalries, and the bad blood from two reporters who were there for every day, plot twist, and social media snafu as they take you through the fascinating ride that culminated in a heart-stopping Game Seven.

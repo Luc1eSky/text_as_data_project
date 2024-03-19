@@ -1,0 +1,10 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780345538611
+publisher: Bantam
+description: This investigation of a New Jersey seaside town's cluster of childhood cancers linked to water and air pollution won a Pulitzer Prize. Originally published in 2013.
+title: Toms River
+author: Dan Fagin
+amazon_product_url: http://www.amazon.com/Toms-River-Story-Science-Salvation-ebook/dp/B009UBAPAU?tag=NYTBSREV-20
+list_date: 2016/02/14

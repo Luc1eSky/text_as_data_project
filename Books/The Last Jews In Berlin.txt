@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1497689384
+primary_isbn13: 9781497689381
+publisher: Open Road
+description: Interviews with some of the 4,000 Jews who survived World War II by going underground in Berlin. Originally published in 1982.
+title: The Last Jews In Berlin
+author: Leonard Gross
+amazon_product_url: http://www.amazon.com/Last-Jews-Berlin-Leonard-Gross-ebook/dp/B00Q3TBDXK?tag=NYTBSREV-20
+list_date: 2016/02/14
+published_date: 2015-01-20
+summary: New York Times Bestseller: The true story of twelve Jews who went underground in Nazi Berlin—and survived: “Consummately suspenseful” (Los Angeles Times). When Adolf Hitler came to power in 1933, approximately one hundred sixty thousand Jews called Berlin home. By 1943 less than five thousand remained in the nation’s capital, the epicenter of Nazism, and by the end of the war, that number had dwindled to one thousand. All the others had died in air raids, starved to death, committed suicide, or been shipped off to the death camps. In this captivating and harrowing book, Leonard Gross details the real-life stories of a dozen Jewish men and women who spent the final twenty-seven months of World War II underground, hiding in plain sight, defying both the Gestapo and, even worse, Jewish “catchers” ready to report them to the Nazis in order to avoid the gas chambers themselves. A teenage orphan, a black-market jewel trader, a stylish young designer, and a progressive intellectual were among the few who managed to survive. Through their own resourcefulness, bravery, and at times, sheer luck, these Jews managed to evade the tragic fates of so many others. Gross has woven these true stories of perseverance into a heartbreaking, suspenseful, and moving account with the narrative force of a thriller. Compiled from extensive interviews, The Last Jews in Berlin reveals these individuals’ astounding determination, against all odds, to live each day knowing it could be their last.

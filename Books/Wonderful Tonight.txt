@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0307450228
+primary_isbn13: 9780307450227
+publisher: Three Rivers Press
+description: Boyd describes her marriages to George Harrison and Eric Clapton. Originally published in 2007.
+title: Wonderful Tonight
+author: Pattie Boyd with Penny Junor
+amazon_product_url: http://www.amazon.com/Wonderful-Tonight-George-Harrison-Clapton-ebook/dp/B0017T09XQ?tag=NYTBSREV-20
+list_date: 2016/05/29
+published_date: 2008-05-27
+summary: #1 NEW YORK TIMES BESTSELLER • For the first time, rock music’s most famous muse tells her incredible story “A charming, lively and seductive book . . . The appeal of Wonderful Tonight is as self-evident as the seemingly simple but brash opening chord of ‘A Hard Day’s Night.’”—The New York Times Book Review Pattie Boyd, former wife of both George Harrison and Eric Clapton, finally breaks a forty-year silence and tells the story of how she found herself bound to two of the most addictive, promiscuous musical geniuses of the twentieth century and became the most legendary muse in the history of rock and roll. The woman who inspired Harrison’s song “Something” and Clapton’s anthem “Layla,” Pattie Boyd has written a book that is rich and raw, funny and heartbreaking—and totally honest.

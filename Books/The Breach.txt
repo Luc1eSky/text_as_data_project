@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1250866766
+primary_isbn13: 9781250866769
+publisher: Holt
+description: The former House Republican shares his insights on the Jan. 6 Select Committee’s investigation and details about the Trump White House.
+title: The Breach
+author: Denver Riggleman with Hunter Walker
+amazon_product_url: https://www.amazon.com/dp/1250866766?tag=NYTBSREV-20
+list_date: 2022/10/16
+published_data: 2022-09-27
+summary: "As the US capital was attacked on January 6, 2021, the White House went dark for seven hours and thirty-seven minutes. It was my job to turn the lights on. The void happened to overlap with the hours when supporters of former President Trump brawled with police, smashed windows, and rampaged through the halls of Congress as his loss to Joe Biden was being certified. Why the White House went dark, I didn't know, and, in fact, I didn't really care. In my time as an Air Force intelligence officer embedded with the National Security Agency, I learned not to make assumptions. It might have been an innocent mistake; it could have been a cover-up. What mattered to me -- as the senior technical advisor to the House select committee tasked with investigating the attack, as a former Republican congressman who'd become deeply disturbed by my own party, and as an American -- was why they stopped tracking the calls, what happened next, and who was in charge. The answers I found shocked me to my core."--
+author_new0: Denver Riggleman
+author_new1: Hunter Walker

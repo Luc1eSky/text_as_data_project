@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1455585661
+primary_isbn13: 9781455585663
+publisher: Twelve
+description: A high-level C.I.A. officer assesses the agency’s counterterrorism successes and failures.
+title: The Great War Of Our Time
+author: Michael Morell with Bill Harlow
+amazon_product_url: http://www.amazon.com/The-Great-War-Time-Terrorism-From-ebook/dp/B00NLJKMOG?tag=NYTBSREV-20
+list_date: 2015/05/31
+published_date: 2015-05-12
+summary: New York Times Bestseller Like See No Evil and At the Center of the Storm, this is a vivid and gripping account of the Central Intelligence Agency, a life of secrets, and a war in the shadows. Called the "Bob Gates of his generation" by Politico, Michael Morell was a top CIA officer who played a critical role in the most important counterterrorism events of the past two decades. Morell was by President Bush's side on 9/11/01 when terrorists struck America and in the White House Situation Room advising President Obama on 5/1/11 when America struck back-killing Usama bin Ladin. From the subway bombings in London to the terrorist attacks in Benghazi, Morell always seemed to find himself on the cusp of history. A superb intelligence analyst and briefer, Morell now presents THE GREAT WAR OF OUR TIME, where he uses his talents to offer an unblinking and insightful assessment of CIA's counterterrorism successes and failures of the past twenty years and, perhaps most important, shows readers that the threat of terrorism did not die with Bin Ladin in Abbottabad. Morell illuminates new, growing threats from terrorist groups that, if unaddressed, could leave the country vulnerable to attacks that would dwarf 9/11 in magnitude. He writes of secret, back-channel negotiations he conducted with foreign spymasters and regime leaders in a desperate attempt to secure a peaceful outcome to unrest launched during the "Arab Spring." Morell describes how efforts to throw off the shackles of oppression have too often resulted in broken nation states unable or unwilling to join the fight against terrorism. Along the way Morell provides intimate portraits of the leadership styles of figures ranging from Presidents Bush and Obama, CIA directors Tenet, Goss, Hayden, Petraeus, Panetta, and Brennan, and a host of others.

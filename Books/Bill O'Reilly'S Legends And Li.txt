@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1627795073
+primary_isbn13: 9781627795074
+publisher: Holt
+description: Stories of the American West; a companion volume to the Fox News series.
+title: Bill O'Reilly'S Legends And Lies
+author: David Fisher
+amazon_product_url: http://www.amazon.com/Bill-OReillys-Legends-Lies-Real-ebook/dp/B00SEO84VQ?tag=NYTBSREV-20
+list_date: 2015/07/12
+published_date: 2015-04-07
+summary: A companion to Bill O'Reilly's documentary series Legends and Lies: The Real West offers an eye-opening look at the truth behind the western legends we all think we know.

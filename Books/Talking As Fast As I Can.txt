@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0425285170
+primary_isbn13: 9780425285176
+publisher: Random House
+description: Essays by the star of “Gilmore Girls” (both the original and the mini-series) and “Parenthood.”
+title: Talking As Fast As I Can
+author: Lauren Graham
+amazon_product_url: https://www.amazon.com/Talking-Fast-Can-Gilmore-Everything-ebook/dp/B01G0GD07M?tag=NYTBSREV-20
+list_date: 2017/01/22
+published_date: 2016
+summary: In her first work of nonfiction, the star of Gilmore Girls and Parenthood recounts her experiences on Gilmore Girls, the first and second time, and shares stories about life, love, and working in Hollywood.

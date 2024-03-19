@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 0062962752
+primary_isbn13: 9780062962751
+publisher: Morrow
+description: The host of the Food Network show “The Pioneer Woman” shares stories on motherhood and marriage.
+title: Frontier Follies
+author: Ree Drummond
+amazon_product_url: https://www.amazon.com/dp/0062962752?tag=NYTBSREV-20
+list_date: 2020/12/06
+published_data: 2020-11-17
+summary: A warm, hilarious collection of stories and reflections on motherhood from the #1 New York Times bestselling author, photographer, businesswoman, and star of the Food Network show The Pioneer Woman, Ree Drummond. From her beginnings as an early blogger, Ree Drummond has become a household name with a passionate following of devoted fans. On her blog, in her magazine, and on her cooking show, Ree shares recipes, tales of her adventures in the country, and stories of everyday life with her four children and cowboy/rancher husband. In this down-to-earth and charming book written especially for Mother's Day, Ree shares real-life anecdotes about parenting from her own unique vantage point. While her busy life is constantly full of new surprises, what's most important to her is family. Over the years she's learned a few things about balancing motherhood with a million other things, and now she offers the wisdom of her experiences--the ups, the downs, the bumps in the road, the laughter and the tears--in stories brimming with the relatable wit and humor found in her cookbooks and her bestselling love story, The Pioneer Woman: Black Heels to Tractor Wheels. A celebration of motherhood, family, love, and laughter, Untitled is a keepsake to treasure and share with the wonderful women in your life.
+author_new0: Ree Drummond

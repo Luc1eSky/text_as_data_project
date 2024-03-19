@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0785291814
+primary_isbn13: 9780785291817
+publisher: Harper Horizon
+description: The Emmy Award–winning journalist details how he grieved for his late father and sought to make his own way.
+title: Look For Me There
+author: Luke Russert
+amazon_product_url: https://www.amazon.com/dp/0785291814?tag=NYTBSREV-20
+list_date: 2023/06/04
+published_data: 2023-05-02
+summary: From journalist Luke Russert, an exploration of finding oneself and one's place in the world in the face of crushing expectations and grief.
+author_new0: Luke Russert

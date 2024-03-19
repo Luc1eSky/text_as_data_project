@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 006300187X
+primary_isbn13: 9780063001879
+publisher: Broadside
+description: The conservative commentator describes what he perceives as threats to American history, ideals and culture.
+title: How To Destroy America In Three Easy Steps
+author: Ben Shapiro
+amazon_product_url: https://www.amazon.com/dp/006300187X?tag=NYTBSREV-20
+list_date: 2020/08/23
+published_data: 2020
+summary: "#1 New York Times bestselling author Ben Shapiro returns with this book uncovering the Left's assault on history, language, and culture"--
+author_new0: Ben Shapiro

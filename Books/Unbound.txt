@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1250621739
+primary_isbn13: 9781250621733
+publisher: Flatiron
+description: A memoir by the founder of the Me Too movement, which details her work supporting and empowering Black and brown girls.
+title: Unbound
+author: Tarana Burke
+amazon_product_url: https://www.amazon.com/dp/1250621739?tag=NYTBSREV-20
+list_date: 2021/10/03
+published_data: 2021-09-14
+summary: No alibi. -- Me too. -- Uptown baby. -- Acts of contrition. -- Breathe again. -- Sunshine and rain. -- Fight the power. -- What shall I give? -- Indelible. -- Brand new day. -- Sweet home Alabama. -- Heaven. -- Hypnotize. -- Another storm. -- Mercy, mercy, me. -- Unbound. -- End of the road. -- For colored girls.
+author_new0: Tarana Burke

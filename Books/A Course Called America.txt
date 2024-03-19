@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1982128054
+primary_isbn13: 9781982128050
+publisher: Avid Reader/Simon & Schuster
+description: Stories and insights of more than 200 golf courses in all 50 states, including every course to ever host a U.S. Open.
+title: A Course Called America
+author: Tom Coyne
+amazon_product_url: https://www.amazon.com/dp/1982128054?tag=NYTBSREV-20
+list_date: 2021/06/13
+published_data: 2021-05-25
+summary: In 'A Course Called America', Tom Coyne plays his way across the United States in search of the great American golf course. Packed with fascinating tales from American golf history, comic road misadventures, illuminating insight into course design, and many a memorable round with local golfers, this book is an epic narrative travelogue brimming with heart and soul.
+author_new0: Tom Coyne

@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0593129040
+primary_isbn13: 9780593129043
+publisher: Ballantine
+description: The wife of the country music singer Thomas Rhett describes her mission work and life in the spotlight.
+title: Live In Love
+author: Lauren Akins with Mark Dagostino
+amazon_product_url: https://www.amazon.com/dp/0593129040?tag=NYTBSREV-20
+list_date: 2020/09/06
+published_data: 2020-08-18
+summary: NEW YORK TIMES BESTSELLER • In this refreshing and inspiring memoir, Lauren Akins, the wife of country music star Thomas Rhett, shows what it’s really like to be “the perfect couple” fans imagine, and reveals what it actually takes to live in love, stay in love, and grow together. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY PARADE When country music star Thomas Rhett won the ACM Award for Single of the Year with “Die a Happy Man,” his wife, Lauren Akins, was overjoyed. Her childhood best friend and now husband was being anointed the hottest new star in country music—for a song he had written about her. He was living his dream. Lauren was elated, but she was also wrestling with some big questions, not the least of which was, How can I live my own life of purpose? Lauren Akins never wanted to be in the spotlight, but as Thomas Rhett made his relationship with Lauren the subject of many of his hit songs, she was tossed into the role of one of America’s sweethearts. Revered by fans for her down-to-earth ease and charm, her commitment to humanitarian work, and the pure love she exudes for her family, Lauren has never shared her side of their story—full as it’s been with deep love, painful loss, tremendous joy, and a struggle to stay grounded in faith along the way—until now. In Live in Love, Lauren shares details about her childhood friendship with Thomas Rhett, explaining how they reconnected as young adults. She offers a rare behind-the-scenes look at the challenges of being married to her best friend, who just happens to be a music star, and the struggle to find her own footing in the frenzy of her husband’s fame. And in heart-wrenching detail, she opens up about her life-changing experiences doing mission work in Haiti, and then in Uganda, where she met the precious baby who would become their first daughter. From sharing the romance of their handwritten wedding vows to the challenges they faced as they adjusted to the reality of becoming first-time parents, Live in Love takes an intimate look at one couple’s life—and opens a window into all of our journeys on the path to self-discovery. Live in Love is a deeply personal memoir that offers inspiring guidance for anyone looking to keep romance alive, balance children and marriage, express true faith, and live a life of purpose.
+author_new0: Lauren Akins
+author_new1: Mark Dagostino

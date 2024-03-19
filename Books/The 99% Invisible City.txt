@@ -1,0 +1,14 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0358126606
+primary_isbn13: 9780358126607
+publisher: Houghton Mifflin Harcourt
+description: A look at the design and architecture of various and sometimes unexpected elements that make cities function.
+title: The 99% Invisible City
+author: Roman Mars and Kurt Kohlstedt
+amazon_product_url: https://www.amazon.com/dp/0358126606?tag=NYTBSREV-20
+list_date: 2020/10/25
+published_data: 2020
+summary: A beautifully designed guidebook to the unnoticed yet essential elements of our cities, from the creators of the wildly popular 99% Invisible podcast
+author_new0: Roman Mars
+author_new1: Kurt Kohlstedt

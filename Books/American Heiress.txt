@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 0385536712
+primary_isbn13: 9780385536714
+publisher: Doubleday
+description: The story of Patty Hearst's kidnapping in 1974 by the Symbionese Liberation Army, her crimes and her trial.
+title: American Heiress
+author: Jeffrey Toobin
+amazon_product_url: http://www.amazon.com/American-Heiress-Kidnapping-Crimes-Hearst-ebook/dp/B018CH9ZQC?tag=NYTBSREV-20
+list_date: 2016/09/18
+published_date: 2016
+summary: Examines the life of Patty Hearst who suffered an unimaginable trauma and then made the stunning decision to join her captors' crusade.

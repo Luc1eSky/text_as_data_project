@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 45
+primary_isbn10: 
+primary_isbn13: 9780316322416
+publisher: Little, Brown
+description: The experience of the Pakistani girl who campaigned for women’s education and was shot by the Taliban.
+title: I Am Malala
+author: Malala Yousafzai with Christina Lamb
+amazon_product_url: http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=NYTBSREV-20
+list_date: 2016/09/18
+published_date: 2021-09-15
+summary: N/A

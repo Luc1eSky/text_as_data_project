@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0062980866
+primary_isbn13: 9780062980861
+publisher: Harper
+description: The comedic actress shares stories of joy and despair during the Covid-19 pandemic.
+title: Ali'S Well That Ends Well
+author: Ali Wentworth
+amazon_product_url: https://www.amazon.com/dp/0062980866?tag=NYTBSREV-20
+list_date: 2022/05/29
+published_data: 2022-05-10
+summary: New York Times bestselling author Ali Wentworth offers a comedic look at family, friendship, and lessons learned during the Covid-19 pandemic in her new collection of laugh-out-loud comic vignettes. Like many, Ali Wentworth spent the pandemic seesawing between highs, lows, and baking an unnecessary amount of chocolate cake. Between binging every tv show in existence to conquering TikTok to becoming a (semi) empty-nester, Ali experienced her share of turmoil (including an early case of Covid), but she also grew a little, learned a lot, and found comfort in some unexpected people and places. In Ali's Well that Ends Well, Wentworth turns her gimlet eye to the year no one saw coming. With her signature irreverent style, she shares the most hysterical, absurd, and sometimes trying episodes that her family endured during the terrible global pandemic. Thoroughly relatable, absolutely charming, and filled with moments both hilarious and poignant, this terrific collection once again showcases the comedic genius of a beloved star who is "the girlfriend you want to have a glass of wine with, the one who makes you laugh because she sees the funny and the absurd in everything" (Huffington Post).
+author_new0: Ali Wentworth

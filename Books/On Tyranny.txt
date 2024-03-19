@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 15
+primary_isbn10: 0804190119
+primary_isbn13: 9780804190114
+publisher: Tim Duggan
+description: Twenty lessons from the 20th century about the course of tyranny.
+title: On Tyranny
+author: Timothy Snyder
+amazon_product_url: https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=NYTBSREV-20
+list_date: 2018/04/15
+published_date: 2017-02-28
+summary: #1 NEW YORK TIMES BESTSELLER • A “bracing” (Vox) guide for surviving and resisting America’s turn towards authoritarianism, from “a rising public intellectual unafraid to make bold connections between past and present” (The New York Times) “Timothy Snyder reasons with unparalleled clarity, throwing the past and future into sharp relief. He has written the rare kind of book that can be read in one sitting but will keep you coming back to help regain your bearings.”—Masha Gessen The Founding Fathers tried to protect us from the threat they knew, the tyranny that overcame ancient democracy. Today, our political order faces new threats, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism, Nazism, or communism. Our one advantage is that we might learn from their experience. On Tyranny is a call to arms and a guide to resistance, with invaluable ideas for how we can preserve our freedoms in the uncertain years to come.

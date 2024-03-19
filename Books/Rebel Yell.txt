@@ -1,0 +1,13 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1451673280
+primary_isbn13: 9781451673289
+publisher: Scribner
+description: The life and career of the Confederate general Stonewall Jackson.
+
+title: Rebel Yell
+author: S C Gwynne
+amazon_product_url: http://www.amazon.com/Rebel-Yell-Violence-Redemption-Stonewall/dp/1451673280?tag=NYTBSREV-20
+list_date: 2014/11/09
+published_date: 2014-09-30
+summary: Presents a narrative profile of the legendary Civil War general that shares insights into his military achievements, role in Confederate identity, and universally mourned death.

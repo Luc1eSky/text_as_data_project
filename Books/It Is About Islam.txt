@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 6
+primary_isbn10: 1501126121
+primary_isbn13: 9781501126123
+publisher: Threshold Editions/Mercury Radio Arts
+description: The talk-radio host looks to Muslim teachings for the roots of Islamic extremism.
+title: It Is About Islam
+author: Glenn Beck
+amazon_product_url: http://www.amazon.com/It-IS-About-Islam-Caliphate/dp/1501126121?tag=NYTBSREV-20
+list_date: 2015/10/11
+published_date: 2015-08-18
+summary: Drawing from the Koran, the hadith, and leaders of fundamentalist groups, identifies the core beliefs that inspire Islamic extremism while debunking commonly held notions about the religion.

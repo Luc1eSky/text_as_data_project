@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 1684513618
+primary_isbn13: 9781684513611
+publisher: Regnery
+description: The Republican senator from Texas gives his take on the justice system.
+title: Justice Corrupted
+author: Ted Cruz
+amazon_product_url: https://www.amazon.com/dp/1684513618?tag=NYTBSREV-20
+list_date: 2022/11/20
+published_data: 2022-09-13
+summary: . . . with liberty and justice for some. The left has corrupted the U.S. legal system. Wielding the law as a weapon, arrogant judges and lawless prosecutors are intimidating, silencing, and even imprisoning Americans who stand in the way of their radical agenda. Their "enemies list" even includes parents who dare to speak up for their children at school board meetings. In this shocking new book, Senator Ted Cruz takes readers inside the justice system, showing how the wrong hands on the levers of power can strangle liberty, crush opposition, and wreck lives. The notion of a "Democratic" or "Republican" Department of Justice is outrageous. That institution should safeguard the Constitutional rights of all Americans. Justice Corrupted will equip patriots and lovers of liberty to hold their government accountable.
+author_new0: Ted Cruz

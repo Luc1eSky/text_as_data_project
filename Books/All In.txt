@@ -1,0 +1,15 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1101947330
+primary_isbn13: 9781101947333
+publisher: Knopf
+description: The former No. 1-ranked tennis player details her career and activism.
+title: All In
+author: Billie Jean King with Johnette Howard and Maryanne Vollers
+amazon_product_url: https://www.amazon.com/dp/1101947330?tag=NYTBSREV-20
+list_date: 2021/09/05
+published_data: 2021-08-17
+summary: NEW YORK TIMES BEST SELLER • An inspiring and intimate self-portrait of the champion of equality that encompasses her brilliant tennis career, unwavering activism, and an ongoing commitment to fairness and social justice. “A story about the personal strength, immense growth, and undeniable greatness of one woman who fearlessly stood up to a culture trying to break her down.”—Serena Williams In this spirited account, Billie Jean King details her life's journey to find her true self. She recounts her groundbreaking tennis career—six years as the top-ranked woman in the world, twenty Wimbledon championships, thirty-nine grand-slam titles, and her watershed defeat of Bobby Riggs in the famous "Battle of the Sexes." She poignantly recalls the cultural backdrop of those years and the profound impact on her worldview from the women's movement, the assassinations and anti-war protests of the 1960s, the civil rights movement, and, eventually, the LGBTQ+ rights movement. She describes the myriad challenges she's hurdled—entrenched sexism, an eating disorder, near financial peril after being outed—on her path to publicly and unequivocally acknowledging her sexual identity at the age of fifty-one. She talks about how her life today remains one of indefatigable service. She offers insights and advice on leadership, business, activism, sports, politics, marriage equality, parenting, sexuality, and love. And she shows how living honestly and openly has had a transformative effect on her relationships and happiness. Hers is the story of a pathbreaking feminist, a world-class athlete, and an indomitable spirit whose impact has transcended even her spectacular achievements in sports.
+author_new0: Billie Jean King
+author_new1: Johnette Howard
+author_new2: Maryanne Vollers

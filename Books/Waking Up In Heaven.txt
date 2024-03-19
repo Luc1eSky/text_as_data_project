@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1476711887
+primary_isbn13: 9781476711881
+publisher: Howard
+description: What happened to a teacher from Oklahoma during nine minutes of unconsciousness.
+title: Waking Up In Heaven
+author: Crystal McVea
+amazon_product_url: http://www.amazon.com/Waking-Up-Heaven-Story-Brokenness-ebook/dp/B00A25FG2A?tag=NYTBSREV-20
+list_date: 2014/09/14
+published_date: 2013-04-02
+summary: An inspirational memoir of near-death experience, rebirth, divine mercy, and faith from first-time author Crystal Leigh McVea. On December 10, 2009, McVea, a thirty-two-year-old mother of four, went to the hospital for a routine procedure. While undergoing treatment, her face suddenly turned a dark shade of blue, then black. Her mother screamed for help, and a nurse tried to revive her…to no avail. Today, Crystal does not remember what happened in that hospital room during the nine minutes she was unconscious and unable to breathe on her own. She has no memory of the panic and the rushing nurses and the loud cries of “Code Blue.” She only remembers drifting off…and waking up in heaven. This unexpected meeting of a self-described sinner and skeptic with her God changed everything. Raised Christian, she had left her faith behind after childhood abuse and the subsequent struggles and suffering of her troubled teens and early adulthood. She longed to believe but felt abandoned, broken, and undeserving. A moving autobiographical testament to the power of divine love and forgiveness, Waking Up in Heaven shares the message of hope, healing, and compassion McVea brought back from her brush with God. This brave, honest account of years lost to shame and guilt will inspire those who’ve stumbled along their own spiritual journey, with the uplifting reminder that no one is beyond the reach of grace and redemption, and that, in the words of the author, “God is real. Heaven is real. And God’s love for us is the realest thing of all.”

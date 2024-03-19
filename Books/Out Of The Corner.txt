@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0593356705
+primary_isbn13: 9780593356708
+publisher: Ballantine
+description: The actress details growing up the child of Joel Grey, her iconic film roles and the repercussions from a plastic surgery procedure.
+title: Out Of The Corner
+author: Jennifer Grey
+amazon_product_url: https://www.amazon.com/dp/0593356705?tag=NYTBSREV-20
+list_date: 2022/05/29
+published_data: 2022-05-03
+summary: NEW YORK TIMES BESTSELLER • A deeply candid and refreshingly spirited memoir of identity lost and found from the star of the iconic film Dirty Dancing “Jennifer Grey peels back all the artifice, denial, obfuscation, and myriad assumptions and exposes a gorgeous, human portrait of her life.”—Jamie Lee Curtis “We all know Jennifer Grey as a talented actress, but Out of the Corner introduces us to a gifted writer.”—Michael J. Fox In this beautiful, close-to-the bone account, Jennifer Grey takes readers on a vivid tour of the experiences that have shaped her, from her childhood as the daughter of Broadway and film legend Joel Grey, to the surprise hit with Patrick Swayze that made her America’s sweetheart, to her inspiring season eleven win on ABC’s Dancing with the Stars. Throughout this intimate narrative, Grey richly evokes places and times that were defining for a generation—from her preteen days in 1970s Malibu and wild child nights in New York’s club scene, to her roles in quintessential movies of the 1980s, including The Cotton Club, Red Dawn, and her breakout performance in Ferris Bueller’s Day Off. With self-deprecating humor and frankness, she looks back on her unbridled, romantic adventures in Hollywood. And with enormous bravery, she shares the devastating fallout from a plastic surgery procedure that caused the sudden and stunning loss of her professional identity and career. Grey inspires with her hard-won battle back, reclaiming her sense of self from a culture and business that can impose a narrow and unforgiving definition of female worth. She finds, at last, her own true north and starts a family of her own, just in the nick of time. Distinctive, moving, and powerful, told with generosity and pluck, Out of the Corner is a memoir about a never-ending personal evolution, a coming-of-age story for women of every age.
+author_new0: Jennifer Grey

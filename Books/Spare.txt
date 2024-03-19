@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 24
+primary_isbn10: 0593593804
+primary_isbn13: 9780593593806
+publisher: Random House
+description: The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.
+title: Spare
+author: Prince Harry
+amazon_product_url: https://www.amazon.com/dp/0593593804?tag=NYTBSREV-20
+list_date: 2023/07/09
+published_data: 2023-01-10
+summary: It was one of the most searing images of the twentieth century: two young boys, two princes, walking behind their mother’s coffin as the world watched in sorrow—and horror. As Diana, Princess of Wales, was laid to rest, billions wondered what the princes must be thinking and feeling—and how their lives would play out from that point on. For Harry, this is that story at last. With its raw, unflinching honesty, Spare is a landmark publication full of insight, revelation, self-examination, and hard-won wisdom about the eternal power of love over grief.
+author_new0: Prince Harry

@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 2
+primary_isbn10: 0063270420
+primary_isbn13: 9780063270428
+publisher: Broadside
+description: The co-host of “Gutfeld!” and Fox News contributor gives her take on free speech and comedy.
+title: You Can'T Joke About That
+author: Kat Timpf
+amazon_product_url: https://www.amazon.com/dp/0063270420?tag=NYTBSREV-20
+list_date: 2023/05/14
+published_data: 2023
+summary: "Comedian Kat Timpf shares how humor has kept her going during the hardest times of her life, and confronts the cancel culture that threatens modern comedy"--
+author_new0: Kat Timpf

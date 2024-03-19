@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1612309542
+primary_isbn13: 9781612309545
+publisher: New Word City
+description: A history of the dynasty with an emphasis on the personal lives of the czars.
+title: The Romanovs
+author: Ian Grey
+amazon_product_url: http://www.amazon.com/Romanovs-Ian-Grey-ebook/dp/B01E79DO2A?tag=NYTBSREV-20
+list_date: 2016/07/17
+published_date: 2016-04-13
+summary: The Romanov dynasty has dazzled, intrigued, and confused the world for more than three centuries. These extraordinary monarchs wielded absolute power over the vast, violent lands of Russia. Savagery and kindness, asceticism and opulence, piousness and cruelty existed side by side in the royal courts. New York Times bestselling historian Ian Grey threads his way through these turbulent centuries, his focus on the private lives of the tsars themselves, the rulers whose personal histories are entwined with the history of the empire. He brings to life the passions, rages, intrigues, and greatness of the remarkable men and women who guided the destiny of Russia and changed the world.

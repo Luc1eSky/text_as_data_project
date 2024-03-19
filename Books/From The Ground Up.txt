@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0525509445
+primary_isbn13: 9780525509448
+publisher: Random House
+description: The former chief executive of Starbucks recounts his journey to success and shares the inspirational stories of others.
+title: From The Ground Up
+author: Howard Schultz with Joanne Gordon
+amazon_product_url: https://www.amazon.com/Ground-Up-Journey-Reimagine-Promise/dp/0525509445?tag=NYTBSREV-20
+list_date: 2019/02/24
+published_data: 2019-01-28
+summary: The founder of Starbucks shares his untold personal story--from his childhood in Brooklyn's housing projects to his rise as a business icon--and lays out his vision for how companies can improve their social impact.
+author_new0: Howard Schultz
+author_new1: Joanne Gordon

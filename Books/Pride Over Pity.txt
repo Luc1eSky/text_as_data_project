@@ -1,0 +1,10 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9781618689801
+publisher: Post Hill/MTV
+description: A memoir by a young mother known from the reality series “Teen Mom 2” on MTV.
+title: Pride Over Pity
+author: Kailyn Lowry with Adrienne Wenner
+amazon_product_url: http://www.amazon.com/Pride-Over-Pity-Kailyn-Lowry-ebook/dp/B00JRMRG3G?tag=NYTBSREV-20
+list_date: 2014/05/18

@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: 
+primary_isbn13: 9780062242730
+publisher: Morrow/HarperCollins
+description: Kyle, a former member of the Navy SEALs who was shot to death in Texas in February, tells how 10 firearms changed United States history.
+title: American Gun
+author: Chris Kyle with William Doyle
+amazon_product_url: http://www.amazon.com/American-Gun-History-U-S-Firearms/dp/0062242717?tag=NYTBSREV-20
+list_date: 2015/03/01
+published_date: 2021-09-15
+summary: N/A

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1101906219
+primary_isbn13: 9781101906217
+publisher: Crown Forum
+description: More than 50 eulogies for significant 20th-century figures.
+title: A Torch Kept Lit
+author: William F Buckley Jr
+amazon_product_url: http://www.amazon.com/Torch-Kept-Lit-Twentieth-Century-ebook/dp/B01AES54F8?tag=NYTBSREV-20
+list_date: 2016/11/06
+published_date: 2016-10-04
+summary: The New York Times Bestseller William F. Buckley, Jr. remembers—as only he could—the towering figures of the twentieth century in a brilliant and emotionally powerful collection, compiled by acclaimed Fox News correspondent James Rosen. In a half century on the national stage, William F. Buckley, Jr. achieved unique stature as a writer, a celebrity, and the undisputed godfather of modern American conservatism. He kept company with the best and brightest, the sultry and powerful. Ronald Reagan pronounced WFB “perhaps the most influential journalist and intellectual in our era,” and his jet-setting life was a who’s who of high society, fame, and fortune. Among all his distinctions, which include founding the conservative magazine National Review and hosting the long-running talk show Firing Line, Buckley was also a master of that most elusive art form: the eulogy. He drew on his unrivaled gifts to mourn, celebrate, or seek mercy for the men and women who touched his life and the nation. Now, for the first time, WFB’s sweeping judgments of the great figures of his time—presidents and prime ministers, celebrities and scoundrels, intellectuals and guitar gods—are collected in one place. A Torch Kept Lit presents more than fifty of Buckley’s best eulogies, drawing on his personal memories and private correspondences and using a novelist’s touch to conjure his subjects as he knew them. We are reintroduced, through Buckley’s eyes, to the likes of Winston Churchill and Ronald Reagan, Elvis Presley and John Lennon, Truman Capote and Martin Luther King, Jr. Curated by Fox News chief Washington correspondent James Rosen, a Buckley protégé and frequent contributor to National Review, this volumes sheds light on a tumultuous period in American history—from World War II to Watergate, the “death” of God to the Grateful Dead—as told in the inimitable voice of one of our most elegant literary stylists.William F. Buckley, Jr. is back—just when we need him most.

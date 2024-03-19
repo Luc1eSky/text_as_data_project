@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 5
+primary_isbn10: 0063049082
+primary_isbn13: 9780063049086
+publisher: Broadside
+description: The Fox News host recounts his career and prescribes ways to defend against what he considers left-wing radicalism.
+title: How I Saved The World
+author: Jesse Watters
+amazon_product_url: https://www.amazon.com/dp/0063049082?tag=NYTBSREV-20
+list_date: 2021/08/22
+published_data: 2021
+summary: "The host of the Fox News shows Watters World and The Five lays out the only path forward for our nation-listening to him-in this funny, offbeat book which echoes his irreverent voice"--
+author_new0: Jesse Watters

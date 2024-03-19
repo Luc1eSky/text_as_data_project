@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 154173033X
+primary_isbn13: 9781541730335
+publisher: PublicAffairs
+description: An overview of Marquis de Lafayette’s career on both sides of the Atlantic during the Age of Revolution.
+title: Hero Of Two Worlds
+author: Mike Duncan
+amazon_product_url: https://www.amazon.com/dp/154173033X?tag=NYTBSREV-20
+list_date: 2021/09/12
+published_data: 2021-08-24
+summary: From the massively popular podcaster and New York Times bestselling author comes the story of the Marquis de Lafayette's lifelong quest to protect the principles of democracy, told through the lens of the three revolutions he participated in: the American Revolution, the French Revolution, and the Revolution of 1830. Few in history can match the breadth and depth of the revolutionary career of the Marquis de Lafayette. Over fifty incredible years at the heart of the Age of Revolution, he fought as one with righteous revolutionaries on both sides of the Atlantic. As an idealistic and courageous teenager serving in the American Revolution, he used his considerable wealth and savvy to help the Americans defeat the British. Then he returned home, and was a principle player in the French Revolution. And in his final act, at seventy years old, he was instrumental in the dramatic overthrow of the Bourbon Dynasty during the Revolution of 1830. All the while, he never wavered from the principles he had written into the Declaration of the Rights of Man in 1789: That men are born and remain free and equal, deserving of liberty, property, safety, freedom of speech, and the ability to resist oppression. Through this age of upheaval, Lafayette remained unshakably committed to the principles he had outlined. From the time that he was an enthusiastic 19-year-old to the time he was a world-weary 74-year-old, his resolve never wavered. As the saying goes, if we don't learn from history, we are doomed to repeat it. Today, the values codified and practiced by Lafayette are increasingly taken for granted. His life is thus the story of where we came from-and what we stand to lose if we abandon the ideals for which he fought.
+author_new0: Mike Duncan

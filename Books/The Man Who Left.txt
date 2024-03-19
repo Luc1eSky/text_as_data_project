@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: A00B007MNAROM
+publisher: Theresa Weir
+description: A memoir of paternal abandonment and a daughter’s duty.
+title: The Man Who Left
+author: Theresa Weir
+amazon_product_url: http://www.amazon.com/Man-Who-Left-Theresa-Weir-ebook/dp/B007MNAROM?tag=NYTBSREV-20
+list_date: 2015/03/22
+published_date: 2021-09-15
+summary: N/A

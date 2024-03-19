@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0062439650
+primary_isbn13: 9780062439659
+publisher: Harper
+description: The 10 first ladies since 1960, based on interviews with White House staff, social secretaries and friends, by the author of "The Residence."
+title: First Women
+author: Kate Andersen Brower
+amazon_product_url: http://www.amazon.com/First-Women-Americas-Modern-Ladies-ebook/dp/B011IT5C3Q?tag=NYTBSREV-20
+list_date: 2016/05/22
+published_date: 2016-04-12
+summary: From the #1 New York Times bestselling author of the groundbreaking backstairs look at the White House, The Residence, comes an intimate, news-making look at the true modern power brokers at 1600 Pennsylvania Avenue: the First Ladies, from Jackie Kennedy to Michelle Obama and Melania Trump. One of the most underestimated—and challenging—positions in the world, the First Lady of the United States must be many things: an inspiring leader with a forward-thinking agenda of her own; a savvy politician, skilled at navigating the treacherous rapids of Washington; a wife and mother operating under constant scrutiny; and an able CEO responsible for the smooth operation of countless services and special events at the White House. Now, as she did in her smash #1 bestseller The Residence, former White House correspondent Kate Andersen Brower draws on a wide array of untapped, candid sources—from residence staff and social secretaries to friends and political advisers—to tell the stories of the ten remarkable women who have defined that role since 1960. Brower offers new insights into this privileged group of remarkable women, including Jacqueline Kennedy, Lady Bird Johnson, Patricia Nixon, Betty Ford, Rosalynn Carter, Nancy Reagan, Barbara Bush, Hillary Clinton, Laura Bush, and Michelle Obama. The stories she shares range from the heartwarming to the shocking and tragic, exploring everything from the first ladies’ political crusades to their rivalries with Washington figures; from their friendships with other first ladies to their public and private relationships with their husbands. She also offers insight as to what Melania Trump might hope to accomplish as First Lady. Candid and illuminating, this first group biography of the modern first ladies provides a revealing look at life upstairs and downstairs at the world’s most powerful address.

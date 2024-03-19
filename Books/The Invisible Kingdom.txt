@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1594633797
+primary_isbn13: 9781594633799
+publisher: Riverhead
+description: An examination of the rise of chronic illnesses and autoimmune diseases.
+title: The Invisible Kingdom
+author: Meghan O'Rourke
+amazon_product_url: https://www.amazon.com/dp/1594633797?tag=NYTBSREV-20
+list_date: 2022/03/20
+published_data: 2022-03-01
+summary: A NEW YORK TIMES BESTSELLER FINALIST FOR THE 2022 NATIONAL BOOK AWARD FOR NONFICTION Named one of the BEST BOOKS OF 2022 by NPR, The New Yorker, Time, and Vogue “Remarkable.” –Andrew Solomon, The New York Times Book Review "At once a rigorous work of scholarship and a radical act of empathy.”—Esquire "A ray of light into those isolated cocoons of darkness that, at one time or another, may afflict us all.” —The Wall Street Journal "Essential."—The Boston Globe A landmark exploration of one of the most consequential and mysterious issues of our time: the rise of chronic illness and autoimmune diseases A silent epidemic of chronic illnesses afflicts tens of millions of Americans: these are diseases that are poorly understood, frequently marginalized, and can go undiagnosed and unrecognized altogether. Renowned writer Meghan O’Rourke delivers a revelatory investigation into this elusive category of “invisible” illness that encompasses autoimmune diseases, post-treatment Lyme disease syndrome, and now long COVID, synthesizing the personal and the universal to help all of us through this new frontier. Drawing on her own medical experiences as well as a decade of interviews with doctors, patients, researchers, and public health experts, O’Rourke traces the history of Western definitions of illness, and reveals how inherited ideas of cause, diagnosis, and treatment have led us to ignore a host of hard-to-understand medical conditions, ones that resist easy description or simple cures. And as America faces this health crisis of extraordinary proportions, the populations most likely to be neglected by our institutions include women, the working class, and people of color. Blending lyricism and erudition, candor and empathy, O’Rourke brings together her deep and disparate talents and roles as critic, journalist, poet, teacher, and patient, synthesizing the personal and universal into one monumental project arguing for a seismic shift in our approach to disease. The Invisible Kingdom offers hope for the sick, solace and insight for their loved ones, and a radical new understanding of our bodies and our health.
+author_new0: Meghan O'Rourke

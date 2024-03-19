@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 3
+primary_isbn10: 0143122010
+primary_isbn13: 9780143122012
+publisher: Penguin
+description: The Harvard psychologist argues that we are living in the most peaceable period of human existence. Originally published in 2011.
+title: The Better Angels Of Our Nature
+author: Steven Pinker
+amazon_product_url: https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010?tag=NYTBSREV-20
+list_date: 2017/06/18
+published_date: 2012-09-25
+summary: Presents a controversial history of violence which argues that today's world is the most peaceful time in human existence, drawing on psychological insights into intrinsic values that are causing people to condemn violence as an acceptable measure.

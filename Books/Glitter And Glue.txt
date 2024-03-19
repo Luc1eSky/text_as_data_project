@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 034553283X
+primary_isbn13: 9780345532831
+publisher: Ballantine
+description: A memoir explores the relationships between mothers and daughters.
+title: Glitter And Glue
+author: Kelly Corrigan
+amazon_product_url: http://www.amazon.com/Glitter-Glue-Memoir-Kelly-Corrigan/dp/034553283X?tag=NYTBSREV-20
+list_date: 2014/02/23
+published_date: 2014
+summary: The author of the best-selling The Middle Place presents an account of her perspectives on motherhood, which have been shaped by her job as a nanny for a grieving Australian family and her character-testing experiences with her daughters.

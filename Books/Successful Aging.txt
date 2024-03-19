@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1524744182
+primary_isbn13: 9781524744182
+publisher: Dutton
+description: A neuroscientist suggests using resilience strategies as we grow older.
+title: Successful Aging
+author: Daniel J Levitin
+amazon_product_url: https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182?tag=NYTBSREV-20
+list_date: 2020/01/26
+published_data: 2020
+summary: Author of the iconic bestsellers This Is Your Brain on Music and The Organized Mind, Daniel Levitin turns his keen insights to what happens in our brains as we age, why we should think about health span, not life span, and, based on a rigorous analysis of neuroscientific evidence, what you can do to make the most of your seventies, eighties, and nineties today no matter how old you are now. Successful Aging uses research from developmental neuroscience and the psychology of individual differences to show that sixty-plus years is a unique developmental stage that, like infancy or adolescence, has its own demands and distinct advantages. Levitin looks at the science behind what we all can learn from those who age joyously, as well as how to adapt our culture to take full advantage of older people's wisdom and experience. Throughout his exploration of what aging really means, Levitin reveals resilience strategies and practical, cognitive enhancing tricks everyone should do as they age. The book is packed with accessible and discussable takeaways, providing great material for reading groups and media coverage. Successful Aging inspires a powerful new approach to how readers think about our final decades, and it will revolutionize the way we plan for old age as individuals, family members, and citizens within a society where the average life expectancy continues to rise.
+author_new0: Daniel J Levitin

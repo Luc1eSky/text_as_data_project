@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062368532
+primary_isbn13: 9780062368539
+publisher: Ecco
+description: The author of "The Gnostic Gospels" looks at how religious traditions shape personal understanding.
+title: Why Religion?
+author: Elaine Pagels
+amazon_product_url: https://www.amazon.com/Why-Religion-Personal-Elaine-Pagels/dp/0062368532?tag=NYTBSREV-20
+list_date: 2018/11/25
+published_data: 2018-11-06
+summary: New York Times bestseller One of PW’s Best Books of the Year One of Amazon’s Best Books of the Month Why is religion still around in the twenty-first century? Why do so many still believe? And how do various traditions still shape the way people experience everything from sexuality to politics, whether they are religious or not? In Why Religion? Elaine Pagels looks to her own life to help address these questions. These questions took on a new urgency for Pagels when dealing with unimaginable loss—the death of her young son, followed a year later by the shocking loss of her husband. Here she interweaves a personal story with the work that she loves, illuminating how, for better and worse, religious traditions have shaped how we understand ourselves; how we relate to one another; and, most importantly, how to get through the most difficult challenges we face. Drawing upon the perspectives of neurologists, anthropologists, and historians, as well as her own research, Pagels opens unexpected ways of understanding persistent religious aspects of our culture. A provocative and deeply moving account from one of the most compelling religious thinkers at work today, Why Religion? explores the spiritual dimension of human experience.
+author_new0: Elaine Pagels

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0316244570
+primary_isbn13: 9780316244572
+publisher: Little, Brown
+description: A memoir by the songwriter, lead singer and lead guitarist of Creedence Clearwater Revival.
+title: Fortunate Son
+author: John Fogerty with Jimmy McDonough
+amazon_product_url: http://www.amazon.com/Fortunate-Son-My-Life-Music-ebook/dp/B00T3E78FE?tag=NYTBSREV-20
+list_date: 2015/10/25
+published_date: 2015-10-06
+summary: NATIONAL BESTSELLER The long-awaited memoir from John Fogerty, the legendary singer-songwriter and creative force behind Creedence Clearwater Revival. Creedence Clearwater Revival is one of the most important and beloved bands in the history of rock, and John Fogerty wrote, sang, and produced their instantly recognizable classics: "Proud Mary," "Bad Moon Rising," "Born on the Bayou," and more. Now he reveals how he brought CCR to number one in the world, eclipsing even the Beatles in 1969. By the next year, though, Creedence was falling apart; their amazing, enduring success exploded and faded in just a few short years. FORTUNATE SON takes readers from Fogerty's Northern California roots, through Creedence's success and the retreat from music and public life, to his hard-won revival as a solo artist who finally found love.

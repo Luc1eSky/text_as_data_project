@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1328545865
+primary_isbn13: 9781328545862
+publisher: Houghton Mifflin Harcourt
+description: How artificial intelligence might affect blue-collar jobs and human history in the near future.
+title: Ai Superpowers
+author: Kai-Fu Lee
+amazon_product_url: https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF?tag=NYTBSREV-20
+list_date: 2018/10/14
+published_date: 2018-09-25
+summary: THE NEW YORK TIMES, USA TODAY, AND WALL STREET JOURNAL BESTSELLER "Kai-Fu Lee believes China will be the next tech-innovation superpower and in AI Superpowers: China, Silicon Valley, and the New World Order, he explains why. Taiwan-born Lee is perfectly positioned for the task."—New York Magazine In this thought-provoking book, Lee argues powerfully that because of the unprecedented developments in AI, dramatic changes will be happening much sooner than many of us expected. Indeed, as the US-Sino AI competition begins to heat up, Lee urges the US and China to both accept and to embrace the great responsibilities that come with significant technological power. Most experts already say that AI will have a devastating impact on blue-collar jobs. But Lee predicts that Chinese and American AI will have a strong impact on white-collar jobs as well. Is universal basic income the solution? In Lee’s opinion, probably not. But he provides a clear description of which jobs will be affected and how soon, which jobs can be enhanced with AI, and most importantly, how we can provide solutions to some of the most profound changes in the future of human history.

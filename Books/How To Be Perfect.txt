@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: 1982159316
+primary_isbn13: 9781982159313
+publisher: Simon & Schuster
+description: The creator of “The Good Place” incorporates works by various philosophers to examine ethical questions and moral issues.
+title: How To Be Perfect
+author: Michael Schur
+amazon_product_url: https://www.amazon.com/dp/B09RG2CWBW?tag=NYTBSREV-20
+list_date: 2022/03/13
+published_data: 2022-01-25
+summary: "From the creator of The Good Place and the co-creator of Parks and Recreation, a ... guide to living an ethical life, drawing on 2,500 years of deep thinking from around the world"--
+author_new0: Michael Schur

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0593136330
+primary_isbn13: 9780593136331
+publisher: Crown
+description: The author of “The Spy and the Traitor” profiles Allied prisoners detained by the German Army in Colditz Castle during World War II.
+title: Prisoners Of The Castle
+author: Ben Macintyre
+amazon_product_url: https://www.amazon.com/dp/0593136330?tag=NYTBSREV-20
+list_date: 2022/10/02
+published_data: 2022-09-13
+summary: NEW YORK TIMES BESTSELLER • The “entertaining yet objective and often-moving account” (The Wall Street Journal) of one of history’s most notorious prisons—and the remarkable cast of POWs who tried relentlessly to escape their captors, from the author of The Spy and the Traitor “Not since Ian Fleming and John le Carré has a spy writer so captivated readers.”—The Hollywood Reporter In this gripping narrative, Ben Macintyre tackles one of the most famous prison stories in history and makes it utterly his own. During World War II, the German army used the towering Colditz Castle to hold the most defiant Allied prisoners. For four years, these prisoners of the castle tested its walls and its guards with ingenious escape attempts that would become legend. But as Macintyre shows, the story of Colditz was about much more than escape. Its population represented a society in miniature, full of heroes and traitors, class conflicts and secret alliances, and the full range of human joy and despair. In Macintyre’s telling, Colditz’s most famous names—like the indomitable Pat Reid—share glory with lesser known but equally remarkable characters like Indian doctor Birendranath Mazumdar whose ill treatment, hunger strike, and eventual escape read like fiction; Florimond Duke, America’s oldest paratrooper and least successful secret agent; and Christopher Clayton Hutton, the brilliant inventor employed by British intelligence to manufacture covert escape aids for POWs. Prisoners of the Castle traces the war’s arc from within Colditz’s stone walls, where the stakes rose as Hitler’s war machine faltered and the men feared that liberation would not come soon enough to spare them a grisly fate at the hands of the Nazis. Bringing together the wartime intrigue of his acclaimed Operation Mincemeat and keen psychological portraits of his bestselling true-life spy stories, Macintyre has breathed new life into one of the greatest war stories ever told.
+author_new0: Ben Macintyre

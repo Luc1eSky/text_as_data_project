@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1250852064
+primary_isbn13: 9781250852069
+publisher: Holt
+description: The actress and philanthropist shares stories of adversity on her way to career success.
+title: Tell Me Everything
+author: Minka Kelly
+amazon_product_url: https://www.amazon.com/dp/1250852064?tag=NYTBSREV-20
+list_date: 2023/05/21
+published_data: 2023-05-02
+summary: “A timely, urgent portrait of working-class American women.” —Gabrielle Union In her highly anticipated memoir Tell Me Everything, Minka Kelly shares a story as powerful as it is page-turning. Fans know her as the spoiled, rich cheerleader Lyla Garrity on Friday Night Lights or as the affluent, mysterious Samantha on the HBO megahit Euphoria. But as revealed for the first time in these pages, Minka Kelly’s life has been anything but easy. Raised by a single mother who worked as a stripper and struggled with addiction, Minka spent years waking up in strange apartments as she and her mom bounced around the country, relying on friends and relatives to take them in. At times they even lived in storage units. She reconnected with her father, Aerosmith’s Rick Dufay, and eventually made her way to Los Angeles, where she landed the role of a lifetime on Friday Night Lights. Now an established actress and philanthropist, Minka takes this next step in her career as a writer. She has poured her soul into the pages of this book, which ultimately tells a story of triumph over adversity, and how resilience and love are all we have in the end.
+author_new0: Minka Kelly

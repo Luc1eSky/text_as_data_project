@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0374286671
+primary_isbn13: 9780374286675
+publisher: Farrar, Straus & Giroux
+description: The National Book Award and Pulitzer Prize winner examines the shifts in American culture and politics by visiting three cities in which he has lived.
+title: Wildland
+author: Evan Osnos
+amazon_product_url: https://www.amazon.com/dp/0374286671?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021-09-14
+summary: "Portions of this book originally appeared, in different form, in The New Yorker."--Title page verso.
+author_new0: Evan Osnos

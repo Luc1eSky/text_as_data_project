@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780062097767
+publisher: Harper
+description: The fate of 230 Frenchwomen, members of the Resistance, sent to Auschwitz in 1943; originally published in 2011.
+title: A Train In Winter
+author: Caroline Moorehead
+amazon_product_url: http://www.amazon.com/Train-Winter-Extraordinary-Friendship-Resistance/dp/0061650714?tag=NYTBSREV-20
+list_date: 2015/10/04
+published_date: 2021-09-15
+summary: N/A

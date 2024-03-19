@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 15
+primary_isbn10: 1627790640
+primary_isbn13: 9781627790642
+publisher: Holt
+description: Major events and battles during the Revolutionary War are told from several perspectives.
+title: Killing England
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: https://www.amazon.com/Killing-England-Struggle-American-Independence/dp/1627790640?tag=NYTBSREV-20
+list_date: 2018/01/14
+published_date: 2017-09-19
+summary: Through the eyes of George Washington, Benjamin Franklin, Thomas Jefferson, and King George III, chronicles the path to American independence, from the battlefields of America to the royal courts of Europe.

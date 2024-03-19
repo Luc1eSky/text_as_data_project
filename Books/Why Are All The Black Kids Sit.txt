@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 3
+primary_isbn10: 0465060684
+primary_isbn13: 9780465060689
+publisher: Basic
+description: The president emerita of Spelman College examines whether self-segregation is a problem or a coping strategy.
+title: Why Are All The Black Kids Sitting Together In The Cafeteria?
+author: Beverly Daniel Tatum
+amazon_product_url: https://www.amazon.com/dp/0465060684?tag=NYTBSREV-20
+list_date: 2020/07/05
+published_data: 2017-09-05
+summary: The classic, bestselling book on the psychology of racism-now fully revised and updated Walk into any racially mixed high school and you will see Black, White, and Latino youth clustered in their own groups. Is this self-segregation a problem to address or a coping strategy? Beverly Daniel Tatum, a renowned authority on the psychology of racism, argues that straight talk about our racial identities is essential if we are serious about enabling communication across racial and ethnic divides. These topics have only become more urgent as the national conversation about race is increasingly acrimonious. This fully revised edition is essential reading for anyone seeking to understand the dynamics of race in America. "An unusually sensitive work about the racial barriers that still divide us in so many areas of life."-Jonathan Kozol
+author_new0: Beverly Daniel Tatum

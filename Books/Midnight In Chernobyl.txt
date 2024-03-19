@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 3
+primary_isbn10: 1501134647
+primary_isbn13: 9781501134647
+publisher: Simon & Schuster
+description: An account of the 1986 disaster at the Chernobyl nuclear power plant, based on hundreds of hours of interviews.
+title: Midnight In Chernobyl
+author: Adam Higginbotham
+amazon_product_url: https://www.amazon.com/Midnight-Chernobyl-Greatest-Nuclear-Disaster-ebook/dp/B07GNV7PNH?tag=NYTBSREV-20
+list_date: 2020/01/19
+published_data: 2019-02-12
+summary: A New York Times Best Book of the Year A Time Best Book of the Year A Kirkus Reviews Best Nonfiction Book of the Year 2020 Andrew Carnegie Medals for Excellence Winner One of NPR’s Best Books of 2019 Journalist Adam Higginbotham’s definitive, years-in-the-making account of the Chernobyl nuclear power plant disaster—and a powerful investigation into how propaganda, secrecy, and myth have obscured the true story of one of the twentieth century’s greatest disasters. Early in the morning of April 26, 1986, Reactor Number Four of the Chernobyl Atomic Energy Station exploded, triggering history’s worst nuclear disaster. In the thirty years since then, Chernobyl has become lodged in the collective nightmares of the world: shorthand for the spectral horrors of radiation poisoning, for a dangerous technology slipping its leash, for ecological fragility, and for what can happen when a dishonest and careless state endangers its citizens and the entire world. But the real story of the accident, clouded from the beginning by secrecy, propaganda, and misinformation, has long remained in dispute. Drawing on hundreds of hours of interviews conducted over the course of more than ten years, as well as letters, unpublished memoirs, and documents from recently-declassified archives, Adam Higginbotham has written a harrowing and compelling narrative which brings the disaster to life through the eyes of the men and women who witnessed it firsthand. The result is a masterful nonfiction thriller, and the definitive account of an event that changed history: a story that is more complex, more human, and more terrifying than the Soviet myth. Midnight in Chernobyl is an indelible portrait of one of the great disasters of the twentieth century, of human resilience and ingenuity, and the lessons learned when mankind seeks to bend the natural world to his will—lessons which, in the face of climate change and other threats, remain not just vital but necessary.
+author_new0: Adam Higginbotham

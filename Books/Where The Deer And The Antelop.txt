@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1101984694
+primary_isbn13: 9781101984697
+publisher: Dutton
+description: The actor and humorist shares stories and observations from three quests taken in the outdoors.
+title: Where The Deer And The Antelope Play
+author: Nick Offerman
+amazon_product_url: https://www.amazon.com/dp/1101984694?tag=NYTBSREV-20
+list_date: 2021/10/31
+published_data: 2021-10-12
+summary: A humorous and rousing set of literal and figurative sojourns as well as a mission statement about comprehending, protecting, and truly experiencing the outdoors, fueled by three journeys undertaken by actor, humorist, and New York Times bestselling author Nick Offerman Nick Offerman has always felt a particular affection for the Land of the Free—not just for the people and their purported ideals but to the actual land itself: the bedrock, the topsoil, and everything in between that generates the health of your local watershed. In his new book, Nick takes a humorous, inspiring, and elucidating trip to America's trails, farms, and frontier to examine the people who inhabit the land, what that has meant to them and us, and to the land itself, both historically and currently. In 2018, Wendell Berry posed a question to Nick, a query that planted the seed of this book, sending Nick on two memorable journeys with pals—a hiking trip to Glacier National Park with his friends Jeff Tweedy and George Saunders, as well as an extended visit to his friend James Rebanks, the author of The Shepherd's Life and English Pastoral. He followed that up with an excursion that could only have come about in 2020—Nick and his wife, Megan Mullally, bought an Airstream trailer to drive across (several of) the United States. These three quests inspired some “deep-ish" thinking from Nick, about the history and philosophy of our relationship with nature in our national parks, in our farming, and in our backyards; what we mean when we talk about conservation; and the importance of outdoor recreation, all subjects very close to Nick's heart. With witty, heartwarming stories and a keen insight into the human problems we all confront, this is both a ramble through and celebration of the land we all love.
+author_new0: Nick Offerman

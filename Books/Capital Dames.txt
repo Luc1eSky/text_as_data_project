@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062002767
+primary_isbn13: 9780062002761
+publisher: Harper
+description: Women in Washington, D.C., during the Civil War.
+title: Capital Dames
+author: Cokie Roberts
+amazon_product_url: http://www.amazon.com/Capital-Dames-Civil-Washington-1848-1868/dp/0062002767?tag=NYTBSREV-20
+list_date: 2015/05/03
+published_date: 2015-04-14
+summary: In this engrossing and informative companion to her New York Times bestsellers Founding Mothers and Ladies of Liberty, Cokie Roberts marks the sesquicentennial of the Civil War by offering a riveting look at Washington, D.C. and the experiences, influence, and contributions of its women during this momentous period of American history. With the outbreak of the Civil War, the small, social Southern town of Washington, D.C. found itself caught between warring sides in a four-year battle that would determine the future of the United States. After the declaration of secession, many fascinating Southern women left the city, leaving their friends—such as Adele Cutts Douglas and Elizabeth Blair Lee—to grapple with questions of safety and sanitation as the capital was transformed into an immense Union army camp and later a hospital. With their husbands, brothers, and fathers marching off to war, either on the battlefield or in the halls of Congress, the women of Washington joined the cause as well. And more women went to the Capital City to enlist as nurses, supply organizers, relief workers, and journalists. Many risked their lives making munitions in a highly flammable arsenal, toiled at the Treasury Department printing greenbacks to finance the war, and plied their needlework skills at The Navy Yard—once the sole province of men—to sew canvas gunpowder bags for the troops. Cokie Roberts chronicles these women's increasing independence, their political empowerment, their indispensable role in keeping the Union unified through the war, and in helping heal it once the fighting was done. She concludes that the war not only changed Washington, it also forever changed the place of women. Sifting through newspaper articles, government records, and private letters and diaries—many never before published—Roberts brings the war-torn capital into focus through the lives of its formidable women.

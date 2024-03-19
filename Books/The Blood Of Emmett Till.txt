@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1476714843
+primary_isbn13: 9781476714844
+publisher: Simon & Schuster
+description: An account of the shocking 1955 lynching presents new evidence.
+title: The Blood Of Emmett Till
+author: Timothy B Tyson
+amazon_product_url: https://www.amazon.com/Blood-Emmett-Till-Timothy-Tyson/dp/1476714843?tag=NYTBSREV-20
+list_date: 2017/02/19
+published_date: 2017-01-31
+summary: Draws on firsthand testimonies and recovered court transcripts to present a scholarly account of the 1955 lynching of Emmett Till and its role in launching the civil rights movement.

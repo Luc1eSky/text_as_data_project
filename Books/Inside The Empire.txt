@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1328589358
+primary_isbn13: 9781328589354
+publisher: Houghton Mifflin Harcourt
+description: The 2018 season provides a backdrop to an inside look at the New York Yankees.
+title: Inside The Empire
+author: Bob Klapisch and Paul Solotaroff
+amazon_product_url: https://www.amazon.com/Inside-Empire-Power-Behind-Yankees/dp/1328589358?tag=NYTBSREV-20
+list_date: 2019/04/14
+published_data: 2019
+summary: Forthcoming from Houghton Mifflin Harcourt
+author_new0: Bob Klapisch
+author_new1: Paul Solotaroff

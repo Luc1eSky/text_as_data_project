@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 8
+primary_isbn10: 1250130336
+primary_isbn13: 9781250130334
+publisher: Flatiron
+description: The story of a secret plot to kill George Washington in 1776.
+title: The First Conspiracy
+author: Brad Meltzer and Josh Mensch
+amazon_product_url: https://www.amazon.com/First-Conspiracy-Secret-George-Washington/dp/1250130336?tag=NYTBSREV-20
+list_date: 2019/03/17
+published_data: 2019-01-08
+summary: Taking place during the most critical period of our nation’s birth, The First Conspiracy tells a remarkable and previously untold piece of American history that not only reveals George Washington’s character, but also illuminates the origins of America’s counterintelligence movement that led to the modern day CIA. In 1776, an elite group of soldiers were handpicked to serve as George Washington’s bodyguards. Washington trusted them; relied on them. But unbeknownst to Washington, some of them were part of a treasonous plan. In the months leading up to the Revolutionary War, these traitorous soldiers, along with the Governor of New York, William Tryon, and Mayor David Mathews, launched a deadly plot against the most important member of the military: George Washington himself. This is the story of the secret plot and how it was revealed. It is a story of leaders, liars, counterfeiters, and jailhouse confessors. It also shows just how hard the battle was for George Washington and how close America was to losing the Revolutionary War. In this historical page-turner, New York Times bestselling author Brad Meltzer teams up with American history writer and documentary television producer, Josh Mensch to unravel the shocking true story behind what has previously been a footnote in the pages of history. Drawing on extensive research, Meltzer and Mensch capture in riveting detail how George Washington not only defeated the most powerful military force in the world, but also uncovered the secret plot against him in the tumultuous days leading up to July 4, 1776. Praise for The First Conspiracy: "This is American history at its finest, a gripping story of spies, killers, counterfeiters, traitors?and a mysterious prostitute who may or may not have even existed. Anyone with an interest in American history will love this book." —Douglas Preston, #1 bestselling author of The Lost City of the Monkey God “A wonderful book about leadership?and it shows why George Washington and his moral lessons are just as vital today. What a book. You’ll love it.” —President George H.W. Bush “This is an important book: a fascinating largely unknown chapter of our hazardous beginning, a reminder of why counterintelligence matters, and a great read.” —President Bill Clinton
+author_new0: Brad Meltzer
+author_new1: Josh Mensch

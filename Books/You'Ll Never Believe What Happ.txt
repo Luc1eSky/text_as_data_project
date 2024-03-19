@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1538719363
+primary_isbn13: 9781538719367
+publisher: Grand Central
+description: A pair of sisters who live in different parts of the country share their perspectives on the absurdities and everyday experiences of racism.
+title: You'Ll Never Believe What Happened To Lacey
+author: Amber Ruffin and Lacey Lamar
+amazon_product_url: https://www.amazon.com/dp/1538719363?tag=NYTBSREV-20
+list_date: 2021/01/31
+published_data: 2021-01-12
+summary: A writer and performer on Late Night with Seth Meyers and her sister share absurd anecdotes about everyday experiences of racism.
+author_new0: Amber Ruffin
+author_new1: Lacey Lamar

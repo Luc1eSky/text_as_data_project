@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1250877520
+primary_isbn13: 9781250877529
+publisher: Celadon
+description: The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin.
+title: The January 6Th Report
+author: the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol
+amazon_product_url: https://www.amazon.com/dp/1250877520?tag=NYTBSREV-20
+list_date: 2023/02/12
+published_data: 2022-12-27
+summary: "Presents the full text of the Select Committee to Investigate the January 6th Attack on the United States Capitol's report, which addresses the origins of the insurrection, how it was organized and funded and the role of Donald Trump and other high-ranking officials"--
+author_new0: the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol

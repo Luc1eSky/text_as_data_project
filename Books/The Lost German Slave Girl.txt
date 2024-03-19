@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780802199782
+publisher: Grove
+description: The story of an enigmatic woman’s fight for freedom in 19th-century New Orleans; first published in 2003.
+title: The Lost German Slave Girl
+author: John Bailey
+amazon_product_url: http://www.amazon.com/Lost-German-Slave-Girl-Extraordinary-ebook/dp/B008UX3SSK?tag=NYTBSREV-20
+list_date: 2015/01/25

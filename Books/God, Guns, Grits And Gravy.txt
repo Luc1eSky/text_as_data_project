@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1250060990
+primary_isbn13: 9781250060990
+publisher: St. Martin's
+description: The former Arkansas governor offers his take on our fractious American culture.
+title: God, Guns, Grits And Gravy
+author: Mike Huckabee
+amazon_product_url: http://www.amazon.com/Guns-Grits-Gravy-Mike-Huckabee/dp/1250060990?tag=NYTBSREV-20
+list_date: 2015/02/15
+published_date: 2015-01-20
+summary: The New York Times best-selling author, 2008 presidential candidate and host of his own television and radio shows looks at American life, culture, politics and ideals.

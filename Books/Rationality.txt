@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0525561994
+primary_isbn13: 9780525561996
+publisher: Viking
+description: An exploration of several tools of reasoning often overlooked in standard education and some of the causes of irrationality within society.
+title: Rationality
+author: Steven Pinker
+amazon_product_url: https://www.amazon.com/dp/0525561994?tag=NYTBSREV-20
+list_date: 2021/10/17
+published_data: 2021-09-28
+summary: NEW YORK TIMES BESTSELLER “In our uncertain age, which can so often feel so dark and disturbing, Steven Pinker has distinguished himself as a voice of positivity.” – New York Times Can reading a book make you more rational? Can it help us understand why there is so much irrationality in the world? Steven Pinker, author of Enlightenment Now (Bill Gates’s "new favorite book of all time”) answers all the questions here Today humanity is reaching new heights of scientific understanding--and also appears to be losing its mind. How can a species that developed vaccines for Covid-19 in less than a year produce so much fake news, medical quackery, and conspiracy theorizing? Pinker rejects the cynical cliché that humans are simply irrational--cavemen out of time saddled with biases, fallacies, and illusions. After all, we discovered the laws of nature, lengthened and enriched our lives, and set out the benchmarks for rationality itself. We actually think in ways that are sensible in the low-tech contexts in which we spend most of our lives, but fail to take advantage of the powerful tools of reasoning we’ve discovered over the millennia: logic, critical thinking, probability, correlation and causation, and optimal ways to update beliefs and commit to choices individually and with others. These tools are not a standard part of our education, and have never been presented clearly and entertainingly in a single book--until now. Rationality also explores its opposite: how the rational pursuit of self-interest, sectarian solidarity, and uplifting mythology can add up to crippling irrationality in a society. Collective rationality depends on norms that are explicitly designed to promote objectivity and truth. Rationality matters. It leads to better choices in our lives and in the public sphere, and is the ultimate driver of social justice and moral progress. Brimming with Pinker’s customary insight and humor, Rationality will enlighten, inspire, and empower.
+author_new0: Steven Pinker

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 13
+primary_isbn10: 1476773092
+primary_isbn13: 9781476773094
+publisher: Threshold Editions
+description: The conservative commentator and radio host makes his case that the press is aligned with political ideology.
+title: Unfreedom Of The Press
+author: Mark R Levin
+amazon_product_url: https://www.amazon.com/Unfreedom-Press-Mark-R-Levin/dp/1476773092?tag=NYTBSREV-20
+list_date: 2019/09/01
+published_data: 2019-05-21
+summary: From six-time #1 New York Times bestselling author, FOX News star, and radio host Mark R. Levin comes a groundbreaking and enlightening book that shows how the great tradition of the American free press has degenerated into a standardless profession that has squandered the faith and trust of the American public, not through actions of government officials, but through its own abandonment of reportorial integrity and objective journalism. Unfreedom of the Press is not just another book about the press. Levin shows how those entrusted with news reporting today are destroying freedom of the press from within: “not government oppression or suppression,” he writes, but self-censorship, group-think, bias by omission, and passing off opinion, propaganda, pseudo-events, and outright lies as news. With the depth of historical background for which his books are renowned, Levin takes the reader on a journey through the early American patriot press, which proudly promoted the principles set forth in the Declaration of Independence and the Constitution, followed by the early decades of the Republic during which newspapers around the young country were open and transparent about their fierce allegiance to one political party or the other. It was only at the start of the Progressive Era and the twentieth century that the supposed “objectivity of the press” first surfaced, leaving us where we are today: with a partisan party-press overwhelmingly aligned with a political ideology but hypocritically engaged in a massive untruth as to its real nature.
+author_new0: Mark R Levin

@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1250271843
+primary_isbn13: 9781250271846
+publisher: St. Martin's
+description: The Cuban refugee and retired C.I.A. officer depicts his career fighting what he describes as shadow wars for the United States.
+title: Black Ops
+author: Ric Prado
+amazon_product_url: https://www.amazon.com/dp/1250271843?tag=NYTBSREV-20
+list_date: 2022/03/20
+published_data: 2022-03
+summary: "Enrique Prado found himself in his first firefight at age seven. The son of a middle-class Cuban family caught in the midst of the Castro Revolution, his family fled their war-torn home for the hope of a better life in America. Fifty years later, the Cuban refugee retired from the Central Intelligence Agency as the CIA equivalent of a two-star general. Black Ops is the story of [a] ... career that spanned two eras: the Cold War and the Age of Terrorism. Operating in the shadows, Ric and his fellow CIA officers fought a little-seen and virtually unknown war to keep USA safe from those who would do it harm."--
+author_new0: Ric Prado

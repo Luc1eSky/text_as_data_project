@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 006188507X
+primary_isbn13: 9780061885075
+publisher: HarperCollins
+description: A memoir of the author's experience at the Federal Medical Center in Carville, La.,where inmates and prison guards shared space with leprosy patients and public health workers. Originally published in 2009.
+title: In The Sanctuary Of Outcasts
+author: Neil White
+amazon_product_url: http://www.amazon.com/Sanctuary-Outcasts-Memoir-P-S-ebook/dp/B002BD2UTS?tag=NYTBSREV-20
+list_date: 2016/09/04
+published_date: 2009-06-02
+summary: "A remarkable story of a young man's loss of everything he deemed important, and his ultimate discovery that redemption can be taught by society's most dreaded outcasts." —John Grisham "Hilarious, astonishing, and deeply moving." —John Berendt, author of Midnight in the Garden of Good and Evil The emotional, incredible true story of Neil White, a man who discovers the secret to happiness, leading a fulfilling life, and the importance of fatherhood in the most unlikely of places—the last leper colony in the continental United States. In the words of Pulitzer Prize winner Robert Olen Butler (A Good Scent from a Strange Mountain), White is “a splendid writer,” and In the Sanctuary of Outcasts “a book that will endure.”

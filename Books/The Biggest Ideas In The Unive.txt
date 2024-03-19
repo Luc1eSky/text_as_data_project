@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0593186583
+primary_isbn13: 9780593186589
+publisher: Dutton
+description: The ways in which physics can be used to explain how some things function in the universe.
+title: The Biggest Ideas In The Universe
+author: Sean Carroll
+amazon_product_url: https://www.amazon.com/dp/0593186583?tag=NYTBSREV-20
+list_date: 2022/10/09
+published_data: 2022-09-20
+summary: INSTANT NEW YORK TIMES BESTSELLER “Most appealing... technical accuracy and lightness of tone... Impeccable.”—Wall Street Journal “A porthole into another world.”—Scientific American “Brings science dissemination to a new level.”—Science The most trusted explainer of the most mind-boggling concepts pulls back the veil of mystery that has too long cloaked the most valuable building blocks of modern science. Sean Carroll, with his genius for making complex notions entertaining, presents in his uniquely lucid voice the fundamental ideas informing the modern physics of reality. Physics offers deep insights into the workings of the universe but those insights come in the form of equations that often look like gobbledygook. Sean Carroll shows that they are really like meaningful poems that can help us fly over sierras to discover a miraculous multidimensional landscape alive with radiant giants, warped space-time, and bewilderingly powerful forces. High school calculus is itself a centuries-old marvel as worthy of our gaze as the Mona Lisa. And it may come as a surprise the extent to which all our most cutting-edge ideas about black holes are built on the math calculus enables. No one else could so smoothly guide readers toward grasping the very equation Einstein used to describe his theory of general relativity. In the tradition of the legendary Richard Feynman lectures presented sixty years ago, this book is an inspiring, dazzling introduction to a way of seeing that will resonate across cultural and generational boundaries for many years to come.
+author_new0: Sean Carroll

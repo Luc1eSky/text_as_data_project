@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0345526317
+primary_isbn13: 9780345526311
+publisher: Villard
+description: Humorous tales of marriage, family and missteps.
+title: It Looked Different On The Model
+author: Laurie Notaro
+amazon_product_url: http://www.amazon.com/It-Looked-Different-Model-Impending-ebook/dp/B004J4WMH2?tag=NYTBSREV-20
+list_date: 2014/07/13
+published_date: 2011-07-26
+summary: #1 NEW YORK TIMES BESTSELLER Everyone’s favorite Idiot Girl, Laurie Notaro, is just trying to find the right fit, whether it’s in the adorable blouse that looks charming on the mannequin but leaves her in a literal bind or in her neighborhood after she’s shamefully exposed at a holiday party by delivering a low-quality rendition of “Jingle Bells.” Notaro makes misstep after riotous misstep as she shares tales of marriage and family, including stories about the dog-bark translator that deciphers Notaro’s and her husband’s own “woofs” a little too accurately, the emails from her mother with “FWD” in the subject line (“which in email code means Forecasting World Destruction”), and the dead-of-night shopping sprees and Devil Dog–devouring monkeyshines of a creature known as “Ambien Laurie.” At every turn, Notaro’s pluck and irresistible candor set the New York Times bestselling author on a journey that’s laugh-out-loud funny and utterly unforgettable.

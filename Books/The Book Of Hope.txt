@@ -1,0 +1,15 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1250784093
+primary_isbn13: 9781250784094
+publisher: Celadon
+description: The naturalist explores an element of human nature during a time of multiple crises in areas of health, climate and politics.
+title: The Book Of Hope
+author: Jane Goodall and Douglas Abrams with Gail Hudson
+amazon_product_url: https://www.amazon.com/dp/1250784093?tag=NYTBSREV-20
+list_date: 2021/11/14
+published_data: 2021-10-19
+summary: Probably the question I am asked more often than any other is: Do you honestly believe there is hope for our world? For the future of our children and grandchildren? And I am able to answer truthfully, yes. Book jacket.
+author_new0: Jane Goodall
+author_new1: Douglas Abrams
+author_new2: Gail Hudson

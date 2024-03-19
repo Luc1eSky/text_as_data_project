@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0385539002
+primary_isbn13: 9780385539005
+publisher: Doubleday
+description: The world of cybercrime and corporate spying, and advice on protecting yourself.
+title: Future Crimes
+author: Marc Goodman
+amazon_product_url: http://www.amazon.com/Future-Crimes-Everything-Connected-Vulnerable-ebook/dp/B00N6PCZMC?tag=NYTBSREV-20
+list_date: 2015/03/22
+published_date: 2015
+summary: An FBI futurist and senior advisor to Interpol analyzes the digital underground to reveal the ways criminals, corporations, and countries are using emerging technologies to target individuals and wage war.

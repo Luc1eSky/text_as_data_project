@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0399563148
+primary_isbn13: 9780399563140
+publisher: Penguin Press
+description: A recounting of the unexpected events of the 1968 presidential election.
+title: Playing With Fire
+author: Lawrence O'Donnell
+amazon_product_url: https://www.amazon.com/Playing-Fire-Election-Transformation-American/dp/0399563148?tag=NYTBSREV-20
+list_date: 2017/11/26
+published_date: 2017
+summary: The celebrated host of MSNBC's The Last Word with Lawrence O'Donnell presents an account of the 1968 presidential election to evaluate its lasting influence on American politics and the Democratic party, exploring the pivotal roles of RFK and McCarthy, two high-profile assassinations and the Chicago riots.

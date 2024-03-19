@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 0143126814
+primary_isbn13: 9780143126812
+publisher: Penguin
+description: The disaster of the Essex, which was sunk by a sperm whale in 1820, and the travails that followed. Originally published in 2000. The inspiration for the movie as well as, earlier, for "Moby-Dick."
+title: In The Heart Of The Sea
+author: Nathaniel Philbrick
+amazon_product_url: http://www.amazon.com/In-Heart-Sea-Tragedy-Whaleship/dp/0141001828?tag=NYTBSREV-20
+list_date: 2016/01/10
+published_date: 2015
+summary: Recounts the story of the 1820 wreck of the whaleship Essex—which inspired Melville's classic Moby Dick—and its doomed crew's 90-day attempt to survive whale attacks and the elements on three tiny lifeboats, in a book that is the basis of the forthcoming film directed by Ron Howard. Reissue.

@@ -1,0 +1,10 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0984932631
+primary_isbn13: 9780984932634
+publisher: Dundee-Lakemont
+description: A memoir of a daughter’s caregiving for her mother, and a broad overview of Alzheimer’s disease.
+title: Inside The Dementia Epidemic
+author: Martha Stettinius
+amazon_product_url: http://www.amazon.com/Inside-Dementia-Epidemic-Daughters-Memoir-ebook/dp/B0099SHD1S?tag=NYTBSREV-20
+list_date: 2015/05/10

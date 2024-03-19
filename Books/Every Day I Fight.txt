@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0399174060
+primary_isbn13: 9780399174063
+publisher: Blue Rider
+description: A memoir by the ESPN anchor and commentator, who died of cancer in January 2015.
+title: Every Day I Fight
+author: Stuart Scott with Larry Platt
+amazon_product_url: http://www.amazon.com/Every-Day-Fight-Stuart-Scott/dp/0399174060?tag=NYTBSREV-20
+list_date: 2015/04/12
+published_date: 2015
+summary: "A memoir about Scott's fight against cancer"--

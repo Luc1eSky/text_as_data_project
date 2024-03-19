@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1455532703
+primary_isbn13: 9781455532704
+publisher: Grand Central
+description: The New York Times columnist urges students and their parents to give up the high-stakes competition for Ivy League admission and consider other types of schools and other measures of success.
+title: Where You Go Is Not Who You'Ll Be
+author: Frank Bruni
+amazon_product_url: http://www.amazon.com/Where-You-Not-Who-Youll/dp/1455532703?tag=NYTBSREV-20
+list_date: 2015/04/12
+published_date: 2015-03-17
+summary: Read award-winning journalist Frank Bruni's New York Times bestseller: an inspiring manifesto about everything wrong with today's frenzied college admissions process and how to make the most of your college years. Over the last few decades, Americans have turned college admissions into a terrifying and occasionally devastating process, preceded by test prep, tutors, all sorts of stratagems, all kinds of rankings, and a conviction among too many young people that their futures will be determined and their worth established by which schools say yes and which say no. In Where You Go is Not Who You'll Be, Frank Bruni explains why this mindset is wrong, giving students and their parents a new perspective on this brutal, deeply flawed competition and a path out of the anxiety that it provokes. Bruni, a bestselling author and a columnist for the New York Times, shows that the Ivy League has no monopoly on corner offices, governors' mansions, or the most prestigious academic and scientific grants. Through statistics, surveys, and the stories of hugely successful people, he demonstrates that many kinds of colleges serve as ideal springboards. And he illuminates how to make the most of them. What matters in the end are students' efforts in and out of the classroom, not the name on their diploma. Where you go isn't who you'll be. Americans need to hear that--and this indispensable manifesto says it with eloquence and respect for the real promise of higher education.

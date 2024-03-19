@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 1594204586
+primary_isbn13: 9781594204586
+publisher: Penguin Press
+description: How the United States failed to understand a secret wing of a Pakistani intelligence agency and doomed two wars.
+title: Directorate S
+author: Steve Coll
+amazon_product_url: https://www.amazon.com/Directorate-C-I-Americas-Afghanistan-Pakistan/dp/1594204586?tag=NYTBSREV-20
+list_date: 2018/02/25
+published_date: 2018
+summary: Examines "America's intelligence, military, and diplomatic efforts to defeat Al Qaeda and the Taliban in Afghanistan and Pakistan since 9/11"--Amazon.com.

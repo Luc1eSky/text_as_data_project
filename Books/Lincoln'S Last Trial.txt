@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 6
+primary_isbn10: 1488095329
+primary_isbn13: 9781488095320
+publisher: Hanover Square
+description: The 1859 courtroom battle in which Abraham Lincoln defended the murderer of his protégé.
+title: Lincoln'S Last Trial
+author: Dan Abrams and David Fisher
+amazon_product_url: https://www.amazon.com/Lincolns-Last-Trial-Propelled-Presidency/dp/1335424695?tag=NYTBSREV-20
+list_date: 2018/09/09
+published_date: 2018-06-05
+summary: The award-winning, New York Times–bestselling chronicle of the sensational murder trial that would be the capstone of Lincoln’s legal career. In the summer of 1859, twenty-two-year-old “Peachy” Quinn Harrison went on trial for murder in Springfield, Illinois. When Harrison’s father hired Abraham Lincoln to defend him, the case took on momentous meaning. Lincoln’s debates with Senator Stephen Douglas the previous fall had transformed the little-known, self-taught lawyer into a respected politician of national prominence. As Lincoln contemplated a dark-horse run for the presidency in 1860, this case involved great risk. A loss could diminish Lincoln’s untarnished reputation. But the case also posed painful personal challenges for Lincoln. The victim had been his friend and his mentor. The accused killer, whom Lincoln would defend, was the son of a close friend and loyal supporter. And to win this trial he would have to form an unholy allegiance with a longtime enemy, a revivalist preacher he had twice run against for political office. Lincoln’s Last Trial vividly captures Lincoln’s dramatic courtroom confrontations as he fights for his client—but also for his own blossoming political future. It is a moment in history that shines a light on our legal system, our history, and one of our greatest presidents. A Winner of the Barondess/Lincoln Award

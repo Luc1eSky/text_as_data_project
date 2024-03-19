@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 006289790X
+primary_isbn13: 9780062897909
+publisher: Harper
+description: The author of “Clinton Cash” gives his evaluations of members of the Democratic Party.
+title: Profiles In Corruption
+author: Peter Schweizer
+amazon_product_url: https://www.amazon.com/Profiles-Corruption-Abuse-Americas-Progressive/dp/006289790X?tag=NYTBSREV-20
+list_date: 2020/03/15
+published_data: 2020
+summary: "Offers a deep-dive investigation into the private finances and secret deals of some of America's top political leaders"--
+author_new0: Peter Schweizer

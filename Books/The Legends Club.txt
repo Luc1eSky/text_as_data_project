@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 038553941X
+primary_isbn13: 9780385539418
+publisher: Doubleday
+description: A sportswriter’s account of three famous basketball coaches and their rivalry.
+title: The Legends Club
+author: John Feinstein
+amazon_product_url: http://www.amazon.com/The-Legends-Club-Krzyzewski-Basketball/dp/038553941X?tag=NYTBSREV-20
+list_date: 2016/04/03
+published_date: 2016
+summary: Documents the fierce 1980s rivalry among the coaching legends behind the University of North Carolina, Duke University, and North Carolina State, detailing the covert recruiting wars that shaped each team and the national pressure that complicated their leadership methods.

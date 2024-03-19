@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0385353405
+primary_isbn13: 9780385353403
+publisher: Knopf
+description: How Washington, Hamilton, Jay and Madison created the Constitution.
+title: The Quartet
+author: Joseph J Ellis
+amazon_product_url: http://www.amazon.com/The-Quartet-Orchestrating-Revolution-1783-1789/dp/0385353405?tag=NYTBSREV-20
+list_date: 2015/07/19
+published_date: 2015
+summary: The Pulitzer Prize-winning author of Founding Brothers shares historical insights into America's post-Revolution efforts for independence, citing key debates over the creations of the Articles of Confederation and the Bill of Rights.

@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1250178266
+primary_isbn13: 9781250178268
+publisher: Holt
+description: How unchecked climate change, robotics and artificial intelligence threaten human existence.
+title: Falter
+author: Bill McKibben
+amazon_product_url: https://www.amazon.com/Falter-Human-Game-Begun-Itself/dp/1250178266?tag=NYTBSREV-20
+list_date: 2019/05/05
+published_data: 2019-04-16
+summary: Thirty years ago Bill McKibben offered one of the earliest warnings about climate change. Now he broadens the warning: the entire human game, he suggests, has begun to play itself out. Bill McKibben’s groundbreaking book The End of Nature -- issued in dozens of languages and long regarded as a classic -- was the first book to alert us to global warming. But the danger is broader than that: even as climate change shrinks the space where our civilization can exist, new technologies like artificial intelligence and robotics threaten to bleach away the variety of human experience. Falter tells the story of these converging trends and of the ideological fervor that keeps us from bringing them under control. And then, drawing on McKibben’s experience in building 350.org, the first truly global citizens movement to combat climate change, it offers some possible ways out of the trap. We’re at a bleak moment in human history -- and we’ll either confront that bleakness or watch the civilization our forebears built slip away. Falter is a powerful and sobering call to arms, to save not only our planet but also our humanity.
+author_new0: Bill McKibben

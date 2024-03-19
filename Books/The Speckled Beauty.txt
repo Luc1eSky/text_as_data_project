@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0525658815
+primary_isbn13: 9780525658818
+publisher: Knopf
+description: The Pulitzer Prize-winning author recounts the impact an ill-behaved stray dog had on him during an uncertain time.
+title: The Speckled Beauty
+author: Rick Bragg
+amazon_product_url: https://www.amazon.com/dp/0525658815?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021-09-21
+summary: NEW YORK TIMES BEST SELLER • From the best-selling, Pulitzer Prize-winning author of All Over but the Shoutin', the warmhearted and hilarious story of how his life was transformed by his love for a poorly behaved, half-blind stray dog. Speck is not a good boy. He is a terrible boy, a defiant, self-destructive, often malodorous boy, a grave robber and screen door moocher who spends his days playing chicken with the Fed Ex man, picking fights with thousand-pound livestock, and rolling in donkey manure, and his nights howling at the moon. He has been that way since the moment he appeared on the ridgeline behind Rick Bragg's house, a starved and half-dead creature, seventy-six pounds of wet hair and poor decisions. Speck arrived in Rick's life at a moment of looming uncertainty. A cancer diagnosis, chemo, kidney failure, and recurring pneumonia had left Rick lethargic and melancholy. Speck helped, and he is helping, still, when he is not peeing on the rose of Sharon. Written with Bragg's inimitable blend of tenderness and sorrow, humor and grit, The Speckled Beauty captures the extraordinary, sustaining devotion between two damaged creatures who need each other to heal.
+author_new0: Rick Bragg

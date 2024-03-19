@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0063220431
+primary_isbn13: 9780063220430
+publisher: Harper
+description: The co-host of “CBS Saturday Morning” chronicles her search for her mother and efforts to make sense of her mixed-race heritage.
+title: Belonging
+author: Michelle Miller with Rosemarie Robotham
+amazon_product_url: https://www.amazon.com/dp/0063220431?tag=NYTBSREV-20
+list_date: 2023/04/02
+published_data: 2023-03-14
+summary: The award-winning journalist and co-host of CBS Saturday Morning tells the candid, and deeply personal story of her mother's abandonment and how the search for answers forced her to reckon with her own identity and the secrets that shaped her family for five decades. Though Michelle Miller was an award-winning broadcast journalist for CBS News, few people in her life knew the painful secret she carried: her mother had abandoned her at birth. Los Angeles in 1967 was deeply segregated, and her mother--a Chicana hospital administrator who presented as white, had kept her affair with Michelle's father, Dr. Ross Miller, a married trauma surgeon and Compton's first Black city councilman--hidden, along with the unplanned pregnancy. Raised largely by her father and her paternal grandmother, Michelle had no knowledge of the woman whose genes she shared. Then, fate intervened when Michelle was twenty-two. As her father lay stricken with cancer, he told her, "Go and find your mother." Belonging is the chronicle of Michelle's decades-long quest to connect with the woman who gave her life, to confront her past, and ultimately, to find her voice as a journalist, a wife, and a mother. Michelle traces the years spent trying to make sense of her mixed-race heritage and her place in white-dominated world. From the wealthy white schools where she was bussed to integrate, to the newsrooms filled with white, largely male faces, she revisits the emotional turmoil of her formative years and how the enigma of her mother and her rejection shaped Michelle's understanding of herself and her own Blackness. As she charts her personal journey, Michelle looks back on her decades on the ground reporting painful events, from the beating of Rodney King to the death of George Floyd, revealing how her struggle to understand her racial identity coincides with the nation's own ongoing and imperfect racial reckoning. What emerges is an intimate family story about secrets--secrets we keep, secrets we share, and the secrets that make us who we are.
+author_new0: Michelle Miller
+author_new1: Rosemarie Robotham

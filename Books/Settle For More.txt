@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 7
+primary_isbn10: 0062494600
+primary_isbn13: 9780062494603
+publisher: Harper/HarperCollins
+description: The anchor of Fox News’s “The Kelly File” discusses the personal and professional challenges she has faced.
+title: Settle For More
+author: Megyn Kelly
+amazon_product_url: https://www.amazon.com/Settle-More-Megyn-Kelly/dp/0062494600?tag=NYTBSREV-20
+list_date: 2017/01/22
+published_date: 2016-11-15
+summary: Whether it’s asking tough questions during a presidential debate or pressing for answers to today’s most important issues, Megyn Kelly has demonstrated the intelligence, strength, common sense, and courage that have made her one of today’s best-known journalists, respected by women and men, young and old, Republicans and Democrats. In Settle for More, the NBC News anchor reflects on the enduring values and experiences that have shaped her—from growing up in a family that rejected the "trophies for everyone" mentality, to her father’s sudden, tragic death while she was in high school. She goes behind-the-scenes of her career, sharing the stories and struggles that landed her in the anchor chair and taught her to ask the tough questions. Speaking candidly about her decision to "settle for more"—a motto she credits as having dramatically transformed her life at home and at work—Megyn discusses how she abandoned a thriving legal career to follow her journalism dreams. Admired for her hard work, humor, and authenticity, Megyn sheds light on the news business, her time at Fox News, the challenges of being a professional woman and working mother, and her most talked about television moments. She also speaks openly about Donald Trump’s feud with her, revealing never-before-heard details about the first Republican debate, its difficult aftermath, and how she persevered through it all. Deeply personal and surprising, Settle for More offers unparalleled insight into this charismatic and intriguing journalist, and inspires us all to embrace the principles—determination, honesty, and fortitude in the face of fear—that have won her fans across the political divide.

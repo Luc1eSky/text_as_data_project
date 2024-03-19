@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0063162024
+primary_isbn13: 9780063162020
+publisher: Broadside
+description: An associate editor of The Spectator and Fox News contributor makes his arguments against anti-Western rhetoric.
+title: The War On The West
+author: Douglas Murray
+amazon_product_url: https://www.amazon.com/dp/0063162024?tag=NYTBSREV-20
+list_date: 2022/05/15
+published_data: 2022-04-26
+summary: It has become acceptable to discuss the flaws and crimes of Western culture, but celebrating their contributions is also called hate speech. Douglas Murray shows how many well-meaning people have been lured into protests and polarization by lies and hypocrisy. Ranging from an incisive takedown of foolish arguments and activism to a clarion call for the defense of enlightenment values, Murray carefully and methodically shows how far political discourse has strayed in Europe and America from its stated goals: justice and equality. Print run 75,000.
+author_new0: Douglas Murray

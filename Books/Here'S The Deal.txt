@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 3
+primary_isbn10: 1982187344
+primary_isbn13: 9781982187347
+publisher: Threshold Editions
+description: The former senior counselor in President Trump’s White House gives her account of her time in politics.
+title: Here'S The Deal
+author: Kellyanne Conway
+amazon_product_url: https://www.amazon.com/dp/1982187344?tag=NYTBSREV-20
+list_date: 2022/06/26
+published_data: 2022-05-24
+summary: Among the Trump era’s savviest insiders, one name stands especially tall: Kellyanne. As a highly respected pollster for corporate and Republican clients and a frequent television talk show guest, Kellyanne Conway had already established herself as one of the brightest lights on the national political scene when Donald Trump asked her to run his presidential campaign. She agreed, delivering him to the White House, becoming the first woman in American history to manage a winning presidential campaign, and changing the American landscape forever. Who she is, how she did it, and who tried to stop her is a fascinating story of personal triumph and political intrigue that has never been told…until now. In Here’s The Deal, Kellyanne takes you on a journey all the way to the White House and beyond with her trademark sharp wit, raw honesty, and level eye. It’s all here: what it’s like to be dissected on national television. How to outsmart the media mob. How to outclass the crazy critics. How to survive and succeed male-dominated industries. What happens when the perils of social media really hit home. And what happens when the divisions across the country start playing out in one’s own family. In this open and vulnerable account, Kellyanne turns the camera on herself. What she has to share—about our politics, about the media, about her time in the White House, and about her personal journey—is an astonishing glimpse of visibility and vulnerability, of professional and personal highs and lows, and ultimately, of triumph.
+author_new0: Kellyanne Conway

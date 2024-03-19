@@ -1,0 +1,11 @@
+rank: 13
+weeks_on_list: 7
+primary_isbn10: None
+primary_isbn13: 9781734537727
+publisher: Callaway
+description: The story of the making of the band’s final album, gathered from transcripts of their conversations.
+title: The Beatles: Get Back
+author: the Beatles
+amazon_product_url: https://www.amazon.com/dp/0935112960?tag=NYTBSREV-20
+list_date: 2022/01/09
+author_new0: the Beatles

@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 4
+primary_isbn10: 069289344X
+primary_isbn13: 9780692893449
+publisher: Dangerous Books
+description: The alt-right provocateur criticizes political correctness.
+title: Dangerous
+author: Milo Yiannopoulos
+amazon_product_url: https://www.amazon.com/Dangerous-Milo-Yiannopoulos/dp/069289344X?tag=NYTBSREV-20
+list_date: 2017/08/13
+published_date: 2017
+summary: The liberal media machine did everything they could to keep this book out of your hands. Now, finally, Dangerous, the most controversial book of the decade, is tearing down safe spaces everywhere.

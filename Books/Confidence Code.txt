@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 006223062X
+primary_isbn13: 9780062230621
+publisher: Harper Business/HarperCollins
+description: Two journalists interview women in positions of leadership, examine research about confidence and discuss how women can achieve it.
+title: Confidence Code
+author: Katty Kay and Claire Shipman
+amazon_product_url: http://www.amazon.com/The-Confidence-Code-Science-Self-Assurance-What/dp/006223062X?tag=NYTBSREV-20
+list_date: 2014/05/04
+published_date: 2014-04-15
+summary: Confidence. We want it. We need it. But it can be maddeningly enigmatic and out of reach. The authors of the New York Times bestseller Womenomics deconstruct this essential, elusive, and misunderstood quality and offer a blueprint for bringing more of it into our lives. Is confidence hardwired into the DNA of a lucky few—or can anyone learn it? Is it best expressed by bravado, or is there another way to show confidence? Which is more important: confidence or competence? Why do so many women, even the most successful, struggle with feelings of self-doubt? Is there a secret to channeling our inner confidence? In The Confidence Code, journalists Katty Kay and Claire Shipman travel to the frontiers of neuroscience on a hunt for the confidence gene and reveal surprising new research on its roots in our brains. They visit the world's leading psychologists who explain how we can all chose to become more confident simply by taking action and courting risk, and how those actions change our physical wiring. They interview women leaders from the worlds of politics, sports, the military, and the arts to learn how they have tapped into this elemental resource. They examine how a lack of confidence impacts our leadership, success, and fulfillment. Ultimately, they argue, while confidence is partly influenced by genetics, it is not a fixed psychological state. That's the good news. You won't discover it by thinking positive thoughts or by telling yourself (or your children) that you are perfect as you are. You also won't find it by simply squaring your shoulders and faking it. But it does require a choice: less people pleasing and perfectionism and more action, risk taking, and fast failure. Inspiring, insightful, and persuasive, The Confidence Code shows that by acting on our best instincts and by daring to be authentic, women can feel the transformative power of a life on confidence.

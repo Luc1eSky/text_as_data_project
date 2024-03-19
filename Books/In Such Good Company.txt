@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 1101904658
+primary_isbn13: 9781101904657
+publisher: Crown/Archetype
+description: Burnett looks back on “The Carol Burnett Show” (1967-78), describing sketches and favorite guests.
+title: In Such Good Company
+author: Carol Burnett
+amazon_product_url: http://www.amazon.com/Such-Good-Company-Laughter-Sandbox-ebook/dp/B01A4B1QFW?tag=NYTBSREV-20
+list_date: 2016/10/23
+published_date: 2016
+summary: "Comedy legend Carol Burnett tells the hilarious behind-the-scenes story of her iconic weekly variety series, The Carol Burnett Show"--

@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 4
+primary_isbn10: 0316381853
+primary_isbn13: 9780316381857
+publisher: Hachette
+description: A mother tells the story of her once-sickly daughter, whose chronic ailments disappeared after a near-death experience.
+title: Miracles From Heaven
+author: Christy Beam
+amazon_product_url: http://www.amazon.com/Miracles-Heaven-Little-Amazing-Healing/dp/0316381837?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2015-04-14
+summary: "Miracles from Heaven is a powerful, healing story about family, love, faith, and hope. It amazed me and it will inspire readers everywhere.---T.D. Jakes, bestselling author of Destiny In a remarkable true story of faith and blessings, a mother tells of her sickly young daughter, how she survived a dangerous accident, her visit to Heaven and the inexplicable disappearance of the symptoms of her chronic disease. Annabel Beam spent most of her childhood in and out of hospitals with a rare and incurable digestive disorder that prevented her from ever living a normal, healthy life. One sunny day when she was able to go outside and play with her sisters, she fell three stories headfirst inside an old, hollowed-out tree, a fall that may well have caused death or paralysis. Implausibly, she survived without a scratch. While unconscious inside the tree, with rescue workers struggling to get to her, she visited heaven. After being released from the hospital, she defied science and was inexplicably cured of her chronic ailment. Miracles from Heaven will change how we look at the world around us and reinforce our belief in God and the afterlife.

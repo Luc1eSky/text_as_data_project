@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1594205469
+primary_isbn13: 9781594205460
+publisher: Penguin Press
+description: Why some of America’s cultural groups are more likely to succeed. 
+title: Triple Package
+author: Amy Chua and Jed Rubenfeld
+amazon_product_url: http://www.amazon.com/The-Triple-Package-Unlikely-Cultural/dp/1594205469?tag=NYTBSREV-20
+list_date: 2014/02/23
+published_date: 2014
+summary: A controversial examination of the performance rates of disparate cultural groups in America reveals how some ethnic groups appear to achieve greater income and productivity levels in spite of overall American beliefs about equality and self-esteem, discussing how the seeming benefits of a given group's cultural discipline and impulse control can also have consequences.

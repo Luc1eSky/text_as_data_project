@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0061998060
+primary_isbn13: 9780061998065
+publisher: HarperCollins
+description: The author of “Kitchen Confidential” looks at changes in food culture. Originally published in 2010.
+title: Medium Raw
+author: Anthony Bourdain
+amazon_product_url: http://www.amazon.com/Medium-Raw-Bloody-Valentine-People/dp/0061718955?tag=NYTBSREV-20
+list_date: 2018/07/15
+published_date: 2010-06-08
+summary: Medium Raw marks the return of the inimitable Anthony Bourdain, author of the blockbuster bestseller Kitchen Confidential and three-time Emmy Award-nominated host of No Reservations on TV’s Travel Channel. Bourdain calls his book, “A Bloody Valentine to the World of Food and the People Who Cook,” and he is at his entertaining best as he takes aim at some of the biggest names in the foodie world, including David Chang, Alice Waters, the Top Chef winners and losers, and many more. If Hunter S. Thompson had written a book about the restaurant business, it could have been Medium Raw.

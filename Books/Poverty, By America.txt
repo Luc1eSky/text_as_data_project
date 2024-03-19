@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 0593239911
+primary_isbn13: 9780593239919
+publisher: Crown
+description: The Pulitzer Prize-winning author of “Evicted” examines the ways in which affluent Americans keep poor people poor.
+title: Poverty, By America
+author: Matthew Desmond
+amazon_product_url: https://www.amazon.com/dp/0593239911?tag=NYTBSREV-20
+list_date: 2023/05/14
+published_data: 2023-03-21
+summary: #1 NEW YORK TIMES BESTSELLER • The Pulitzer Prize–winning author of Evicted reimagines the debate on poverty, making a “provocative and compelling” (NPR) argument about why it persists in America: because the rest of us benefit from it. “Urgent and accessible . . . Its moral force is a gut punch.”—The New Yorker ONE OF THE MOST ANTICIPATED BOOKS OF 2023: The Washington Post, Time, Esquire, Newsweek, Minneapolis Star Tribune, Elle, Salon, Lit Hub, Kirkus Reviews The United States, the richest country on earth, has more poverty than any other advanced democracy. Why? Why does this land of plenty allow one in every eight of its children to go without basic necessities, permit scores of its citizens to live and die on the streets, and authorize its corporations to pay poverty wages? In this landmark book, acclaimed sociologist Matthew Desmond draws on history, research, and original reporting to show how affluent Americans knowingly and unknowingly keep poor people poor. Those of us who are financially secure exploit the poor, driving down their wages while forcing them to overpay for housing and access to cash and credit. We prioritize the subsidization of our wealth over the alleviation of poverty, designing a welfare state that gives the most to those who need the least. And we stockpile opportunity in exclusive communities, creating zones of concentrated riches alongside those of concentrated despair. Some lives are made small so that others may grow. Elegantly written and fiercely argued, this compassionate book gives us new ways of thinking about a morally urgent problem. It also helps us imagine solutions. Desmond builds a startlingly original and ambitious case for ending poverty. He calls on us all to become poverty abolitionists, engaged in a politics of collective belonging to usher in a new age of shared prosperity and, at last, true freedom.
+author_new0: Matthew Desmond

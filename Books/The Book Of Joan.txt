@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1101903821
+primary_isbn13: 9781101903827
+publisher: Crown Archetype
+description: A memoir of life, often uproarious, with the comedian Joan Rivers, written by her daughter.
+title: The Book Of Joan
+author: Melissa Rivers
+amazon_product_url: http://www.amazon.com/The-Book-Joan-Mischief-Manipulation-ebook/dp/B00Q1IFLRM?tag=NYTBSREV-20
+list_date: 2015/06/14
+published_date: 2015
+summary: The daughter of Joan Rivers presents an inspiring and intimate tribute to the iconic comedienne that shares insights into her life out of the spotlight, detailing their complicated but loving relationship and the lessons the author learned from her mother throughout their years together.

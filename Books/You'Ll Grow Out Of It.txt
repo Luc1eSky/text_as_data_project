@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 1455531189
+primary_isbn13: 9781455531189
+publisher: Grand Central
+description: Humorous essays on being a woman by the head writer of “Inside Amy Schumer.”
+title: You'Ll Grow Out Of It
+author: Jessi Klein
+amazon_product_url: http://www.amazon.com/Youll-Grow-Out-Jessi-Klein-ebook/dp/B016JC0SK4?tag=NYTBSREV-20
+list_date: 2016/08/07
+published_date: 2016-07-12
+summary: PEOPLE'S BEST BOOK OF THE YEAR! ONE OF NEW YORK TIMES' NOTABLE BOOKS OF 2016!INSTANT NEW YORK TIMES AND USA TODAY BESTSELLER! YOU'LL GROW OUT OF IT hilariously, and candidly, explores the journey of the twenty-first century woman. As both a tomboy and a late bloomer, comedian Jessi Klein grew up feeling more like an outsider than a participant in the rites of modern femininity. In YOU'LL GROW OUT OF IT, Klein offers-through an incisive collection of real-life stories-a relentlessly funny yet poignant take on a variety of topics she has experienced along her strange journey to womanhood and beyond. These include her "transformation from Pippi Longstocking-esque tomboy to are-you-a-lesbian-or-what tom man," attempting to find watchable porn, and identifying the difference between being called "ma'am" and "miss" ("Miss sounds like you weigh ninety-nine pounds"). Raw, relatable, and consistently hilarious, YOU'LL GROW OUT OF IT is a one-of-a-kind book by a singular and irresistible comic voice.

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1982165731
+primary_isbn13: 9781982165734
+publisher: Simon & Schuster
+description: Conversations that explore what America is and what it could be with leaders in various fields.
+title: The American Experiment
+author: David M. Rubenstein
+amazon_product_url: https://www.amazon.com/dp/1982165731?tag=NYTBSREV-20
+list_date: 2021/09/26
+published_data: 2021-09-07
+summary: American icons and historians explore the grand American experiment in democracy, culture, innovation, and ideas, the capstone book in a trilogy from David Rubenstein.
+author_new0: David M. Rubenstein

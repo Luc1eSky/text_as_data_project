@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 0063007592
+primary_isbn13: 9780063007598
+publisher: Dey Street
+description: Two stars of “The Office” celebrate the comedy series and their friendship.
+title: The Office Bffs
+author: Jenna Fischer and Angela Kinsey
+amazon_product_url: https://www.amazon.com/dp/0063007592?tag=NYTBSREV-20
+list_date: 2022/06/19
+published_data: 2022-05-17
+summary: Receptionist Pam Beesly and accountant Angela Martin had very little in common when they toiled together at Scranton's Dunder Mifflin Paper Company. But, in reality, the two bonded in their very first days on set. Sharing everything from what it was like in the early days as the show struggled to gain traction - plus exclusive stories on the making of milestone episodes - this book is full of the same warm and friendly tone Jenna and Angela have brought to their Office Ladies podcast. Features many never-before-seen photos. Print run 200,000.
+author_new0: Jenna Fischer
+author_new1: Angela Kinsey

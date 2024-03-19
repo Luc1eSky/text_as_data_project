@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0307576019
+primary_isbn13: 9780307576019
+publisher: Bantam/Dell
+description: Grisham's first nonfiction book concerns a man wrongly sentenced to death.
+title: The Innocent Man
+author: John Grisham
+amazon_product_url: http://www.amazon.com/The-Innocent-Man-Grisham-John/dp/B007CHTQM2?tag=NYTBSREV-20
+list_date: 2019/04/14
+published_data: 2010-03-16
+summary: #1 NEW YORK TIMES BESTSELLER • John Grisham’s first work of nonfiction: a true crime story that will terrify anyone who believes in the presumption of innocence. • LOOK FOR THE NETFLIX ORIGINAL DOCUMENTARY SERIES “Both an American tragedy and [Grisham’s] strongest legal thriller yet, all the more gripping because it happens to be true.”—Entertainment Weekly In the town of Ada, Oklahoma, Ron Williamson was going to be the next Mickey Mantle. But on his way to the Big Leagues, Ron stumbled, his dreams broken by drinking, drugs, and women. Then, on a winter night in 1982, not far from Ron’s home, a young cocktail waitress named Debra Sue Carter was savagely murdered. The investigation led nowhere. Until, on the flimsiest evidence, it led to Ron Williamson. The washed-up small-town hero was charged, tried, and sentenced to death—in a trial littered with lying witnesses and tainted evidence that would shatter a man’s already broken life, and let a true killer go free. Impeccably researched, grippingly told, filled with eleventh-hour drama, The Innocent Man reads like a page-turning legal thriller. It is a book no American can afford to miss. Don’t miss John Grisham’s new book, THE EXCHANGE: AFTER THE FIRM, coming soon!
+author_new0: John Grisham

@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1501104837
+primary_isbn13: 9781501104831
+publisher: Atria
+description: The daughter of Jenni Rivera discusses her father's abuse and her estrangement from her mother.
+title: Forgiveness
+author: Chiquis Rivera
+amazon_product_url: http://www.amazon.com/Forgiveness-A-Memoir-Chiquis-Rivera/dp/1501104810?tag=NYTBSREV-20
+list_date: 2015/04/26
+published_date: 2015-04-07
+summary: “I wrote this book not to dismiss a rumor but to share something much more important: my journey to forgiveness.” Chiquis Rivera is a singer and the daughter of the late music superstar Jenni Rivera. In Forgiveness, her memoir, Chiquis bravely reveals the abuse she suffered at the hands of her father during her childhood and the difficulties she’s faced in her personal life as a result. Despite growing up marked by the wounds of abuse, she eventually conquered her fear of love andintimacy. The story within these pages also recounts what caused the distance between her and her mother toward the end of Jenni’s life. In Forgiveness, Chiquis brings to light truths that she wishes she had been able to reveal to Jenni. Two years after her mother’s death, Chiquis answers the most difficult questions: Was she able to make peace with Jenni? And in this story of triumph and tragedy, who is most in need of forgiveness?

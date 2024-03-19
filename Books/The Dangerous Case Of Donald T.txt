@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 4
+primary_isbn10: 1250179459
+primary_isbn13: 9781250179456
+publisher: Thomas Dunne
+description: 27 psychiatrists and mental health experts give their assessments of the president.
+title: The Dangerous Case Of Donald Trump
+author: edited  Bandy X Lee
+amazon_product_url: https://www.amazon.com/Dangerous-Case-Donald-Trump-Psychiatrists/dp/1250179459?tag=NYTBSREV-20
+list_date: 2017/11/12
+published_date: 2017-10-03
+summary: The consensus of two dozen psychiatrists and psychologists that Trump is dangerously mentally ill and that he presents a clear and present danger to the nation and our own mental health.

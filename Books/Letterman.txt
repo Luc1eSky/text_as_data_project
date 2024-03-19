@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0062377213
+primary_isbn13: 9780062377210
+publisher: Harper/HarperCollins
+description: An examination of the comedian’s life and his cultural impact.
+title: Letterman
+author: Jason Zinoman
+amazon_product_url: https://www.amazon.com/Letterman-Last-Giant-Late-Night/dp/0062377213?tag=NYTBSREV-20
+list_date: 2017/04/30
+published_date: 2017-04-11
+summary: A New York Times Notable Book of 2017 New York Times Bestseller New York Times comedy critic Jason Zinoman delivers the definitive story of the life and artistic legacy of David Letterman, the greatest television talk show host of all time and the signature comedic voice of a generation. In a career spanning more than thirty years, David Letterman redefined the modern talk show with an ironic comic style that transcended traditional television. While he remains one of the most famous stars in America, he is a remote, even reclusive, figure whose career is widely misunderstood. In Letterman, Jason Zinoman, the first comedy critic in the history of the New York Times, mixes groundbreaking reporting with unprecedented access and probing critical analysis to explain the unique entertainer’s titanic legacy. Moving from his early days in Indiana to his retirement, Zinoman goes behind the scenes of Letterman’s television career to illuminate the origins of his revolutionary comedy, its overlooked influences, and how his work intersects with and reveals his famously eccentric personality. Zinoman argues that Letterman had three great artistic periods, each distinct and part of his evolution. As he examines key broadcasting moments—"Stupid Pet Tricks" and other captivating segments that defined Late Night with David Letterman—he illuminates Letterman’s relationship to his writers, and in particular, the show’s co-creator, Merrill Markoe, with whom Letterman shared a long professional and personal connection. To understand popular culture today, it’s necessary to understand David Letterman. With this revealing biography, Zinoman offers a perceptive analysis of the man and the artist whose ironic voice and caustic meta-humor was critical to an entire generation of comedians and viewers—and whose singular style ushered in new tropes that have become clichés in comedy today.

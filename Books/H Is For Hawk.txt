@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 7
+primary_isbn10: 0802124739
+primary_isbn13: 9780802124739
+publisher: Grove
+description: Overwhelmed by her father’s death, a British woman decides to raise a goshawk, a bird that is fierce and notoriously difficult to tame.
+title: H Is For Hawk
+author: Helen Macdonald
+amazon_product_url: http://www.amazon.com/H-Is-Hawk-Helen-Macdonald/dp/0802123414?tag=NYTBSREV-20
+list_date: 2016/05/01
+published_date: 2014
+summary: Originally published: London: Jonathan Cape, 2014.

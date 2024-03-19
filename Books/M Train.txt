@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 4
+primary_isbn10: 1101875100
+primary_isbn13: 9781101875100
+publisher: Knopf
+description: A meditation on art, loss and the past by the musician and author of “Just Kids.”
+title: M Train
+author: Patti Smith
+amazon_product_url: http://www.amazon.com/M-Train-Patti-Smith/dp/1101875100?tag=NYTBSREV-20
+list_date: 2015/12/06
+published_date: 2015-10-06
+summary: National Best Seller From the National Book Award–winning author of Just Kids: an unforgettable odyssey of a legendary artist, told through the prism of the cafés and haunts she has worked in around the world. It is a book Patti Smith has described as “a roadmap to my life.” M Train begins in the tiny Greenwich Village café where Smith goes every morning for black coffee, ruminates on the world as it is and the world as it was, and writes in her notebook. Through prose that shifts fluidly between dreams and reality, past and present, and across a landscape of creative aspirations and inspirations, we travel to Frida Kahlo’s Casa Azul in Mexico; to a meeting of an Arctic explorer’s society in Berlin; to a ramshackle seaside bungalow in New York’s Far Rockaway that Smith acquires just before Hurricane Sandy hits; and to the graves of Genet, Plath, Rimbaud, and Mishima. Woven throughout are reflections on the writer’s craft and on artistic creation. Here, too, are singular memories of Smith’s life in Michigan and the irremediable loss of her husband, Fred Sonic Smith. Braiding despair with hope and consolation, illustrated with her signature Polaroids, M Train is a meditation on travel, detective shows, literature, and coffee. It is a powerful, deeply moving book by one of the most remarkable multiplatform artists at work today.

@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1982170573
+primary_isbn13: 9781982170578
+publisher: Simon & Schuster
+description: The former White House adviser to four presidents details the stories of iconic and effective leaders.
+title: Hearts Touched With Fire
+author: David Gergen
+amazon_product_url: https://www.amazon.com/dp/1982170573?tag=NYTBSREV-20
+list_date: 2022/05/29
+published_data: 2022-05-10
+summary: "From the bestselling author of EYEWITNESS TO POWER, a practical study of leadership and a cri de coeur for young leaders to commit themselves to public service"--
+author_new0: David Gergen

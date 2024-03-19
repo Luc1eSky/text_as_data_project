@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 13
+primary_isbn10: 0316421820
+primary_isbn13: 9780316421829
+publisher: Voracious/Little, Brown
+description: The former White House photographer juxtaposes pictures of former President Obama with tweets, headlines and quotes from the Trump administration.
+title: Shade
+author: Pete Souza
+amazon_product_url: https://www.amazon.com/Shade-Tale-Presidents-Pete-Souza/dp/0316421820?tag=NYTBSREV-20
+list_date: 2020/11/29
+published_data: 2018-10-16
+summary: From Pete Souza, the #1 New York Times bestselling author of Obama: An Intimate Portrait, comes a potent commentary on the Presidency--and our country. As Chief Official White House Photographer, Pete Souza spent more time alongside President Barack Obama than almost anyone else. His years photographing the President gave him an intimate behind-the-scenes view of the unique gravity of the Office of the Presidency--and the tremendous responsibility that comes with it. Now, as a concerned citizen observing the Trump administration, he is standing up and speaking out. Shade is a portrait in Presidential contrasts, telling the tale of the Obama and Trump administrations through a series of visual juxtapositions. Here, more than one hundred of Souza's unforgettable images of President Obama deliver new power and meaning when framed by the tweets, news headlines, and quotes that defined the first 500 days of the Trump White House. What began with Souza's Instagram posts soon after President Trump's inauguration in January 2017 has become a potent commentary on the state of the Presidency, and our country. Some call this "throwing shade." Souza calls it telling the truth. In Shade, Souza's photographs are more than a rejoinder to the chaos, abuses of power, and destructive policies that now define our nation's highest office. They are a reminder of a President we could believe in, and a courageous defense of American values.
+author_new0: Pete Souza

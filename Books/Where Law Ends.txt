@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0593138570
+primary_isbn13: 9780593138571
+publisher: Random House
+description: A former lead prosecutor in the special counsel’s office gives his account of the investigation into the 2016 election.
+title: Where Law Ends
+author: Andrew Weissmann
+amazon_product_url: https://www.amazon.com/dp/0593138570?tag=NYTBSREV-20
+list_date: 2020/10/18
+published_data: 2020-09-29
+summary: In May 2017, Robert Mueller was tapped to lead an inquiry into Russian interference in the 2016 presidential election, coordination by foreign agents with Donald Trump's campaign, and obstruction of justice by the president. For the next twenty-two months the investigation was a black box and the subject of endless anticipation and speculation--until April 2019, when the special counsel's report was released. Weissmann-- a key player in the Special Counsel's Office-- pulls back the curtain to reveal exactly what went on inside the investigation, including the heated debates, painful deliberations, and mistakes of the team-- not to mention the external efforts by the president and Attorney General William Barr to manipulate the investigation to their political ends. -- adapted from jacket
+author_new0: Andrew Weissmann

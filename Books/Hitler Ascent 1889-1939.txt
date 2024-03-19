@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 038535438X
+primary_isbn13: 9780385354387
+publisher: Knopf
+description: A new biography focuses on Hitler the man.
+title: Hitler: Ascent 1889-1939
+author: Volker Ullrich
+amazon_product_url: http://www.amazon.com/Hitler-Ascent-1889-1939-Volker-Ullrich-ebook/dp/B019B6TVZI?tag=NYTBSREV-20
+list_date: 2016/10/16
+published_date: 2016
+summary: Originally published: Germany: S. Fischer Verlag.

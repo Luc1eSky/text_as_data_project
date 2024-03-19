@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1455535915
+primary_isbn13: 9781455535910
+publisher: Twelve
+description: A look at aging, the ways people try to control the inevitable and strategies for accepting mortality.
+title: Natural Causes
+author: Barbara Ehrenreich
+amazon_product_url: https://www.amazon.com/Natural-Causes-Epidemic-Certainty-Ourselves/dp/1455535915?tag=NYTBSREV-20
+list_date: 2018/04/29
+published_date: 2018-04-10
+summary: A New York Times bestseller! From the celebrated author of Nickel and Dimed, Barbara Ehrenreich explores how we are killing ourselves to live longer, not better. A razor-sharp polemic which offers an entirely new understanding of our bodies, ourselves, and our place in the universe, NATURAL CAUSES describes how we over-prepare and worry way too much about what is inevitable. One by one, Ehrenreich topples the shibboleths that guide our attempts to live a long, healthy life -- from the importance of preventive medical screenings to the concepts of wellness and mindfulness, from dietary fads to fitness culture. But NATURAL CAUSES goes deeper -- into the fundamental unreliability of our bodies and even our "mind-bodies," to use the fashionable term. Starting with the mysterious and seldom-acknowledged tendency of our own immune cells to promote deadly cancers, Ehrenreich looks into the cellular basis of aging, and shows how little control we actually have over it. We tend to believe we have agency over our bodies, our minds, and even over the manner of our deaths. But the latest science shows that the microscopic subunits of our bodies make their own "decisions," and not always in our favor. We may buy expensive anti-aging products or cosmetic surgery, get preventive screenings and eat more kale, or throw ourselves into meditation and spirituality. But all these things offer only the illusion of control. How to live well, even joyously, while accepting our mortality -- that is the vitally important philosophical challenge of this book. Drawing on varied sources, from personal experience and sociological trends to pop culture and current scientific literature, NATURAL CAUSES examines the ways in which we obsess over death, our bodies, and our health. Both funny and caustic, Ehrenreich then tackles the seemingly unsolvable problem of how we might better prepare ourselves for the end -- while still reveling in the lives that remain to us.

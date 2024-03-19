@@ -1,0 +1,10 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 1101993049
+primary_isbn13: 9781101993040
+publisher: TarcherPerigee
+description: A look at the science that supports the effectiveness of meditation.
+title: Aware
+author: Daniel Siegel
+amazon_product_url: https://www.amazon.com/Aware-Practice-Presence-Groundbreaking-Meditation/dp/1101993049?tag=NYTBSREV-20
+list_date: 2018/09/16

@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0525521992
+primary_isbn13: 9780525521990
+publisher: Penguin Press
+description: A satirical memoir of the 45th president's first year in office.
+title: You Can'T Spell America Without Me
+author: Alec Baldwin and Kurt Andersen
+amazon_product_url: https://www.amazon.com/You-Cant-Spell-America-Without/dp/0525521992?tag=NYTBSREV-20
+list_date: 2017/11/26
+published_date: 2017
+summary: "This book and its contents are not authorized or endorsed by Donald J. Trump, any of his companies, or the White House"--Title page verso.

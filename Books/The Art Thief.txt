@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0525657320
+primary_isbn13: 9780525657323
+publisher: Knopf
+description: The author of “The Stranger in the Woods” tells the story of Stéphane Breitwieser, who stole art more than 200 times for the sake of admiring it.
+title: The Art Thief
+author: Michael Finkel
+amazon_product_url: https://www.amazon.com/dp/0525657320?tag=NYTBSREV-20
+list_date: 2023/07/30
+published_data: 2023-06-27
+summary: The true story of the world’s most prolific art thief—a spellbinding portrait of obsession and flawed genius, from the bestselling author of The Stranger in the Woods For centuries, works of art have been stolen in countless ways from all over the world, but no one has been quite as successful at it as the master thief Stéphane Breitwieser. Carrying out more than two hundred heists over nearly ten years—in museums and cathedrals all over Europe—Breitwieser, along with his girlfriend who worked as his lookout, stole more than three hundred objects, until it all fell apart in spectacular fashion. In The Art Thief, Michael Finkel brings us into Breitwieser’s strange and fascinating world. Unlike most thieves, he never stole for money, keeping all his treasures in a single room where he could admire them to his heart’s content. Possessed of a remarkable athleticism and an innate ability to assess practically any security system, Breitwieser managed to pull off a breathtakingly number of audacious thefts. Yet these strange talents bred a growing disregard for risk and an addict’s need to score, leading Breitwieser to ignore his girlfriend’s pleas to stop—until one final act of hubris brought everything crashing down. This is a riveting story of art, crime, and an insatiable hunger to possess beauty at any cost.
+author_new0: Michael Finkel

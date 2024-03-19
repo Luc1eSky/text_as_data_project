@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1250214807
+primary_isbn13: 9781250214805
+publisher: Picador
+description: A memoir by the former minority leader of the Georgia House of Representatives who ran to be the state’s governor in 2018.
+title: Lead From The Outside
+author: Stacey Abrams
+amazon_product_url: https://www.amazon.com/Lead-Outside-Build-Future-Change/dp/1250214807?tag=NYTBSREV-20
+list_date: 2019/04/14
+published_data: 2019-03-26
+summary: A personal and empowering blueprint—from one of America’s rising Democratic stars—for outsiders who seek to become the ones in charge Leadership is hard. Convincing others—and often yourself—that you possess the answers and are capable of world-affecting change requires confidence, insight, and sheer bravado. Minority Leader is the handbook for outsiders, written with the awareness of the experiences and challenges that hinder anyone who exists beyond the structure of traditional white male power—women, people of color, members of the LGBTQ community, and millennials ready to make a difference. In Minority Leader, Stacey Abrams argues that knowing your own passion is the key to success, regardless of the scale or target. From launching a company, to starting a day care center for homeless teen moms, to running a successful political campaign, finding what you want to fight for is as critical as knowing how to turn thought into action. Stacey uses her experience and hard-won insights to break down how ambition, fear, money, and failure function in leadership, while offering personal stories that illuminate practical strategies. Stacey includes exercises to help you hone your skills and realize your aspirations. She discusses candidly what she has learned over the course of her impressive career: that differences in race, gender, and class are surmountable. With direction and dedication, being in the minority actually provides unique and vital strength, which we can employ to rise to the top and make real change.
+author_new0: Stacey Abrams

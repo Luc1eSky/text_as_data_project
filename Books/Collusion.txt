@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0525562516
+primary_isbn13: 9780525562511
+publisher: Vintage
+description: The British journalist recounts his meeting with the former MI6 officer Christopher Steele and makes his case for a connection between Moscow and Donald Trump.
+title: Collusion
+author: Luke Harding
+amazon_product_url: https://www.amazon.com/Collusion-Secret-Meetings-Russia-Helped/dp/0525562516?tag=NYTBSREV-20
+list_date: 2017/12/24
+published_date: 2017-11-16
+summary: #1 NEW YORK TIMES BESTSELLER • An explosive exposé that lays out the story behind the Steele Dossier, including Russia’s decades-in-the-making political game to upend American democracy and the Trump administration’s ties to Moscow. “Harding…presents a powerful case for Russian interference, and Trump campaign collusion, by collecting years of reporting on Trump’s connections to Russia and putting it all together in a coherent narrative.” —The Nation December 2016. Luke Harding, the Guardian reporter and former Moscow bureau chief, quietly meets former MI6 officer Christopher Steele in a London pub to discuss President-elect Donald Trump’s Russia connections. A month later, Steele’s now-famous dossier sparks what may be the biggest scandal of the modern era. The names of the Americans involved are well-known—Paul Manafort, Michael Flynn, Jared Kushner, George Papadopoulos, Carter Page—but here Harding also shines a light on powerful Russian figures like Aras Agalarov, Natalia Veselnitskaya, and Sergey Kislyak, whose motivations and instructions may have been coming from the highest echelons of the Kremlin. Drawing on new material and his expert understanding of Moscow and its players, Harding takes the reader through every bizarre and disquieting detail of the “Trump-Russia” story—an event so huge it involves international espionage, off-shore banks, sketchy real estate deals, the Miss Universe pageant, mobsters, money laundering, poisoned dissidents, computer hacking, and the most shocking election in American history.

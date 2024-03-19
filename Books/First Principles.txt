@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0062997459
+primary_isbn13: 9780062997456
+publisher: Harper
+description: The Pulitzer Prize-winning journalist explains the influence of the ancient Greeks and Romans on the thinking of America’s founding fathers.
+title: First Principles
+author: Thomas E Ricks
+amazon_product_url: https://www.amazon.com/dp/0062997459?tag=NYTBSREV-20
+list_date: 2020/12/06
+published_data: 2020-11-10
+summary: The Pulitzer Prize-winning journalist and #1 New York Times bestselling author offers a revelatory new book about the founding fathers, examining their educations and, in particular, their devotion to the ancient Greek and Roman classics--and how that influence would shape their ideals and the new American nation. On the morning after the 2016 presidential election, Thomas Ricks awoke with a few questions on his mind: What kind of nation did we now have? Is it what was designed or intended by the nation's founders? Trying to get as close to the source as he could, Ricks decided to go back and read the philosophy and literature that shaped the founders' thinking, and the letters they wrote to each other debating these crucial works--among them the Iliad, Plutarch's Lives, and the works of Xenophon, Epicurus, Aristotle, Cato, and Cicero. For though much attention has been paid the influence of English political philosophers, like John Locke, closer to their own era, the founders were far more immersed in the literature of the ancient world. The first four American presidents came to their classical knowledge differently. Washington absorbed it mainly from the elite culture of his day; Adams from the laws and rhetoric of Rome; Jefferson immersed himself in classical philosophy, especially Epicureanism; and Madison, both a groundbreaking researcher and a deft politician, spent years studying the ancient world like a political scientist. Each of their experiences, and distinctive learning, played an essential role in the formation of the United States. In examining how and what they studied, looking at them in the unusual light of the classical world, Ricks is able to draw arresting and fresh portraits of men we thought we knew. First Principles follows these four members of the Revolutionary generation from their youths to their adult lives, as they grappled with questions of independence, and forming and keeping a new nation. In doing so, Ricks interprets not only the effect of the ancient world on each man, and how that shaped our constitution and government, but offers startling new insights into these legendary leaders.
+author_new0: Thomas E Ricks

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1594205701
+primary_isbn13: 9781594205705
+publisher: Penguin Press
+description: A memoir of life in sophisticated New York by Bergdorf Goodman's legendary personal shopper.
+title: I'Ll Drink To That
+author: Betty Halbreich with Rebecca Paley
+amazon_product_url: http://www.amazon.com/Ill-Drink-That-Style-Twist-ebook/dp/B00INIXS5K?tag=NYTBSREV-20
+list_date: 2014/09/28
+published_date: 2014
+summary: A personal account by the legendary Bergdorf Goodman personal shopper traces her rise from a cosseted young girl to an influential fashion authority, covering such topics as her difficult marriage, her struggles with depression and her work with Hollywood clients. 60,000 first printing.

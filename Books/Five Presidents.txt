@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 6
+primary_isbn10: 1476794138
+primary_isbn13: 9781476794136
+publisher: Gallery Books
+description: A retired Secret Service agent discusses his experience with presidents from Eisenhower to Ford.
+title: Five Presidents
+author: Clint Hill with Lisa McCubbin
+amazon_product_url: http://www.amazon.com/Five-Presidents-Extraordinary-Journey-Eisenhower-ebook/dp/B015WNZ5HW?tag=NYTBSREV-20
+list_date: 2016/07/03
+published_date: 2016-05-03
+summary: "Secret Service agent Clint Hill ... reflects on his seventeen years protecting the most powerful office in the nation. Hill walked alongside Presidents Dwight D. Eisenhower, John F. Kennedy, Lyndon B. Johnson, Richard M. Nixon, and Gerald R. Ford, seeing them through a long, tumultuous era-the Cold War; the Cuban Missile Crisis; the assassinations of John F. Kennedy, Martin Luther King, Jr., and Robert F. Kennedy; the Vietnam War; Watergate; and the resignations of Spiro Agnew and Richard M. Nixon"--Provided by publisher.

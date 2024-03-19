@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781451648317
+publisher: Pocket Books
+description: Volume 17 of the Crime Files true-crime series.
+title: Lying In Wait
+author: Ann Rule
+amazon_product_url: http://www.amazon.com/Lying-Wait-Rules-Crime-Vol-17/dp/1451648294?tag=NYTBSREV-20
+list_date: 2014/12/14

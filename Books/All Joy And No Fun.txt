@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0062072226
+primary_isbn13: 9780062072221
+publisher: Ecco/HarperCollins
+description: A journalist examines how parenting has changed over the past half-century.
+title: All Joy And No Fun
+author: Jennifer Senior
+amazon_product_url: http://www.amazon.com/All-Joy-No-Fun-Parenthood-ebook/dp/B00DB2WQAQ?tag=NYTBSREV-20
+list_date: 2014/02/23
+published_date: 2014-01-28
+summary: “Salted with insights and epigrams, the book is argued with bracing honesty and flashes of authentic wisdom…[an] excellent book.” —Andrew Solomon, The New York Times Book Review "[A] richly woven, entertaining, enlightening, wrenching and funny book.” —The Washington Post Thousands of books have examined the effects of parents on their children. In All Joy and No Fun, award-winning journalist Jennifer Senior now asks: what are the effects of children on their parents? In All Joy and No Fun, award-winning journalist Jennifer Senior tries to tackle this question, isolating and analyzing the many ways in which children reshape their parents' lives, whether it's their marriages, their jobs, their habits, their hobbies, their friendships, or their internal senses of self. She argues that changes in the last half century have radically altered the roles of today's mothers and fathers, making their mandates at once more complex and far less clear. Recruiting from a wide variety of sources—in history, sociology, economics, psychology, philosophy, and anthropology—she dissects both the timeless strains of parenting and the ones that are brand new, and then brings her research to life in the homes of ordinary parents around the country. The result is an unforgettable series of family portraits, starting with parents of young children and progressing to parents of teens. Through lively and accessible storytelling, Senior follows these mothers and fathers as they wrestle with some of parenthood's deepest vexations—and luxuriate in some of its finest rewards. Meticulously researched yet imbued with emotional intelligence, All Joy and No Fun makes us reconsider some of our culture's most basic beliefs about parenthood, all while illuminating the profound ways children deepen and add purpose to our lives. By focusing on parenthood, rather than parenting, the book is original and essential reading for mothers and fathers of today—and tomorrow.

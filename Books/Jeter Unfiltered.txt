@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1476783667
+primary_isbn13: 9781476783666
+publisher: Jeter Publishing/Gallery Books
+description: The Yankee shortstop and team captain looks back over his career, with photographs from his recently concluded final season, as well as older ones.
+title: Jeter Unfiltered
+author: Derek Jeter with Anthony Bozza
+amazon_product_url: http://www.amazon.com/Jeter-Unfiltered-Derek/dp/1476783667?tag=NYTBSREV-20
+list_date: 2015/01/04
+published_date: 2014-10-28
+summary: Offers a photographic retrospective of the Major League Baseball star and five-time World Series champion who retired after the 2014 season.

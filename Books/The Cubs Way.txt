@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0804190011
+primary_isbn13: 9780804190015
+publisher: Crown/Archetype
+description: The transformation of the Chicago Cubs under Theo Epstein and Joe Maddon and a celebration of their championship.
+title: The Cubs Way
+author: Tom Verducci
+amazon_product_url: https://www.amazon.com/Cubs-Way-Building-Baseball-Breaking/dp/0804190011?tag=NYTBSREV-20
+list_date: 2017/04/16
+published_date: 2017
+summary: -With inside access and reporting, Sports Illustrated senior baseball writer and FOX Sports analyst Tom Verducci reveals how Theo Epstein and Joe Maddon built, led, and inspired the Chicago Cubs team that broke the longest championship drought in sports, chronicling their epic journey to become World Series champions---

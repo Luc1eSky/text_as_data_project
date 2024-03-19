@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9780698180741
+publisher: NAL
+description: A memoir by the actor, a co-star in the television series, "Two and A Half Men."
+title: So That Happened
+author: Jon Cryer
+amazon_product_url: http://www.amazon.com/So-That-Happened-A-Memoir-ebook/dp/B00KWG5XFY?tag=NYTBSREV-20
+list_date: 2015/04/26
+published_date: 2021-09-15
+summary: N/A

@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 6
+primary_isbn10: 1538733307
+primary_isbn13: 9781538733301
+publisher: Grand Central
+description: The Texas congressman and former Navy SEAL prescribes ways to overcome adversity.
+title: Fortitude
+author: Dan Crenshaw
+amazon_product_url: https://www.amazon.com/dp/1549159240?tag=NYTBSREV-20
+list_date: 2020/05/31
+published_data: 2020-04-07
+summary: Jordan Peterson's Twelve Rules for Life meets Jocko Willink and Leif Babin's Extreme Ownership in this tough-love leadership book from a Navy SEAL and rising star in Republican politics.
+author_new0: Dan Crenshaw

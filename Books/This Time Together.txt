@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0307461203
+primary_isbn13: 9780307461209
+publisher: Crown Archetype
+description: The comedian describes her rise in show business and the people she’s met along the way. Originally published in 2010.
+title: This Time Together
+author: Carol Burnett
+amazon_product_url: http://www.amazon.com/This-Time-Together-Laughter-Reflection/dp/030746119X?tag=NYTBSREV-20
+list_date: 2016/02/21
+published_date: 2010-04-06
+summary: This touching and hilarious memoir is 100 percent Carol Burnett—funny, irreverent, and irresistible. Carol Burnett is one of the most beloved and revered actresses and performers in America. The Carol Burnett Show was seen each week by millions of adoring fans and won twenty-five Emmys in its remarkable eleven-year run. Now, in This Time Together, Carol really lets her hair down and tells one funny or touching or memorable story after another. In engaging anecdotes, Carol discusses her remarkable friendships with stars such as Jimmy Stewart, Lucille Ball, Cary Grant, and Julie Andrews; the background behind famous scenes, like the moment she swept down the stairs in her curtain-rod dress in the legendary “Went with the Wind” skit; and things that would happen only to Carol—the prank with Julie Andrews that went wrong in front of the First Lady; the famous Tarzan Yell that saved her during a mugging; and the time she faked a wooden leg to get served in a famous ice cream emporium. This poignant look back allows us to cry with the actress during her sorrows, rejoice in her successes, and finally, always, to laugh.

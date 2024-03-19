@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 1501190725
+primary_isbn13: 9781501190728
+publisher: Threshold Editions
+description: A collection of rants by the Fox News host.
+title: The Gutfeld Monologues
+author: Greg Gutfeld
+amazon_product_url: https://www.amazon.com/Gutfeld-Monologues-Classic-Rants-Five/dp/1501190725?tag=NYTBSREV-20
+list_date: 2018/08/19
+published_date: 2018-07-31
+summary: NEW YORK TIMES BESTSELLER A dynamic and annotated collection of Fox News star and New York Times bestselling author Greg Gutfeld’s sharp, hilarious monologues on everything from politics to pop culture—updated with new commentary for the current day. “Wherever I go, I am hit repeatedly by the same question: where can I read your monologues? It should be easy to find these little nuggets of knowledge.” Well, now it is. In the past few years, Fox News host Greg Gutfeld has covered everything from crazed academics, to unhinged celebrities, to the wildest election in recent history on his shows The Five and The Greg Gutfeld Show. In The Gutfeld Monologues, he brings together his best and favorite monologues in this funny, unconventional collection for new and longtime fans alike. Scored through with marginal edits, scratch-outs, 20/20 hindsight, and up-to-the-minute commentary on what he got wrong, this book isn’t your grandmother’s anthology collection. With his signature humor, wit, and insight, Greg explains it all in this memorable collection about some of our country’s most crucial—and not so crucial—modern moments.

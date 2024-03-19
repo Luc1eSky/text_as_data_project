@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9781936182428
+publisher: Schaffner Press
+description: A full-length biography of Marvin as a man and as an actor.
+title: Lee Marvin: Point Blank
+author: Dwayne Epstein
+amazon_product_url: http://www.amazon.com/Lee-Marvin-Point-Dwayne-Epstein-ebook/dp/B00B0SAF3S?tag=NYTBSREV-20
+list_date: 2014/06/15
+published_date: 2021-09-15
+summary: N/A

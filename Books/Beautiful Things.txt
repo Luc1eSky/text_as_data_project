@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1982151110
+primary_isbn13: 9781982151119
+publisher: Gallery
+description: The lawyer and artist, who is the son of the current president, details tragedies within his family and his path to sobriety.
+title: Beautiful Things
+author: Hunter Biden
+amazon_product_url: https://www.amazon.com/dp/1982151110?tag=NYTBSREV-20
+list_date: 2021/05/02
+published_data: 2021-04-06
+summary: Hunter Biden recounts his descent into substance abuse and his tortuous path to sobriety. The story ends with where Hunter is today
+author_new0: Hunter Biden

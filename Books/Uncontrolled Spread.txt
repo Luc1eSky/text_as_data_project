@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 006308001X
+primary_isbn13: 9780063080010
+publisher: Harper
+description: The former F.D.A. commissioner assesses America’s Covid-19 response and prescribes ways to prepare for other pandemics.
+title: Uncontrolled Spread
+author: Scott Gottlieb
+amazon_product_url: https://www.amazon.com/dp/006308001X?tag=NYTBSREV-20
+list_date: 2021/10/10
+published_data: 2021-07-27
+summary: The former FDA commissioner outlines how the United States must prepare for future pandemics by learning from the mistakes made handling the Covid-19 outbreak. In the early 2000s, Scott Gottlieb spent years at the U.S. Food and Drug Administration developing a "Pandemic Influenza Plan" to ready the United States for the threat of a global pandemic. Besides developing a response playbook, the Bush Administration also drilled for the event. But when he returned to Washington as FDA director in 2017, Gottlieb discovered that the agency had been using the same outdated plan and obsolete tools to face Ebola, Zika, and swine flu. Shortly after his departure in late 2019, Covid-19 hit the United States. Members of the Trump administration were slow to mount an effective response. Nine months later, the federal government's response remains woefully inadequate and the Trump administration continues to focus on the wrong things. Schools should be opening safely and the government should be building the infrastructure for hundreds of millions of vaccines. Instead, the administration is cutting funding, has amassed warehouses full of hydroxychloroquine, and speak as if the virus has disappeared, even as infections--and deaths--continue to rise. In Preparing for the Inevitable, Gottlieb identifies the reasons why the U.S. was so underprepared for the pandemic, from failing to enlist the private sector in large-scale manufacturing of testing supplies and medical equipment to resolutely sticking to the narrative that Covid would go away on its own. He warns that if we don't correct these failures, the virus will continue to flourish, more people will get sick and die, and may impact the distribution of a vaccine when one is available. Hard-hitting and informed by Gottlieb's experience both in government and medicine, Preparing for the Inevitable is the essential inside account of one of the most tragic--and preventable--failures in American history.
+author_new0: Scott Gottlieb

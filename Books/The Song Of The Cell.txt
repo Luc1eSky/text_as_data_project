@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 12
+primary_isbn10: 1982117354
+primary_isbn13: 9781982117351
+publisher: Scribner
+description: The Pulitzer Prize-winning author chronicles the discovery of cells and describes how modern medicine uses them.
+title: The Song Of The Cell
+author: Siddhartha Mukherjee
+amazon_product_url: https://www.amazon.com/dp/1982117354?tag=NYTBSREV-20
+list_date: 2023/02/05
+published_data: 2022-10-25
+summary: Presenting revelatory and exhilarating stories of scientists, doctors, and the patients whose lives may be saved by their work, the author draws on his own experience as a researcher, doctor, and prolific reader to explore how the discovery of cells created a new kind of medicine based on the therapeutic manipulation of cells.
+author_new0: Siddhartha Mukherjee

@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 147673075X
+primary_isbn13: 9781476730752
+publisher: Simon & Schuster
+description: The Oscar-winning producer describes the importance of curiosity in his life, and how others can harness its power.
+title: A Curious Mind
+author: Brian Grazer and Charles Fishman
+amazon_product_url: http://www.amazon.com/Curious-Mind-Secret-Bigger-Life-ebook/dp/B00LJXK23C?tag=NYTBSREV-20
+list_date: 2015/05/17
+published_date: 2015-04-07
+summary: Academy Award–winning producer Brian Grazer and an acclaimed business journalist examine the weekly “curiosity conversations” that have inspired Grazer to create some of America's favorite and iconic movies and television shows—from 24 to A Beautiful Mind.

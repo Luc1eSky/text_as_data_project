@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 3
+primary_isbn10: 030759226X
+primary_isbn13: 9780307592262
+publisher: Crown Archetype
+description: A memoir by the performer, who calls himself “a simple song-and-dance man.”
+title: My Lucky Life In And Out Of Show Business
+author: Dick Van Dyke
+amazon_product_url: http://www.amazon.com/Lucky-Life-Out-Show-Business-ebook/dp/B004J4WKOW?tag=NYTBSREV-20
+list_date: 2016/07/17
+published_date: 2011-05-03
+summary: A heartfelt memoir from one of Hollywood's greatest icons Dick Van Dyke, indisputably one of the greats of the golden age of television, is admired and beloved by audiences the world over for his beaming smile, his physical dexterity, his impeccable comic timing, his ridiculous stunts, and his unforgettable screen roles. His trailblazing television program, The Dick Van Dyke Show (produced by Carl Reiner, who has written the foreword to this memoir), was one of the most popular sitcoms of the 1960s and introduced another major television star, Mary Tyler Moore. But Dick Van Dyke was also an enormously engaging movie star whose films, including Mary Poppins and Chitty Chitty Bang Bang, have been discovered by a new generation of fans and are as beloved today as they were when they first appeared. A colorful, loving, richly detailed look at the decades of a multilayered life, My Lucky Life In and Out of Show Business, will enthrall every generation of reader, from baby-boomers who recall when Rob Petrie became a household name, to all those still enchanted by Bert’s “Chim Chim Cher-ee.” This is a lively, heartwarming memoir of a performer who still thinks of himself as a “simple song-and-dance man,” but who is, in every sense of the word, a classic entertainer.

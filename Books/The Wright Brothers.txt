@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1476728755
+primary_isbn13: 9781476728759
+publisher: Simon & Schuster
+description: The story of the bicycle mechanics from Ohio who ushered in the age of flight.
+title: The Wright Brothers
+author: David McCullough
+amazon_product_url: http://www.amazon.com/The-Wright-Brothers-David-McCullough-ebook/dp/B00LD1RWP6?tag=NYTBSREV-20
+list_date: 2016/07/10
+published_date: 2016-05-03
+summary: "David McCullough once again tells a dramatic story of people and technology, this time about the courageous brothers who taught the world how to fly: Wilbur and Orville Wright"--Provided by publisher.

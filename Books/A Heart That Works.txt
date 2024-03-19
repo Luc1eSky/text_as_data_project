@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1954118317
+primary_isbn13: 9781954118317
+publisher: Spiegel & Grau
+description: The comedian describes moving his family to London and dealing with tragedy.
+title: A Heart That Works
+author: Rob Delaney
+amazon_product_url: https://www.amazon.com/dp/1954118317?tag=NYTBSREV-20
+list_date: 2022/12/18
+published_data: 2022-11-29
+summary: People magazine Fall Must Read pick*2022 Buzzfeed Fall Reading pick A visceral and deeply personal memoir by the star of the Amazon Prime series Catastrophe, about the loss of his young son. In 2016, Rob Delaney's one-year-old son, Henry, was diagnosed with a brain tumor. The family had moved from Los Angeles to London with their two young boys when Rob's wife was pregnant with Henry, their third. The move was an adventure that would bind them even more tightly together as they navigated the novelty of London, the culture clashes, and the funhouse experience of Rob's fame--thanks to his role as co-creator and co-star of the hit series Catastrophe. Henry's illness was a cataclysm that changed everything about their lives. Amid the hospital routine, surgeries, and brutal treatments, they found a newfound community of nurses, aides, caregivers, and fellow parents contending with the unthinkable. Two years later, Henry died, and his family watched their world fall away to reveal the things that matter most. A Heart That Works is Delaney's intimate, unflinching, and fiercely funny exploration of what happened - from the harrowing illness to the vivid, bodily impact of grief and the blind, furious rage that followed, through to the forceful, unstoppable love that remains. In the madness of his grief, Delaney grapples with the fragile miracle of life, the mysteries of death, and the question of purpose for those left behind. Delaney's memoir--profound, painful, full of emotion, and bracingly honest--offers solace to those who have faced devastation and shows us how grace may appear even in the darkest times.
+author_new0: Rob Delaney

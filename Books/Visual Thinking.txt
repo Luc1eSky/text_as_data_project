@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0593418360
+primary_isbn13: 9780593418369
+publisher: Riverhead
+description: The author of “Thinking in Pictures” gives insights into visual thinking.
+title: Visual Thinking
+author: Temple Grandin with Betsy Lerner
+amazon_product_url: https://www.amazon.com/dp/0593418360?tag=NYTBSREV-20
+list_date: 2022/10/30
+published_data: 2022-10-11
+summary: INSTANT NEW YORK TIMES BESTSELLER “A powerful and provocative testament to the diverse coalition of minds we’ll need to face the mounting challenges of the twenty-first century.” —Steve Silberman “An absolute eye-opener.” —Frans de Waal A landmark book that reveals, celebrates, and advocates for the special minds and contributions of visual thinkers A quarter of a century after her memoir, Thinking in Pictures, forever changed how the world understood autism, Temple Grandin—the “anthropologist on Mars,” as Oliver Sacks dubbed her—transforms our awareness of the different ways our brains are wired. Do you have a keen sense of direction, a love of puzzles, the ability to assemble furniture without crying? You are likely a visual thinker. With her genius for demystifying science, Grandin draws on cutting-edge research to take us inside visual thinking. Visual thinkers constitute a far greater proportion of the population than previously believed, she reveals, and a more varied one, from the photo-realistic object visualizers like Grandin herself, with their intuitive knack for design and problem solving, to the abstract, mathematically inclined “visual spatial” thinkers who excel in pattern recognition and systemic thinking. She also makes us understand how a world increasingly geared to the verbal tends to sideline visual thinkers, screening them out at school and passing over them in the workplace. Rather than continuing to waste their singular gifts, driving a collective loss in productivity and innovation, Grandin proposes new approaches to educating, parenting, employing, and collaborating with visual thinkers. In a highly competitive world, this important book helps us see, we need every mind on board.
+author_new0: Temple Grandin
+author_new1: Betsy Lerner

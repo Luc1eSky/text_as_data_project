@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 4
+primary_isbn10: 1501132474
+primary_isbn13: 9781501132476
+publisher: Gallery Books
+description: A finalist on Season 18 of "The Bachelor," later the star of Season 10 of "The Bachelorette," talks about her experience.
+title: It'S Not Okay
+author: Andi Dorfman
+amazon_product_url: http://www.amazon.com/Its-Not-Okay-Turning-Heartbreak-ebook/dp/B012OS8WQY?tag=NYTBSREV-20
+list_date: 2016/09/18
+published_date: 2016-05-17
+summary: Discover the New York Times bestselling book that Bachelor fans—and even Bachelor stars—can’t stop talking about! Beloved fan favorite Andi Dorfman tells the unvarnished truth about her engagement, her public breakup, and why looking for love on television is no paradise. Millions of people tuned in to see Bachelorette star Andi Dorfman get engaged to her chosen suitor. But when the cameras turned off and the dust (or rose petals) had settled, Andi realized she was engaged to a man she’d known for barely two months. And as they endeavored to return to normal life, they discovered that happily ever after wasn’t as easy as it looked. In her own words, Andi delivers “plenty of surprise (and some disturbing) details” (Cosmopolitan) as she tells the whole truth about her entry into the exclusive Bachelor family, her experience on the show, and finally, what happened to make it all fall apart. But this is much more than the diary of a very public breakup—Andi divulges her story along with some no-nonsense, straight-talking advice to other women dealing with their own romantic issues. In It’s Not Okay, Andi is the best friend we all wish we had, telling us the good, the bad, and the ugly to inspire us to always be true to ourselves and remember breakups may be hard, but it’s always going to be okay.

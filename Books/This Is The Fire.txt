@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 0316257575
+primary_isbn13: 9780316257572
+publisher: Little, Brown
+description: The CNN host looks at the impact of racism on his life and prescribes ways to address systemic flaws in America.
+title: This Is The Fire
+author: Don Lemon
+amazon_product_url: https://www.amazon.com/dp/0316257575?tag=NYTBSREV-20
+list_date: 2021/04/25
+published_data: 2021-03-16
+summary: "The host of CNN Tonight with Don Lemon is more popular than ever. As America's only Black prime-time anchor, Lemon and his daily monologues on racism and antiracism, on the failures of the Trump administration and of so many of our leaders, and on America's systemic flaws speak for his millions of fans. Now, in an urgent, deeply personal, riveting plea, he shows us all how deep our problems lie, and what we can do to begin to fix them"--
+author_new0: Don Lemon

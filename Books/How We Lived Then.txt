@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1409046435
+primary_isbn13: 9781409046431
+publisher: Random House
+description: A history of everyday life in Britain during World War II; first published in 1971.
+title: How We Lived Then
+author: Norman Longmate
+amazon_product_url: http://www.amazon.com/How-We-Lived-Then-Everyday-ebook/dp/B0031Y9DQO?tag=NYTBSREV-20
+list_date: 2014/09/14
+published_date: 2010-01-26
+summary: Although nearly 90% of the population of Great Britain remained civilians throughout the war, or for a large part of it, their story has so far largely gone untold. In contrast with the thousands of books on military operations, barely any have concerned themselves with the individual's experience. The problems of the ordinary family are barely ever mentioned - food rationing, clothes rationing, the black-out and air raids get little space, and everyday shortages almost none at all. This book is an attempt to redress the balance; to tell the civilian's story largely through their own recollections and in their own words.

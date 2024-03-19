@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1728247985
+primary_isbn13: 9781728247984
+publisher: Sourcebooks
+description: The pop culture podcast host recounts growing up as a closeted gay kid in Ohio during the 1990s.
+title: How Do I Un-Remember This?
+author: Danny Pellegrino
+amazon_product_url: https://www.amazon.com/dp/1728247985?tag=NYTBSREV-20
+list_date: 2022/03/27
+published_data: 2022-03-08
+summary: From the host of Everything Iconicwith Danny Pellegrino comes a collection of stories you'll be glad didn't happen to you. Think of the most embarrassing thing that's every happened to you. Was it the time your high school cheer squad taunted you in front of the entire town? Was it the time your best friend's mom caught you streaking in all your naked, self-conscious glory? What about the time you accidentally threw a tooth at your drycleaner or took an urn into Kohl's for some holiday shopping? For Danny Pellegrino, the answer is all of the above. Growing up as a closeted gay kid in small-town Ohio wasn't easy, and Danny has the stories to prove it. But coming of age in the 90s still meant something magical to Danny. The music, film, and celebrity moments of his youth were truly iconic, and his love for all things pop culture connected him to a world larger than the one he knew in the suburban Midwest. And through all the pains of growing up, Danny could always look to that world for hope--whether that meant bingeing The Nannyuntil he had the confidence of Fran Fine, belting out Brandy songs until his heartaches were healed, or watching semi-clothed Ryan Phillippe scenes until his cheeks burned from blushing. With refreshing honesty and jaw-dropping absurdity, Danny invites readers to experience his most formative moments in life--from his hometown in Ohio to his hit podcast and career in entertainment today. How Do I Un-Remember This?is an unfiltered and all-too-relatable glimpse into Danny's life and the heartfelt and hilarious moments that shaped it. Although he wouldn't change them for the world, these stories are--unfortunately--true.
+author_new0: Danny Pellegrino

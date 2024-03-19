@@ -1,0 +1,10 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 152474350X
+primary_isbn13: 9781524743505
+publisher: Dutton
+description: An investigation into the relationship between the current heads of Russia and the United States, and their potential ties to the Russian Mafia.
+title: House Of Trump, House Of Putin
+author: Craig Unger
+amazon_product_url: https://www.amazon.com/House-Trump-Putin-Untold-Russian/dp/152474350X?tag=NYTBSREV-20
+list_date: 2018/09/16

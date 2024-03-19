@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1984879456
+primary_isbn13: 9781984879455
+publisher: Viking
+description: The physicist and creator of the YouTube series “Science Without the Gobbledygook" takes on some of the biggest questions in life and physics.
+title: Existential Physics
+author: Sabine Hossenfelder
+amazon_product_url: https://www.amazon.com/dp/1984879456?tag=NYTBSREV-20
+list_date: 2022/08/28
+published_data: 2022-08-09
+summary: A NEW YORK TIMES BESTSELLER “An informed and entertaining guide to what science can and cannot tell us.” —The Wall Street Journal “Stimulating . . . encourage[s] readers to push past well-trod assumptions […] and have fun doing so.” —Science Magazine From renowned physicist and creator of the YouTube series “Science without the Gobbledygook,” a book that takes a no-nonsense approach to life’s biggest questions, and wrestles with what physics really says about the human condition Not only can we not currently explain the origin of the universe, it is questionable we will ever be able to explain it. The notion that there are universes within particles, or that particles are conscious, is ascientific, as is the hypothesis that our universe is a computer simulation. On the other hand, the idea that the universe itself is conscious is difficult to rule out entirely. According to Sabine Hossenfelder, it is not a coincidence that quantum entanglement and vacuum energy have become the go-to explanations of alternative healers, or that people believe their deceased grandmother is still alive because of quantum mechanics. Science and religion have the same roots, and they still tackle some of the same questions: Where do we come from? Where do we go to? How much can we know? The area of science that is closest to answering these questions is physics. Over the last century, physicists have learned a lot about which spiritual ideas are still compatible with the laws of nature. Not always, though, have they stayed on the scientific side of the debate. In this lively, thought-provoking book, Hossenfelder takes on the biggest questions in physics: Does the past still exist? Do particles think? Was the universe made for us? Has physics ruled out free will? Will we ever have a theory of everything? She lays out how far physicists are on the way to answering these questions, where the current limits are, and what questions might well remain unanswerable forever. Her book offers a no-nonsense yet entertaining take on some of the toughest riddles in existence, and will give the reader a solid grasp on what we know—and what we don’t know.
+author_new0: Sabine Hossenfelder

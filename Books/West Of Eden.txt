@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0812998405
+primary_isbn13: 9780812998405
+publisher: Random House
+description: An oral history of five significant Los Angeles families.
+title: West Of Eden
+author: Jean Stein
+amazon_product_url: http://www.amazon.com/West-Eden-An-American-Place-ebook/dp/B00X2FDZEI?tag=NYTBSREV-20
+list_date: 2016/02/28
+published_date: 2016
+summary: Stein examines Los Angeles-- and a mythic cast of fortune hunters and aspiring moguls whose quests for fame and power destroyed many along the way. She tells the stories of five larger-than-life individuals and their families, each one representing different aspects of Los Angeles and the American dream. Each chapter paints a panoramic picture of outsiders pinning their hopes on Los Angeles-- then watching as the shadow of those dreams envelopes their loved ones, especially their children, and the city itself.

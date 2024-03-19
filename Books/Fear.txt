@@ -1,0 +1,12 @@
+rank: 2
+weeks_on_list: 4
+primary_isbn10: 1501175513
+primary_isbn13: 9781501175510
+publisher: Simon & Schuster
+description: Based on hours of interviews with sources, the Pulitzer Prize-winning journalist describes debates and decision-making within the Trump White House.
+title: Fear
+author: Bob Woodward
+amazon_product_url: https://www.amazon.com/Fear-Trump-White-Bob-Woodward-ebook/dp/B075RV48W3?tag=NYTBSREV-20
+list_date: 2018/10/21
+published_date: 2018-09-11
+summary: “Explosive.”—The Washington Post “Devastating.”—The New Yorker “Unprecedented.”—CNN THE INSIDE STORY ON PRESIDENT TRUMP, AS ONLY BOB WOODWARD CAN TELL IT With authoritative reporting honed through eight presidencies from Nixon to Obama, author Bob Woodward reveals in unprecedented detail the harrowing life inside President Donald Trump’s White House and precisely how he makes decisions on major foreign and domestic policies. Woodward draws from hundreds of hours of interviews with firsthand sources, meeting notes, personal diaries, files and documents. The focus is on the explosive debates and the decision-making in the Oval Office, the Situation Room, Air Force One and the White House residence. Fear is the most intimate portrait of a sitting president ever published during the president’s first years in office.

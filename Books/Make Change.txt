@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0358048001
+primary_isbn13: 9780358048008
+publisher: Houghton Mifflin Harcourt
+description: A look at how social movements evolve and ways in which activists can sustain their efforts.
+title: Make Change
+author: Shaun King
+amazon_product_url: https://www.amazon.com/dp/0358048001?tag=NYTBSREV-20
+list_date: 2020/08/23
+published_data: 2020
+summary: Activist and journalist Shaun King reflects on the events that made him one of the most prominent social justice leaders of our time and lays out a clear action plan for you to join the fight--with a foreword from Bernie Sanders
+author_new0: Shaun King

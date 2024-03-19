@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0062862758
+primary_isbn13: 9780062862754
+publisher: HarperOne
+description: The actress starts a family, transplants to a working farm and revitalizes a candy store in Rhinebeck, N.Y.
+title: The Rural Diaries
+author: Hilarie Burton Morgan
+amazon_product_url: https://www.amazon.com/dp/0062862758?tag=NYTBSREV-20
+list_date: 2020/05/24
+published_data: 2020
+summary: "From the ... actress Hilarie Burton Morgan comes her ... story of leaving Hollywood to buy a farm and candy shop in upstate New York with her husband Jeffrey Dean Morgan, celebrating community, family, and the value of hard work in small town America"--
+author_new0: Hilarie Burton Morgan

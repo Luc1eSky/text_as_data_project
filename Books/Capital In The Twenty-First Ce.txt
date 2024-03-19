@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 067443000X
+primary_isbn13: 9780674430006
+publisher: Belknap/Harvard University
+description: A French economist’s analysis of centuries of economic history predicts worsening inequality and proposes solutions.
+title: Capital In The Twenty-First Century
+author: Thomas Piketty
+amazon_product_url: http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X?tag=NYTBSREV-20
+list_date: 2014/07/27
+published_date: 2014-04-15
+summary: The main driver of inequality--returns on capital that exceed the rate of economic growth--is again threatening to generate extreme discontent and undermine democratic values. Thomas Piketty's findings in this ambitious, original, rigorous work will transform debate and set the agenda for the next generation of thought about wealth and inequality.

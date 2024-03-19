@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0061803979
+primary_isbn13: 9780061803970
+publisher: Morrow
+description: The 12-day pursuit of John Wilkes Booth after his assassination of Abraham Lincoln.
+title: Manhunt
+author: James L Swanson
+amazon_product_url: http://www.amazon.com/Manhunt-12-Day-Chase-Lincolns-Killer-ebook/dp/B005CL8E6Y?tag=NYTBSREV-20
+list_date: 2016/07/31
+published_date: 2009-10-13
+summary: Soon to be an Apple TV Series “James Swanson has written a terrific narrative of the hunt for Lincoln’s killers that will mesmerize the reader from start to finish just as the actual manhunt mesmerized the entire nation. It is a triumphant book.”—Doris Kearns Goodwin The murder of Abraham Lincoln set off the greatest manhunt in American history--the pursuit and capture of John Wilkes Booth. From April 14 to April 26, 1865, the assassin led Union cavalry troops on a wild, 12-day chase from the streets of Washington, D.C., across the swamps of Maryland, and into the forests of Virginia, while the nation, still reeling from the just-ended Civil War, watched in horror and sadness. Based on rare archival materials, obscure trial transcripts, and Lincoln’s own blood relics Manhunt is a fully documented, fascinating tale of murder, intrigue, and betrayal. A gripping hour-by-hour account told through the eyes of the hunted and the hunters, it is history as it’s never been read before.

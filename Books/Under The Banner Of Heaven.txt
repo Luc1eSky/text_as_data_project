@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 7
+primary_isbn10: 1400032806
+primary_isbn13: 9781400032808
+publisher: Anchor
+description: Two brothers who subscribed to a fundamentalist version of Mormonism killed a woman and her daughter; the basis of the TV series.
+title: Under The Banner Of Heaven
+author: Jon Krakauer
+amazon_product_url: https://www.amazon.com/dp/1400032806?tag=NYTBSREV-20
+list_date: 2022/06/26
+published_data: 2004-06-08
+summary: NATIONAL BESTSELLER • From the author of Into the Wild and Into Thin Air, this extraordinary work of investigative journalism takes readers inside America’s isolated Mormon Fundamentalist communities. Now an the acclaimed FX limited series streaming on HULU. “Fantastic.... Right up there with In Cold Blood and The Executioner’s Song.” —San Francisco Chronicle Defying both civil authorities and the Mormon establishment in Salt Lake City, the renegade leaders of these Taliban-like theocracies are zealots who answer only to God; some 40,000 people still practice polygamy in these communities. At the core of Krakauer’s book are brothers Ron and Dan Lafferty, who insist they received a commandment from God to kill a blameless woman and her baby girl. Beginning with a meticulously researched account of this appalling double murder, Krakauer constructs a multi-layered, bone-chilling narrative of messianic delusion, polygamy, savage violence, and unyielding faith. Along the way he uncovers a shadowy offshoot of America’s fastest growing religion, and raises provocative questions about the nature of religious belief.
+author_new0: Jon Krakauer

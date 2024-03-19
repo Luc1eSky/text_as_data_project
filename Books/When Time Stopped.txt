@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1982106379
+primary_isbn13: 9781982106379
+publisher: Scribner
+description: The daughter of a man who created a false identity to escape Nazi-occupied Prague uncovers his difficult past.
+title: When Time Stopped
+author: Ariana Neumann
+amazon_product_url: https://www.amazon.com/When-Time-Stopped-Fathers-Remains/dp/1982106379?tag=NYTBSREV-20
+list_date: 2020/02/23
+published_data: 2020-02-04
+summary: In this remarkably moving memoir Ariana Neumann dives into the secrets of her father’s past: years spent hiding in plain sight in war-torn Berlin, the annihilation of dozens of family members in the Holocaust, and the courageous choice to build anew. In 1941, the first Neumann family member was taken by the Nazis, arrested in German-occupied Czechoslovakia for bathing in a stretch of river forbidden to Jews. He was transported to Auschwitz. Eighteen days later his prisoner number was entered into the morgue book. Of thirty-four Neumann family members, twenty-five were murdered by the Nazis. One of the survivors was Hans Neumann, who, to escape the German death net, traveled to Berlin and hid in plain sight under the Gestapo’s eyes. What Hans experienced was so unspeakable that, when he built an industrial empire in Venezuela, he couldn’t bring himself to talk about it. All his daughter Ariana knew was that something terrible had happened. When Hans died, he left Ariana a small box filled with letters, diary entries, and other memorabilia. Ten years later Ariana finally summoned the courage to have the letters translated, and she began reading. What she discovered launched her on a worldwide search that would deliver indelible portraits of a family loving, finding meaning, and trying to survive amid the worst that can be imagined. When Time Stopped is an unputdownable detective story and an epic family memoir, spanning nearly ninety years and crossing oceans. Neumann brings each relative to vivid life. In uncovering her father’s story after all these years, she discovers nuance and depth to her own history and liberates poignant and thought-provoking truths about the threads of humanity that connect us all.
+author_new0: Ariana Neumann

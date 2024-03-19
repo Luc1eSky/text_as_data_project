@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1250077036
+primary_isbn13: 9781250077035
+publisher: Holt
+description: The humorist maps out her mental and physical health journey.
+title: Broken
+author: Jenny Lawson
+amazon_product_url: https://www.amazon.com/dp/1250077036?tag=NYTBSREV-20
+list_date: 2021/05/09
+published_data: 2021-04-06
+summary: From #1 New York Times bestselling author Jenny Lawson comes her most personal book yet. As Jenny Lawson’s hundreds of thousands of fans know, she suffers from depression. In Broken, she explores her experimental treatment of transcranial magnetic stimulation with brutal honesty. But also with brutal humor. Jenny discusses the frustration of dealing with her insurance company in “An Open Letter to My Insurance Company,” which should be an anthem for anyone who has ever had to call their insurance company to try and get a claim covered. She tackles such timelessly debated questions as “How do dogs know they have penises?” We see how her vacuum cleaner almost set her house on fire, how she was attacked by three bears, business ideas she wants to pitch to Shark Tank, and why she can never go back to the post office. Of course, Jenny’s long-suffering husband Victor—the Ricky to Jenny’s Lucille Ball—is present throughout. A treat for Jenny Lawson’s already existing fans, and destined to convert new ones, Broken is a beacon of hope and a wellspring of laughter. Includes Photographs and Illustrations
+author_new0: Jenny Lawson

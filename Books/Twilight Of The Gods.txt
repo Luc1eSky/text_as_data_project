@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 039308065X
+primary_isbn13: 9780393080650
+publisher: Norton
+description: The third book in the Pacific War trilogy describes the last year of World War II in the Pacific.
+title: Twilight Of The Gods
+author: Ian W Toll
+amazon_product_url: https://www.amazon.com/dp/039308065X?tag=NYTBSREV-20
+list_date: 2020/09/20
+published_data: 2020-09-01
+summary: New York Times Bestseller The final volume of the magisterial Pacific War Trilogy from acclaimed historian Ian W. Toll, “one of the great storytellers of War” (Evan Thomas). In June 1944, the United States launched a crushing assault on the Japanese navy in the Battle of the Philippine Sea. The capture of the Mariana Islands and the accompanying ruin of Japanese carrier airpower marked a pivotal moment in the Pacific War. No tactical masterstroke or blunder could reverse the increasingly lopsided balance of power between the two combatants. The War in the Pacific had entered its endgame. Beginning with the Honolulu Conference, when President Franklin Delano Roosevelt met with his Pacific theater commanders to plan the last phase of the campaign against Japan, Twilight of the Gods brings to life the harrowing last year of World War II in the Pacific, when the U.S. Navy won the largest naval battle in history; Douglas MacArthur made good his pledge to return to the Philippines; waves of kamikazes attacked the Allied fleets; the Japanese fought to the last man on one island after another; B-29 bombers burned down Japanese cities; and Hiroshima and Nagasaki were vaporized in atomic blasts. Ian W. Toll’s narratives of combat in the air, at sea, and on the beaches are as gripping as ever, but he also reconstructs the Japanese and American home fronts and takes the reader into the halls of power in Washington and Tokyo, where the great questions of strategy and diplomacy were decided. Drawing from a wealth of rich archival sources and new material, Twilight of the Gods casts a penetrating light on the battles, grand strategic decisions and naval logistics that enabled the Allied victory in the Pacific. An authoritative and riveting account of the final phase of the War in the Pacific, Twilight of the Gods brings Toll’s masterful trilogy to a thrilling conclusion. This prize-winning and best-selling trilogy will stand as the first complete history of the Pacific War in more than twenty-five years, and the first multivolume history of the Pacific naval war since Samuel Eliot Morison’s series was published in the 1950s.
+author_new0: Ian W Toll

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1455527440
+primary_isbn13: 9781455527441
+publisher: Grand Central
+description: A review of the science of — and myths about — aging, and advice on how to live longer.
+title: Spring Chicken
+author: Bill Gifford
+amazon_product_url: http://www.amazon.com/Spring-Chicken-Young-Forever-Trying/dp/1455527440?tag=NYTBSREV-20
+list_date: 2015/03/15
+published_date: 2015-02-17
+summary: From acclaimed journalist Bill Gifford comes a roaring journey into the world of anti-aging science in search of answers to a universal obsession: what can be done about getting old? SPRING CHICKEN: Stay Young Forever (or Die Trying) SPRING CHICKEN is a full-throttle, high-energy ride through the latest research, popular mythology, and ancient wisdom on mankind's oldest obsession: How can we live longer? And better? In his funny, self-deprecating voice, veteran reporter Bill Gifford takes readers on a fascinating journey through the science of aging, from the obvious signs like wrinkles and baldness right down into the innermost workings of cells. We visit cutting-edge labs where scientists are working to "hack" the aging process, like purging "senescent" cells from mice to reverse the effects of aging. He'll reveal why some people live past 100 without even trying, what has happened with resveratrol, the "red wine pill" that made headlines a few years ago, how your fat tissue is trying to kill you, and how it's possible to unlock longevity-promoting pathways that are programmed into our very genes. Gifford separates the wheat from the chaff as he exposes hoaxes and scams foisted upon an aging society, and arms readers with the best possible advice on what to do, what not to do, and what life-changing treatments may be right around the corner. An intoxicating mixture of deep reporting, fascinating science, and prescriptive takeaway, SPRING CHICKEN will reveal the extraordinary breakthroughs that may yet bring us eternal youth, while exposing dangerous deceptions that prey on the innocent and ignorant.

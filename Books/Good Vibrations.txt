@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0399176411
+primary_isbn13: 9780399176418
+publisher: Blue Rider
+description: The rise and fall of the Beach Boys, by one of the band’s original members.
+title: Good Vibrations
+author: Mike Love
+amazon_product_url: http://www.amazon.com/Good-Vibrations-Life-Beach-Boy-ebook/dp/B01COJUFWM?tag=NYTBSREV-20
+list_date: 2016/10/02
+published_date: 2016
+summary: A founding member of The Beach Boys traces his half-century career, discussing the inspirations for his pop classic lyrics, his struggles with self-destructive habits, his spiritual life, and his partnerships with his cousins Brian, Dennis, and Carl Wilson.

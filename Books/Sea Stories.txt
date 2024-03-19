@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 1538729741
+primary_isbn13: 9781538729748
+publisher: Grand Central
+description: A memoir by the retired four-star Navy admiral, including the capture of Saddam Hussein and the raid to kill Osama bin Laden.
+title: Sea Stories
+author: William H McRaven
+amazon_product_url: https://www.amazon.com/Sea-Stories-Life-Special-Operations/dp/1538729741?tag=NYTBSREV-20
+list_date: 2019/07/14
+published_data: 2019-05-21
+summary: In this instant New York Times bestseller, the celebrated author of Make Your Bed shares amazing adventure stories from his career as a Navy SEAL and commander of America's Special Operations Forces. Admiral William H. McRaven is a part of American military history, having been involved in some of the most famous missions in recent memory, including the capture of Saddam Hussein, the rescue of Captain Richard Phillips, and the raid to kill Osama bin Laden. Sea Stories begins in 1960 at the American Officers' Club in France, where Allied officers and their wives gathered to have drinks and tell stories about their adventures during World War II -- the place where a young Bill McRaven learned the value of a good story. Sea Stories is an unforgettable look back on one man's incredible life, from childhood days sneaking into high-security military sites to a day job of hunting terrorists and rescuing hostages. Action-packed, inspiring, and full of thrilling stories from life in the special operations world, Sea Stories is a remarkable memoir from one of America's most accomplished leaders.
+author_new0: William H McRaven

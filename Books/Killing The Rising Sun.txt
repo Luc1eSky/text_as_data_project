@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 31
+primary_isbn10: 1627790624
+primary_isbn13: 9781627790628
+publisher: Holt
+description: The host of “The O’Reilly Factor” recounts the final years of World War II.
+title: Killing The Rising Sun
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: http://www.amazon.com/Killing-Rising-Sun-America-Vanquished-ebook/dp/B01CNTUGF4?tag=NYTBSREV-20
+list_date: 2017/04/30
+published_date: 2016-09-13
+summary: Across the globe in Los Alamos, New Mexico, Dr. J. Robert Oppenheimer and his team of scientists are preparing to test the deadliest weapon known to mankind. In Washington, DC, FDR dies in office and Harry Truman ascends to the presidency, only to face the most important political decision in history: whether to use that weapon. And in Tokyo, Emperor Hirohito, who is considered a deity by his subjects, refuses to surrender, despite a massive and mounting death toll. Told in the same page-turning style of Killing Lincoln, Killing Kennedy, Killing Jesus, Killing Patton, and Killing Reagan, this epic saga details the final moments of World War II like never before.

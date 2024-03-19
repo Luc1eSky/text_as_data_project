@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1250112508
+primary_isbn13: 9781250112507
+publisher: St. Martin's
+description: The Fox News Channel personality describes nine key American virtues that he maintains are under attack by President Obama and Hillary Clinton.
+title: Wake Up America
+author: Eric Bolling
+amazon_product_url: http://www.amazon.com/Wake-Up-America-Virtues-Great-ebook/dp/B019N6656Y?tag=NYTBSREV-20
+list_date: 2016/08/14
+published_date: 2016-06-28
+summary: Identifies nine values on which America was built--including manliness, profit, individuality, and religious faith--arguing that these values are under attack by Democratic leaders and must be embraced to revive the nation's dominance.

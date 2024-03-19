@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 6
+primary_isbn10: 0063046644
+primary_isbn13: 9780063046641
+publisher: Broadside
+description: A collection of holiday memories from members of the staff of Fox News.
+title: All American Christmas
+author: Rachel Campos-Duffy and Sean Duffy
+amazon_product_url: https://www.amazon.com/dp/0063046644?tag=NYTBSREV-20
+list_date: 2022/01/09
+published_data: 2021-11-16
+summary: In this heart-warming collection, more than a dozen Fox News stars recall their favorite Christmas stories and memories. Contributors include Maria Bartiromo, Steve Doocy, Peter Doocy, Ainsley Earhardt, Brian Kilmeade, Janice Dean, Geraldo Rivera, Lawrence Jones, Dana Perino, Bill Hemmer, Emily Compagno, Sandra Smith, John Roberts, John Rich, Lauren Green, Jesse Watters, Charles Payne, Brit Hume, Bret Baier, Sean Duffy, Rachel Campos Duffy In this charming compilation, Sean Duffy and Rachel Campos-Duffy bring together treasured family photographs, fascinating stories, and family recipes from some of the network's most beloved personalities. Maria Bartiromo reflects on her childhood in Dyker Heights and the homes of her neighborhood glowing bright with brilliant light displays. Geraldo Rivera recalls being raised in a mixed-religion household and how, at Christmastime, he and his siblings convinced their Jewish mother to celebrate "Chrismukkah," and how he continues to meld traditions from various faiths into own family's celebration of giving and remembering. Dana Perino takes readers out West to the cattle ranches of Wyoming where she celebrated Christmas with real life "Marlboro Men"--her uncles and grandfather. Bret Baier looks back on the day he and a friend rushed onto the Washington Senators' field to celebrate the team's first 20-game winner in a decade--and how his furious parents warned later warned him that he was now on Santa Claus' naughty list. Beautifully designed to reflect the color and spirit of the holidays and featuring 16 pages of color photographs, All American Christmas is a gift of love from the Fox News family to their fans and is sure to be cherished by loyal views for seasons to come.
+author_new0: Rachel Campos-Duffy
+author_new1: Sean Duffy

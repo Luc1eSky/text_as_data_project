@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1250045444
+primary_isbn13: 9781250045447
+publisher: St. Martin's
+description: A memoir by a deadly special operations sniper deployed to Afghanistan.
+title: The Reaper
+author: Nicholas Irving with Gary Brozek
+amazon_product_url: http://www.amazon.com/The-Reaper-Autobiography-Deadliest-Special-ebook/dp/B00LKRSBBC?tag=NYTBSREV-20
+list_date: 2015/03/01
+published_date: 2015-01-27
+summary: A memoir by a Special Operations Direct Action Sniper traces his extraordinary career during the War on Terror, which was marked by his record-setting deployment to Afghanistan and his face-off against an enemy sniper known only as The Chechnian.

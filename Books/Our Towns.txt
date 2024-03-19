@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1101871849
+primary_isbn13: 9781101871843
+publisher: Pantheon
+description: A couple who flew around America in a single-engine prop airplane describe how solutions for issues faced on a local level differ from national-level dysfunction.
+title: Our Towns
+author: James Fallows and Deborah Fallows
+amazon_product_url: https://www.amazon.com/Our-Towns-000-Mile-Journey-America/dp/1101871849?tag=NYTBSREV-20
+list_date: 2018/05/27
+published_date: 2018
+summary: "A unique, revelatory portrait of small-town America: the activities, changes, and events that shape this mostly unseen part of our national landscape, and the issues and concerns that matter to the ordinary Americans who make these towns their home. For the last five years, James and Deborah Fallows have been traveling across America in a single-prop airplane, visiting small cities and meeting civic leaders, factory workers, recent immigrants, and young entrepreneurs, seeking to take the pulse and discern the outlook of an America that is unreported and unobserved by the national media. Attending town meetings, breakfasts at local coffee shops, and events at local libraries, they have listened to the challenges and problems that define American lives today. 'Our Towns' is the story of their journey--an account of their visits to twenty-one cities and towns: the individuals they met, the stories they heard, and their portrait of the many different faces of the American future"--

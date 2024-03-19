@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 8
+primary_isbn10: 1546083421
+primary_isbn13: 9781546083429
+publisher: Center Street
+description: The legal analyst and Fox News host argues in favor of President Trump.
+title: Liars, Leakers And Liberals
+author: Jeanine Pirro
+amazon_product_url: https://www.amazon.com/Liars-Leakers-Liberals-Anti-Trump-Conspiracy/dp/1546083421?tag=NYTBSREV-20
+list_date: 2018/09/30
+published_date: 2018-07-17
+summary: Get the story the Fake News media doesn't want you to hear in the #1 New York Times bestseller: a withering indictment of the Deep State plot against Trump and a firsthand account of the real presidency, based on interviews with the Trump family and top administration officials. At this point in American history, we are the victims of a liberal sabotage of the presidency unlike anything we've ever witnessed. Nevertheless President Trump continues to fight every day to keep his promise to Make America Great Again. Today that bold idea has already led to a conservative judge on the Supreme Court, tax reform, and deregulation that has unleashed an economy stronger than anyone could have imagined. But there are dark forces that seek to obstruct and undermine the president and reverse the results of the 2016 presidential election. They are part of a wide-ranging conspiracy that would seem incredible if it weren't being perpetrated openly. Driven by ambition, blinded by greed, and bound by a common goal -- to unseat the 45th President of the United States -- this cabal is determined to maintain its wrongful hold on national political power. Fox News host Jeanine Pirro uncovers the elements of this conspiracy, including: "Fake news" propaganda, Law enforcement corruption at the highest levels, National security leaks by the intelligence community, Bureaucratic resistance to lawful and constitutional executive orders issued by the duly elected president, Crooked deals with foreign governments by U.S. officials sworn to defend our Constitution. It's about time the American public knows the truth about the plot to bring down the Trump presidency. By the time you've finished this book, you'll agree with Judge Pirro that the only way to stop these hoodlums is to Take Them Out in Cuffs!

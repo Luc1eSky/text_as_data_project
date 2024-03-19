@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 1984879421
+primary_isbn13: 9781984879424
+publisher: Penguin Press
+description: Two New York Times journalists portray power struggles within Paramount Global, the multibillion-dollar entertainment empire controlled by the Redstone family.
+title: Unscripted
+author: James B. Stewart and Rachel Abrams
+amazon_product_url: https://www.amazon.com/dp/1984879421?tag=NYTBSREV-20
+list_date: 2023/03/12
+published_data: 2023-02-14
+summary: "Addicted to Succession? Well, here's the real thing." - The Hollywood Reporter “Jaw-dropping . . . an epic tale of toxic wealth and greed populated by connivers and manipulators.” —The New York Times Book Review, Editors’ Choice The shocking inside story of the struggle for power and control at Paramount Global, the multibillion-dollar entertainment empire controlled by the Redstone family, and the dysfunction, misconduct, and deceit that threatened the future of the company, from the Pulitzer Prize–winning journalists who first broke the news In 2016, the fate of Paramount Global—the multibillion-dollar entertainment empire that includes Paramount, CBS, MTV, Nickelodeon, Showtime, and Simon & Schuster—hung precariously in the balance. Its founder and head, ninety-three-year-old Sumner M. Redstone, was facing a very public lawsuit brought by a former romantic companion, Manuela Herzer—a lawsuit that placed Sumner’s deteriorating health and questionable judgment under a harsh light. As one of the last in a long line of all-powerful media moguls, Sumner had been a relentlessly demanding boss, and an even more demanding father. When his daughter, Shari, took control of her father’s business, she faced the hostility of boards and management who for years had heard Sumner disparage her. Les Moonves, the popular CEO of CBS, felt particularly threatened and schemed with his allies on the board to strip Shari of power. But while he publicly battled Shari, news began to leak that Moonves had been involved in multiple instances of sexual misconduct, and he began working behind the scenes to try to make the stories disappear. Unscripted is an explosive and unvarnished look at the usually secret inner workings of two public companies, their boards of directors, and a wealthy, dysfunctional family in the throes of seismic changes, from the Pulitzer Prize-winning journalists James B. Stewart and Rachel Abrams. Through the microcosm of Paramount, whose once victorious business model of cable fees and ticket sales is crumbling under the assault of technological advances, and whose workplace is undergoing radical change in the wake of #MeToo, Black Lives Matter, and a distaste for the old guard, Stewart and Abrams lay bare the battle for power at any price—and the carnage that ensued.
+author_new0: James B. Stewart
+author_new1: Rachel Abrams

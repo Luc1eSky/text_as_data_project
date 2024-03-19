@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 1476773882
+primary_isbn13: 9781476773889
+publisher: Threshold Editions/Mercury Radio Arts
+description: A call for refocused priorities in American public education.
+title: Conform
+author: Glenn Beck, Kevin Balfe and Kyle Olson
+amazon_product_url: http://www.amazon.com/Conform-Exposing-Common-Public-Education-ebook/dp/B00GEEB1S6?tag=NYTBSREV-20
+list_date: 2014/06/08
+published_date: 2014-05-06
+summary: Uncovering the politically motivated truth behind the continual failures of the American educational system, the popular radio and television host, in this fact-based analysis, reveals what is really needed to fight for a system that offers nothing less than the world's highest quality education. Original.

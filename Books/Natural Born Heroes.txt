@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0307594963
+primary_isbn13: 9780307594969
+publisher: Knopf
+description: Scrutinizing historical and contemporary figures, the author of “Born to Run” discusses what makes a hero and what fitness techniques we can learn from some of them.
+title: Natural Born Heroes
+author: Christopher McDougall
+amazon_product_url: http://www.amazon.com/Natural-Born-Heroes-Mastered-Endurance/dp/0307594963?tag=NYTBSREV-20
+list_date: 2015/05/03
+published_date: 2015
+summary: The author of the best-selling Born to Run describes his investigation into ancestral training techniques that have enabled Mediterranean athletes to achieve extraordinary levels of strength and fitness.

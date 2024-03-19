@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0593318994
+primary_isbn13: 9780593318997
+publisher: Knopf
+description: The author of “Winners Take All” profiles people working to use persuasion during a time of polarization.
+title: The Persuaders
+author: Anand Giridharadas
+amazon_product_url: https://www.amazon.com/dp/0593318994?tag=NYTBSREV-20
+list_date: 2022/11/06
+published_data: 2022-10-18
+summary: NEW YORK TIMES BESTSELLER • An insider account of activists, politicians, educators, and everyday citizens working to change minds, bridge divisions, and fight for democracy—from disinformation fighters to a leader of Black Lives Matter to Bernie Sanders and Alexandria Ocasio-Cortez and more—by the best-selling author of Winners Take All and award-winning former New York Times columnist “Anand Giridharadas shows the way we get real progressive change in America—by refusing to write others off, building more welcoming movements, and rededicating ourselves to the work of changing minds.” —Robert B. Reich, best-selling author of The System The lifeblood of any free society is persuasion: changing other people’s minds in order to change things. But America is suffering a crisis of faith in persuasion that is putting its democracy and the planet itself at risk. Americans increasingly write one another off instead of seeking to win one another over. Debates are framed in moralistic terms, with enemies battling the righteous. Movements for justice build barriers to entry, instead of on-ramps. Political parties focus on mobilizing the faithful rather than wooing the skeptical. And leaders who seek to forge coalitions are labeled sellouts. In The Persuaders, Anand Giridharadas takes us inside these movements and battles, seeking out the dissenters who continue to champion persuasion in an age of polarization. We meet a leader of Black Lives Matter; a trailblazer in the feminist resistance to Trumpism; white parents at a seminar on raising adopted children of color; Bernie Sanders and Alexandria Ocasio-Cortez; a team of door knockers with an uncanny formula for changing minds on immigration; an ex-cult member turned QAnon deprogrammer; and, hovering menacingly offstage, Russian operatives clandestinely stoking Americans’ fatalism about one another. As the book’s subjects grapple with how to call out threats and injustices while calling in those who don’t agree with them but just might one day, they point a way to healing, and changing, a fracturing country.
+author_new0: Anand Giridharadas

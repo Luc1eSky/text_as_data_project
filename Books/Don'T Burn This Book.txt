@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0593084292
+primary_isbn13: 9780593084298
+publisher: Sentinel
+description: The internet show host explains why he moved away from progressive politics.
+title: Don'T Burn This Book
+author: Dave Rubin
+amazon_product_url: https://www.amazon.com/dp/0593084292?tag=NYTBSREV-20
+list_date: 2020/05/17
+published_data: 2020-04-28
+summary: "Topical, engaging, personable, and above all, reassuring." -Dr. Jordan B. Peterson, author of 12 Rules for Life From host of The Rubin Report, the most-watched talk show about free speech and big ideas on YouTube right now, a roadmap for free thinking in an increasingly censored world. The left is no longer liberal. Once on the side of free speech and tolerance, progressives now ban speakers from college campuses, "cancel" people who aren't up to date on the latest genders, and force religious people to violate their conscience. They have abandoned the battle of ideas and have begun fighting a battle of feelings. This uncomfortable truth has turned moderates and true liberals into the politically homeless class. Dave Rubin launched his political talk show The Rubin Report in 2015 as a meeting ground for free thinkers who realize that partisan politics is a dead end. He hosts people he both agrees and disagrees with--including those who have been dismissed, deplatformed, and despised--taking on the most controversial issues of our day. As a result, he's become a voice of reason in a time of madness. Now, Rubin gives you the tools you need to think for yourself in an age when tribal outrage is the only available alternative. Based on his own story as well as his experiences from the front lines of the free speech wars, this book will empower you to make up your own mind about what you believe on any issue and teach you the fine art of: Checking your facts, not your privilege, when it comes to today's most pervasive myths, from the wage gap and gun violence to climate change and hate crimes. Standing up to the mob against today's absurd PC culture, when differences of opinion can bring relationships, professional or personal, to a sudden end. Defending classically liberal principles such as individual rights and limited government, because freedom is impossible without them. The Progressive Woke Machine is waging war against the last free thinkers in the world. Don't Burn This Book is the definitive account of our current political upheaval and your guide to surviving it.
+author_new0: Dave Rubin

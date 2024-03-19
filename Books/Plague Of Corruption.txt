@@ -1,0 +1,14 @@
+rank: 4
+weeks_on_list: 4
+primary_isbn10: 1510752242
+primary_isbn13: 9781510752245
+publisher: Skyhorse
+description: The controversial virologist gives her account of her work over nearly four decades.
+title: Plague Of Corruption
+author: Judy Mikovits and Kent Heckenlively
+amazon_product_url: https://www.amazon.com/dp/1510752242?tag=NYTBSREV-20
+list_date: 2020/06/14
+published_data: 2020-04-14
+summary: #1 on Amazon Charts, New York Times Bestseller, USA Today Bestseller—Over 100,000 Copies in Print! “Kent Heckenlively and Judy Mikovits are the new dynamic duo fighting corruption in science.” —Ben Garrison, America’s #1 political satirist Dr. Judy Mikovits is a modern-day Rosalind Franklin, a brilliant researcher shaking up the old boys’ club of science with her groundbreaking discoveries. And like many women who have trespassed into the world of men, she uncovered decades-old secrets that many would prefer to stay buried. From her doctoral thesis, which changed the treatment of HIV-AIDS, saving the lives of millions, including basketball great Magic Johnson, to her spectacular discovery of a new family of human retroviruses, and her latest research which points to a new golden age of health, Dr. Mikovits has always been on the leading edge of science. With the brilliant wit one might expect if Erin Brockovich had a doctorate in molecular biology, Dr. Mikovits has seen the best and worst of science. When she was part of the research community that turned HIV-AIDS from a fatal disease into a manageable one, she saw science at its best. But when her investigations questioned whether the use of animal tissue in medical research were unleashing devastating plagues of chronic diseases, such as autism and chronic fatigue syndrome, she saw science at its worst. If her suspicions are correct, we are looking at a complete realignment of scientific practices, including how we study and treat human disease. Recounting her nearly four decades in science, including her collaboration of more than thirty-five years with Dr. Frank Ruscetti, one of the founders of the field of human retrovirology, this is a behind the scenes look at the issues and egos which will determine the future health of humanity.
+author_new0: Judy Mikovits
+author_new1: Kent Heckenlively

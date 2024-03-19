@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0062209728
+primary_isbn13: 9780062209726
+publisher: Harper/HarperCollins
+description: Interviews with more than 70 teenagers shed light on their experience of sexuality.
+title: Girls And Sex
+author: Peggy Orenstein
+amazon_product_url: http://www.amazon.com/Girls-Sex-Navigating-Complicated-Landscape-ebook/dp/B0111YAT0Y?tag=NYTBSREV-20
+list_date: 2016/04/24
+published_date: 2016-03-29
+summary: NEW YORK TIMES BESTSELLER A Time Top 10 Book of the Year • A San Francisco Chronicle Book of the Year The author of the New York Times bestseller Cinderella Ate My Daughter offers a clear-eyed picture of the new sexual landscape girls face in the post-princess stage—high school through college—and reveals how they are negotiating it. A generation gap has emerged between parents and their girls. Even in this age of helicopter parenting, the mothers and fathers of tomorrow’s women have little idea what their daughters are up to sexually or how they feel about it. Drawing on in-depth interviews with over seventy young women and a wide range of psychologists, academics, and experts, renowned journalist Peggy Orenstein goes where most others fear to tread, pulling back the curtain on the hidden truths, hard lessons, and important possibilities of girls’ sex lives in the modern world. While the media has focused—often to sensational effect—on the rise of casual sex and the prevalence of rape on campus, in Girls and Sex Peggy Orenstein brings much more to the table. She examines the ways in which porn and all its sexual myths have seeped into young people’s lives; what it means to be the “the perfect slut” and why many girls scorn virginity; the complicated terrain of hookup culture and the unfortunate realities surrounding assault. In Orenstein’s hands these issues are never reduced to simplistic “truths;” rather, her powerful reporting opens up a dialogue on a potent, often silent, subtext of American life today—giving readers comprehensive and in-depth information with which to understand, and navigate, this complicated new world.

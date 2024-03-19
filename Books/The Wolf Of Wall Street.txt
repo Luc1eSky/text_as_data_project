@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 8
+primary_isbn10: 0553904248
+primary_isbn13: 9780553904246
+publisher: Bantam
+description: The rise and ugly fall of a high-living investment-firm founder. First published in 2007; the basis for the movie. 
+title: The Wolf Of Wall Street
+author: Jordan Belfort
+amazon_product_url: http://www.amazon.com/Wolf-Wall-Street-Jordan-Belfort-ebook/dp/B000W8HC8I?tag=NYTBSREV-20
+list_date: 2014/03/23
+published_date: 2007-09-25
+summary: NEW YORK TIMES BESTSELLER • Now a major motion picture directed by Martin Scorsese and starring Leonardo DiCaprio By day he made thousands of dollars a minute. By night he spent it as fast as he could. From the binge that sank a 170-foot motor yacht and ran up a $700,000 hotel tab, to the wife and kids waiting at home and the fast-talking, hard-partying young stockbrokers who called him king, here, in Jordan Belfort’s own words, is the story of the ill-fated genius they called the Wolf of Wall Street. In the 1990s, Belfort became one of the most infamous kingpins in American finance: a brilliant, conniving stock-chopper who led his merry mob on a wild ride out of Wall Street and into a massive office on Long Island. It’s an extraordinary story of greed, power, and excess that no one could invent: the tale of an ordinary guy who went from hustling Italian ices to making hundreds of millions—until it all came crashing down. Praise for The Wolf of Wall Street “Raw and frequently hilarious.”—The New York Times “A rollicking tale of [Jordan Belfort’s] rise to riches as head of the infamous boiler room Stratton Oakmont . . . proof that there are indeed second acts in American lives.”—Forbes “A cross between Tom Wolfe’s The Bonfire of the Vanities and Scorsese’s GoodFellas . . . Belfort has the Midas touch.”—The Sunday Times (London) “Entertaining as pulp fiction, real as a federal indictment . . . a hell of a read.”—Kirkus Reviews

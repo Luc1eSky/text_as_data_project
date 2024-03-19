@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0063046490
+primary_isbn13: 9780063046498
+publisher: Morrow
+description: The star of “Shang-Chi and the Legend of the Ten Rings” shares his journey and struggles with cultural stereotypes.
+title: We Were Dreamers
+author: Simu Liu
+amazon_product_url: https://www.amazon.com/dp/0063046490?tag=NYTBSREV-20
+list_date: 2022/06/05
+published_data: 2021-05-18
+summary: N/A
+author_new0: Simu Liu

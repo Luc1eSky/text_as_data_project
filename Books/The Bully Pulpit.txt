@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 141654786X
+primary_isbn13: 9781416547860
+publisher: Simon & Schuster
+description: The relationship between Theodore Roosevelt and William Howard Taft and the activities of the muckraking press, from the author of “Team of Rivals.”
+title: The Bully Pulpit
+author: Doris Kearns Goodwin
+amazon_product_url: http://www.amazon.com/The-Bully-Pulpit-Roosevelt-Journalism/dp/141654786X?tag=NYTBSREV-20
+list_date: 2014/01/26
+published_date: 2013-11-05
+summary: Focusing on the broken friendship between Teddy Roosevelt and his chosen successor, William Howard Taft, a Pulitzer Prize-winning historian revisits the Progressive Era during which Roosevelt wielded the Bully Pulpit to challenge and triumph over abusive monopolies, political bosses and corrupt money brokers only to see it compromised by Taft. (This book was previously featured in Forecast.)

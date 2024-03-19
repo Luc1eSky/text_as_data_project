@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 6
+primary_isbn10: 1478923083
+primary_isbn13: 9781478923084
+publisher: Center Street
+description: The former House speaker explains the president’s philosophy and political agenda.
+title: Understanding Trump
+author: Newt Gingrich
+amazon_product_url: https://www.amazon.com/Understanding-Trump-Newt-Gingrich/dp/1478923083?tag=NYTBSREV-20
+list_date: 2017/08/06
+published_date: 2017-06-13
+summary: Learn how Trump is making America great again -- and why government and media elites attack his vision -- in this "inspiring and informative" book from one of his key political advisors (Sean Hannity). Donald Trump is unlike any president we've ever had. The only person ever elected to be commander in chief who has not first held public office or served as a general in the military, Trump's principles grow out of five decades of business and celebrity success -- not politics. The president owes his position to the people who believed in him as a candidate, not to the left-wing government and media who have expressed contempt for him since his first day on the campaign trail. Trump has enacted policies and set goals that send our country in a bold new direction -- one that is "unreasonable" to Washington elites but sensible to millions of Americans outside the Beltway. With Understanding Trump, Newt Gingrich provides unique insight into how the president's past experiences have helped to shape his life and style of governing, including a thorough analysis of how President Trump thinks and makes decisions, as well as his philosophy, doctrine, and forward-thinking political agenda. Discover Trump-style solutions for national security, education, health care, economic growth, government reform, and other important topics. In this eye-opening book, Gingrich also investigates and exposes the forces in the Washington establishment, media, and bureaucracy that oppose the president at every turn. Finally, Understanding Trump explains the president's actions so far and lays out a vision for what Americans can do to help make President Trump's agenda a success. With your help, President Trump will be able to overcome corrupt interests in Washington and fulfill his promise to make America great again.

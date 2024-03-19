@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1476793859
+primary_isbn13: 9781476793856
+publisher: Scribner
+description: The actor discusses his relationships and career.
+title: A Life In Parts
+author: Bryan Cranston
+amazon_product_url: http://www.amazon.com/Life-Parts-Bryan-Cranston-ebook/dp/B01E4BC1SE?tag=NYTBSREV-20
+list_date: 2016/11/06
+published_date: 2016-10-11
+summary: A memoir and meditation on creativity by the star of "Breaking Bad" chronicles his theatrical childhood and recommitment to acting in the aftermath of his father's disappearance, describing his early acting jobs and the performances that earned him Tony and Emmy Awards.

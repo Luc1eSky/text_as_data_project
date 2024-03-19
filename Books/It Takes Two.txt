@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1328771474
+primary_isbn13: 9781328771476
+publisher: Houghton Mifflin Harcourt
+description: The identical twins and reality TV stars trace their ascent from their upbringing in Vancouver, B.C., through personal setbacks to building careers together.
+title: It Takes Two
+author: Jonathan Scott and Drew Scott
+amazon_product_url: https://www.amazon.com/Takes-Two-Our-Story/dp/1328771474?tag=NYTBSREV-20
+list_date: 2017/09/24
+published_date: 2017
+summary: From the beloved hosts of Property Brothers on HGTV, an inspiring, personal, and laugh-out-loud memoir

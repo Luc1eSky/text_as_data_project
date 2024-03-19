@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 1501145304
+primary_isbn13: 9781501145308
+publisher: Touchstone
+description: The radio personality presents his life story and offers advice for success.
+title: Black Privilege
+author: Charlamagne Tha God
+amazon_product_url: https://www.amazon.com/Black-Privilege-Opportunity-Comes-Create/dp/1501145304?tag=NYTBSREV-20
+list_date: 2017/05/28
+published_date: 2017-04-18
+summary: The radio and television personality shares his unlikely success story as a troubled youth-turned-influential radio personality, outlining unstinting views about how embracing one's truths is an essential part of achieving success and happiness.

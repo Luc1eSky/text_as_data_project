@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 6
+primary_isbn10: 
+primary_isbn13: 9780385350273
+publisher: Vintage
+description: The Pulitzer Prize-winning author examines the world of Scientology; the basis for the documentary film.  
+title: Going Clear
+author: Lawrence Wright
+amazon_product_url: http://www.amazon.com/Going-Clear-Scientology-Hollywood-Vintage/dp/0307745309?tag=NYTBSREV-20
+list_date: 2015/04/19
+published_date: 2021-09-15
+summary: N/A

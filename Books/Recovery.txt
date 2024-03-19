@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1250141923
+primary_isbn13: 9781250141927
+publisher: Holt
+description: The actor and comedian describes his various addictions and how he was able to move away from them.
+title: Recovery
+author: Russell Brand
+amazon_product_url: https://www.amazon.com/Recovery-Freedom-Addictions-Russell-Brand/dp/1250141923?tag=NYTBSREV-20
+list_date: 2017/10/29
+published_date: 2017-10-03
+summary: "Comedian and movie star Russell Brand mines his own wild story and shares the advice and wisdom he has gained through his fourteen years of recovery. Brand speaks to those suffering along the full spectrum of addiction--from drugs, alcohol, caffeine, and sugar addictions to addictions to work, stress, bad relationships, digital media, and fame. Brand understands that addiction can take many shapes and sizes and how the process of staying clean, sane, and unhooked is a daily activity. He believes that the question is not 'Why are you addicted?' but 'What pain is your addiction masking? Why are you running--into the wrong job, the wrong life, the wrong person's arms?'"--Provided by publisher.

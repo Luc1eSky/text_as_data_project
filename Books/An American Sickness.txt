@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1594206759
+primary_isbn13: 9781594206757
+publisher: Penguin Press
+description: How health care became a highly profitable business.
+title: An American Sickness
+author: Elisabeth Rosenthal
+amazon_product_url: https://www.amazon.com/American-Sickness-Healthcare-Became-Business/dp/1594206759?tag=NYTBSREV-20
+list_date: 2017/04/30
+published_date: 2017
+summary: Breaking down the monolithic business into its individual industries ... the hospitals, doctors, insurance companies, drug manufacturers ... that together constitute our healthcare system, Rosenthal tells the story of the history of American medicine as never before. The situation is far worse than we think, and it has become like that much more recently than we realize. Hospitals, which are managed by business executives, behave like predatory lenders, hounding patients and seizing their homes. Research charities are in bed with big pharmaceutical companies, which surreptitiously profit from the donations made by working people. Americans are dying from routine medical conditions when affordable and straightforward solutions exist. Dr. Rosenthal explains for the first time how various social and financial incentives have encouraged a disastrous and immoral system to spring uporganicallyin a shockingly short span of time. The system is in tatters, but we can fight back.

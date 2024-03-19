@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1476733503
+primary_isbn13: 9781476733500
+publisher: Scribner
+description: An overview of the history and science of genetics by the Pulitzer Prize-winning author of “The Emperor of All Maladies.”
+title: The Gene
+author: Siddhartha Mukherjee
+amazon_product_url: http://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee-ebook/dp/B017I25DCC?tag=NYTBSREV-20
+list_date: 2016/07/10
+published_date: 2016-05-17
+summary: Prologue: Families -- "The missing science of heredity" 1865-1935 -- "In the sum of the parts, there are only the parts" 1930-1970 -- "The dreams of geneticists" 1970-2001 -- "The proper study of mankind is man" 1970-2005 -- Through the looking glass 2001-2015 -- Post-genome 2015- ... -- Epilogue: Bheda, Abheda

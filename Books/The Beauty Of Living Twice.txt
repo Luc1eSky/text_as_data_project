@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0525656766
+primary_isbn13: 9780525656760
+publisher: Knopf
+description: The actress and human rights activist recounts her childhood difficulties and biggest accomplishments.
+title: The Beauty Of Living Twice
+author: Sharon Stone
+amazon_product_url: https://www.amazon.com/dp/0525656766?tag=NYTBSREV-20
+list_date: 2021/04/18
+published_data: 2021
+summary: The Nobel Peace Summit Award-winning actress, activist, and humanitarian chronicles her efforts to recover and rebuild after a massive stroke, discussing how her health challenges were also shaped by industry standards, childhood traumas, and family bonds.
+author_new0: Sharon Stone

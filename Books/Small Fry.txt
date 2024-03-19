@@ -1,0 +1,12 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0802128238
+primary_isbn13: 9780802128232
+publisher: Grove
+description: A memoir about the author's difficult relationship with her father, Steve Jobs.
+title: Small Fry
+author: Lisa Brennan-Jobs
+amazon_product_url: https://www.amazon.com/Small-Fry-Lisa-Brennan-Jobs/dp/0802128238?tag=NYTBSREV-20
+list_date: 2018/09/23
+published_date: 2018
+summary: A NEW YORK TIMES AND NEW YORKER TOP 10 BOOK OF THE YEAR "Beautiful, literary, and devastating."--New York Times Book Review * "Revelatory."--Entertainment Weekly * "A masterly Silicon Valley gothic."--Vogue *"Mesmerizing, discomfiting reading... A book of no small literary skill."--New Yorker * "Extraordinary... An aching, exquisitely told story."--People * "The sleeper critical hit of the season."--Vulture A BEST BOOK OF THE YEAR FOR NPR, AMAZON, GQ, VOGUE (UK), BUSTLE, PUBLISHERS WEEKLY, AND INDIGO Born on a farm and named in a field by her parents―artist Chrisann Brennan and Steve Jobs―Lisa Brennan-Jobs's childhood unfolded in a rapidly changing Silicon Valley. When she was young, Lisa's father was a mythical figure who was rarely present in her life. As she grew older, her father took an interest in her, ushering her into a new world of mansions, vacations, and private schools. His attention was thrilling, but he could also be cold, critical and unpredictable. When her relationship with her mother grew strained in high school, Lisa decided to move in with her father, hoping he'd become the parent she'd always wanted him to be. Part portrait of a complex family, part love letter to California in the seventies and eighties, Small Fry is a poignant coming-of-age story from one of our most exciting new literary voices. Praise for Small Fry "An intimate, richly drawn portrait... The reader of this exquisite memoir is left with a loving, forgiving remembrance and the lasting impression of a resilient, kindhearted and wise woman who is at peace with her past."--San Francisco Chronicle "A heartbreaking memoir, beautifully rendered...It's a love story for the father that she had, flaws and all... A wise, thoughtful, and ultimately loving portrayal of her father."--Seattle Times

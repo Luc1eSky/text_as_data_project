@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0593188799
+primary_isbn13: 9780593188798
+publisher: Avery
+description: A look at the historical, sociological, political and linguistic aspects of profanity.
+title: Nine Nasty Words
+author: John McWhorter
+amazon_product_url: https://www.amazon.com/dp/0593188799?tag=NYTBSREV-20
+list_date: 2021/05/30
+published_data: 2021-05-04
+summary: A New York Times bestseller One of the preeminent linguists of our time examines the realms of language that are considered shocking and taboo in order to understand what imbues curse words with such power--and why we love them so much. Profanity has always been a deliciously vibrant part of our lexicon, an integral part of being human. In fact, our ability to curse comes from a different part of the brain than other parts of speech--the urgency with which we say "f&*k!" is instead related to the instinct that tells us to flee from danger. Language evolves with time, and so does what we consider profane or unspeakable. Nine Nasty Words is a rollicking examination of profanity, explored from every angle: historical, sociological, political, linguistic. In a particularly coarse moment, when the public discourse is shaped in part by once-shocking words, nothing could be timelier.
+author_new0: John McWhorter

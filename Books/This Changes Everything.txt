@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1451697384
+primary_isbn13: 9781451697384
+publisher: Simon & Schuster
+description: The author of “The Shock Doctrine” argues that the free market created and is worsening the climate crisis.
+title: This Changes Everything
+author: Naomi Klein
+amazon_product_url: http://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1442372915?tag=NYTBSREV-20
+list_date: 2014/10/19
+published_date: 2014-09-16
+summary: Explains why the environmental crisis should lead to an abandonment of "free market" ideologies and current political systems, arguing that a massive reduction of greenhouse emissions may offer a best chance for correcting problems.

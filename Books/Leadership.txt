@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 3
+primary_isbn10: 1476795924
+primary_isbn13: 9781476795928
+publisher: Simon & Schuster
+description: The challenges that shaped the leadership abilities of four presidents: Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt and Lyndon B. Johnson.
+title: Leadership
+author: Doris Kearns Goodwin
+amazon_product_url: https://www.amazon.com/Leadership-Turbulent-Doris-Kearns-Goodwin/dp/1476795924?tag=NYTBSREV-20
+list_date: 2018/10/21
+published_date: 2018-09-18
+summary: From Pulitzer Prize–winning author and esteemed presidential historian Doris Kearns Goodwin, an invaluable guide to the development and exercise of leadership from Abraham Lincoln, Theodore Roosevelt, Lyndon B. Johnson, and Franklin D. Roosevelt. The inspiration for the multipart HISTORY Channel series Abraham Lincoln and Theodore Roosevelt. “After five decades of magisterial output, Doris Kearns Goodwin leads the league of presidential historians” (USA TODAY). In her “inspiring” (The Christian Science Monitor) Leadership, Doris Kearns Goodwin draws upon the four presidents she has studied most closely—Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, and Lyndon B. Johnson (in civil rights)—to show how they recognized leadership qualities within themselves and were recognized as leaders by others. By looking back to their first entries into public life, we encounter them at a time when their paths were filled with confusion, fear, and hope. Leadership tells the story of how they all collided with dramatic reversals that disrupted their lives and threatened to shatter forever their ambitions. Nonetheless, they all emerged fitted to confront the contours and dilemmas of their times. At their best, all four were guided by a sense of moral purpose. At moments of great challenge, they were able to summon their talents to enlarge the opportunities and lives of others. Does the leader make the times or do the times make the leader? “If ever our nation needed a short course on presidential leadership, it is now” (The Seattle Times). This seminal work provides an accessible and essential road map for aspiring and established leaders in every field. In today’s polarized world, these stories of authentic leadership in times of apprehension and fracture take on a singular urgency. “Goodwin’s volume deserves much praise—it is insightful, readable, compelling: Her book arrives just in time” (The Boston Globe).

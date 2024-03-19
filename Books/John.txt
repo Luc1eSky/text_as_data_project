@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307496295
+primary_isbn13: 9780307496294
+publisher: Three Rivers Press
+description: John Lennon’s first wife discusses their relationship.
+title: John
+author: Cynthia Lennon
+amazon_product_url: http://www.amazon.com/John-Cynthia-Lennon-ebook/dp/B0038BZP1M?tag=NYTBSREV-20
+list_date: 2015/05/17
+published_date: 2010-02-17
+summary: The New York Times bestselling exposé of the real John Lennon, written by his ex-wife. The time has come when I feel ready to tell the truth about John and me, our years together and the years since his death. There is so much that I have never said, so many incidents I have never spoken of and so many feelings I have never expressed: great love on one hand; pain, torment, and humiliation on the other. Only I know what really happened between us, why we stayed together, why we parted, and the price I have paid for being John’s wife. —From the Introduction

@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 1538723050
+primary_isbn13: 9781538723050
+publisher: Twelve
+description: The Washington bureau chief for Mother Jones magazine gives his take on the Republican Party over the last seven decades.
+title: American Psychosis
+author: David Corn
+amazon_product_url: https://www.amazon.com/dp/1538723050?tag=NYTBSREV-20
+list_date: 2022/10/16
+published_data: 2022
+summary: A fast-paced, rollicking account of how paranoia and conspiracy theories have long been major elements within the GOP and how these forces came to triumph under Donald Trump, AMERICAN PSYCHOSIS offers readers a brisk, can-you-believe-this journey through this netherworld of far-right irrationality and explore its interactions with the GOP. It tells the tale of how the Republican Party has turned into a conspiracy cult, kicking ideology and policy principles to the curb in support of a president who embraced and exploited-and stirred-the most bizarre and craziest extremism of the right. The Trump-incited insurrectionist attack on the Capitol on January 6, 2021, was no aberration. AMERICAN PSYCHOSIS reveals it was a continuation of a long and deep-rooted tradition within the party, the result of a derangement on the right that has been accepted and often nurtured by the GOP. AMERICAN PSYCHOSIS entertains and enlightens even as it horrifies, and will be a crucial part of the roiling conversation under way in the run-up to the first post-Trump election. The story told in AMERICAN PSYCHOSIS covers the last half-century; from McCarthyism to the Birchers to segregationists to the religious right to the militia movement to Rush Limbaugh to the tea party and to Donald Trump, the Republican Party has encouraged and exploited rightwing fear and loathing that has been dangerously fueled by conspiracy theories, and now holds the entire United States political process in its grip.
+author_new0: David Corn

@@ -1,0 +1,15 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: 0759554269
+primary_isbn13: 9780759554269
+publisher: Little, Brown
+description: A collection of stories from people working in big-city and small-town hospitals.
+title: E.R. Nurses
+author: James Patterson and Matt Eversmann with Chris Mooney
+amazon_product_url: https://www.amazon.com/dp/0759554269?tag=NYTBSREV-20
+list_date: 2021/11/28
+published_data: 2021-10-11
+summary: James Patterson and Matt Eversmann, #1 bestselling coauthors of Walk in My Combat Boots, powerfully present the frontline heroes who work to save our lives every day: E.R. Nurses. "The compassion, the work ethic, and the selflessness of nurses ... are given the respect they deserve and captured beautifully here." -Sanjay Gupta, MD, neurosurgeon and chief medical correspondent, CNN "James Patterson's account of the twilight world between life and death that nurses inhabit is one of the most moving things I have ever read." -Sebastian Junger, author of Freedom and The Perfect Storm Around the clock, across the country, these highly skilled and compassionate men and women sacrifice and struggle for us and our families. You have never heard their true stories. Not like this. From big-city and small-town hospitals. From behind the scenes. From the heart. This book will make you laugh, make you cry, make you understand. When we're at our worst, E.R. nurses are at their best.
+author_new0: James Patterson
+author_new1: Matt Eversmann
+author_new2: Chris Mooney

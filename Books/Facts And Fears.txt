@@ -1,0 +1,10 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 0525558640
+primary_isbn13: 9780525558644
+publisher: Viking
+description: The former director of national intelligence describes events that challenged the intelligence community and considers some ethical questions around its efforts.
+title: Facts And Fears
+author: James R Clapper with Trey Brown
+amazon_product_url: https://www.amazon.com/Facts-Fears-Hard-Truths-Intelligence/dp/0525558640?tag=NYTBSREV-20
+list_date: 2018/06/17

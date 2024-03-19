@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1595586431
+primary_isbn13: 9781595586438
+publisher: New Press
+description: A law professor takes aim at the “war on drugs,” mass incarceration and their impact on black men.
+title: The New Jim Crow
+author: Michelle Alexander
+amazon_product_url: http://www.amazon.com/The-New-Crow-Incarceration-Colorblindness/dp/1595586431?tag=NYTBSREV-20
+list_date: 2017/09/17
+published_date: 2012
+summary: Argues that the War on Drugs and policies that deny convicted felons equal access to employment, housing, education and public benefits create a permanent under-caste based largely on race. Reprint. 12,500 first printing.

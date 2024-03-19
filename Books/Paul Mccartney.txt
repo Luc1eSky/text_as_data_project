@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0316327964
+primary_isbn13: 9780316327961
+publisher: Little, Brown
+description: A life, by the author of "Shout! The Beatles in Their Generation" and "John Lennon."
+title: Paul Mccartney
+author: Philip Norman
+amazon_product_url: http://www.amazon.com/Paul-McCartney-Life-Philip-Norman-ebook/dp/B0151YQYV8?tag=NYTBSREV-20
+list_date: 2016/05/22
+published_date: 2016-05-03
+summary: The definitive Paul McCartney biography, written with his approval by bestselling biographer Philip Norman. Since the age of twenty-one, Paul McCartney has lived one of the ultimate rock-n-roll lives played out on the most public of stages. Now, Paul's story is told by rock music's foremost biographer, with McCartney's consent and access to family members and close friends who have never spoken on the record before. PAUL McCARTNEY reveals the complex character behind the façade and sheds new light on his childhood--blighted by his mother's death but redeemed by the father who introduced him to music. This is the first definitive account of Paul's often troubled partnership with John Lennon, his personal trauma after the Beatles' breakup, and his subsequent struggle to get back to the top with Wings--which nearly got him murdered in Africa and brought him nine days in a Tokyo jail. Readers will learn about his marriage to Linda, including their much-criticized musical collaboration, and a moving account of her death. Packed with new information and critical insights, PAUL MCCARTNEY will be the definitive biography of a musical legend.

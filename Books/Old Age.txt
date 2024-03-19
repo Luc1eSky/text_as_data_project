@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1101903767
+primary_isbn13: 9781101903766
+publisher: Tim Duggan
+description: Essays, both serious and humorous, about aging and death, based in part on Kinsley’s experience with Parkinson’s disease and aimed at his fellow baby boomers.
+title: Old Age
+author: Michael Kinsley
+amazon_product_url: http://www.amazon.com/Old-Age-A-Beginners-Guide-ebook/dp/B016TG5RGU?tag=NYTBSREV-20
+list_date: 2016/05/15
+published_date: 2016-04-26
+summary: Vanity Fair columnist Michael Kinsley escorts his fellow Boomers through the door marked "Exit." The notorious baby boomers—the largest age cohort in history—are approaching the end and starting to plan their final moves in the game of life. Now they are asking: What was that all about? Was it about acquiring things or changing the world? Was it about keeping all your marbles? Or is the only thing that counts after you’re gone the reputation you leave behind? In this series of essays, Michael Kinsley uses his own battle with Parkinson’s disease to unearth answers to questions we are all at some time forced to confront. “Sometimes,” he writes, “I feel like a scout from my generation, sent out ahead to experience in my fifties what even the healthiest Boomers are going to experience in their sixties, seventies, or eighties.” This surprisingly cheerful book is at once a fresh assessment of a generation and a frequently funny account of one man’s journey toward the finish line. “The least misfortune can do to make up for itself is to be interesting,” he writes. “Parkinson’s disease has fulfilled that obligation.”

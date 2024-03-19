@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 152
+primary_isbn10: 0143127748
+primary_isbn13: 9780143127741
+publisher: Penguin
+description: How trauma affects the body and mind, and innovative treatments for recovery.
+title: The Body Keeps The Score
+author: Bessel van der Kolk
+amazon_product_url: http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2015-09-08
+summary: An expert on traumatic stress outlines an approach to healing, explaining how traumatic stress affects brain processes and how to use innovative treatments to reactivate the mind's abilities to trust, engage others, and experience pleasure--
+author_new0: Bessel van der Kolk

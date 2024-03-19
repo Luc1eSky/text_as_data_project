@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1595231226
+primary_isbn13: 9781595231222
+publisher: Sentinel
+description: Carson, a retired pediatric neurosurgeon, now a candidate for the Republican presidential nomination, offers solutions to problems in health and education based on capitalism, not government.
+title: One Nation
+author: Ben Carson with Candy Carson
+amazon_product_url: http://www.amazon.com/One-Nation-What-Americas-Future/dp/1595231129?tag=NYTBSREV-20
+list_date: 2015/10/25
+published_date: 2015-09
+summary: Dr. Ben Carson - acclaimed brain surgeon, controversial gadfly, inspiring role model and bestselling author - offers a plan for restoring America's greatness. In One Nation, he reflects on what he sees as the dangers facing America, calling for a return to the principles that made America great in an urgent message. Growing debt and deteriorating morals have driven the US far from its founders' intent. Here, he proposes a road out of decline, appealing to every American's decency and common sense. A concrete conservative plan for America from a 2016 Republican candidate.

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 5
+primary_isbn10: 0062892355
+primary_isbn13: 9780062892355
+publisher: Harper
+description: New technology was used to investigate who revealed the location of Anne Frank and her family to the Nazis.
+title: The Betrayal Of Anne Frank
+author: Rosemary Sullivan
+amazon_product_url: https://www.amazon.com/dp/0062892355?tag=NYTBSREV-20
+list_date: 2022/04/03
+published_data: 2022-01-25
+summary: Despite the many works devoted to Anne Frank's story, none has conclusively explained how the Franks and four other people managed to hide undetected for over two years, and who or what finally brought the Nazis to their door. Former FBI agent Vincent Pankoke and a team of indefatigable investigators pored over tens of thousands of pages of documents - some never before seen - and interviewed scores of descendants of the people involved, both Nazi sympathizers and resisters. The cold case team painstakingly pieced together the months leading up to the Franks' arrest - and came to a shocking conclusion. Residence: Toronto, ON. Print run 20,000.
+author_new0: Rosemary Sullivan

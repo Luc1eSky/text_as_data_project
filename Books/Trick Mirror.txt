@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 0525510540
+primary_isbn13: 9780525510543
+publisher: Random House
+description: Nine essays delving into late capitalism, online engagement and the author’s personal history.
+title: Trick Mirror
+author: Jia Tolentino
+amazon_product_url: https://www.amazon.com/Trick-Mirror-Self-Delusion-Jia-Tolentino/dp/0525510540?tag=NYTBSREV-20
+list_date: 2019/09/22
+published_data: 2019
+summary: A breakout writer at The New Yorker examines the fractures at the center of contemporary culture with verve, deftness, and intellectual ferocity--for readers who've wondered what Susan Sontag would have been like if she had brain damage from the internet. "A whip-smart, challenging book."--Zadie Smith Jia Tolentino is a peerless voice of her generation, tackling the conflicts, contradictions, and sea changes that define us and our time. Now, in this dazzling collection of nine entirely original essays, written with a rare combination of give and sharpness, wit and fearlessness, she delves into the forces that warp our vision, demonstrating an unparalleled stylistic potency and critical dexterity. Trick Mirror is an enlightening, unforgettable trip through the river of self-delusion that surges just beneath the surface of our lives. This is a book about the incentives that shape us, and about how hard it is to see ourselves clearly through a culture that revolves around the self. In each essay, Tolentino writes about a cultural prism: the rise of the nightmare social internet; the advent of scamming as the definitive millennial ethos; the literary heroine's journey from brave to blank to bitter; the punitive dream of optimization, which insists that everything, including our bodies, should become more efficient and beautiful until we die. Gleaming with Tolentino's sense of humor and capacity to elucidate the impossibly complex in an instant, and marked by her desire to treat the reader with profound honesty, Trick Mirror is an instant classic of the worst decade yet. Advance praise for Trick Mirror "Jia Tolentino is the best young essayist at work in the United States, one I've consistently admired and learned from, and I was exhilarated to get a whole lot of her at once in Trick Mirror. In these nine essays, she rethinks troubling ingredients of modern life, from the internet to mind-altering drugs to wedding culture. All through the book, single sentences flash like lightning to show something familiar in a startling way, but she also builds extended arguments with her usual, unusual blend of lyricism and skepticism. In the end, we have a picture of America that was as missing as it was needed."--Rebecca Solnit, author of Men Explain Things to Me
+author_new0: Jia Tolentino

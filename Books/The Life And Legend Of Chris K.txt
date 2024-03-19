@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0316278238
+primary_isbn13: 9780316278232
+publisher: Little, Brown
+description: A biography of the man whose story was told in "American Sniper."
+title: The Life And Legend Of Chris Kyle
+author: Michael J Mooney
+amazon_product_url: http://www.amazon.com/The-Life-Legend-Chris-Kyle-ebook/dp/B00C4W7GCW?tag=NYTBSREV-20
+list_date: 2015/02/08
+published_date: 2013-04-23
+summary: New York Times bestseller The life story of Chris Kyle, the American Sniper Journalist Michael J. Mooney reveals the life story of Navy SEAL Chris Kyle, the American Sniper, from his Texas childhood up through his death in February 2013. A brutal warrior but a gentle father and husband, Kyle led the life of an American hero and legend. His heroism and reputation in the military service earned him the nickname "the devil" among insurgents and the nickname The Legend among his SEAL brethren, but his impact extended beyond that after he came home, through his work with fellow veterans. Mooney also sheds light on the life of the suffering fellow veteran who killed Kyle and interviews those closest to the late SEAL. The Life and Legend of Chris Kyle is an honest portrayal of the life of a man whose memorial service brought thousands of people to Cowboys Stadium--the most celebrated war hero of our time. [86 pages]

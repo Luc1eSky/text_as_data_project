@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062944428
+primary_isbn13: 9780062944429
+publisher: Broadside
+description: The Fox News contributor and former U.S. representative from Utah describes how he believes the Democrats are trying to maintain their grip on power.
+title: Power Grab
+author: Jason Chaffetz
+amazon_product_url: https://www.amazon.com/Power-Grab-Liberal-Undermine-Republic/dp/0062944428?tag=NYTBSREV-20
+list_date: 2019/09/22
+published_data: 2019-09-03
+summary: In the years he served on and eventually chaired the House Committee on Oversight and Government Reform, Chaffetz gained crucial insight into the inner workings of D.C. He shows the lengths to which Democrats will go to maintain their grip on power, and how the only thing that will stop them is a return to our founding principles.
+author_new0: Jason Chaffetz

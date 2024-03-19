@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 0374157359
+primary_isbn13: 9780374157357
+publisher: Farrar, Straus & Giroux
+description: A reinvestigation of social evolution and suggestions for new ways of organizing society.
+title: The Dawn Of Everything
+author: David Graeber and David Wengrow
+amazon_product_url: https://www.amazon.com/dp/0374157359?tag=NYTBSREV-20
+list_date: 2022/01/23
+published_data: 2021-11-09
+summary: Drawing on pathbreaking research in archaeology and anthropology, the authors show how history becomes a far more interesting place once we learn to throw off our conceptual shackles and perceive what's really there. If humans did not spend 95 percent of their evolutionary past in tiny bands of hunter-gatherers, what were they doing all that time? If agriculture, and cities, did not mean a plunge into hierarchy and domination, then what kinds of social and economic organization did they lead to? The answers are often unexpected, and suggest that the course of human history may be less set in stone, and more full of playful, hopeful possibilities, than we tend to assume
+author_new0: David Graeber
+author_new1: David Wengrow

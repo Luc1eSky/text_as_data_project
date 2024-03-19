@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 052595418X
+primary_isbn13: 9780525954187
+publisher: Dutton
+description: A professor draws on research in neuroscience to explain how organization can help us manage the overwhelming flood of information in our lives.
+title: The Organized Mind
+author: Daniel J Levitin
+amazon_product_url: http://www.amazon.com/The-Organized-Mind-Thinking-Information-ebook/dp/B00G3L6KOA?tag=NYTBSREV-20
+list_date: 2014/09/21

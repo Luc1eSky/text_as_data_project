@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1400236495
+primary_isbn13: 9781400236497
+publisher: Thomas Nelson
+description: The Republican senator from South Carolina shares stories from his life and the lives of other Americans.
+title: America, A Redemption Story
+author: Tim Scott with Joel N. Clark
+amazon_product_url: https://www.amazon.com/dp/1400236495?tag=NYTBSREV-20
+list_date: 2022/08/28
+published_data: 2022
+summary: "Senator Scott is a rising star who sees and understands the importance of bipartisanship to move America forward. This book is a political memoir that includes his core messages as he prepares to make a presidential bid in 2022"--
+author_new0: Tim Scott
+author_new1: Joel N. Clark

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 8
+primary_isbn10: 1982149973
+primary_isbn13: 9781982149970
+publisher: Threshold Editions
+description: The Fox News host offers his assessment on what is at stake in the 2020 election.
+title: Live Free Or Die
+author: Sean Hannity
+amazon_product_url: https://www.amazon.com/dp/1982149973?tag=NYTBSREV-20
+list_date: 2020/10/11
+published_data: 2020-08-04
+summary: #1 New York Times Bestseller America’s top-rated cable news host offers his first book in ten years: a look at America’s fight against those who would reverse our tradition of freedom—a fight we can’t afford to lose in 2020. America is great for a reason. Built on principles of freedom, rugged individualism, and self-sufficiency, no country has ever accumulated more power and wealth, abused it less, or used that power more to advance the human condition. And yet, as America blossomed, leftwing radicalism and resentment festered beneath the surface, threatening to undermine democracy first in the sixties and now—more insidiously than ever—in the form of social justice warriors, the deep state, and compromised institutions like academia and the mainstream media. Our fate if we succumb to a Democratic victory in 2020? A big step toward full-blown socialism along with the economic dysfunction and social strife that are its hallmarks. With radical Democrats demanding the Green New Deal, socialized medicine, abortion on demand, open borders, abolishing the Electoral College, packing the Supreme Court, and an end to free speech, our great nation will be fundamentally transformed beyond recognition. Ronald Reagan once said, “Freedom is but one generation away from extinction,” and his words have never rung truer. In Live Free or Die, Sean demonstrates why now is an All Hands on Deck moment to save the Republic. His solution is simple: if all you can do is vote, then vote. But if you can inform people of the truth, that’s even better. And the truth is that the future of American freedom rests on Donald Trump’s reelection.
+author_new0: Sean Hannity

@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1441207848
+primary_isbn13: 9781441207845
+publisher: Chosen Books
+description: A Muslim woman’s dangerous conversion to Christianity; originally published in 1978.
+title: I Dared To Call Him Father
+author: Bilquis Sheikh with Richard H Schneider
+amazon_product_url: http://www.amazon.com/Dared-Call-Him-Father-Miraculous-ebook/dp/B004TS1MAG?tag=NYTBSREV-20
+list_date: 2014/09/14
+published_date: 2003-04-01
+summary: I Dared to Call Him Father is the fascinating true story of Bilquis Sheikh, a prominent Muslim woman. Her unusual journey to a personal relationship with God turned her world upside down-and put her life in danger. Originally published in 1978, the book has sold 300,000 copies and is a classic in Muslim evangelism. The 25th anniversary edition includes an afterword by a missionary friend of Bilquis who plays a prominent role in the story and an appendix on how the East enriches the West.

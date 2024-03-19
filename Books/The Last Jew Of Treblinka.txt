@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1453249451
+primary_isbn13: 9781453249451
+publisher: Pegasus
+description: A memoir of the concentration camp by a prisoner who escaped after 11 months, written in Yiddish in 1945. The author died in 2004. Originally published in English in 2011.
+title: The Last Jew Of Treblinka
+author: Chil Rajchman
+amazon_product_url: http://www.amazon.com/Last-Jew-Treblinka-Memoir-ebook/dp/B007RJ9QLG?tag=NYTBSREV-20
+list_date: 2016/06/05

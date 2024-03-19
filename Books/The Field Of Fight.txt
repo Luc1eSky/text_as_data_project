@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1250106222
+primary_isbn13: 9781250106223
+publisher: St. Martin's
+description: A retired general proposes a plan to defeat radical Islamist terrorism.
+title: The Field Of Fight
+author: Michael T Flynn and Michael Ledeen
+amazon_product_url: http://www.amazon.com/Field-Fight-Global-Against-Radical-ebook/dp/B0191K3HE0?tag=NYTBSREV-20
+list_date: 2016/08/07
+published_date: 2016-07-12
+summary: Flynn "lays out [the reasons he believes] why we have failed to stop terrorist groups from growing, and what we must do to stop them. The core message is that if you understand your enemies, it's a lot easier to defeat them--but because our government has concealed the actions of terrorists like bin Laden and groups like ISIS, and the role of Iran in the rise of radical Islam, we don't fully understand the enormity of the threat they pose against us"--Amazon.com.

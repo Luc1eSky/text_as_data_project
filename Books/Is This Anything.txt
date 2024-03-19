@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 11
+primary_isbn10: 1982112697
+primary_isbn13: 9781982112691
+publisher: Simon & Schuster
+description: The comedian shares material he collected in an accordion folder over the last 45 years.
+title: Is This Anything?
+author: Jerry Seinfeld
+amazon_product_url: https://www.amazon.com/dp/1982112697?tag=NYTBSREV-20
+list_date: 2021/01/17
+published_data: 2020-10-06
+summary: The first book in twenty-five years from Jerry Seinfeld features his best work across five decades in comedy. Since his first performance at the legendary New York nightclub “Catch a Rising Star” as a twenty-one-year-old college student in fall of 1975, Jerry Seinfeld has written his own material and saved everything. “Whenever I came up with a funny bit, whether it happened on a stage, in a conversation, or working it out on my preferred canvas, the big yellow legal pad, I kept it in one of those old school accordion folders,” Seinfeld writes. “So I have everything I thought was worth saving from forty-five years of hacking away at this for all I was worth.” For this book, Jerry Seinfeld has selected his favorite material, organized decade by decade. In page after hilarious page, one brilliantly crafted observation after another, readers will witness the evolution of one of the great comedians of our time and gain new insights into the thrilling but unforgiving art of writing stand-up comedy.
+author_new0: Jerry Seinfeld

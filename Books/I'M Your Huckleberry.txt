@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1982144890
+primary_isbn13: 9781982144890
+publisher: Simon & Schuster
+description: The actor recalls his career highlights, romances and the toll cancer has taken on his voice.
+title: I'M Your Huckleberry
+author: Val Kilmer
+amazon_product_url: https://www.amazon.com/dp/1982144890?tag=NYTBSREV-20
+list_date: 2020/05/10
+published_data: 2020-04-21
+summary: Instant New York Times Bestseller Legendary actor Val Kilmer shares the stories behind his most beloved roles, reminisces about his star-studded career and love life, and reveals the truth behind his recent health struggles in a remarkably candid autobiography. Val Kilmer has played many iconic roles over his nearly four-decade film career. A table-dancing Cold War agent in Top Secret! A troublemaking science prodigy in Real Genius. A brash fighter pilot in Top Gun. A swashbuckling knight in Willow. A lovelorn bank robber in Heat. A charming master of disguise in The Saint. A wise-cracking detective in Kiss Kiss Bang Bang. Of course, Batman, Jim Morrison and the sharp-shooting Doc Holliday. But who is the real Val Kilmer? With I’m Your Huckleberry—published ahead of next summer’s highly anticipated sequel Top Gun: Maverick, in which Kilmer returns to the big screen as Tom “Iceman” Kazansky—the enigmatic actor at last steps out of character and reveals his true self. In this uniquely assembled memoir—featuring vivid prose, snippets of poetry and rarely-seen photos—Kilmer reflects on his acclaimed career, including becoming the youngest actor ever admitted to the Juilliard School’s famed drama department, determinedly campaigning to win the lead part in The Doors, and realizing a years-long dream of performing a one-man show as his hero Mark Twain. He shares candid stories of working with screen legends Marlon Brando, Tom Cruise, Robert Downey Jr. and Robert De Niro, and recounts high-profile romances with Cher, Cindy Crawford, Daryl Hannah, and former wife Joanne Whalley. He chronicles his spiritual journey and lifelong belief in Christian Science, and describes travels to far-flung locales such as a scarcely inhabited island in the Indian Ocean where he suffered from delirium and was cared for by the resident tribe. And he reveals details of his recent throat cancer diagnosis and recovery—about which he has disclosed little until now. While containing plenty of tantalizing celebrity anecdotes, I’m Your Huckleberry—taken from the famous line Kilmer delivers as Holliday in Tombstone—is ultimately a singularly written and deeply moving reflection on mortality and the mysteries of life.
+author_new0: Val Kilmer

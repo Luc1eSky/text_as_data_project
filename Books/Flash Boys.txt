@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0393244660
+primary_isbn13: 9780393244663
+publisher: Norton
+description: Wall Street whistle-blowers expose the inner workings of the industry.
+title: Flash Boys
+author: Michael Lewis
+amazon_product_url: http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM?tag=NYTBSREV-20
+list_date: 2014/07/13
+published_date: 2014-03-31
+summary: Argues that post-crisis Wall Street continues to be controlled by large banks and explains how a small, diverse group of Wall Street men have banded together to reform the financial markets.

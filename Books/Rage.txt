@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 7
+primary_isbn10: 198213173X
+primary_isbn13: 9781982131739
+publisher: Simon & Schuster
+description: Based on 17 on-the-record interviews with President Trump and other reporting, the Pulitzer Prize-winning journalist details the president’s perspective on multiple crises.
+title: Rage
+author: Bob Woodward
+amazon_product_url: https://www.amazon.com/dp/198213173X?tag=NYTBSREV-20
+list_date: 2020/11/15
+published_data: 2020-09-15
+summary: Bob Woodward’s new book, Rage, is an unprecedented and intimate tour de force of new reporting on the Trump presidency facing a global pandemic, economic disaster and racial unrest. Woodward, the #1 international bestselling author of Fear: Trump in the White House, has uncovered the precise moment the president was warned that the Covid-19 epidemic would be the biggest national security threat to his presidency. In dramatic detail, Woodward takes readers into the Oval Office as Trump’s head pops up when he is told in January 2020 that the pandemic could reach the scale of the 1918 Spanish Flu that killed 675,000 Americans. In 17 on-the-record interviews with Woodward over seven volatile months—an utterly vivid window into Trump’s mind—the president provides a self-portrait that is part denial and part combative interchange mixed with surprising moments of doubt as he glimpses the perils in the presidency and what he calls the “dynamite behind every door.” At key decision points, Rage shows how Trump’s responses to the crises of 2020 were rooted in the instincts, habits and style he developed during his first three years as president. Revisiting the earliest days of the Trump presidency, Rage reveals how Secretary of Defense James Mattis, Secretary of State Rex Tillerson and Director of National Intelligence Dan Coats struggled to keep the country safe as the president dismantled any semblance of collegial national security decision making. Rage draws from hundreds of hours of interviews with firsthand witnesses as well as participants’ notes, emails, diaries, calendars and confidential documents. Woodward obtained 25 never-seen personal letters exchanged between Trump and North Korean leader Kim Jong Un, who describes the bond between the two leaders as out of a “fantasy film.” Trump insists to Woodward he will triumph over Covid-19 and the economic calamity. “Don’t worry about it, Bob. Okay?” Trump told the author in July. “Don’t worry about it. We’ll get to do another book. You’ll find I was right.”
+author_new0: Bob Woodward

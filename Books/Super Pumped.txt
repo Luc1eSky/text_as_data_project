@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0393652246
+primary_isbn13: 9780393652246
+publisher: Norton
+description: A technology reporter for The New York Times chronicles the rise and fall of Uber, and how this serves as a corporate cautionary tale.
+title: Super Pumped
+author: Mike Isaac
+amazon_product_url: https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246?tag=NYTBSREV-20
+list_date: 2019/09/22
+published_data: 2019-09-03
+summary: New York Times and Wall Street Journal Bestseller A New York Times technology correspondent presents the dramatic story of Uber, the Silicon Valley startup at the center of one of the great venture capital power struggles of our time. In June 2017, Travis Kalanick, the hard-charging CEO of Uber, was ousted in a boardroom coup that capped a brutal year for the transportation giant. Uber had catapulted to the top of the tech world, yet for many came to symbolize everything wrong with Silicon Valley. Award-winning New York Times technology correspondent Mike Isaac’s Super Pumped presents the dramatic rise and fall of Uber, set against an era of rapid upheaval in Silicon Valley. Backed by billions in venture capital dollars and led by a brash and ambitious founder, Uber promised to revolutionize the way we move people and goods through the world. A near instant “unicorn,” Uber seemed poised to take its place next to Amazon, Apple, and Google as a technology giant. What followed would become a corporate cautionary tale about the perils of startup culture and a vivid example of how blind worship of startup founders can go wildly wrong. Isaac recounts Uber’s pitched battles with taxi unions and drivers, the company’s toxic internal culture, and the bare-knuckle tactics it devised to overcome obstacles in its quest for dominance. With billions of dollars at stake, Isaac shows how venture capitalists asserted their power and seized control of the startup as it fought its way toward its fateful IPO. Based on hundreds of interviews with current and former Uber employees, along with previously unpublished documents, Super Pumped is a page-turning story of ambition and deception, obscene wealth, and bad behavior that explores how blistering technological and financial innovation culminated in one of the most catastrophic twelve-month periods in American corporate history.
+author_new0: Mike Isaac

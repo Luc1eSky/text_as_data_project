@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0358574315
+primary_isbn13: 9780358574316
+publisher: Mariner
+description: The foreign policy expert traces her life from being a coal miner’s daughter in northern England to her testimony in the first impeachment inquiry of former President Trump.
+title: There Is Nothing For You Here
+author: Fiona Hill
+amazon_product_url: https://www.amazon.com/dp/0358574315?tag=NYTBSREV-20
+list_date: 2021/10/31
+published_data: 2021-09-07
+summary: A celebrated foreign policy expert and key impeachment witness reveals how declining opportunity has set America on the grim path of modern Russia--and draws on her personal journey out of poverty, and her unique perspectives as an historian and policy maker, to show how we can return hope to our forgotten places.
+author_new0: Fiona Hill

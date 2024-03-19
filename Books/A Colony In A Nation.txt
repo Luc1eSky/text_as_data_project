@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 2
+primary_isbn10: 0393254224
+primary_isbn13: 9780393254228
+publisher: Norton
+description: The MSNC host discusses race relations with a focus on the differences in policing in the white nation and its black colony.
+title: A Colony In A Nation
+author: Chris Hayes
+amazon_product_url: https://www.amazon.com/Colony-Nation-Chris-Hayes/dp/0393254224?tag=NYTBSREV-20
+list_date: 2017/04/16
+published_date: 2017-03-21
+summary: New York Times best-selling author and Emmy Award–winning news anchor Chris Hayes argues that there are really two Americas: a Colony and a Nation. America likes to tell itself that it inhabits a postracial world, yet nearly every empirical measure—wealth, unemployment, incarceration, school segregation—reveals that racial inequality has barely improved since 1968, when Richard Nixon became our first “law and order” president. With the clarity and originality that distinguished his prescient bestseller, Twilight of the Elites, Chris Hayes upends our national conversation on policing and democracy in a book of wide-ranging historical, social, and political analysis. Hayes contends our country has fractured in two: the Colony and the Nation. In the Nation, we venerate the law. In the Colony, we obsess over order, fear trumps civil rights, and aggressive policing resembles occupation. A Colony in a Nation explains how a country founded on justice now looks like something uncomfortably close to a police state. How and why did Americans build a system where conditions in Ferguson and West Baltimore mirror those that sparked the American Revolution? A Colony in a Nation examines the surge in crime that began in the 1960s and peaked in the 1990s, and the unprecedented decline that followed. Drawing on close-hand reporting at flashpoints of racial conflict, as well as deeply personal experiences with policing, Hayes explores cultural touchstones, from the influential “broken windows” theory to the “squeegee men” of late-1980s Manhattan, to show how fear causes us to make dangerous and unfortunate choices, both in our society and at the personal level. With great empathy, he seeks to understand the challenges of policing communities haunted by the omnipresent threat of guns. Most important, he shows that a more democratic and sympathetic justice system already exists—in a place we least suspect. A Colony in a Nation is an essential book—searing and insightful—that will reframe our thinking about law and order in the years to come.

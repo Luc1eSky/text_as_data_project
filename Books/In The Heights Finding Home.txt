@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0593229592
+primary_isbn13: 9780593229590
+publisher: Random House
+description: Stories, essays and lyrics that chart the creative journey of the Tony Award-winning musical that is now a motion picture.
+title: In The Heights: Finding Home
+author: Lin-Manuel Miranda, Quiara Alegría Hudes and Jeremy McCarter
+amazon_product_url: https://www.amazon.com/dp/0593229592?tag=NYTBSREV-20
+list_date: 2021/07/04
+published_data: 2021-06-15
+summary: NEW YORK TIMES BESTSELLER • The eagerly awaited follow-up to the #1 New York Times bestseller Hamilton: The Revolution, Lin-Manuel Miranda’s new book gives readers an extraordinary inside look at In the Heights, his breakout Broadway debut, written with Quiara Alegría Hudes, now a Hollywood blockbuster. “[An] exuberant, unique, and invaluable record of dynamic, brilliant, and soulful creativity.”—Booklist (starred review) In 2008, In the Heights, a new musical from up-and-coming young artists, electrified Broadway. The show’s vibrant mix of Latin music and hip-hop captured life in Washington Heights, the Latino neighborhood in upper Manhattan. It won four Tony Awards and became an international hit, delighting audiences around the world. For the film version, director Jon M. Chu (Crazy Rich Asians) brought the story home, filming its spectacular dance numbers on location in Washington Heights. That’s where Usnavi, Nina, and their neighbors chase their dreams and ask a universal question: Where do I belong? In the Heights: Finding Home reunites Miranda with Jeremy McCarter, co-author of Hamilton: The Revolution, and Quiara Alegría Hudes, the Pulitzer Prize–winning librettist of the Broadway musical and screenwriter of the film. They do more than trace the making of an unlikely Broadway smash and a major motion picture: They give readers an intimate look at the decades-long creative life of In the Heights. Like Hamilton: The Revolution, the book offers untold stories, perceptive essays, and the lyrics to Miranda’s songs—complete with his funny, heartfelt annotations. It also features newly commissioned portraits and never-before-seen photos from backstage, the movie set, and productions around the world. This is the story of characters who search for a home—and the artists who created one.
+author_new0: Lin-Manuel Miranda, Quiara Alegría Hudes
+author_new1: Jeremy McCarter

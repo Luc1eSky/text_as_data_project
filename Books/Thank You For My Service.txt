@@ -1,0 +1,15 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 1524796492
+primary_isbn13: 9781524796495
+publisher: Bantam
+description: An inside look into military life by the YouTube personality and former Army Ranger.
+title: Thank You For My Service
+author: Mat Best with Ross Patterson and Nils Parker
+amazon_product_url: https://www.amazon.com/Thank-You-Service-Mat-Best/dp/1524796492?tag=NYTBSREV-20
+list_date: 2019/09/15
+published_data: 2019-08-20
+summary: NEW YORK TIMES BESTSELLER • The unapologetic, laugh-your-ass-off military memoir both vets and civilians have been waiting for, from a five-tour Army Ranger turned YouTube phenomenon and zealous advocate for veterans Members of the military’s special operations branches share a closely guarded secret: They love their jobs. They relish the opportunity to fight. They are thankful for it, even, and hopeful that maybe, possibly, they’ll also get to kill a bunch of bad guys while they’re at it. You don’t necessarily need to thank them for their service—the pleasure is all theirs. In this hilarious and personal memoir, readers ride shotgun alongside former Army Ranger and private military contractor and current social media phenomenon Mat Best, into the action and its aftermath, both abroad and at home. From surviving a skin infection in the swampy armpit of America (aka Columbus, Georgia) to kicking down doors on the outskirts of Ramadi, from blowing up a truck full of enemy combatants to witnessing the effects of a suicide bombing right in front of your face, Thank You for My Service gives readers who love America and love the good guys fresh insight into what it’s really like inside the minds of the men and women on the front lines. It’s also a sobering yet steadying glimpse at life for veterans after the fighting stops, when the enemy becomes self-doubt or despair and you begin to wonder why anyone should be thanking you for anything, least of all your service. How do you keep going when something you love turns you into somebody you hate? For veterans and their friends and families, Thank You for My Service will offer comfort, in the form of a million laughs, and counsel, as a blueprint for what to do after the war ends and the real fight begins. And for civilians, this is the insider account of military life you won’t find anywhere else, told with equal amounts of heart and balls. It’s Deadpool meets Captain America, except one went to business school and one went to therapy, and it’s anyone’s guess which is which.
+author_new0: Mat Best
+author_new1: Ross Patterson
+author_new2: Nils Parker

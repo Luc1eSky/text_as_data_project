@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1501137042
+primary_isbn13: 9781501137044
+publisher: Threshold Editions
+description: The president of Judicial Watch discusses Benghazi, Hillary Clinton’s emails and other (in the words of the subtitle) “secrets and lies” of the Obama administration.
+title: Clean House
+author: Tom Fitton
+amazon_product_url: http://www.amazon.com/Clean-House-Exposing-Governments-Secrets/dp/1501137042?tag=NYTBSREV-20
+list_date: 2016/09/25
+published_date: 2016-08-30
+summary: Judicial Watch president Tom Fitton examines what he believes are scandals and cover-ups in Barack Obama's second term.

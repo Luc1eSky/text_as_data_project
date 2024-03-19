@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 158542935X
+primary_isbn13: 9781585429356
+publisher: Tarcher/Penguin
+description: Understanding the adolescent mind.
+title: Brainstorm
+author: Daniel J Siegel
+amazon_product_url: http://www.amazon.com/Brainstorm-Power-Purpose-Teenage-Brain/dp/158542935X?tag=NYTBSREV-20
+list_date: 2014/01/26
+published_date: 2014-01-07
+summary: In this New York Times–bestselling book, Dr. Daniel Siegel shows parents how to turn one of the most challenging developmental periods in their children’s lives into one of the most rewarding. Between the ages of 12 and 24, the brain changes in important, and oftentimes maddening, ways. It’s no wonder that many parents approach their child’s adolescence with fear and trepidation. According to renowned neuropsychiatrist Daniel Siegel's New York Times bestseller Brainstorm, if parents and teens can work together to form a deeper understanding of the brain science behind all the tumult, they will be able to turn conflict into connection and form a deeper understanding of one another. In Brainstorm, Siegel illuminates how brain development impacts teenagers’ behavior and relationships. Drawing on important new research in the field of interpersonal neurobiology, he explores exciting ways in which understanding how the teenage brain functions can help parents make what is in fact an incredibly positive period of growth, change, and experimentation in their children’s lives less lonely and distressing on both sides of the generational divide. Brainstorm is a current nominee for a Books for a Better Life award.

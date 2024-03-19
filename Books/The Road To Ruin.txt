@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1591848083
+primary_isbn13: 9781591848080
+publisher: Portfolio
+description: 
+title: The Road To Ruin
+author: James Rickards
+amazon_product_url: https://www.amazon.com/Road-Ruin-Global-Elites-Financial/dp/1591848083?tag=NYTBSREV-20
+list_date: 2016/12/04
+published_date: 2016-11-15
+summary: The bestselling author of The Death of Money and Currency Wars reveals the global elites' dark effort to hide a coming catastrophe from investors in The Road to Ruin, now a National Bestseller. A drumbeat is sounding among the global elites. The signs of a worldwide financial meltdown are unmistakable. This time, the elites have an audacious plan to protect themselves from the fallout: hoarding cash now and locking down the global financial system when a crisis hits. Since 2014, international monetary agencies have been issuing warnings to a small group of finance ministers, banks, and private equity funds: the U.S. government’s cowardly choices not to prosecute J.P. Morgan and its ilk, and to bloat the economy with a $4 trillion injection of easy credit, are driving us headlong toward a cliff. As Rickards shows in this frightening, meticulously researched book, governments around the world have no compunction about conspiring against their citizens. They will have stockpiled hard assets when stock exchanges are closed, ATMs shut down, money market funds frozen, asset managers instructed not to sell securities, negative interest rates imposed, and cash withdrawals denied. If you want to plan for the risks ahead, you will need Rickards’s cutting-edge synthesis of behavioral economics, history, and complexity theory. It’s a guidebook to thinking smarter, acting faster, and living with the comfort­ing knowledge that your wealth is secure. The global elites don’t want this book to exist. Their plan to herd us like sheep to the slaughter when a global crisis erupts—and, of course, to maintain their wealth—works only if we remain complacent and unaware. Thanks to The Road to Ruin, we don’t need to be. "If you are curious about what the financial Götterdämmerung might look like you’ve certainly come to the right place... Rickards believes -- and provides tantalizing snippets of private conversations with those who dwell in the very eye-in-the-pyramid -- that the current world monetary and financial system is on the verge of insolvency and that the world financial elites already have a successor system for which they are laying the groundwork." --Ralph Benko, Forbes

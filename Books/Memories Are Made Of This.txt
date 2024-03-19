@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0307538265
+primary_isbn13: 9780307538260
+publisher: Three Rivers
+description: A memoir of life as the daughter of Dean Martin.
+title: Memories Are Made Of This
+author: Deana Martin with Wendy Holden
+amazon_product_url: http://www.amazon.com/Memories-Are-Made-This-Daughters-ebook/dp/B003FCVFLS?tag=NYTBSREV-20
+list_date: 2015/02/15
+published_date: 2010-05-12
+summary: Deana Martin's captivating, heartfelt memoir of her father, Dean Martin Charming, debonair, and impeccably attired in a black tuxedo, Dean Martin was coolness incarnate. His music provided the soundtrack of romance, and his image captivated movie and television audiences for more than fifty years. His daughter Deana was among his most devoted fans, but she also knew a side of him that few others ever glimpsed. In this heartfelt memoir, Deana recalls the constantly changing blended family that marked her youth, along with the unexpected moments of silliness and tenderness that this unusual Hollywood family shared. She candidly reveals the impact of Dean’s fame and characteristic aloofness, but delights in sharing wonderful, never-before-told stories about her father and his pallies known as the Rat Pack. This enchanting account of life as the daughter of one of Hollywood’s sexiest icons will leave you entertained, delighted, and nostalgic for a time gone by.

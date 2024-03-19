@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 1501132849
+primary_isbn13: 9781501132841
+publisher: Keywords/Atria
+description: Personal essays, mostly humorous by the YouTube celebrity.
+title: It Gets Worse
+author: Shane Dawson
+amazon_product_url: http://www.amazon.com/Gets-Worse-Collection-Essays-ebook/dp/B0176M1B3E?tag=NYTBSREV-20
+list_date: 2016/08/21
+published_date: 2016-07-19
+summary: "Dawson returns with another ... funny essay collection, chronicling a mix of real life moments both extraordinary and mortifying, yet always full of heart"--

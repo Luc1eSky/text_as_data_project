@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 6
+primary_isbn10: 1250878357
+primary_isbn13: 9781250878359
+publisher: Flatiron
+description: The Oscar-nominated star details discovering himself as a trans person and navigating abuse in Hollywood.
+title: Pageboy
+author: Elliot Page
+amazon_product_url: https://www.amazon.com/dp/1250878357?tag=NYTBSREV-20
+list_date: 2023/07/30
+published_data: 2023-06-06
+summary: Pageboy is a groundbreaking coming-of-age memoir from the Academy Award-nominated actor Elliot Page. A generation-defining actor and one of the most famous trans advocates of our time, Elliot will now be known as an uncommon literary talent, as he shares never-before-heard details and intimate interrogations on gender, love, mental health, relationships, and Hollywood.
+author_new0: Elliot Page

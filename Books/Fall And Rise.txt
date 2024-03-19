@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 006227564X
+primary_isbn13: 9780062275646
+publisher: Harper
+description: A minute-by-minute account of the events of 9/11 interwoven with stories from victims and survivors.
+title: Fall And Rise
+author: Mitchell Zuckoff
+amazon_product_url: https://www.amazon.com/Fall-Rise-Story-9-11/dp/006227564X?tag=NYTBSREV-20
+list_date: 2019/05/19
+published_data: 2019-04-30
+summary: Years in the making, this spellbinding, heartbreaking, and ultimately uplifting narrative is an unforgettable portrait of 9/11. This is a 9/11 book like no other. Masterfully weaving together multiple strands of the events in New York, at the Pentagon, and in Shanksville, Pennsylvania, Fall and Rise is a mesmerizing, minute-by-minute account of that terrible day. In the days and months after 9/11, Mitchell Zuckoff, then a reporter for the Boston Globe, wrote about the attacks, the victims, and their families. After further years of meticulous reporting, Zuckoff has filled Fall and Rise with voices of the lost and the saved. The result is an utterly gripping book, filled with intimate stories of people most affected by the events of that sunny Tuesday in September: an out-of-work actor stuck in an elevator in the North Tower of the World Trade Center; the heroes aboard Flight 93 deciding to take action; a veteran trapped in the inferno in the Pentagon; the fire chief among the first on the scene in sleepy Shanksville; a team of firefighters racing to save an injured woman and themselves; and the men, women, and children flying across country to see loved ones or for work who suddenly faced terrorists bent on murder. Fall and Rise will open new avenues of understanding for everyone who thinks they know the story of 9/11, bringing to life—and in some cases, bringing back to life—the extraordinary ordinary people who experienced the worst day in modern American history. Destined to be a classic, Fall and Rise will move, shock, inspire, and fill hearts with love and admiration for the human spirit as it triumphs in the face of horrifying events.
+author_new0: Mitchell Zuckoff

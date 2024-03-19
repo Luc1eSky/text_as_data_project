@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0593730895
+primary_isbn13: 9780593730898
+publisher: Random House
+description: The choices that sent two women who grew up as part of the working-class poor in the foothills of the Ozarks in different directions.
+title: The Forgotten Girls
+author: Monica Potts
+amazon_product_url: https://www.amazon.com/dp/0593730895?tag=NYTBSREV-20
+list_date: 2023/06/18
+published_data: 2023-05-30
+summary: Talented and ambitious, Monica Potts and her best friend, Darci, were both determined to make something of themselves. How did their lives turn out so different? “The Forgotten Girls is much more than a memoir; it’s the unflinching story of rural women trying to live in the most rugged, ultra-religious, and left-behind places in America.”—Beth Macy, author of Dopesick Growing up gifted and working-class poor in the foothills of the Ozarks, Monica and Darci became fast friends. The girls bonded over a shared love of reading and learning, even as they navigated the challenges of their tumultuous family lives and declining town—broken marriages, alcohol abuse, and shuttered stores and factories. They pored over the giant map in their middle-school classroom, tracing their fingers over the world that awaited them, vowing to escape. In the end, Monica left Clinton for college and fulfilled her dreams, but Darci, along with many in their circle of friends, did not. Years later, working as a journalist covering poverty, Potts discovered what she already intuitively knew about the women in Arkansas: Their life expectancy had dropped steeply—the sharpest such fall in a century. This decline has been attributed to “deaths of despair”—suicide, alcoholism, and drug overdoses—but Potts knew their causes were too complex to identify in a sociological study. She had grown up with these women, and when she saw Darci again, she found that her childhood friend—addicted to drugs, often homeless, a single mother—was now on track to becoming a statistic. In this gripping narrative, Potts deftly pinpoints the choices that sent her and Darci on such different paths and then widens the lens to explain why those choices are so limited. The Forgotten Girls is a profound, compassionate look at a population in trouble, and a uniquely personal account of the way larger forces, such as inheritance, education, religion, and politics, shape individual lives.
+author_new0: Monica Potts

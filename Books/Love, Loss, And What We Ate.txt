@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0062202618
+primary_isbn13: 9780062202611
+publisher: Ecco/HarperCollins
+description: The cookbook writer and host of “Top Chef” traces her life’s journey, beginning in South India.
+title: Love, Loss, And What We Ate
+author: Padma Lakshmi
+amazon_product_url: http://www.amazon.com/Love-Loss-What-We-Ate-ebook/dp/B00BATIKO8?tag=NYTBSREV-20
+list_date: 2016/04/03
+published_date: 2016-03-08
+summary: A vivid memoir of food and family, survival and triumph, Love, Loss, and What We Ate traces the arc of Padma Lakshmi’s unlikely path from an immigrant childhood to a complicated life in front of the camera—a tantalizing blend of Ruth Reichl’s Tender at the Bone and Nora Ephron’s Heartburn Long before Padma Lakshmi ever stepped onto a television set, she learned that how we eat is an extension of how we love, how we comfort, how we forge a sense of home—and how we taste the world as we navigate our way through it. Shuttling between continents as a child, she lived a life of dislocation that would become habit as an adult, never quite at home in the world. And yet, through all her travels, her favorite food remained the simple rice she first ate sitting on the cool floor of her grandmother’s kitchen in South India. Poignant and surprising, Love, Loss, and What We Ate is Lakshmi’s extraordinary account of her journey from that humble kitchen, ruled by ferocious and unforgettable women, to the judges’ table of Top Chef and beyond. It chronicles the fierce devotion of the remarkable people who shaped her along the way, from her headstrong mother who flouted conservative Indian convention to make a life in New York, to her Brahmin grandfather—a brilliant engineer with an irrepressible sweet tooth—to the man seemingly wrong for her in every way who proved to be her truest ally. A memoir rich with sensual prose and punctuated with evocative recipes, it is alive with the scents, tastes, and textures of a life that spans complex geographies both internal and external. Love, Loss, and What We Ate is an intimate and unexpected story of food and family—both the ones we are born to and the ones we create—and their enduring legacies.

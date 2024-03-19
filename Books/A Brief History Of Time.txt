@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 8
+primary_isbn10: 0553380168
+primary_isbn13: 9780553380163
+publisher: Bantam
+description: The British cosmologist reviews efforts to create a unified theory of the universe; first published in 1988.
+title: A Brief History Of Time
+author: Stephen Hawking
+amazon_product_url: http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168?tag=NYTBSREV-20
+list_date: 2018/04/29
+published_date: 1998-09-01
+summary: #1 NEW YORK TIMES BESTSELLER A landmark volume in science writing by one of the great minds of our time, Stephen Hawking’s book explores such profound questions as: How did the universe begin—and what made its start possible? Does time always flow forward? Is the universe unending—or are there boundaries? Are there other dimensions in space? What will happen when it all ends? Told in language we all can understand, A Brief History of Time plunges into the exotic realms of black holes and quarks, of antimatter and “arrows of time,” of the big bang and a bigger God—where the possibilities are wondrous and unexpected. With exciting images and profound imagination, Stephen Hawking brings us closer to the ultimate secrets at the very heart of creation.

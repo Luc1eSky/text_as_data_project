@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1538750694
+primary_isbn13: 9781538750698
+publisher: Twelve
+description: Based on numerous interviews, the USA Today Washington bureau chief profiles the current speaker of the House, Nancy Pelosi.
+title: Madam Speaker
+author: Susan Page
+amazon_product_url: https://www.amazon.com/dp/1538750694?tag=NYTBSREV-20
+list_date: 2021/05/09
+published_data: 2021-04-06
+summary: The definitive biography of Nancy Pelosi, the most powerful woman in American political history, written by New York Times bestselling author and USA TODAY Washington Bureau Chief Susan Page.
+author_new0: Susan Page

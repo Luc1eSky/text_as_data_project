@@ -1,0 +1,10 @@
+rank: 13
+weeks_on_list: 8
+primary_isbn10: None
+primary_isbn13: 9781602862579
+publisher: Weinstein Books
+description: The story of a woman kidnapped in Cleveland in 2002, then tortured, who escaped in 2013.
+title: Finding Me
+author: Michelle Knight with Michelle Burford Weinstein
+amazon_product_url: http://www.amazon.com/Finding-Me-Reclaimed-Cleveland-Kidnappings-ebook/dp/B00HSNMGBI?tag=NYTBSREV-20
+list_date: 2015/05/24

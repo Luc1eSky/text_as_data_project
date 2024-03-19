@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 6
+primary_isbn10: 1101980990
+primary_isbn13: 9781101980996
+publisher: Viking
+description: A biography focusing on what motivated the war leader and how he learned from his mistakes.
+title: Churchill: Walking With Destiny
+author: Andrew Roberts
+amazon_product_url: https://www.amazon.com/Churchill-Walking-Destiny-Andrew-Roberts/dp/1101980990?tag=NYTBSREV-20
+list_date: 2019/02/10
+published_data: 2018-11-06
+summary: NEW YORK TIMES BESTSELLER One of The Wall Street Journal’s Ten Best Books of 2018 One of The Economist’s Best Books of 2018 One of The New York Times’s Notable Books of 2018 “Unarguably the best single-volume biography of Churchill . . . A brilliant feat of storytelling, monumental in scope, yet put together with tenderness for a man who had always believed that he would be Britain’s savior.” —Wall Street Journal In this landmark biography of Winston Churchill based on extensive new material, the true genius of the man, statesman and leader can finally be fully seen and understood--by the bestselling, award-winning author of Napoleon and The Last King of America. When we seek an example of great leaders with unalloyed courage, the person who comes to mind is Winston Churchill: the iconic, visionary war leader immune from the consensus of the day, who stood firmly for his beliefs when everyone doubted him. But how did young Winston become Churchill? What gave him the strength to take on the superior force of Nazi Germany when bombs rained on London and so many others had caved? In Churchill, Andrew Roberts gives readers the full and definitive Winston Churchill, from birth to lasting legacy, as personally revealing as it is compulsively readable. Roberts gained exclusive access to extensive new material: transcripts of War Cabinet meetings, diaries, letters and unpublished memoirs from Churchill's contemporaries. The Royal Family permitted Roberts--in a first for a Churchill biographer--to read the detailed notes taken by King George VI in his diary after his weekly meetings with Churchill during World War II. This treasure trove of access allows Roberts to understand the man in revelatory new ways, and to identify the hidden forces fueling Churchill's legendary drive. We think of Churchill as a hero who saved civilization from the evils of Nazism and warned of the grave crimes of Soviet communism, but Roberts's masterwork reveals that he has as much to teach us about the challenges leaders face today--and the fundamental values of courage, tenacity, leadership and moral conviction.
+author_new0: Andrew Roberts

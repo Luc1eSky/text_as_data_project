@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0451498143
+primary_isbn13: 9780451498144
+publisher: Crown Archetype
+description: An oral history of the creation and development of the series "The Wire."
+title: All The Pieces Matter
+author: Jonathan Abrams
+amazon_product_url: https://www.amazon.com/All-Pieces-Matter-Inside-Story/dp/0451498143?tag=NYTBSREV-20
+list_date: 2018/03/11
+published_date: 2018
+summary: "An oral history of HBO"s The Wire"--

@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1335449302
+primary_isbn13: 9781335449306
+publisher: Hanover Square
+description: A survivor of Auschwitz describes her childhood during the Holocaust, and her time in a Nazi labor camp and the extermination camp known as Auschwitz-Birkenau.
+title: The Daughter Of Auschwitz
+author: Tova Friedman and Malcolm Brabant
+amazon_product_url: https://www.amazon.com/dp/1335449302?tag=NYTBSREV-20
+list_date: 2022/10/02
+published_data: 2022-09-06
+summary: "A powerful memoir by one of the youngest survivors of Auschwitz, Tova Friedman, following her childhood growing up during the Holocaust and surviving a string of near-death experiences in a Jewish ghetto, a Nazi labor camp, and Auschwitz"--
+author_new0: Tova Friedman
+author_new1: Malcolm Brabant

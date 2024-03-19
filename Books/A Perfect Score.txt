@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1455535761
+primary_isbn13: 9781455535767
+publisher: Center Street
+description: A couple’s experience in building a successful Napa Valley winery.
+title: A Perfect Score
+author: Kathryn Hall and Craig Hall
+amazon_product_url: http://www.amazon.com/Perfect-Score-Business-21st-Century-Winery/dp/1455535761?tag=NYTBSREV-20
+list_date: 2016/10/02
+published_date: 2016-09-13
+summary: A lively husband and wife team recounts their twenty-year climb from amateur winemakers to recipients of an almost unheard-of perfect score from Robert Parker's Wine Advocate. Kathryn and Craig Hall launched themselves head first into Napa Valley 20 years ago with the purchase of an 1885 winery and never looked back. Since the couple's purchase of their debut winery, their critically acclaimed HALL Wines and WALT Wines have become fixtures of the California wine industry, winning numerous accolades including a coveted 100-point "perfect score." A PERFECT SCORE weaves a vibrant tale of the HALL brand's meteoric rise to success, Napa Valley's tug-of-war between localism and tourism, and the evolving nature of the wine industry as a whole. Readers who love a good glass of wine will find much to savor in the Halls' expert account of the art, soul, and business of a modern winery.

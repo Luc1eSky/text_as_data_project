@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1982179147
+primary_isbn13: 9781982179144
+publisher: Gallery
+description: The Olympic runner details the abuse and deception she experienced while on an elite running team for Nike.
+title: The Longest Race
+author: Kara Goucher with Mary Pilon
+amazon_product_url: https://www.amazon.com/dp/1982179147?tag=NYTBSREV-20
+list_date: 2023/04/02
+published_data: 2023-03-14
+summary: "Kara Goucher grew up with Olympic dreams. She excelled at running from a young age, and though she was confronted with serious challenges including the death of her father and struggles with disordered eating, her prospects were bright. She won high school cross country championships in Minnesota, NCAA track and field championships at the University of Colorado, and when she graduated from college, Nike offered her a sponsorship deal. Alberto Salazar was a legend of American distance running. He ran at the University of Oregon, made two Olympic teams, and won the New York and Boston marathons in the 1980s. In the early 2000s he was hired by Nike as a coach to build a team that would reestablish the United States as a distance running powerhouse. Dubbed the Nike Oregon Project, it would be based at the company's spectacular headquarters near Portland. In 2004, Kara and her Olympian-runner husband, Adam, were invited by Alberto to move to Oregon and join the elite team. It seemed the opportunity of a lifetime and the start of her dreams coming true. But behind the scenes, Salazar was hiding dark secrets beneath his charming persona. Narcissistic and power hungry, he demanded complete control over his runners, pushing and then crossing the limits of anti-doping rules and even promoting a culture of abuse. Told with stunning honesty, The Longest Race is an unforgettable story and a call to action. Overcoming the powerful forces compelling her to remain silent, Kara became a key witness helping to get Salazar banned for life from professional coaching, as well as a crusader for female athletes. Ultimately, she reveals how she broke through the fear of losing everything she ever worked for, took back control of her life and career, and reclaimed her love of the sport of running."--
+author_new0: Kara Goucher
+author_new1: Mary Pilon

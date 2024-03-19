@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 3
+primary_isbn10: 035856736X
+primary_isbn13: 9780358567363
+publisher: Harvest
+description: The actress and TV personality describes her personal setbacks and difficult journey to self-acceptance.
+title: Enough Already
+author: Valerie Bertinelli
+amazon_product_url: https://www.amazon.com/dp/035856736X?tag=NYTBSREV-20
+list_date: 2022/02/20
+published_data: 2022-01-18
+summary: Beloved actress and New York Times best-selling author Valerie Bertinelli returns with a heartfelt look at turning sixty, the futility of finding happiness in numbers on a scale, learning to love herself the way she is today, and tips for a healthier outlook on life. Valerie Bertinelli shares an inspiring blueprint that offers women in midlife support and hope. She shares personal stories that many women will relate to from her past decade: hitting her fifties, taking care of her dying mother, the evolving relationship with her husband, a career change, her relationship with food, and the battle to believe in herself as she is. Despite her success receiving Emmys for her Food Network show and critical praise for her books and cookbook, Bertinelli still judged herself harshly if she gained a pound or showed too many wrinkles. But after her mother died, she found an old recipe box with notes of the strong women that came before her, reminding her that she has to find out who she is and take care of herself. Saying, "enough already!" Bertinelli set out on a journey to love herself and see that perfection is not the goal; it's the joy we can find every day in our lives, our loved ones, and the food we share. Recipes and advice will be sprinkled throughout the book.
+author_new0: Valerie Bertinelli

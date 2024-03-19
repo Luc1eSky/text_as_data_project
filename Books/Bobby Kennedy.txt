@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 9
+primary_isbn10: 1501111868
+primary_isbn13: 9781501111860
+publisher: Simon & Schuster
+description: The New York senator's journey from his formative years to his tragic run for president.
+title: Bobby Kennedy
+author: Chris Matthews
+amazon_product_url: https://www.amazon.com/Bobby-Kennedy-Raging-Chris-Matthews/dp/1501111868?tag=NYTBSREV-20
+list_date: 2018/01/14
+published_date: 2017-10-31
+summary: "Bobby Kennedy was a personal hero to a multitude of Americans. As the train carrying his body headed to Washington, whites and blacks alike stood along the tracks, saluting him. They loved him as a fellow patriot who believed a great country could also be a good one. Chris Matthews, the host of MSNBC's Hardball, has discovered what made him who he was ... Drawing on extensive research and intimate interviews, Matthews shines a light on all the important moments of Bobby's life: his upbringing, his start in politics, his crucial role fighting for civil rights as attorney general, and his tragic run for president."--Dust jacket flap.

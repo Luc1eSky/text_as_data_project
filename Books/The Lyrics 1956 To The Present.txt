@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 9
+primary_isbn10: 163149256X
+primary_isbn13: 9781631492563
+publisher: Liveright
+description: A two-volume celebration of 154 songs, with handwritten texts, paintings and photographs from the songwriter’s archives.
+title: The Lyrics: 1956 To The Present
+author: Paul McCartney
+amazon_product_url: https://www.amazon.com/dp/163149256X?tag=NYTBSREV-20
+list_date: 2022/01/16
+published_data: 2021-11-02
+summary: #1 NEW YORK TIMES BESTSELLER A Washington Post Notable Book Excerpted in The New Yorker A work of unparalleled candor and splendorous beauty, The Lyrics celebrates the creative life and the musical genius of Paul McCartney through 154 of his most meaningful songs. From his early Liverpool days, through the historic decade of The Beatles, to Wings and his long solo career, The Lyrics pairs the definitive texts of 154 Paul McCartney songs with first-person commentaries on his life and music. Spanning two alphabetically arranged volumes, these commentaries reveal how the songs came to be and the people who inspired them: his devoted parents, Mary and Jim; his songwriting partner, John Lennon; his “Golden Earth Girl,” Linda Eastman; his wife, Nancy McCartney; and even Queen Elizabeth, among many others. Here are the origins of “Let It Be,” “Lovely Rita,” “Yesterday,” and “Mull of Kintyre,” as well as McCartney’s literary influences, including Shakespeare, Lewis Carroll, and Alan Durband, his high-school English teacher. With images from McCartney’s personal archives—handwritten texts, paintings, and photographs, hundreds previously unseen—The Lyrics, spanning sixty-four years, becomes the definitive literary and visual record of one of the greatest songwriters of all time.
+author_new0: Paul McCartney

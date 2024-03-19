@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0670026093
+primary_isbn13: 9780670026098
+publisher: Viking
+description: The actor recalls the Old Hollywood of the 1940s and ’50s.
+title: You Must Remember This
+author: Robert J Wagner with Scott Eyman
+amazon_product_url: http://www.amazon.com/You-Must-Remember-This-Hollywoods-ebook/dp/B00DMCVZ1G?tag=NYTBSREV-20
+list_date: 2014/03/30
+published_date: 2014
+summary: The legendary actor and best-selling author of Pieces of My Heart offers a nostalgic look at Hollywood's golden age, touring favorite hotspots and exploring period business practices before the advent of paparazzi culture and high-powered agents.

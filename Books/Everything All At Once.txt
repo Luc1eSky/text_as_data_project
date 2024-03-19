@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1623367913
+primary_isbn13: 9781623367916
+publisher: Rodale
+description: Part memoir, part celebration of science and problem-solving.
+title: Everything All At Once
+author: Bill Nye
+amazon_product_url: https://www.amazon.com/Everything-All-Once-Unleash-Curiosity/dp/1623367913?tag=NYTBSREV-20
+list_date: 2017/07/30
+published_date: 2017-07-11
+summary: In the New York Times bestseller Everything All at Once, Bill Nye shows you how thinking like a nerd is the key to changing yourself and the world around you. Everyone has an inner nerd just waiting to be awakened by the right passion. In Everything All at Once, Bill Nye will help you find yours. With his call to arms, he wants you to examine every detail of the most difficult problems that look unsolvable—that is, until you find the solution. Bill shows you how to develop critical thinking skills and create change, using his “everything all at once” approach that leaves no stone unturned. Whether addressing climate change, the future of our society as a whole, or personal success, or stripping away the mystery of fire walking, there are certain strategies that get results: looking at the world with relentless curiosity, being driven by a desire for a better future, and being willing to take the actions needed to make change happen. He shares how he came to create this approach—starting with his Boy Scout training (it turns out that a practical understanding of science and engineering is immensely helpful in a capsizing canoe) and moving through the lessons he learned as a full-time engineer at Boeing, a stand-up comedian, CEO of The Planetary Society, and, of course, as Bill Nye The Science Guy. This is the story of how Bill Nye became Bill Nye and how he became a champion of change and an advocate of science. It’s how he became The Science Guy. Bill teaches us that we have the power to make real change. Join him in… dare we say it… changing the world.

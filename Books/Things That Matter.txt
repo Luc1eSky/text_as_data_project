@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 26
+primary_isbn10: 038534919X
+primary_isbn13: 9780385349192
+publisher: Crown Forum
+description: Three decades’ worth of essays from the recently deceased conservative columnist.
+title: Things That Matter
+author: Charles Krauthammer
+amazon_product_url: http://www.amazon.com/Things-That-Matter-Passions-Pastimes/dp/0385349173?tag=NYTBSREV-20
+list_date: 2018/08/19
+published_date: 2015-05-12
+summary: From America’s preeminent columnist, named by the Financial Times the most influential commentator in the nation, a must-have collection of Charles Krauthammer’s essential, timeless writings. A brilliant stylist known for an uncompromising honesty that challenged conventional wisdom at every turn, Krauthammer dazzled readers for decades with his keen insight into politics and government. His weekly column was a must-read in Washington and across the country. Don’t miss the best of Krauthammer’s intelligence, erudition and wit collected in one volume. Readers will find here not only the country’s leading conservative thinker offering a pas­sionate defense of limited government, but also a highly independent mind whose views—on feminism, evolution and the death penalty, for example—defy ideological convention. Things That Matter also features several of Krautham­mer’s major path-breaking essays—on bioeth­ics, on Jewish destiny and on America’s role as the world’s superpower—that have pro­foundly influenced the nation’s thoughts and policies. And finally, the collection presents a trove of always penetrating, often bemused re­flections on everything from border collies to Halley’s Comet, from Woody Allen to Win­ston Churchill, from the punishing pleasures of speed chess to the elegance of the perfectly thrown outfield assist. With a special, highly autobiographical in­troduction in which Krauthammer reflects on the events that shaped his career and political philosophy, this indispensible chronicle takes the reader on a fascinating journey through the fashions and follies, the tragedies and triumphs, of the last three decades of American life.

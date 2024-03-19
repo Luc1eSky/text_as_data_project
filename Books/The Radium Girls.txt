@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1492649368
+primary_isbn13: 9781492649366
+publisher: Sourcebooks
+description: A group of female factory workers get a nickname from the effects of radium paint used at their jobs. Years later, their illnesses are the grounds for a fight for workers' rights.
+title: The Radium Girls
+author: Kate Moore
+amazon_product_url: https://www.amazon.com/Radium-Girls-Story-Americas-Shining/dp/149264935X?tag=NYTBSREV-20
+list_date: 2017/09/24
+published_date: 2017-04-18
+summary: A New York Times, USA Today, Wall Street Journal, and Amazon Charts Bestseller! For fans of Hidden Figures, comes the incredible true story of the women heroes who were exposed to radium in factories across the U.S. in the early 20th century, and their brave and groundbreaking battle to strengthen workers' rights, even as the fatal poison claimed their own lives... In the dark years of the First World War, radium makes gleaming headlines across the nation as the fresh face of beauty, and wonder drug of the medical community. From body lotion to tonic water, the popular new element shines bright. Meanwhile, hundreds of girls toil amidst the glowing dust of the radium-dial factories. The glittering chemical covers their bodies from head to toe; they light up the night like industrious fireflies. With such a coveted job, these "shining girls" are the luckiest alive — until they begin to fall mysteriously ill. And, until they begin to come forward. As the women start to speak out on the corruption, the factories that once offered golden opportunities ignore all claims of the gruesome side effects. And as the fatal poison of the radium takes hold, the brave shining girls find themselves embroiled in one of the biggest scandals of America's early 20th century, and in a groundbreaking battle for workers' rights that will echo for centuries to come. A timely story of corporate greed and the brave figures that stood up to fight for their lives, these women and their voices will shine for years to come. Written with a sparkling voice and breakneck pace, The Radium Girls fully illuminates the inspiring young women exposed to the "wonder" substance of radium, and their awe-inspiring strength in the face of almost impossible circumstances. Their courage and tenacity led to life-changing regulations, research into nuclear bombing, and ultimately saved hundreds of thousands of lives...

@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 031655944X
+primary_isbn13: 9780316559447
+publisher: Hachette Books
+description: A life in baseball, by the (now retired) Chicago Cubs catcher.
+title: Teammate
+author: David Ross with Don Yaeger
+amazon_product_url: https://www.amazon.com/Teammate-Journey-Baseball-World-Ages/dp/031655944X?tag=NYTBSREV-20
+list_date: 2017/05/28
+published_date: 2017-05-09
+summary: NEW YORK TIMES BESTSELLER USA TODAY BESTSELLER Packed with "compelling inside stories" (Chicago Tribune), Teammate is the inspiring memoir from "Grandpa Rossy," the veteran catcher who became the heart and soul of the 2016 Chicago Cubs championship team and was named manager in 2019. In 2016 the Cubs snapped a 108-year curse, winning the World Series in a history-making, seven-game series against the Cleveland Indians. Of the many storylines to Chicago's fairytale season, one stood out: the late-career renaissance of David Ross, the 39-year-old catcher who had played back-up for 13 of his 15 pro seasons. Beyond Ross's remarkably strong play, he became the ultimate positive force in the Cubs locker room, mentoring and motivating his fellow players, some of them nearly twenty years his junior. Thanks to Cubs Kris Bryant and Anthony Rizzo, "Grandpa Rossy" became a social media sensation. No one, however, could have predicted that Ross's home run in his final career at bat would help seal the Cubs championship. Now, in Teammate, Ross shares the inspiring story of his life in baseball, framed by the events of that unforgettable November night.

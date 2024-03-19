@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 194867744X
+primary_isbn13: 9781948677448
+publisher: Forefront
+description: Stories of living with a minimalist husband, cheering her son’s celebrity and having a late career as a commercial spokesperson.
+title: About Your Father And Other Celebrities I Have Known
+author: Peggy Rowe
+amazon_product_url: https://www.amazon.com/dp/194867744X?tag=NYTBSREV-20
+list_date: 2020/05/03
+published_data: 2020-04-14
+summary: Peggy Rowe is at it again—this time giving a hilarious inside look at growing up Rowe, both before and after Mike’s rise to fame. Since the day they said, “I do,” Peggy’s previous “doting” lifestyle met with her husband John’s minimalist ways and became the backdrop for years of adventure and a quirky sense of humor because of their differences. From thoughts of wearing headlamps in the house to save energy, to squeezing out the last drop of toothpaste with a workbench vise, Peggy learned to pick her battles and celebrate the hilarity in each situation. Once their boys were born, woodstove mishaps and garbage dumping tales were the seed for Mike’s obsession with doing dirty jobs and the comical presence he is known for today. As Mike rose to fame, Peggy was his biggest fan—who gave motherly advice and constructive criticism, of course. She baked cookies for Mike to take to Joan Rivers for a Christmas party hostess gift, and even wrote fan letters under faux names and mailed them from different cities to Mike’s producer. By the time Mike hits it big, Peggy and John retire to face more adventures, with a lightning strike in their condo, an elderly friend who ate marijuana leaves, and entering into celebrity status by making Viva paper towel and Lee jeans commercials, plus so much more. Peggy’s stories relive the details that intrigue and entertain old and new fans alike. So if you want a bigger, even funnier take on the Rowe family, About Your Father and Other Celebrities I Have Known delivers.
+author_new0: Peggy Rowe

@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 059329761X
+primary_isbn13: 9780593297612
+publisher: Penguin
+description: Six essays exploring topics, such as isolation, compassion and the relationship between time and work, which were considered during an unprecedented situation.
+title: Intimations
+author: Zadie Smith
+amazon_product_url: https://www.amazon.com/dp/059329761X?tag=NYTBSREV-20
+list_date: 2020/08/16
+published_data: 2020-07-28
+summary: “[Smith’s] slim collection of essays captures this peculiar moment with startling clarity. . . . The personal and political intermingle for a powerful indictment of America’s social systems.” —TIME, The 100 Must-Read Books of 2020 “While quarantined amid the Covid-19 pandemic, Smith penned six dazzling, trenchant essays burrowing deep into our contemporary culture of disease and upheaval and reflecting on what was ‘once necessary’ that now ‘appears inessential . . .’” —O, The Oprah Magazine, Best Books of 2020 “Smith does more than illuminate what we're going through right now. She offers a model of how to think ourselves through a fraught historical moment without getting hysterical or sanctimonious, without losing our compassion or our appreciation for what's good in other people. She teaches us how to be better at being human.” —John Powers, Fresh Air A New York Times Bestseller Deeply personal and powerfully moving, a short and timely series of reflective essays by one of the most clear-sighted and essential writers of our time. Written during the early months of lockdown, Intimations explores ideas and questions prompted by an unprecedented situation. What does it mean to submit to a new reality--or to resist it? How do we compare relative sufferings? What is the relationship between time and work? In our isolation, what do other people mean to us? How do we think about them? What is the ratio of contempt to compassion in a crisis? When an unfamiliar world arrives, what does it reveal about the world that came before it? Suffused with a profound intimacy and tenderness in response to these extraordinary times, Intimations is a slim, suggestive volume with a wide scope, in which Zadie Smith clears a generous space for thought, open enough for each reader to reflect on what has happened--and what should come next. The author will donate her royalties from the sale of Intimations to charity.
+author_new0: Zadie Smith

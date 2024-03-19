@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 125006113X
+primary_isbn13: 9781250061133
+publisher: Flatiron
+description: The NPR host recalls his mother’s glamorous life and describes her last days, expanded from his Twitter messages.
+title: Unforgettable
+author: Scott Simon
+amazon_product_url: http://www.amazon.com/Unforgettable-Son-Mother-Lessons-Lifetime/dp/125006113X?tag=NYTBSREV-20
+list_date: 2015/04/19
+published_date: 2015-03-31
+summary: A moving meditation on the NPR host's relationship with his mother, inspired by the popular tweets he shared during her death, traces their shared love of family while profiling his mother's heroic work as a dedicated single parent.

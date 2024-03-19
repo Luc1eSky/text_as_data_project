@@ -1,0 +1,13 @@
+rank: 2
+weeks_on_list: 1
+primary_isbn10: 0063142937
+primary_isbn13: 9780063142930
+publisher: Harper
+description: The former White House press secretary and communications director recounts her time in the Trump inner circle.
+title: I'Ll Take Your Questions Now
+author: Stephanie Grisham
+amazon_product_url: https://www.amazon.com/dp/0063142937?tag=NYTBSREV-20
+list_date: 2021/10/24
+published_data: 2021-10-05
+summary: N/A
+author_new0: Stephanie Grisham

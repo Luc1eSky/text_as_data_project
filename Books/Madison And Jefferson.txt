@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0679604103
+primary_isbn13: 9780679604105
+publisher: Random House
+description: A dual biography of the third and fourth presidents; first published in 2010.
+title: Madison And Jefferson
+author: Andrew Burstein and Nancy Isenberg
+amazon_product_url: http://www.amazon.com/Madison-Jefferson-Andrew-Burstein-ebook/dp/B003EY7IEK?tag=NYTBSREV-20
+list_date: 2014/11/09
+published_date: 2010-09-28
+summary: “[A] monumental dual biography . . . a distinguished work, combining deep research, a pleasing narrative style and an abundance of fresh insights, a rare combination.”—The Dallas Morning News The third and fourth presidents have long been considered proper gentlemen, with Thomas Jefferson’s genius overshadowing James Madison’s judgment and common sense. But in this revelatory book about their crucial partnership, both are seen as men of their times, hardboiled operatives in a gritty world of primal politics where they struggled for supremacy for more than fifty years. With a thrilling and unprecedented account of early America as its backdrop, Madison and Jefferson reveals these founding fathers as privileged young men in a land marked by tribal identities rather than a united national personality. Esteemed historians Andrew Burstein and Nancy Isenberg capture Madison’s hidden role—he acted in effect as a campaign manager—in Jefferson’s career. In riveting detail, the authors chart the courses of two very different presidencies: Jefferson’s driven by force of personality, Madison’s sustained by a militancy that history has been reluctant to ascribe to him. Supported by a wealth of original sources—newspapers, letters, diaries, pamphlets—Madison and Jefferson is a watershed account of the most important political friendship in American history. “Enough colorful characters for a miniseries, loaded with backstabbing (and frontstabbing too).”—Newsday “An important, thoughtful, and gracefully written political history.”—Publishers Weekly (starred review)

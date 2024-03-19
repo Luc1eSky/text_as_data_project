@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1982106336
+primary_isbn13: 9781982106331
+publisher: Atria
+description: The syndicated morning radio host recalls the highlights and ignominious moments of his career.
+title: Where Do I Begin?
+author: Elvis Duran
+amazon_product_url: https://www.amazon.com/Where-Do-Begin-Stories-Lived/dp/1982106336?tag=NYTBSREV-20
+list_date: 2019/10/20
+published_data: 2019-10-01
+summary: In this New York Times bestseller, host of one of the nation’s top morning shows Elvis Duran shares his wildest stories and hardest-learned lessons with his trademark honesty and “bighearted, deliciously warm” (Barbara Corcoran, star of ABC’s Shark Tank) humor. Elvis Duran’s nationally syndicated radio program, Elvis Duran and the Morning Show, is America’s most-listened-to Top 40 morning show and one of the 10 most-listened-to programs in all of radio, heard live by nearly ten million people every morning. But his success didn’t happen overnight. Elvis spent years navigating the wild world of radio as a DJ for hire, working (and partying) in markets around the country before taking over the morning shift at the legendary Z100 in 1996. Over the last twenty years, he has become one of New York City’s signature voices (Variety calls him “a permanent fixture of the area’s daily commutes”) thanks to his show’s exciting mix of music, new artist discovery, interviews, gossip, and live listener interaction. Along the way, Elvis has become known not just for his incisive interviews (and occasional feuds) with pop music’s biggest stars, but for the show’s commitment to kindness and positivity and Elvis’s own candor and openness with his audience. Bold, funny, and totally candid, Where Do I Begin? is sure to be loved by anyone who listens to Elvis live every morning—or anyone who wants to know what really goes on behind the scenes of the pop music machine from the “man who has been as big a part of the industry’s success as anyone” (Ryan Seacrest).
+author_new0: Elvis Duran

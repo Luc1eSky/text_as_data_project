@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1250317479
+primary_isbn13: 9781250317476
+publisher: Flatiron
+description: How Allan Pinkerton, along with undercover agents, thwarted a lesser-known assassination attempt of Abraham Lincoln in Baltimore in 1861.
+title: The Lincoln Conspiracy
+author: Brad Meltzer and Josh Mensch
+amazon_product_url: https://www.amazon.com/dp/1250317479?tag=NYTBSREV-20
+list_date: 2020/05/31
+published_data: 2020-05-05
+summary: The bestselling authors of The First Conspiracy, which covers the secret plot against George Washington, now turn their attention to a little-known, but true story about a failed assassination attempt on President Lincoln Everyone knows the story of Abraham Lincoln’s assassination in 1865, but few are aware of the original conspiracy to kill him four years earlier in 1861, literally on his way to Washington, D.C., for his first inauguration. The conspirators were part of a pro-Southern secret society that didn’t want an antislavery President in the White House. They planned an elaborate scheme to assassinate the brand new President in Baltimore as Lincoln’s inauguration train passed through en route to the Capitol. The plot was investigated by famed detective Allan Pinkerton, who infiltrated the group with undercover agents, including one of the first female private detectives in America. Had the assassination succeeded, there would have been no Lincoln Presidency, and the course of the Civil War and American history would have forever been altered.
+author_new0: Brad Meltzer
+author_new1: Josh Mensch

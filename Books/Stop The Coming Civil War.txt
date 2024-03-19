@@ -1,0 +1,13 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1455582433
+primary_isbn13: 9781455582433
+publisher: Center Street
+description: The radio host urges true patriots to save the country  from the machinations of the left.
+
+title: Stop The Coming Civil War
+author: Michael Savage
+amazon_product_url: http://www.amazon.com/Stop-Coming-Civil-War-Savage-ebook/dp/B00I829RX8?tag=NYTBSREV-20
+list_date: 2014/11/16
+published_date: 2014-10-07
+summary: In the book that predicted our current political climate, conservative talk-show host and #1 New York Times bestselling author Michael Savage shows how true patriots can defend America's freedoms before it's too late. The split between the right and the left is growing every day, and our country is in real trouble. Not between the states, but between true patriots who believe in our nation's founding principles and those he believes are working every day to undermine them and change the very nature of the country. Michael Savage is convinced we face more than just political differences. He believes the split between right and left is possibly irreversible unless we understand what's destroying American values and how to stop it. This fervent warning offers the Savage truth - a call to action in the voting booth - in order to defend the freedoms our Constitution so brilliantly established.

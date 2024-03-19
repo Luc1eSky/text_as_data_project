@@ -1,0 +1,10 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1101904933
+primary_isbn13: 9781101904930
+publisher: Crown Forum
+description: A senior editor at National Review assesses issues plaguing the left and the right.
+title: Suicide Of The West
+author: Jonah Goldberg
+amazon_product_url: https://www.amazon.com/Suicide-West-Tribalism-Nationalism-Destroying/dp/1101904933?tag=NYTBSREV-20
+list_date: 2018/05/20

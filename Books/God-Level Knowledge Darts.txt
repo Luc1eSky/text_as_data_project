@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0525512330
+primary_isbn13: 9780525512332
+publisher: Random House
+description: The hosts of the late-night show “Desus & Mero” and the “Bodega Boys” podcast impart wisdom they learned living in the Bronx.
+title: God-Level Knowledge Darts
+author: Desus Nice and the Kid Mero
+amazon_product_url: https://www.amazon.com/dp/0525512330?tag=NYTBSREV-20
+list_date: 2020/10/11
+published_data: 2020-09-22
+summary: NEW YORK TIMES BESTSELLER • “Desus & Mero are smarter and funnier than everyone writing books.”—Shea Serrano “I will never write anything as hilarious as they have. I give up.”—Malcolm Gladwell “These motherf***ers make me laugh until I choke.”—Jia Tolentino NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR A wild, hilarious guide to life from the hosts of the hit late-night show Desus & Mero and the Bodega Boys podcast Who could have predicted that, after a fateful meeting in a Bronx summer school in the 1990s, Desus & Mero would turn their friendship into an empire of talking to each other. And it’s no surprise—tuning in to them is like listening to the funniest, smartest people you know dissect a topic and then light it on fire. Now they’ve written the most essential guide to life of this century*, in which all the important questions are asked: How do I talk to my kids about drugs if I do them, too? What are the ethics of ghosting in a relationship? How do I bet on sports? How should I behave in jail? How much is too much to spend on sneakers? Is porn really that bad for me? As they put it: “We want to share all we’ve learned, after years in the Bronx streets, with you: the people. So with a lifetime spent building up a plethora of information from trials and tribulations and a handful of misdemeanors, we decided to write this book—a sequel to the Bible, or maybe to The Hitchhiker’s Guide to the Galaxy,depending on how big a nerd you are. Let this book be your North Star.” *NO REFUNDS
+author_new0: Desus Nice
+author_new1: the Kid Mero

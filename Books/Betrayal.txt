@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 059318632X
+primary_isbn13: 9780593186329
+publisher: Dutton
+description: The ABC News' chief Washington correspondent gives an account of the end of the Trump presidency.
+title: Betrayal
+author: Jonathan Karl
+amazon_product_url: https://www.amazon.com/dp/059318632X?tag=NYTBSREV-20
+list_date: 2021/12/19
+published_data: 2021-11-16
+summary: ***THE INSTANT New York Times, Wall Street Journal, USA Today, and IndieBound BESTSELLER*** An NPR Book of the Day Picking up where the New York Times bestselling Front Row at the Trump Show left off, this is the explosive look at the aftermath of the election—and the events that followed Donald Trump’s leaving the White House all the way to January 6—from ABC News' chief Washington correspondent. Nobody is in a better position to tell the story of the shocking final chapter of the Trump show than Jonathan Karl. As the reporter who has known Donald Trump longer than any other White House correspondent, Karl told the story of Trump’s rise in the New York Times bestseller Front Row at the Trump Show. Now he tells the story of Trump’s downfall, complete with riveting behind-the-scenes accounts of some of the darkest days in the history of the American presidency and packed with original reporting and on-the-record interviews with central figures in this drama who are telling their stories for the first time. This is a definitive account of what was really going on during the final weeks and months of the Trump presidency and what it means for the future of the Republican Party, by a reporter who was there for it all. He has been taunted, praised, and vilified by Donald Trump, and now Jonathan Karl finds himself in a singular position to deliver the truth.
+author_new0: Jonathan Karl

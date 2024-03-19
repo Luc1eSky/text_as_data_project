@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0825307449
+primary_isbn13: 9780825307447
+publisher: Beaufort Books
+description: How to help American students who are falling behind in science, technology, engineering and math education.
+title: One Nation Under Taught
+author: Vince M Bertram
+amazon_product_url: http://www.amazon.com/One-Nation-Under-Taught-Engineering/dp/0825307449?tag=NYTBSREV-20
+list_date: 2014/12/07
+published_date: 2014-11-01
+summary: Offers ways for educators and policy makers to get students to fall in love with, succeed in, and further pursue studies in STEM subjects.

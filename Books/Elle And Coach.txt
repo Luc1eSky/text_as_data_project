@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 031625875X
+primary_isbn13: 9780316258753
+publisher: Hachette
+description: The mother of a young daughter with Type 1 diabetes tells how their lives changed with the arrival of a dog that detects low blood-sugar levels.
+title: Elle And Coach
+author: Stefany Shaheen with Mark Dagostino
+amazon_product_url: http://www.amazon.com/Elle-Coach-Diabetes-Daughters-Everything/dp/031625875X?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2016-03-29
+summary: NEW YORK TIMES Bestseller "This book will inspire and encourage countless parents and children around the country. I loved it."---Hillary Rodham Clinton Elle & Coach is the true story of a Type-A mom struggling to care for a daughter who has Type 1 diabetes and of the incredible service dog who changes their lives for the better. Stefany Shaheen tries everything to manage her daughter Elle's deadly and unpredictable disease. Overcoming the skepticism that a dog can provide answers that medical science is still seeking, the family finds a resounding sense of peace and reassurance through Coach's near miraculous abilities as a medic-alert dog, specially trained to detect dangerous changes in blood sugar levels.

@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0143129430
+primary_isbn13: 9780143129431
+publisher: Sentinel
+description: The war against the Barbary pirates in 1801. Co-written by one of the hosts of "Fox & Friends."
+title: Thomas Jefferson And The Tripoli Pirates
+author: Brian Kilmeade and Don Yaeger
+amazon_product_url: http://www.amazon.com/Thomas-Jefferson-Tripoli-Pirates-Forgotten-ebook/dp/B00SI0B5GW?tag=NYTBSREV-20
+list_date: 2017/01/01
+published_date: 2016-10-18
+summary: When Thomas Jefferson became president in 1801, America was deeply in debt, with its economy and dignity under attack. Pirates from North Africa’s Barbary Coast routinely captured American merchant ships and held the sailors as slaves, demanding ransom and tribute payments far beyond what the new country could afford. For fifteen years, America had tried to work with the four Muslim powers (Tripoli, Tunis, Algiers, and Morocco) driving the piracy, but negotiation proved impossible. Realizing it was time to stand up to the intimidation, Jefferson decided to move beyond diplomacy. He sent the U.S. Navy and Marines to blockade Tripoli—launching the Barbary Wars and beginning America’s journey toward future superpower status. Few today remember these men and other heroes who inspired the Marine Corps hymn: “From the Halls of Montezuma to the Shores of Tripoli, we fight our country’s battles in the air, on land and sea.” Thomas Jefferson and the Tripoli Pirates recaptures this forgotten war that changed American history with a real-life drama of intrigue, bravery, and battle on the high seas.

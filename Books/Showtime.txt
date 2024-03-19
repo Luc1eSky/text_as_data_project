@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780698148611
+publisher: Gotham
+description: The story of the 1980s Los Angeles Lakers, featuring Magic Johnson, Kareem Abdul-Jabbar and Pat Riley, the head coach
+title: Showtime
+author: Jeff Pearlman
+amazon_product_url: http://www.amazon.com/Showtime-Kareem-Angeles-Lakers-Dynasty-ebook/dp/B00DGZKYIE?tag=NYTBSREV-20
+list_date: 2014/03/23

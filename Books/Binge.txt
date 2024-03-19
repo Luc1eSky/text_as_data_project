@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 5
+primary_isbn10: 1501117696
+primary_isbn13: 9781501117695
+publisher: Gallery Books
+description: Personal essays from the L.G.B.T.Q. YouTube personality.
+title: Binge
+author: Tyler Oakley
+amazon_product_url: http://www.amazon.com/Binge-Tyler-Oakley-ebook/dp/B00VBW3SX2?tag=NYTBSREV-20
+list_date: 2015/12/13
+published_date: 2015-10-20
+summary: Pop-culture phenomenon, social rights advocate, and the most prominent LGBTQ+ voice on YouTube, Tyler Oakley brings you Binge, his New York Times bestselling collection of witty, personal, and hilarious essays. For someone who made a career out of over-sharing on the Internet, Tyler has a shocking number of personal mishaps and shenanigans to reveal in his first book: experiencing a legitimate rage blackout in a Cheesecake Factory; negotiating a tense stand­off with a White House official; crashing a car in front of his entire high school, in an Arby’s uniform; projectile vomiting while bartering with a grandmother; and so much more. In Binge, Tyler delivers his best untold, hilariously side-splitting moments with the trademark flair that made him a star.

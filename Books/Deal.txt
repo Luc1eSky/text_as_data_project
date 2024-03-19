@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1250033799
+primary_isbn13: 9781250033796
+publisher: St. Martin's
+description: An account of three wild decades of drumming for the Grateful Dead.
+title: Deal
+author: Bill Kreutzmann with Benjy Eisen
+amazon_product_url: http://www.amazon.com/Deal-Decades-Drumming-Dreams-Grateful/dp/1250033799?tag=NYTBSREV-20
+list_date: 2015/05/24
+published_date: 2015-05-05
+summary: Published to coincide with the band's 50th anniversary, a memoir by one of the Grateful Dead's founding members shares insights into their improvisational style, their survival of shared and personal tragedies and their collaborations with a wide range of fellow artists. Illustrations.

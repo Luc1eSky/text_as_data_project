@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0812993624
+primary_isbn13: 9780812993622
+publisher: Spiegel & Grau
+description: A memoir by a “Saturday Night Live” alumnus, a onetime "Weekend Update: anchor.
+title: Based On A True Story
+author: Norm Macdonald
+amazon_product_url: http://www.amazon.com/Based-True-Story-Norm-Macdonald-ebook/dp/B01B0K989W?tag=NYTBSREV-20
+list_date: 2016/10/09
+published_date: 2016
+summary: Norm Macdonald tells the story of his life, from his origins in a rural small town in Canada to a disastrous appearance on Star Search, to his account of auditioning for Lorne Michaels and his memorable run as the anchor of Saturday Night Live's 'Weekend Update'.

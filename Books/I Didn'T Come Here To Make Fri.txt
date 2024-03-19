@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9780062326706
+publisher: It Books/HarperCollins
+description: A winner of “The Bachelor” shares her reality-TV story.
+title: I Didn'T Come Here To Make Friends
+author: Courtney Robertson with Deb Baer
+amazon_product_url: http://www.amazon.com/Didnt-Come-Here-Make-Friends/dp/0062326651?tag=NYTBSREV-20
+list_date: 2014/07/20
+published_date: 2021-09-15
+summary: N/A

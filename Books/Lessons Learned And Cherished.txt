@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 1368095054
+primary_isbn13: 9781368095051
+publisher: Andscape
+description: Essays by celebrities about the teachers who impacted their lives.
+title: Lessons Learned And Cherished
+author: Deborah Roberts
+amazon_product_url: https://www.amazon.com/dp/1368095054?tag=NYTBSREV-20
+list_date: 2023/05/28
+published_data: 2023-05-02
+summary: A giftable collection of essays from celebrity contributors celebrating the great work of teachers or a teacher they admire, curated by ABC journalist Deborah Roberts. Contributors include Oprah Winfrey, Spike Lee, Jenna Bush Hager, Robin Roberts, Brooke Shields, Octavia Spencer, Misty Copeland, among others. Everyone can name a teacher that had an impact on their life. Educators not only open our minds to new ideas, but they also help us recognize our potential and our passions. However, they rarely get credit for the life changing work they do, and they may not have any idea how that work can impact a student all the way into adulthood. In The Teacher Who Changed My Life, renowned ABC journalist Deborah Roberts curates a collection of essays, letters, and musings from celebrity friends and colleagues alike that share how teachers changed them and helped them get to where they are today.
+author_new0: Deborah Roberts

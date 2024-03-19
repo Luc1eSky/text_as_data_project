@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0062977407
+primary_isbn13: 9780062977403
+publisher: Ecco
+description: A wide-ranging collection of stories and histories based in the American South that also illuminate the country as a whole.
+title: South To America
+author: Imani Perry
+amazon_product_url: https://www.amazon.com/dp/0062977407?tag=NYTBSREV-20
+list_date: 2022/02/20
+published_data: 2021-06-08
+summary: An essential journey through the American South--and the way it defines American identity--from one our most extraordinary writers on race and culture at work today We all think we know the South. Even those who have never lived there, who have never even been there, can rattle off a list of signifiers that define the South for them: Gone with the Wind, the Civil War, the Ku Klux Klan, cotillions, plantations, football, Jim Crow, and, of course, slavery. For those who live outside the region, the South is very much about the profound difference between "us" and "them." In South to America, Imani Perry shows in detail by infinitely careful detail that the meaning of American is inextricably linked with the South, and if we are American, we are all at least a little bit Southern. In looking at the American South through a historic, personal, and anecdotal lens, Perry argues that the South is in fact the nation's heartland. The formation of our country, our wealth, and our politics have always pivoted around the resource-rich region. A native of Alabama but raised in the North, Perry returns to the South--the place she has always called home--traveling through its cities and their cultural formations, studying its historical figures and institutions and the natural settings from which they sprang. Seeing the South as familiar and anew, Perry goes on a journey that brings her in contact with Southerners from all walks of life. She renders them with sensitivity and honesty, in addition to sharing her thoughts about a troubling history and the ritual humiliations and joys that characterize so much of Southern life. This is the story of a woman going home--a Black woman and a Southern home--at a time when ideas of how the South should be are rising once again. South to America is an assertion that if we do indeed want to build a more humane future for the United States, we must center our concern below the Mason-Dixon Line.
+author_new0: Imani Perry

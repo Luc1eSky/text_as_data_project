@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0385350570
+primary_isbn13: 9780385350570
+publisher: Knopf
+description: The former secretary of labor in the Clinton administration, now a professor of public policy, considers how to reverse income inequality.
+title: Saving Capitalism
+author: Robert B Reich
+amazon_product_url: http://www.amazon.com/Saving-Capitalism-For-Many-Not-ebook/dp/B00RKVWPG4?tag=NYTBSREV-20
+list_date: 2015/10/18
+published_date: 2015
+summary: From the author of Aftershock and The Work of Nations, his most important book to date--a passionate yet practical, sweeping yet minutely argued, myth-shattering breakdown of what's wrong with our political-economic system, and what it will take to fix it. Perhaps no one is better acquainted with the intersection of finance and politics than Robert B. Reich, and now he reveals the cycles of power and influence that have perpetuated a new American oligarchy, a shrinking middle class, and the greatest income inequality and wealth disparity in eighty years. He makes clear how centrally problematic our veneration of the "free market" is, and how it has masked the power of the moneyed interests to tilt the market to their benefit. He exposes the falsehoods that have been bolstered by the corruption of our democracy by big corporations and the revolving door between Washington and Wall Street-- that all workers are paid what they're "worth," a higher minimum wage equals fewer jobs, corporations must serve shareholders before employees. Ever the pragmatist, Reich sees hope for reversing our slide toward inequality and diminished opportunity by shoring up the countervailing power of everyone else. Here is a revelatory indictment of our economic status quo and an empowering call to civic action.

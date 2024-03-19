@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9781466876224
+publisher: St. Martin's
+description: The inside story of Joint Special Operations Command, the military’s premier weapon in the war against terror.
+title: Relentless Strike
+author: Sean Naylor
+amazon_product_url: http://www.amazon.com/Relentless-Strike-History-Special-Operations/dp/1250014549?tag=NYTBSREV-20
+list_date: 2015/09/20
+published_date: 2021-09-15
+summary: N/A

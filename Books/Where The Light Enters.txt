@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1250182328
+primary_isbn13: 9781250182326
+publisher: Flatiron
+description: The former second lady’s challenges in being a mother, educator and political spouse.
+title: Where The Light Enters
+author: Jill Biden
+amazon_product_url: https://www.amazon.com/Where-Light-Enters-Building-Discovering/dp/1250182328?tag=NYTBSREV-20
+list_date: 2019/05/26
+published_data: 2019-05-07
+summary: An intimate look at the traditions, resilience, and love that built the Biden family, and the delicate balancing act of the woman at its center. Growing up, Jill Biden wanted two things: a marriage like her parents’ and a career. But her journey to fulfill those wishes would take unexpected turns, and her definition of family would be challenged again and again. After an early heartbreak, Jill was unsure what the future would hold. Then she met Joe Biden, Delaware’s junior senator, who was grieving the loss of his wife and daughter while raising his two young sons. As they fell in love, Jill faced difficult questions: was she willing to commit to marriage? How would politics shape her family life—and her career? And could she become a mother to these boys? This is the story of how Jill built a family of her own: from seeking small moments of joy, to balancing the family’s needs with her personal and professional goals, to forming traditions that helped carry them through tragedy—all with the support of an extended family circle. That circle would morph over the years, but the one constant was love. And whether finding her own voice as Second Lady or changing lives as a teacher, whether nurturing the Biden clan or surviving devastating loss, Jill discovered her own strength and came to understand what it truly means to make a family. WHERE THE LIGHT ENTERS is a deeply personal exploration of the love that defines family in its many forms. It is a brave and vulnerable glimpse into the creation of a beloved American family, and the life of the woman at its center.
+author_new0: Jill Biden

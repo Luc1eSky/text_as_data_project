@@ -1,0 +1,11 @@
+rank: 10
+weeks_on_list: 20
+primary_isbn10: None
+primary_isbn13: 9781501168697
+publisher: Simon & Schuster
+description: The Pulitzer Prize-winning historian tells the story of the settling of the Northwest Territory through five main characters.
+title: The Pioneers
+author: David McCullough
+amazon_product_url: https://www.amazon.com/Pioneers-Heroic-Settlers-Brought-American/dp/1501168681?tag=NYTBSREV-20
+list_date: 2020/01/19
+author_new0: David McCullough

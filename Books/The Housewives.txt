@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1250807603
+primary_isbn13: 9781250807601
+publisher: Flatiron
+description: Major onscreen moments, behind-the-scenes dramas, product offshoots and cultural impact of the reality television franchise.
+title: The Housewives
+author: Brian Moylan
+amazon_product_url: https://www.amazon.com/dp/1250807603?tag=NYTBSREV-20
+list_date: 2021/06/13
+published_data: 2021-05-25
+summary: N/A
+author_new0: Brian Moylan

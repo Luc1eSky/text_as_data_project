@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0307781763
+primary_isbn13: 9780307781765
+publisher: Modern Library
+description: A biography of Mrs. Vladimir Nabokov.
+title: Vera
+author: Stacy Schiff
+amazon_product_url: http://www.amazon.com/Véra-Vladimir-Nabokov-Library-Paperbacks-ebook/dp/B004G5ZY7Y?tag=NYTBSREV-20
+list_date: 2014/08/31
+published_date: 2011-02-23
+summary: NEW YORK TIMES BESTSELLER Winner of the 2000 Pulitzer Prize for biography and hailed by critics as both “monumental” (The Boston Globe) and “utterly romantic” (New York magazine), Stacy Schiff’s Véra (Mrs. Vladimir Nabokov) brings to shimmering life one of the greatest literary love stories of our time. Vladimir Nabokov—the émigré author of Lolita; Pale Fire; and Speak, Memory—wrote his books first for himself, second for his wife, Véra, and third for no one at all. “Without my wife,” he once noted, “I wouldn’t have written a single novel.” Set in prewar Europe and postwar America, spanning much of the century, the story of the Nabokovs’ fifty-two-year marriage reads as vividly as a novel. Véra, both beautiful and brilliant, is its outsized heroine—a woman who loves as deeply and intelligently as did the great romantic heroines of Austen and Tolstoy. Stacy Schiff's Véra is a triumph of the biographical form.

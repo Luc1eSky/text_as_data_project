@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 12
+primary_isbn10: 0060899220
+primary_isbn13: 9780060899226
+publisher: Ecco
+description: A memoir-exposé of the restaurant world. Originally published in 2000.
+title: Kitchen Confidential
+author: Anthony Bourdain
+amazon_product_url: http://www.amazon.com/Kitchen-Confidential-Updated-Edition-Adventures/dp/0060899220?tag=NYTBSREV-20
+list_date: 2018/09/02
+published_date: 2007-01-09
+summary: A deliciously funny, delectably shocking banquet of wild-but-true tales of life in the culinary trade from Chef Anthony Bourdain, laying out his more than a quarter-century of drugs, sex, and haute cuisine—now with all-new, never-before-published material

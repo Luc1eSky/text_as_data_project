@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0735222916
+primary_isbn13: 9780735222915
+publisher: Penguin Press
+description: The historian uses network theory to understand the past and the present.
+title: The Square And The Tower
+author: Niall Ferguson
+amazon_product_url: https://www.amazon.com/Square-Tower-Networks-Freemasons-Facebook/dp/0735222916?tag=NYTBSREV-20
+list_date: 2018/02/04
+published_date: 2018
+summary: A reevaluation of history's turning points as collisions between old power hierarchies and new social networks explains how networks have always existed and have been responsible for key innovations and revolutionary ideas.

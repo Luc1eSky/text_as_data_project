@@ -1,0 +1,10 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1497640199
+primary_isbn13: 9781497640191
+publisher: Open Road
+description: Accounts of 12 Wall Street episodes that illuminate corporate and financial life in America.
+title: Business Adventures
+author: John Brooks
+amazon_product_url: http://www.amazon.com/Business-Adventures-Twelve-Classic-Street-ebook/dp/B00L1TPCKW?tag=NYTBSREV-20
+list_date: 2014/08/10

@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 3
+primary_isbn10: 125083001X
+primary_isbn13: 9781250830012
+publisher: Holt
+description: The author of “Fire and Fury” and “Siege” portrays events during the final days of Trump’s presidency.
+title: Landslide
+author: Michael Wolff
+amazon_product_url: https://www.amazon.com/dp/125083001X?tag=NYTBSREV-20
+list_date: 2021/08/15
+published_data: 2021-07-13
+summary: "The final days of the Trump presidency"--Jacket.
+author_new0: Michael Wolff

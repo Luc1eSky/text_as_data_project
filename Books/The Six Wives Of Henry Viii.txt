@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0802198759
+primary_isbn13: 9780802198754
+publisher: Grove
+description: A history of the king’s serial marriages, from Catherine of Aragon to Catherine Parr; first published in 1991.
+title: The Six Wives Of Henry Viii
+author: Alison Weir
+amazon_product_url: http://www.amazon.com/The-Six-Wives-Henry-VIII-ebook/dp/B008UX8G5A?tag=NYTBSREV-20
+list_date: 2015/04/12
+published_date: 2007-12-01
+summary: A “brilliantly written and meticulously researched” biography of royal family life during England’s second Tudor monarch (San Francisco Chronicle). Either annulled, executed, died in childbirth, or widowed, these were the well-known fates of the six queens during the tempestuous, bloody, and splendid reign of Henry VIII of England from 1509 to 1547. But in this “exquisite treatment, sure to become a classic” (Booklist), they take on more fully realized flesh and blood than ever before. Katherine of Aragon emerges as a staunch though misguided woman of principle; Anne Boleyn, an ambitious adventuress with a penchant for vengeance; Jane Seymour, a strong-minded matriarch in the making; Anne of Cleves, a good-natured woman who jumped at the chance of independence; Katherine Howard, an empty-headed wanton; and Katherine Parr, a warm-blooded bluestocking who survived King Henry to marry a fourth time. “Combin[ing] the accessibility of a popular history with the highest standards of a scholarly thesis”, Alison Weir draws on the entire labyrinth of Tudor history, employing every known archive—early biographies, letters, memoirs, account books, and diplomatic reports—to bring vividly to life the fates of the six queens, the machinations of the monarch they married and the myriad and ceaselessly plotting courtiers in their intimate circle (The Detroit News). In this extraordinary work of sound and brilliant scholarship, “at last we have the truth about Henry VIII’s wives” (Evening Standard).

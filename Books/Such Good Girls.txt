@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0062297120
+primary_isbn13: 9780062297129
+publisher: Harper
+description: The stories of three women hidden as children during the Holocaust who survived to lead adult lives in the United States.
+title: Such Good Girls
+author: R D Rosen
+amazon_product_url: http://www.amazon.com/Such-Good-Girls-Holocausts-Survivors-ebook/dp/B00DB3DAE6?tag=NYTBSREV-20
+list_date: 2016/01/17
+published_date: 2014-09-09
+summary: Edgar Award–winning mystery novelist R. D. Rosen tells the story of the hidden children who survived the Holocaust through the lives of three girls hidden in three different countries—among the less than 10 percent of Jewish children in Europe to survive World War II—who went on to lead remarkable lives in New York City Only one in ten Jewish children in Europe survived the Holocaust, many in hiding. In Such Good Girls, R. D. Rosen tells the story of these survivors through the true experiences of three girls. Sophie Turner-Zaretsky, who spent the war years believing she was an anti-Semitic Catholic schoolgirl, eventually became an esteemed radiation oncologist. Flora Hogman, protected by a succession of Christians, emerged from the war a lonely, lost orphan, but became a psychologist who pioneered the study of hidden child survivors. Unlike Anne Frank, Carla Lessing made it through the war concealed with her family in the home of Dutch strangers before becoming a psychotherapist and key player in the creation of an international organization of hidden child survivors. In braiding the stories of three women who defied death by learning to be “such good girls,” Rosen examines a silent and silenced generation—the last living cohort of Holocaust survivors. He provides rich, memorable portraits of a handful of hunted children who, as adults, were determined to deny Hitler any more victories, and he recreates the extraordinary event that lured so many hidden child survivors out of their grown-up “hiding places” and finally brought them together.

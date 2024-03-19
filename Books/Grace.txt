@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0358651891
+primary_isbn13: 9780358651895
+publisher: Mariner
+description: The former speechwriter for President Obama recounts events that took place during 10 days in June 2015.
+title: Grace
+author: Cody Keenan
+amazon_product_url: https://www.amazon.com/dp/0358651891?tag=NYTBSREV-20
+list_date: 2022/10/23
+published_data: 2022-10-04
+summary: Barack Obama's chief speechwriter Cody Keenan shares an account of the ten most dramatic days of the presidency, when a hate-fueled massacre and looming Supreme Court decisions put the character of our country on the line, and a president's words could bring the nation together or tear it apart.
+author_new0: Cody Keenan

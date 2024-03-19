@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1441208119
+primary_isbn13: 9781441208118
+publisher: Bethany House
+description: One woman's harrowing escape from the World Trade Center on 9/11.
+title: Between Heaven And Ground Zero
+author: Leslie Haskin
+amazon_product_url: http://www.amazon.com/Between-Heaven-Ground-Zero-Struggle-ebook/dp/B00B85AMG8?tag=NYTBSREV-20
+list_date: 2014/09/28
+published_date: 2008-02-01
+summary: A Second Chance at Life On the sunny morning of Tuesday, September 11, 2001, terrorists murdered more than twenty-seven hundred people in an attack on New York City. Thousands died when a hijacked Boeing 767 slammed into Tower One of the World Trade Center. It was first blood. For Leslie Haskin, it was a second chance at life. This is the riveting account of Leslie's harrowing escape--down 36 floors in a doomed and dying building and away from a life focused on perks, prestige, and power. The intervening months brought crippling mental and emotional distress, but from the rubble and ashes, the corporate climber rediscovered the faith of her childhood and now embraces a new life of serving others.

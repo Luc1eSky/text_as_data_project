@@ -1,0 +1,14 @@
+rank: 8
+weeks_on_list: 4
+primary_isbn10: 0759554226
+primary_isbn13: 9780759554221
+publisher: Little, Brown
+description: A biography of the late Princess of Wales and her sons.
+title: Diana, William, And Harry
+author: James Patterson and Chris Mooney
+amazon_product_url: https://www.amazon.com/dp/0759554226?tag=NYTBSREV-20
+list_date: 2022/09/25
+published_data: 2022-08-15
+summary: James Patterson tells the most heartbreaking story of our time, as only he can--Diana's life as a princess and a mother--timed to the twenty-fifth anniversary of her death. At age thirteen, she became Lady Diana Spencer. At twenty, Princess of Wales. At twenty-one, she earned her most important title: Mother. As she fell in love, first with Prince Charles and then with her sons, William and Harry, the world fell in love with the young royal family--Diana most of all. With one son destined to be King of England, and one to find his own way, she taught them dual lessons about real life and royal tradition. "William and Harry will be properly prepared," Diana once promised. "I am making sure of this." Even after the shield of her love is tragically torn away, she remains their greatest protector--and the world's enduring inspiration.
+author_new0: James Patterson
+author_new1: Chris Mooney

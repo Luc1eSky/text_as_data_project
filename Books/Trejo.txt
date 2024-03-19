@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 1982150823
+primary_isbn13: 9781982150822
+publisher: Atria
+description: The screen actor describes how his past, which includes heroin addiction and prison time, has informed some of his roles.
+title: Trejo
+author: Danny Trejo with Donal Logue
+amazon_product_url: https://www.amazon.com/dp/1982150823?tag=NYTBSREV-20
+list_date: 2021/08/01
+published_data: 2021-07-06
+summary: "For the first time, the full, fascinating, and inspirational true story of Danny Trejo's journey from crime, prison, addiction, and loss to unexpected fame as Hollywood's favorite bad guy with a heart of gold"--
+author_new0: Danny Trejo
+author_new1: Donal Logue

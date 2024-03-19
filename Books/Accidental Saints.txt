@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1601427557
+primary_isbn13: 9781601427557
+publisher: Convergent
+description: A comic turned pastor documents encounters with grace and finding divinity in unlikely places.
+title: Accidental Saints
+author: Nadia Bolz-Weber
+amazon_product_url: http://www.amazon.com/Accidental-Saints-Finding-Wrong-People-ebook/dp/B00VOYP7TA?tag=NYTBSREV-20
+list_date: 2015/10/11
+published_date: 2015
+summary: "Bolz-Weber invites readers into a surprising encounter with what she calls 'a religious but not-so-spiritual life.' Tattooed, angry, and profane, this former standup comic turned pastor stubbornly, sometimes hilariously, resists the God she feels called to serve. But God keeps showing up in the least likely of people--a church-loving agnostic, a drag queen, a felonious Bishop and a gun-toting member of the NRA. As she lives and worships alongside these 'accidental saints,' Nadia is swept into firsthand encounters with grace--a gift that feels to her less like being wrapped in a warm blanket and more like being hit with a blunt instrument"--Dust jacket fla

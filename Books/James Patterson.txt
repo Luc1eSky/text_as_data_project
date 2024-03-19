@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 0316397539
+primary_isbn13: 9780316397537
+publisher: Little, Brown
+description: The author’s life, from growing up in small-town New York to working in the advertising industry to becoming a successful storyteller.
+title: James Patterson
+author: James Patterson
+amazon_product_url: https://www.amazon.com/dp/0316397539?tag=NYTBSREV-20
+list_date: 2022/08/07
+published_data: 2022-06-06
+summary: How did a kid whose dad lived in the poorhouse become the most successful storyteller in the world? · On the morning he was born, he nearly died. · Growing up, he didn't love to read. That changed. · He worked at a mental hospital in Massachusetts, where he met the singer James Taylor and the poet Robert Lowell. · While he toiled in advertising hell, James wrote the ad jingle line "I'm a Toys 'R' Us Kid." · He once watched James Baldwin and Norman Mailer square off to trade punches at a party. · He's only been in love twice. Both times are amazing. · Dolly Parton once sang "Happy Birthday" to James over the phone. She calls him J.J., for Jimmy James. · Three American presidents have invited him to golf with them. How did a boy from small-town New York become the world's most successful writer? How does he do it? He has always wanted to write the kind of novel that would be read and reread so many times that the binding breaks and the book literally falls apart. As he says, "I'm still working on that one." James Patterson by James Patterson is the most anticipated memoir of 2022.
+author_new0: James Patterson

@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0593230779
+primary_isbn13: 9780593230770
+publisher: Random House
+description: After being diagnosed with cancer at 35, the author of “Everything Happens for a Reason” takes a new look at the advice industry and her own ambitions.
+title: No Cure For Being Human
+author: Kate Bowler
+amazon_product_url: https://www.amazon.com/dp/0593230779?tag=NYTBSREV-20
+list_date: 2021/10/17
+published_data: 2021-09-28
+summary: NEW YORK TIMES BESTSELLER • The bestselling author of Everything Happens for a Reason (And Other Lies I’ve Loved) asks, how do you move forward with a life you didn’t choose? “Kate Bowler is the only one we can trust to tell us the truth.”—Glennon Doyle, author of the #1 New York Times bestseller Untamed It’s hard to give up on the feeling that the life you really want is just out of reach. A beach body by summer. A trip to Disneyland around the corner. A promotion on the horizon. Everyone wants to believe that they are headed toward good, better, best. But what happens when the life you hoped for is put on hold indefinitely? Kate Bowler believed that life was a series of unlimited choices, until she discovered, at age thirty-five, that her body was wracked with cancer. In No Cure for Being Human, she searches for a way forward as she mines the wisdom (and absurdity) of today’s “best life now” advice industry, which insists on exhausting positivity and on trying to convince us that we can out-eat, out-learn, and out-perform our humanness. We are, she finds, as fragile as the day we were born. With dry wit and unflinching honesty, Kate Bowler grapples with her diagnosis, her ambition, and her faith as she tries to come to terms with her limitations in a culture that says anything is possible. She finds that we need one another if we’re going to tell the truth: Life is beautiful and terrible, full of hope and despair and everything in between—and there’s no cure for being human.
+author_new0: Kate Bowler

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0063269279
+primary_isbn13: 9780063269279
+publisher: Mariner
+description: The contributing editor at Vanity Fair examines the patterns of abuse and exploitation in Hollywood.
+title: Burn It Down
+author: Maureen Ryan
+amazon_product_url: https://www.amazon.com/dp/0063269279?tag=NYTBSREV-20
+list_date: 2023/06/25
+published_data: 2023-06-06
+summary: NEW YORK TIMES BESTSELLER - LOS ANGELES TIMES BESTSELLER In this spectacular, newsmaking exposé that has the entertainment industry abuzz and on its heels, Vanity Fair's Maureen Ryan blows the lid on patterns of harassment and bias in Hollywood, the grassroots reforms under way, and the labor and activist revolutions that recent scandals have ignited. It is never just One Bad Man. Abuse and exploitation of workers is baked into the very foundations of the entertainment industry. To break the cycle and make change that sticks, it's important to stop looking at headline-making stories as individual events. Instead, one must look closely at the bigger picture, to see how abusers are created, fed, rewarded, allowed to persist, and, with the right tools, how they can be excised. In Burn It Down, veteran reporter Maureen Ryan does just that. She draws on decades of experience to connect the dots and illuminate the deeper forces sustaining Hollywood's corrosive culture. Fresh reporting sheds light on problematic situations at companies like Lucasfilm and shows like Lost, Saturday Night Live, The Goldbergs, Sleepy Hollow, Curb Your Enthusiasm and more. Interviews with actors and famous creatives like Evan Rachel Wood, Harold Perrineau, Damon Lindelof, and Orlando Jones abound. Ryan dismantles, one by one, the myths that the entertainment industry promotes about itself, which have allowed abusers to thrive and the industry to avoid accountability--myths about Hollywood as a meritocracy, what it takes to be creative, the value of human dignity, and more. Weaving together insights from industry insiders, historical context, and pop-culture analysis, Burn It Down paints a groundbreaking and urgently necessary portrait of what's gone wrong in the entertainment world--and how we can fix it.
+author_new0: Maureen Ryan

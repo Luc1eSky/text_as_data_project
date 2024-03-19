@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 9
+primary_isbn10: 0767919408
+primary_isbn13: 9780767919401
+publisher: Doubleday
+description: The events of the summer of 1927: Charles Lindbergh’s trans-Atlantic flight, Babe Ruth’s 60 homers, the great Mississippi flood.
+title: One Summer
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/One-Summer-America-Bill-Bryson-ebook/dp/B00C8S9VKM?tag=NYTBSREV-20
+list_date: 2014/01/12
+published_date: 2013
+summary: The award-winning author of A Short History of Nearly Everything recounts the story of a pivotal cultural year in the United States when mainstream pursuits and historical events were marked by contributions by such figures as Charles Lindbergh, Babe Ruth and Al Capone.

@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0385349912
+primary_isbn13: 9780385349918
+publisher: Knopf
+description: Local and global initiatives that promote social progress, and how individuals can contribute.
+title: A Path Appears
+author: Nicholas Kristof and Sheryl WuDunn
+amazon_product_url: http://www.amazon.com/Path-Appears-Transforming-Creating-Opportunity/dp/0385349912?tag=NYTBSREV-20
+list_date: 2014/10/19
+published_date: 2014
+summary: Pulitzer Prize-winning journalists Nicholas D. Kristof and Sheryl WuDunn assert persuasively that everyone has the potential to spread opportunity and change lives. Their book shines in its inspiring anecdotes about people who overcome the challenges that can impede effective philanthropy. Kristof and WuDunn underscore their great stories with the results of studies proving that the aid efforts they showcase are effectual at addressing pivotal, underlying problems. In a few spots, the research can get a bit dense for the casual reader, but the authors make a compelling case that giving back is universally possible and beneficial. Kristof and WuDunn provide practical, empirical advice for readers of all ages and backgrounds who want to contribute to a cause. getAbstract recommends this engrossing examination of philanthropy to students, executives of for-profit and nonprofit organizations, and those who wish to give back but may not know how to begin.

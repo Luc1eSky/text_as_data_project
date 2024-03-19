@@ -1,0 +1,14 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1501191918
+primary_isbn13: 9781501191916
+publisher: Gallery
+description: The identical twins and WWE Hall of Famers share some of the challenges they faced.
+title: Incomparable
+author: Brie Bella and Nikki Bella
+amazon_product_url: https://www.amazon.com/dp/1501191918?tag=NYTBSREV-20
+list_date: 2020/05/24
+published_data: 2020-05-05
+summary: THE INSTANT NEW YORK TIMES BESTSELLER A raw, honest, and revealing co-memoir by Brie and Nikki Bella: twin sisters, WWE Hall of Fame inductees, and stars of the hit E! shows Total Bellas and Total Divas. As twins, the Bellas have always competed. Legend has it that Nikki drop-kicked Brie in the womb so that she could make her grand entrance first. But the rest of the world often treated them as identical and even interchangeable, so they decided to do something about it. After they made it into WWE, the Bellas accomplished so much together: bringing in young girls and women while building the Bella Army, helping the transition of female performers from Divas to Superstars, starring in Total Divas and Total Bellas, and founding companies like Birdiebee, Nicole + Brizee Beauty, and Bonita Bonita Wine. Though their early journey began with loss, abuse, and plenty of rough times, these challenges “shined the diamond.” They resolved to be survivors and the heroes of their own stories, and to take control and responsibility for their lives. Eventually, they would come to show girls everywhere that they can do anything. The Bellas may be identical twins—but as individuals, they have proven themselves Incomparable.
+author_new0: Brie Bella
+author_new1: Nikki Bella

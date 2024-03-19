@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9781250030412
+publisher: St. Martin's Press
+description: 
+title: Level Zero Heroes
+author: Michael Golembesky and John R Bruning
+amazon_product_url: http://www.amazon.com/Level-Zero-Heroes-Operations-Afghanistan-ebook/dp/B00IQOC2IK?tag=NYTBSREV-20
+list_date: 2014/09/21
+published_date: 2021-09-15
+summary: N/A

@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0063098202
+primary_isbn13: 9780063098206
+publisher: Harper
+description: The reality TV star describes the pressures she felt in the public eye and the ways her faith was tested.
+title: God Bless This Mess
+author: Hannah Brown with Mark Dagostino
+amazon_product_url: https://www.amazon.com/dp/0063098202?tag=NYTBSREV-20
+list_date: 2021/12/12
+published_data: 2021-11-23
+summary: Details to follow. Print run 150,000.
+author_new0: Hannah Brown
+author_new1: Mark Dagostino

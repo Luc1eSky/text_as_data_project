@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 5
+primary_isbn10: 1501132598
+primary_isbn13: 9781501132599
+publisher: Simon & Schuster
+description: In the current era, entrepreneurs will use technology to revolutionize various sectors of the economy.
+title: The Third Wave
+author: Steve Case
+amazon_product_url: http://www.amazon.com/The-Third-Wave-Entrepreneurs-Vision-ebook/dp/B010MH1ENW?tag=NYTBSREV-20
+list_date: 2017/05/07
+published_date: 2017-04-18
+summary: Steve Case, co-founder of America Online (AOL) and one of America's most accomplished entrepreneurs, shares a roadmap for how anyone can succeed in a world of rapidly changing technology. We are entering, he explains, a new paradigm called the "Third Wave" of the Internet. The first wave saw AOL and other companies lay the foundation for consumers to connect to the Internet. The second wave saw companies like Google and Facebook build on top of the Internet to create search and social networking capabilities, while apps like Snapchat and Instagram leverage the smartphone revolution. Now, Case argues, we're entering the Third Wave: a period in which entrepreneurs will vastly transform major "real world" sectors like health, education, transportation, energy, and food-and in the process change the way we live our daily lives.

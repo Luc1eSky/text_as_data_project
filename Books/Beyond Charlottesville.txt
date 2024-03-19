@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1250245885
+primary_isbn13: 9781250245885
+publisher: Thomas Dunne/St. Martin's
+description: The former governor of Virginia describes the forces and events behind the "Unite the Right" rally and suggests ways to prevent similar occurrences in the future.
+title: Beyond Charlottesville
+author: Terry McAuliffe
+amazon_product_url: https://www.amazon.com/Beyond-Charlottesville-Taking-Against-Nationalism/dp/1250245885?tag=NYTBSREV-20
+list_date: 2019/08/18
+published_data: 2019-07-16
+summary: The former governor of Virginia tells the behind-the-scenes story of the violent “Unite the Right” rally in Charlottesville—and shows how we can prevent other Charlottesvilles from happening. When Governor Terry McAuliffe hung up the phone on the afternoon of the violent “Unite the Right” rally in Charlottesville, he was sure Donald Trump would do the right thing as president: condemn the white supremacists who’d descended on the college town and who’d caused McAuliffe to declare a state of emergency that morning. He didn’t. Instead Trump declared there was “hatred, bigotry and violence on many sides.” Trump was condemned from many sides himself, even by many Republicans, but the damage was done. He’d excused and thus egged on the terrorists at the moment when he could have stopped them in their tracks. In Beyond Charlottesville, McAuliffe LOOKS at the forces and events that led to the tragedy IN Charlottesville, including the vicious murder of Heather Heyer and the death of two state troopers in a helicopter accident. He doesn’t whitewash Virginia history and discusses a KKK protest over the removal of a statue of Robert E. Lee. He takes a hard real-time behind-the-scenes look at the actions of everyone on that fateful August 12, including himself, to see what could have been done. He lays out what was done afterwards to prevent future Charlottesvilles—and what still needs to be done as America in general and Virginia in particular continue to grapple with their history of racism. Beyond Charlottesville will be the definitive account of an infamous chapter in our history, seared indelibly into memory, sure to be cited for years as a crucial reference point in the long struggle to fight racism, extremism and hate.
+author_new0: Terry McAuliffe

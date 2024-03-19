@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0061981362
+primary_isbn13: 9780061981364
+publisher: HarperCollins
+description: 
+title: The Crusades
+author: Thomas Asbridge
+amazon_product_url: http://www.amazon.com/The-Crusades-Authoritative-History-Holy-ebook/dp/B003C2SP6E?tag=NYTBSREV-20
+list_date: 2015/02/15
+published_date: 2010-03-30
+summary: The Crusades is an authoritative, accessible single-volume history of the brutal struggle for the Holy Land in the Middle Ages. Thomas Asbridge—a renowned historian who writes with “maximum vividness” (Joan Acocella, The New Yorker)—covers the years 1095 to 1291 in this big, ambitious, readable account of one of the most fascinating periods in history. From Richard the Lionheart to the mighty Saladin, from the emperors of Byzantium to the Knights Templar, Asbridge’s book is a magnificent epic of Holy War between the Christian and Islamic worlds, full of adventure, intrigue, and sweeping grandeur.

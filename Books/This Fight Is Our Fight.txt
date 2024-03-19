@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 1250120616
+primary_isbn13: 9781250120618
+publisher: Metropolitan/Holt
+description: The Massachusetts senator offers a program for Democratic resistance to President Trump.
+title: This Fight Is Our Fight
+author: Elizabeth Warren
+amazon_product_url: https://www.amazon.com/This-Fight-Our-Battle-Americas/dp/1250120616?tag=NYTBSREV-20
+list_date: 2017/06/11
+published_date: 2017-04-18
+summary: Generations, our country built the greatest middle class the world had ever known.

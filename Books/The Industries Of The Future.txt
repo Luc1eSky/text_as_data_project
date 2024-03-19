@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1476753652
+primary_isbn13: 9781476753652
+publisher: Simon & Schuster
+description: Ross predicts that the near future will see amazing inventions, and identifies industries that are likely to be key  drivers of change.
+title: The Industries Of The Future
+author: Alec Ross
+amazon_product_url: http://www.amazon.com/The-Industries-Future-Alec-Ross/dp/1476753652?tag=NYTBSREV-20
+list_date: 2016/03/06
+published_date: 2016-02-02
+summary: Leading innovation expert Alec Ross explains what's next for the world, mapping out the advances and stumbling blocks that will emerge in the next ten years—for businesses, governments, and the global community—and how we can navigate them. While Alec Ross was working as Hillary Clinton's Senior Advisor on Innovation, he traveled to forty-one countries. He visited some of the toughest places in the world—from refugee camps of Congo to Syrian war zones. From phone-charger stands in Rwanda to R&D labs in South Korea, Ross has seen what the future holds. Over the past two decades, the Internet has radically changed markets and businesses worldwide. InThe Industries of the Future, Ross shows us what's next, highlighting the best opportunities for progress and explaining why countries thrive or sputter. He examines the specific fields that will most shape our economic future over the next ten years, including cybercrime and cybersecurity, the commercialization of genomics, the next step for big data, and the coming impact of digital technology on money, payments, and markets. And in each of these realms, Ross addresses the toughest questions: How will we have to adapt to the changing nature of work? Is the prospect of cyberwar sparking the next arms race? How can the world's rising nations hope to match Silicon Valley in creating their own innovation hotspots? Ross blends storytelling and economic analysis to give a vivid and informed perspective on how sweeping global trends are affecting the ways we live, incorporating the insights of leaders ranging from the founders of Google and Twitter to defense experts like David Petraeus. The Industries of the Future takes the intimidating, complex topics that many of us know to be important and boils them down into clear, plain-spoken language. This is an essential work for understanding how the world works—now and tomorrow—and a must-read for businesspeople, in every sector, from every country.

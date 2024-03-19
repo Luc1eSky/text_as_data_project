@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 081299695X
+primary_isbn13: 9780812996951
+publisher: Random House
+description: The issues in American health care and health care reform, including recent developments.
+title: America'S Bitter Pill
+author: Steven Brill
+amazon_product_url: http://www.amazon.com/Americas-Bitter-Pill-Back-Room-Healthcare/dp/081299695X?tag=NYTBSREV-20
+list_date: 2015/02/01
+published_date: 2015
+summary: Tells the story of the fight to pass and implement the Affordable Care Act, more popularly known as Obamacare.

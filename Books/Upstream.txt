@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 4
+primary_isbn10: 1594206708
+primary_isbn13: 9781594206702
+publisher: Penguin Press
+description: The poet’s essays, many close observations of the natural world.
+title: Upstream
+author: Mary Oliver
+amazon_product_url: http://www.amazon.com/Upstream-Selected-Essays-Mary-Oliver/dp/1594206708?tag=NYTBSREV-20
+list_date: 2016/11/27
+published_date: 2016-10-11
+summary: One of O, The Oprah Magazine’s Ten Best Books of the Year The New York Times bestselling collection of essays from beloved poet, Mary Oliver. “There's hardly a page in my copy of Upstream that isn't folded down or underlined and scribbled on, so charged is Oliver's language . . .” —Maureen Corrigan, NPR’s Fresh Air “Uniting essays from Oliver’s previous books and elsewhere, this gem of a collection offers a compelling synthesis of the poet’s thoughts on the natural, spiritual and artistic worlds . . .” —The New York Times “In the beginning I was so young and such a stranger to myself I hardly existed. I had to go out into the world and see it and hear it and react to it, before I knew at all who I was, what I was, what I wanted to be.” So begins Upstream, a collection of essays in which revered poet Mary Oliver reflects on her willingness, as a young child and as an adult, to lose herself within the beauty and mysteries of both the natural world and the world of literature. Emphasizing the significance of her childhood “friend” Walt Whitman, through whose work she first understood that a poem is a temple, “a place to enter, and in which to feel,” and who encouraged her to vanish into the world of her writing, Oliver meditates on the forces that allowed her to create a life for herself out of work and love. As she writes, “I could not be a poet without the natural world. Someone else could. But not me. For me the door to the woods is the door to the temple.” Upstream follows Oliver as she contemplates the pleasure of artistic labor, her boundless curiosity for the flora and fauna that surround her, and the responsibility she has inherited from Shelley, Wordsworth, Emerson, Poe, and Frost, the great thinkers and writers of the past, to live thoughtfully, intelligently, and to observe with passion. Throughout this collection, Oliver positions not just herself upstream but us as well as she encourages us all to keep moving, to lose ourselves in the awe of the unknown, and to give power and time to the creative and whimsical urges that live within us.

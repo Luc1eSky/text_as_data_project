@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9780385530002
+publisher: Spiegel & Grau
+description: The investigation of a young black man’s murder in 2007 raises questions about race and the criminal justice system.
+title: Ghettoside
+author: Jill Leovy
+amazon_product_url: http://www.amazon.com/Ghettoside-True-Story-Murder-America/dp/0385529988?tag=NYTBSREV-20
+list_date: 2015/03/08
+published_date: 2021-09-15
+summary: N/A

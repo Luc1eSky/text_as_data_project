@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0385352549
+primary_isbn13: 9780385352543
+publisher: Knopf
+description: In this memoir, published several months before his death in August 20115, the ­writer-neurologist abandoned what had been his customary restraint and revealed his own vulnerabilities.
+title: On The Move
+author: Oliver Sacks
+amazon_product_url: http://www.amazon.com/On-Move-Life-Oliver-Sacks-ebook/dp/B00TCI0P24?tag=NYTBSREV-20
+list_date: 2015/09/20
+published_date: 2015-04-28
+summary: Physician and writer Oliver Sacks recounts his experiences as a young neurologist; his physical passions--weight lifting and swimming; his love affairs, both romantic and intellectual; his guilt over leaving his family to come to America; his bond with his schizophrenic brother; and the writers and scientists--Thom Gunn, A. R. Luria, W. H. Auden, Gerald M. Edelman, Francis Crick--who influenced him.

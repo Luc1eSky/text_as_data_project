@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0062992198
+primary_isbn13: 9780062992192
+publisher: Custom House
+description: The NBC News correspondent examines the Trump administration’s systematic separation of migrant families at the U.S.-Mexico border and the living conditions of the children in custody.
+title: Separated
+author: Jacob Soboroff
+amazon_product_url: https://www.amazon.com/dp/0062992198?tag=NYTBSREV-20
+list_date: 2020/07/26
+published_data: 2020
+summary: "A deeply reported, newsbreaking account the humanitarian crisis of our time by the journalist who has been at the center of the story: MSNBC correspondent Jacob Soboroff, winner of the 2019 Walter Cronkite Award, offers a chilling expose of the human cost of the Trump administration's border and immigration policies."--
+author_new0: Jacob Soboroff

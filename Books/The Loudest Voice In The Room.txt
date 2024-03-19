@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780679644095
+publisher: Random House
+description: A journey inside the world of Fox News and the life of its combative, visionary founder, Roger Ailes.
+title: The Loudest Voice In The Room
+author: Gabriel Sherman
+amazon_product_url: http://www.amazon.com/The-Loudest-Voice-Room-News-/dp/0812992857?tag=NYTBSREV-20
+list_date: 2014/02/02
+published_date: 2021-09-15
+summary: N/A

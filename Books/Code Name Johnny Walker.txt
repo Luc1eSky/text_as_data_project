@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0062267558
+primary_isbn13: 9780062267559
+publisher: Morrow
+description: The story of an Iraqi interpreter who spent six years working with American special forces before being brought to safety in America.
+title: Code Name: Johnny Walker
+author: "Johnny Walker" with Jim DeFelice
+amazon_product_url: http://www.amazon.com/Code-Name-Johnny-Extraordinary-Everything-ebook/dp/B00DB3A0CQ?tag=NYTBSREV-20
+list_date: 2014/03/02
+published_date: 2014-02-11
+summary: In this unforgettable memoir, the Navy SEALs’ most trusted translator—a man who is credited with saving countless American lives and became a legend in the special-ops community—tells his inspiring story for the first time. As the insurgency in Iraq intensified following the American invasion, U.S. Navy SEALs were called upon to root terrorists from their lairs. Unsure of the local neighborhoods and unable to speak the local languages, they came to rely on one man to guide them and watch their backs. He was a "terp"—an interpreter—with a job so dangerous they couldn't even use his real name. They named him Johnny Walker. They soon called him brother. Over the course of eight years, the Iraqi native traveled around the country with nearly every SEAL and special operations unit deployed there. He went on thousands of missions, saved dozens of SEAL and other American lives, and risked his own daily. Helped to the U.S. by the SEALs he protected, Johnny Walker's life is so remarkable that his tale reads like fiction. But every word of it is true. For the first time ever, a "terp" tells what it was like in Iraq during the American invasion and the brutal insurgency that followed. With inside details on SEAL operations and a humane understanding of the tragic price paid by ordinary Iraqis, Code Name: Johnny Walker reveals a side of the war that has never been told before.

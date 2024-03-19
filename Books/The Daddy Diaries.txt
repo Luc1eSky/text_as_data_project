@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 1250890926
+primary_isbn13: 9781250890924
+publisher: Holt
+description: The host and executive producer of “Watch What Happens Live” juggles fatherhood and his career.
+title: The Daddy Diaries
+author: Andy Cohen
+amazon_product_url: https://www.amazon.com/dp/1250890926?tag=NYTBSREV-20
+list_date: 2023/06/25
+published_data: 2023-05-09
+summary: The Instant New York Times Bestseller! New York Times bestselling author Andy Cohen goes from bottle service to baby bottles in a hilarious, heartwarming, and name-dropping account of the most important year of his life. Andy Cohen has taken on the most important job of his life—father— and boy (and girl!) does he have a lot to say about it! One of Andy Cohen’s most momentous years starts off with a hangover the morning after an epic New Year’s Eve broadcast. But Andy doesn’t have time to dwell on the drama, as his role as media mogul is now matched with the responsibilities, joys, and growing pains of parenthood. This fast-paced, mile-a-minute look behind the scenes of living the so-called glamorous life in Manhattan now takes firm aim at life at home. With a three-year-old son, Ben, and a daughter, Lucy, born in May, stories of late-night parties are replaced by early mornings with Ben, drama at the play-ground, and the musings of a single dad trying to navigate having it all. All this is set against the backdrop of constant Housewives drama, hijinks behind the scenes at Watch What Happens Live, a revolving door of famous faces, and a worried mother (and newly minted grandmother) in St. Louis. Buckle up, bottle up, and get ready for a laugh-out-loud and surprisingly poignant look at the ways in which family changes everything and the superficial gets very real. Watch what happens!
+author_new0: Andy Cohen

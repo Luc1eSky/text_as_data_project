@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 4
+primary_isbn10: 0316454486
+primary_isbn13: 9780316454483
+publisher: Little, Brown
+description: A look at the achievements of the political family and what has been called “the Kennedy curse.”
+title: The House Of Kennedy
+author: James Patterson and Cynthia Fagen
+amazon_product_url: https://www.amazon.com/dp/0316454486?tag=NYTBSREV-20
+list_date: 2020/05/24
+published_data: 2020-04-13
+summary: The Kennedys have always been a family of charismatic adventurers, raised to take risks and excel, living by the dual family mottos: "To whom much is given, much is expected" and "Win at all costs." And they do--but at a price. Across decades and generations, the Kennedys have occupied a unique place in the American imagination: charmed, cursed, at once familiar and unknowable. The House of Kennedy is a revealing, fascinating account of America's most storied family, as told by America's most trusted storyteller.
+author_new0: James Patterson
+author_new1: Cynthia Fagen

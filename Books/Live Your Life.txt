@@ -1,0 +1,14 @@
+rank: 2
+weeks_on_list: 1
+primary_isbn10: 0063078252
+primary_isbn13: 9780063078253
+publisher: Harper
+description: The wife of the late Broadway star Nick Cordero recounts his battle with Covid-19 and the hope she found in her infant son, Elvis.
+title: Live Your Life
+author: Amanda Kloots with Anna Kloots
+amazon_product_url: https://www.amazon.com/dp/0063078252?tag=NYTBSREV-20
+list_date: 2021/07/04
+published_data: 2021-06-15
+summary: In March 2020, Tony Award nominee Nick Cordero was hospitalized for what he and his wife, Amanda Kloots, believed to be a severe case of pneumonia. An eventual diagnosis of COVID-19 led to Nick's being placed on a ventilator, and Amanda took to documenting their journey on social media, showing the dangers COVID-19 posed to everyone, regardless of age. When he passed away after ninety-five grueling days in the ICU, the world grieved. Here Kloots tells the story of their life together; of Nick's fight for survival, and of their interrupted future as a family. She shows how friends, family, and even total strangers played a vital role in enduring this hardship. A reminder that, sometimes, celebrating life today is the only path through tomorrow's darkness. -- adapted from jacket
+author_new0: Amanda Kloots
+author_new1: Anna Kloots

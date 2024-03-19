@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1984817272
+primary_isbn13: 9781984817273
+publisher: Ballantine
+description: A memoir by the former frontman of the alternative rock band Ben Folds Five.
+title: A Dream About Lightning Bugs
+author: Ben Folds
+amazon_product_url: https://www.amazon.com/Dream-About-Lightning-Bugs-Lessons/dp/1984817272?tag=NYTBSREV-20
+list_date: 2019/08/18
+published_data: 2019
+summary: From the genre-defying icon Folds comes a memoir that is as nuanced, witty, and relatable as his cult-classic songs. He opens up about finding his voice as a musician, becoming a rock antihero, and hauling a baby grand piano on and off stage for every performance.
+author_new0: Ben Folds

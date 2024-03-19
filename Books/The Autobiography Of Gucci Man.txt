@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1501165321
+primary_isbn13: 9781501165320
+publisher: Simon & Schuster
+description: A memoir by the East Atlanta hip-hop artist, who made a comeback.
+title: The Autobiography Of Gucci Mane
+author: Gucci Mane with Neil Martinez-Belkin
+amazon_product_url: https://www.amazon.com/Autobiography-Gucci-Mane/dp/1501165321?tag=NYTBSREV-20
+list_date: 2017/11/05
+published_date: 2017-09-19
+summary: The highly anticipated memoir from Gucci Mane, "one of hip-hop's most prolific and admired artists" (The New York Times).

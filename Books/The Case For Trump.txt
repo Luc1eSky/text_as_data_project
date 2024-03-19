@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1541673549
+primary_isbn13: 9781541673540
+publisher: Basic
+description: A defense stating that the current president adopted several traditional conservative positions.
+title: The Case For Trump
+author: Victor Davis Hanson
+amazon_product_url: https://www.amazon.com/Case-Trump-Victor-Davis-Hanson/dp/1541673549?tag=NYTBSREV-20
+list_date: 2019/03/31
+published_data: 2019-03-05
+summary: This New York Times bestselling Trump biography from a major American intellectual explains how a renegade businessman became one of the most successful -- and necessary -- presidents of all time. In The Case for Trump, award-winning historian and political commentator Victor Davis Hanson explains how a celebrity businessman with no political or military experience triumphed over sixteen well-qualified Republican rivals, a Democrat with a quarter-billion-dollar war chest, and a hostile media and Washington establishment to become president of the United States -- and an extremely successful president. Trump alone saw a political opportunity in defending the working people of America's interior whom the coastal elite of both parties had come to scorn, Hanson argues. And Trump alone had the instincts and energy to pursue this opening to victory, dismantle a corrupt old order, and bring long-overdue policy changes at home and abroad. We could not survive a series of presidencies as volatile as Trump's. But after decades of drift, America needs the outsider Trump to do what normal politicians would not and could not do.
+author_new0: Victor Davis Hanson

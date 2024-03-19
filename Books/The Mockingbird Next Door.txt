@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1594205191
+primary_isbn13: 9781594205194
+publisher: Penguin Press
+description: The author’s experience as Harper Lee’s neighbor in small-town Monroeville, Ala.
+title: The Mockingbird Next Door
+author: Marja Mills
+amazon_product_url: http://www.amazon.com/The-Mockingbird-Next-Door-Harper-ebook/dp/B00G3L14KA?tag=NYTBSREV-20
+list_date: 2014/08/17
+published_date: 2014
+summary: Describes the story of a journalist who befriended the notoriously quiet and private author of To Kill a Mockingbird, eventually moving in next door to the writer and her sister and becoming part of their life in Alabama.

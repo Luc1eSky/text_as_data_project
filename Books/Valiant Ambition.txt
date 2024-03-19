@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 0525426787
+primary_isbn13: 9780525426783
+publisher: Viking
+description: The relationship between George Washington and Benedict Arnold.
+title: Valiant Ambition
+author: Nathaniel Philbrick
+amazon_product_url: http://www.amazon.com/Valiant-Ambition-Washington-Benedict-Revolution/dp/0525426787?tag=NYTBSREV-20
+list_date: 2016/07/03
+published_date: 2016
+summary: "The National Book Award-winning author of In the Heart of the Sea presents an account of the complicated middle years of the American Revolution that shares lesser-known insights into the tragic relationship between George Washington and Benedict Arnold,"--NoveList.

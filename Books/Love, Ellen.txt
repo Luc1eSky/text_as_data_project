@@ -1,0 +1,10 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780062276100
+publisher: It Books
+description: The mother of the comedian and actress describes how she came to accept her daughter's sexuality. Originally published in 2013.
+title: Love, Ellen
+author: Betty DeGeneres
+amazon_product_url: http://www.amazon.com/Love-Ellen-Mother-Daughter-Journey-ebook/dp/B00CKOSRCM?tag=NYTBSREV-20
+list_date: 2016/03/06

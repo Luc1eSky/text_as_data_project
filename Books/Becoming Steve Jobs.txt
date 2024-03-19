@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0385347405
+primary_isbn13: 9780385347402
+publisher: Crown Business
+description: How Jobs, who started out as a brash young genius, developed a more mature management style.
+title: Becoming Steve Jobs
+author: Brent Schlender and Rick Tetzeli
+amazon_product_url: http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary-ebook/dp/B00N6PCWY8?tag=NYTBSREV-20
+list_date: 2015/04/26
+published_date: 2015
+summary: Based on the highly popular 2012 cover story in Fast Company, an award-winning journalist and a veteran editor present a behind-the-scenes account of how Steve Jobs became the most famous and visionary CEO in history through interviews with people who knew Jobs best.

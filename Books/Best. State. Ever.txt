@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1101982608
+primary_isbn13: 9781101982600
+publisher: Putnam
+description: Florida may be the Joke State, but Barry explains why he loves it.
+title: Best. State. Ever
+author: Dave Barry
+amazon_product_url: http://www.amazon.com/Best-State-Ever-Florida-Homeland/dp/1101982608?tag=NYTBSREV-20
+list_date: 2016/09/25
+published_date: 2016
+summary: Presents a riotous exploration of the Sunshine State that challenges negative stereotypes and offers insights into Florida's roles as a venue of history and fun.

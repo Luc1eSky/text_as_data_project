@@ -1,0 +1,14 @@
+rank: 1
+weeks_on_list: 1
+primary_isbn10: 059313415X
+primary_isbn13: 9780593134153
+publisher: Random House
+description: The founders of Fusion GPS detail their investigations of Donald Trump and the subsequent fallout.
+title: Crime In Progress
+author: Glenn Simpson and Peter Fritsch
+amazon_product_url: https://www.amazon.com/Crime-Progress-Inside-Dossier-Investigation/dp/059313415X?tag=NYTBSREV-20
+list_date: 2019/12/15
+published_data: 2019-11-26
+summary: #1 NEW YORK TIMES BESTSELLER • “I’ve read kind of all the books on this subject . . . and this is the one you want to read.”—Rachel Maddow Before Ukraine, before impeachment: This is the never-before-told inside story of the high-stakes, four-year-long investigation into Donald Trump’s Russia ties—culminating in the Steele dossier, and sparking the Mueller report—from the founders of political opposition research company Fusion GPS. Fusion GPS was founded in 2010 by Glenn Simpson and Peter Fritsch, two former reporters at The Wall Street Journal who decided to abandon the struggling news business and use their reporting skills to conduct open-source investigations for businesses and law firms—and opposition research for political candidates. In the fall of 2015, they were hired to look into the finances of Donald Trump. What began as a march through a mind-boggling trove of lawsuits, bankruptcies, and sketchy overseas projects soon took a darker turn: The deeper Fusion dug, the more it began to notice names that Simpson and Fritsch had come across during their days covering Russian corruption—and the clearer it became that the focus of Fusion’s research going forward would be Trump’s entanglements with Russia. To help them make sense of what they were seeing, Simpson and Fritsch engaged the services of a former British intelligence agent and Russia expert named Christopher Steele. He would produce a series of memos—which collectively became known as the Steele dossier—that raised deeply alarming questions about the nature of Trump’s ties to a hostile foreign power. Those memos made their way to U.S. intelligence agencies, and then to President Barack Obama and President-elect Trump. On January 10, 2017, the Steele dossier broke into public view, and the Trump-Russia story reached escape velocity. At the time, Fusion GPS was just a ten-person consulting firm tucked away above a Starbucks near Dupont Circle, but it would soon be thrust into the center of the biggest news story on the planet—a story that would lead to accusations of witch hunts, a relentless campaign of persecution by congressional Republicans, bizarre conspiracy theories, lawsuits by Russian oligarchs, and the Mueller report. In Crime in Progress, Simpson and Fritsch tell their story for the first time—a tale of the high-stakes pursuit of one of the biggest, most important stories of our time—no matter the costs.
+author_new0: Glenn Simpson
+author_new1: Peter Fritsch

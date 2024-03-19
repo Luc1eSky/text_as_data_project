@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1771642483
+primary_isbn13: 9781771642484
+publisher: Greystone
+description: A forester presents scientific research on the way trees interact with one another. A best seller in Germany.
+title: The Hidden Life Of Trees
+author: Peter Wohlleben
+amazon_product_url: http://www.amazon.com/Hidden-Life-Trees-Communicate-Discoveries/dp/1771642483?tag=NYTBSREV-20
+list_date: 2017/01/29
+published_date: 2016
+summary: "A forester's fascinating stories, supported by the latest scientific research, reveal the extraordinary world of forests and illustrate how trees communicate and care for each other"--

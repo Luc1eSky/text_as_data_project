@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1250067057
+primary_isbn13: 9781250067050
+publisher: St. Martin's
+description: Applying the principles of Navy SEALs leadership training to any organization. Read by the authors. 8 hours, 15 minutes unabridged.
+title: Extreme Ownership
+author: Jocko Willink and Leif Babin
+amazon_product_url: http://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2?tag=NYTBSREV-20
+list_date: 2015/11/29
+published_date: 2015-10-20
+summary: Highly decorated Navy SEALs, now successful businessmen, show readers how to lead and win in business and in life with principles learned on the battlefield

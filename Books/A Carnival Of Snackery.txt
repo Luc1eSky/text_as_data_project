@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0316558796
+primary_isbn13: 9780316558792
+publisher: Little, Brown
+description: Public and private moments chronicled from the humorist’s 2003-20 diaries.
+title: A Carnival Of Snackery
+author: David Sedaris
+amazon_product_url: https://www.amazon.com/dp/0316558796?tag=NYTBSREV-20
+list_date: 2021/10/24
+published_data: 2021-10-05
+summary: Picking up where his previous volume of diaries, Theft by Finding, left off, David Sedaris chronicles the years 2003-2020.
+author_new0: David Sedaris

@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1416567305
+primary_isbn13: 9781416567301
+publisher: Simon & Schuster
+description: The story of a dramatic 1952 Coast Guard rescue of men in the broken halves of two oil tankers during a nor'easter off Cape Cod. The basis of the movie.
+title: The Finest Hours
+author: Michael J Tougias and Casey Sherman
+amazon_product_url: http://www.amazon.com/The-Finest-Hours-Guards-Daring/dp/1501127179?tag=NYTBSREV-20
+list_date: 2016/02/21
+published_date: 2009-05-19
+summary: The story behind the major motion picture from Disney—starring Chris Pine, Eric Bana, and Casey Affleck—written by a recognized master of the genre—“a blockbuster account of tragedy at sea” (The Providence Journal). It’s the winter of 1952 and a ferocious Nor’easter is pounding New England with howling winds and seventy-foot seas. Two oil tankers get caught in the violent storm off Cape Cod, its fury splitting the massive ships in two. Back on shore are four young Coast Guardsmen who are given a suicide mission. They must save the lives of the seamen left stranded in the killer storm, and they have to do it in a tiny lifeboat. The crew is led by Bernie Webber, who has to rely on prayer and the courage of his three crewmembers to pull off the impossible. As Webber and his crew sail into the teeth of the storm, each man comes to the realization that he may not come back alive. They’ve lost all navigation and have no idea where the stranded seaman are, and have no idea how to get back home. Whether by sheer luck or divine intervention, the crew stumbles upon the wounded ship in the darkness. More than thirty men appear at the railings of the SS Pendleton, all hoping to be saved. Once again, Webber and his crew face a daunting challenge. How can they rescue all these men with their tiny lifeboat? Dripping with suspense and high-stakes human drama, The Finest Hours has incredible and astonishing true-to-life heroism and action-packed rescue scenes. This “marvelous and terrifying yarn” (Los Angeles Times) “deserves a place as a classic of survival at sea” (The Boston Globe).

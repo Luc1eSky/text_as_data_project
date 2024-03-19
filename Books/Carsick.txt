@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0374298637
+primary_isbn13: 9780374298630
+publisher: Farrar, Straus & Giroux
+description: The cult-film director hitchhikes across the country.
+title: Carsick
+author: John Waters
+amazon_product_url: http://www.amazon.com/Carsick-Waters-Hitchhikes-Across-America/dp/0374298637?tag=NYTBSREV-20
+list_date: 2014/06/29
+published_date: 2014-06-03
+summary: The visual artist behind such cult films as Hairspray traces his haphazard cross-country hitchhiking journey at the sides of a motley group of unsuspecting drivers, including a gentle farmer, an indie band and the author's unexpected hero. 75,000 first printing.

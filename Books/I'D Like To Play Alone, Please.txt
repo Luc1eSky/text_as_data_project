@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 3
+primary_isbn10: 1538704633
+primary_isbn13: 9781538704639
+publisher: Grand Central
+description: The stand-up comedian and podcaster shares stories of parenting and strange encounters.
+title: I'D Like To Play Alone, Please
+author: Tom Segura
+amazon_product_url: https://www.amazon.com/dp/1538704633?tag=NYTBSREV-20
+list_date: 2022/07/17
+published_data: 2022-06-14
+summary: Tom Segura is known for his twisted takes and irreverent comedic voice, but after a few busy years of work and parenting, he just wants to hide from everything. A collection of hilarious tales to make anyone want some peace and quiet.
+author_new0: Tom Segura

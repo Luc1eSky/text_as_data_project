@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 41
+primary_isbn10: 0307452204
+primary_isbn13: 9780307452207
+publisher: Crown
+description: Introverts — one-third of the population — are undervalued in American society.
+title: Quiet
+author: Susan Cain
+amazon_product_url: http://www.amazon.com/Quiet-Power-Introverts-World-Talking-ebook/dp/B004J4WNL2?tag=NYTBSREV-20
+list_date: 2018/09/23
+published_date: 2012-01-24
+summary: #1 NEW YORK TIMES BESTSELLER • Experience the book that started the Quiet Movement and revolutionized how the world sees introverts—and how introverts see themselves—by offering validation, inclusion, and inspiration “Superbly researched, deeply insightful, and a fascinating read, Quiet is an indispensable resource for anyone who wants to understand the gifts of the introverted half of the population.”—Gretchen Rubin, author of The Happiness Project NAMED ONE OF THE BEST BOOKS OF THE YEAR BY People • O: The Oprah Magazine • Christian Science Monitor • Inc. • Library Journal • Kirkus Reviews At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking; who innovate and create but dislike self-promotion; who favor working on their own over working in teams. It is to introverts—Rosa Parks, Chopin, Dr. Seuss, Steve Wozniak—that we owe many of the great contributions to society. In Quiet, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts—from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions. Passionately argued, impeccably researched, and filled with indelible stories of real people, Quiet has the power to permanently change how we see introverts and, equally important, how they see themselves. Now with Extra Libris material, including a reader’s guide and bonus content

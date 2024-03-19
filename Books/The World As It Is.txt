@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0525509356
+primary_isbn13: 9780525509356
+publisher: Random House
+description: A memoir by the former speechwriter and deputy national security advisor to President Obama.
+title: The World As It Is
+author: Ben Rhodes
+amazon_product_url: https://www.amazon.com/World-Memoir-Obama-White-House/dp/0525509356?tag=NYTBSREV-20
+list_date: 2018/07/01

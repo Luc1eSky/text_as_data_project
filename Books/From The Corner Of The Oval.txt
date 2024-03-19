@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0525509127
+primary_isbn13: 9780525509127
+publisher: Spiegel & Grau
+description: A memoir by a woman who went from working many part-time jobs to becoming one of President Obama's stenographers.
+title: From The Corner Of The Oval
+author: Beck Dorey-Stein
+amazon_product_url: https://www.amazon.com/Corner-Oval-Memoir-Beck-Dorey-Stein-ebook/dp/B076NSTK6F?tag=NYTBSREV-20
+list_date: 2018/08/12

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1250266556
+primary_isbn13: 9781250266552
+publisher: St. Martin's
+description: A memoir by the former United States ambassador to the United Nations and governor of South Carolina.
+title: With All Due Respect
+author: Nikki R Haley
+amazon_product_url: https://www.amazon.com/All-Due-Respect-Defending-America/dp/1250266556?tag=NYTBSREV-20
+list_date: 2019/12/08
+published_data: 2019-11-12
+summary: The New York Times and USA Today bestseller A revealing, dramatic, deeply personal book about the most significant events of our time, written by the former United States Ambassador to the United Nations Nikki Haley is widely admired for her forthright manner (“With all due respect, I don’t get confused”), her sensitive approach to tragic events, and her confident representation of America’s interests as our Ambassador to the United Nations during times of crisis and consequence. In this book, Haley offers a first-hand perspective on major national and international matters, as well as a behind-the-scenes account of her tenure in the Trump administration. This book reveals a woman who can hold her own—and better—in domestic and international power politics, a diplomat who is unafraid to take a principled stand even when it is unpopular, and a leader who seeks to bring Americans together in divisive times.
+author_new0: Nikki R Haley

@@ -1,0 +1,13 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1627792414
+primary_isbn13: 9781627792417
+publisher: Holt
+description: The host of “The O’Reilly Factor” recounts the events surrounding the attempted assassination of President Reagan in 1981.
+
+title: Killing Reagan
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: http://www.amazon.com/Killing-Reagan-Violent-Assault-Presidency-ebook/dp/B00UE3T6BW?tag=NYTBSREV-20
+list_date: 2016/03/13
+published_date: 2015-09-22
+summary: The most-talked-about political commentator in America is back with more about what he has to say to his fellow Americans. Print run 1,200,000.

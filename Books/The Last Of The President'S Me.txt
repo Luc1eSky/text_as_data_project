@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 1501116444
+primary_isbn13: 9781501116445
+publisher: Simon & Schuster
+description: More revelations from the Nixon White House, based on documents supplied by Alexander Butterfield, the aide who disclosed Nixon’s taping system.
+title: The Last Of The President'S Men
+author: Bob Woodward
+amazon_product_url: http://www.amazon.com/The-Last-Presidents-Men-Woodward-ebook/dp/B01069KL0I?tag=NYTBSREV-20
+list_date: 2015/11/08
+published_date: 2015-10-13
+summary: “An intimate but disturbing portrayal of Nixon in the Oval Office.” —The Washington Post Bob Woodward exposes one of the final pieces of the Richard Nixon puzzle in his new book The Last of the President’s Men. Woodward reveals the untold story of Alexander Butterfield, the Nixon aide who disclosed the secret White House taping system that changed history and led to Nixon’s resignation. In forty-six hours of interviews with Butterfield, supported by thousands of documents, many of them original and not in the presidential archives and libraries, Woodward has uncovered new dimensions of Nixon’s secrets, obsessions and deceptions. The Last of the President’s Men could not be more timely and relevant as voters question how much do we know about those who are now seeking the presidency in 2016—what really drives them, how do they really make decisions, who do they surround themselves with, and what are their true political and personal values?

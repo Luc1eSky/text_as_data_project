@@ -1,0 +1,15 @@
+rank: 10
+weeks_on_list: 7
+primary_isbn10: 0316406600
+primary_isbn13: 9780316406604
+publisher: Little, Brown
+description: A collection of stories about police officers.
+title: Walk The Blue Line
+author: James Patterson and Matt Eversmann with Chris Mooney
+amazon_product_url: https://www.amazon.com/dp/0316406600?tag=NYTBSREV-20
+list_date: 2023/04/23
+published_data: 2023-02-06
+summary: They risk their lives every day to protect and serve our homes, families and communities. Here is "a notable collection of heartfelt stories from the front line told with honesty and compassion" (Kirkus). "Walk the Blue Line is the book that the law-enforcement community has been waiting for. These stories showcase the courage, the hurt, the anger and the joy that can be found in every officer's DNA--and above all, their commitment to making difficult situations a little bit better." --Jim Pasco, Executive Director, National Fraternal Order of Police Protect These men and women are our eyes. Our ears. Our protectors. Those who wear a badge, doing their best to help people. Serve These cops serve their communities. They serve their country. They're in the business of saving lives--even at the risk of their own. Defend These patrol officers and K9 handlers, sheriffs and detectives, reveal what it's really like to wear the uniform, to carry the weight of the responsibility they've been given. This is a calling. This is the job.
+author_new0: James Patterson
+author_new1: Matt Eversmann
+author_new2: Chris Mooney

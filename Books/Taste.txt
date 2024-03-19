@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 16
+primary_isbn10: 1982168013
+primary_isbn13: 9781982168018
+publisher: Gallery
+description: The award-winning actor reflects on his career, Italian-American heritage, meals and mishaps.
+title: Taste
+author: Stanley Tucci
+amazon_product_url: https://www.amazon.com/dp/1982168013?tag=NYTBSREV-20
+list_date: 2022/02/13
+published_data: 2021-10-05
+summary: "From award-winning actor and food obsessive Stanley Tucci comes an intimate ... memoir of life in and out of the kitchen"--
+author_new0: Stanley Tucci

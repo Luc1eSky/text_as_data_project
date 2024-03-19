@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1250116481
+primary_isbn13: 9781250116482
+publisher: Holt
+description: The further adventures of the TV producer ("Watch What Happens: Live" and the "Real Housewives" franchise) and personality.
+title: Superficial
+author: Andy Cohen
+amazon_product_url: https://www.amazon.com/Superficial-More-Adventures-Cohen-Diaries/dp/1250116481?tag=NYTBSREV-20
+list_date: 2016/12/18
+published_date: 2016-11-15
+summary: A follow-up to "The Andy Cohen Diaries" recounts his personal and professional escapades during such events as his country tour with sidekick Anderson Cooper, the launch of Sirius station "Radio Andy," and his hosting of NBC's Primetime New Year's Eve special.

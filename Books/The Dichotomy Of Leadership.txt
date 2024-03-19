@@ -1,0 +1,10 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 1250195772
+primary_isbn13: 9781250195777
+publisher: St. Martin's
+description: Using combat and training experiences, former Navy SEALs explain some opposing forces in leading others.
+title: The Dichotomy Of Leadership
+author: Jocko Willink and Leif Babin
+amazon_product_url: https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership/dp/1250195772?tag=NYTBSREV-20
+list_date: 2018/10/14

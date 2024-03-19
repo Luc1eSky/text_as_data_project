@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 0062960628
+primary_isbn13: 9780062960627
+publisher: Morrow
+description: Essays by the former first daughter and granddaughter celebrating the lives of her grandparents.
+title: Everything Beautiful In Its Time
+author: Jenna Bush Hager
+amazon_product_url: https://www.amazon.com/dp/0062960628?tag=NYTBSREV-20
+list_date: 2020/10/04
+published_data: 2020-04-20
+summary: Synopsis coming soon.......
+author_new0: Jenna Bush Hager

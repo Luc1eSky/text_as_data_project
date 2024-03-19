@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 153872037X
+primary_isbn13: 9781538720370
+publisher: Grand Central
+description: Conversations on personal subjects from a mother and daughter who are also award-winning actresses.
+title: Honey, Baby, Mine
+author: Laura Dern and Diane Ladd
+amazon_product_url: https://www.amazon.com/dp/153872037X?tag=NYTBSREV-20
+list_date: 2023/05/14
+published_data: 2023-04-25
+summary: A collection of deeply personal conversations from award-winning actress and activist Laura Dern and the woman she admires most, her mother--legendary actress Diane Ladd--that take readers on an intimate tour of their lives, sharing their most honest conversations on love, life, success, and everything in between. Award-winning actresses and mother-daughter duo Laura Dern and Diane Ladd are the kind of women who draw strength from their lifelong friendships with other women, and most of all, from each other. Ever since Laura was born, the two have leaned on one another through the trials of everyday life and the tribulations that come with even the most storied Hollywood careers. They were always close, but when Diane developed a sudden illness, their relationship grew even deeper. When a doctor prescribed long walks to build back Diane's lung capacity, the pair began taking strolls together every day. These meandering walks soon became epic ones, and the conversations the two women shared began to break down the traditional barriers between mothers and daughters. With topics ranging from ambition and legacy to intimacy and marriage, ranging from humorous to deeply poignant, nothing was off limits. By the time Diane was healed they were more than a close pair; they had covered tremendous ground and formed a true friendship. Peppered throughout these intimate exchanges, they enclose personal photos, family recipes, and much more. The result is a book that will make you want to call your own mom--a testament to the intimacy that can be achieved when we are brave enough to speak our truths to those we love most.
+author_new0: Laura Dern
+author_new1: Diane Ladd

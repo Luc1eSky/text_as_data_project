@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 12
+primary_isbn10: 0316441104
+primary_isbn13: 9780316441100
+publisher: Little, Brown
+description: The Pulitzer Prize-winning biographer details Samuel Adams’s contributions to the American Revolution.
+title: The Revolutionary
+author: Stacy Schiff
+amazon_product_url: https://www.amazon.com/dp/0316441112?tag=NYTBSREV-20
+list_date: 2023/01/29
+published_data: 2022-10-25
+summary: ONE OF WALL STREET JOURNAL'S 10 BEST BOOKS OF THE YEAR—A revelatory biography from a Pulitzer Prize-winner about the most essential Founding Father— the one who stood behind the change in thinking that produced the American Revolution. "A glorious book that is as entertaining as it is vitally important.” —Ron Chernow "A beautifully crafted, invaluable biography…Schiff ingeniously connects the past to our present and future, underscoring the lessons of Adams while reclaiming our nation’s self-evident truths at a moment when we seemed to have forgotten them." —Oprah Daily Thomas Jefferson asserted that if there was any leader of the Revolution, “Samuel Adams was the man.” With high-minded ideals and bare-knuckle tactics, Adams led what could be called the greatest campaign of civil resistance in American history. Stacy Schiff returns Adams to his seat of glory, introducing us to the shrewd and eloquent man who supplied the moral backbone of the American Revolution. A singular figure at a singular moment, Adams amplified the Boston Massacre. He helped to mastermind the Boston Tea Party. He employed every tool available to rally a town, a colony, and eventually a band of colonies behind him, creating the cause that created a country. For his efforts he became the most wanted man in America: When Paul Revere rode to Lexington in 1775, it was to warn Samuel Adams that he was about to be arrested for treason. In The Revolutionary: Samuel Adams, Schiff brings her masterful skills to Adams’s improbable life, illuminating his transformation from aimless son of a well-off family to tireless, beguiling radical who mobilized the colonies. Arresting, original, and deliriously dramatic, this is a long-overdue chapter in the history of our nation.
+author_new0: Stacy Schiff

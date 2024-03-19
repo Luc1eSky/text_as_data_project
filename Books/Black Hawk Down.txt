@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1555846041
+primary_isbn13: 9781555846046
+publisher: Grove/Atlantic
+description: The bloody battle between American forces and Somali street fighters in 1993. Originally published in 1999.
+title: Black Hawk Down
+author: Mark Bowden
+amazon_product_url: http://www.amazon.com/Black-Hawk-Down-Story-Modern-ebook/dp/B008X5XP9M?tag=NYTBSREV-20
+list_date: 2016/01/24
+published_date: 2010-04-01
+summary: #1 New York Times Bestseller: The “riveting” account of the 1993 operation in Mogadishu—the longest sustained firefight involving US troops since Vietnam (The Wall Street Journal). On October 3, 1993, about a hundred elite US soldiers were dropped by helicopter into the teeming market in the heart of Mogadishu, Somalia. Their mission was to abduct two top lieutenants of a Somali warlord and return to base. It was supposed to take an hour. Instead, they found themselves pinned down through a long and terrible night fighting against thousands of heavily armed Somalis. The following morning, eighteen Americans were dead and more than seventy had been badly wounded. Drawing on interviews from both sides, army records, audiotapes, and videos (some of the material is still classified), Bowden’s minute-by-minute narrative is one of the most exciting accounts of modern combat ever written—a true story that captures the heroism, courage, and brutality of battle. “One of the most gripping and authoritative accounts of combat ever written.” —USA Today “Journalistic writing at its best.” —The Boston Globe “Vivid, immediate, and unsparing.” —The Washington Post Includes a new afterword

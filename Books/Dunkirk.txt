@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 006274030X
+primary_isbn13: 9780062740304
+publisher: Morrow
+description: The history behind the current movie.
+title: Dunkirk
+author: Joshua Levine
+amazon_product_url: https://www.amazon.com/Dunkirk-History-Behind-Motion-Picture/dp/006274030X?tag=NYTBSREV-20
+list_date: 2017/08/20
+published_date: 2017-06-27
+summary: N/A

@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0804138532
+primary_isbn13: 9780804138536
+publisher: Crown Forum
+description: The Fox News Channel host, author of “The Joy of Hate,” denounces the hipster elite and their pop cultural dominance.
+title: Not Cool
+author: Greg Gutfeld
+amazon_product_url: http://www.amazon.com/Not-Cool-Hipster-Elite-Their-ebook/dp/B00GQAOL58?tag=NYTBSREV-20
+list_date: 2014/04/13
+published_date: 2014
+summary: "Behind every awful, dangerous decision lurks one evil beast: the Cool. From politics to the personal, from fashion to food, from the campus to the locker room, the desire to be cool has infected all aspects of our lives. At its most harmless, it is annoying. At its worst, it is deadly, on a massive scale. The Cool are the termites of life, infiltrating every nook and cranny and destroying it from within. The Cool report the news, write the scripts, teach our children, run our government--and each day they pass judgment on those who don't worship their coolness. The cool fawn over terrorists, mock the military, and denigrate employers. They are, in short, awful people. In Not Cool, Greg Gutfeld, host of Red Eye and cohost of The Five, and bestselling author of The Joy Of Hate, lays out the battle plan for reclaiming the real American ideal of cool (building businesses, protecting freedom at home and abroad, taking responsibility for your actions, and leaving other people alone to live as they damn well please). Not Cool fights back against the culture of phonies, elitists, and creeps who want your soul. It's not a book, it's a weapon--and one should be armed with it at all times"--

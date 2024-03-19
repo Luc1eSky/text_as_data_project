@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 4
+primary_isbn10: 1594206147
+primary_isbn13: 9781594206146
+publisher: Penguin Press
+description: The elder statesman offers a view of how to build an international order in today’s world.
+title: World Order
+author: Henry Kissinger
+amazon_product_url: http://www.amazon.com/World-Order-Henry-Kissinger-ebook/dp/B00INIXVMK?tag=NYTBSREV-20
+list_date: 2014/10/19
+published_date: 2014
+summary: The former Secretary of State and national security adviser provides a deep meditation on the roots of international harmony and global disorder.

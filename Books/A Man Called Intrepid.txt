@@ -1,0 +1,10 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781629143606
+publisher: Skyhorse
+description: The story of the World War II British spymaster who became Churchill’s secret intelligence ambassador to Roosevelt.
+title: A Man Called Intrepid
+author: William Stevenson
+amazon_product_url: http://www.amazon.com/Man-Called-Intrepid-Incredible-Master-ebook/dp/B00HX1K1J4?tag=NYTBSREV-20
+list_date: 2016/03/20

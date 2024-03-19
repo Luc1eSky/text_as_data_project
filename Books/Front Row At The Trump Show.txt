@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 5
+primary_isbn10: 1524745626
+primary_isbn13: 9781524745622
+publisher: Dutton
+description: The ABC News chief White House correspondent gives his perspective on our current president and describes the shifts within their relationship.
+title: Front Row At The Trump Show
+author: Jonathan Karl
+amazon_product_url: https://www.amazon.com/Front-Row-at-Trump-Show/dp/1524745626?tag=NYTBSREV-20
+list_date: 2020/05/17
+published_data: 2020-03-31
+summary: *The Instant New York Times Bestseller* “A book historians will relish.”—Peggy Noonan, Wall Street Journal "Must read. I've read every book about the Trump presidency. This is the best."—Bill Press An account like no other, from the White House reporter who has known President Donald Trump for more than 25 years. We have never seen a president like this...norm-breaking, rule-busting, dangerously reckless to some and an overdue force for change to others. One thing is clear: We are witnessing the reshaping of the presidency. Jonathan Karl brings us into the White House in a powerful book unlike any other on the Trump administration. He’s known and covered Donald Trump longer than any other White House reporter. With extraordinary access to Trump during the campaign and at 1600 Pennsylvania Avenue, Karl delivers essential new reporting and surprising insights. These are the behind-the-scenes moments that define Trump’s presidency--an extraordinary look at the president, the person, and those closest to him. This is the real story of Trump’s unlikely rise; of the struggles and battles of those who work in the administration and those who report on it; of the plots and schemes of a senior staff enduring stunning and unprecedented unpredictability. Karl takes us from a TV set turned campaign office to the strange quiet of Trump’s White House on Inauguration Day to a high-powered reelection campaign set to change the country’s course. He shows us an administration rewriting the role of the president on the fly and a press corps that has never been more vital. Above all, this book is only possible because of the surprisingly open relationship Donald Trump has had with Jonathan Karl, a reporter he has praised, fought, and branded an enemy of the people. This is Front Row at the Trump Show.
+author_new0: Jonathan Karl

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 0593423062
+primary_isbn13: 9780593423066
+publisher: Portfolio
+description: The linguist gives his assessment of antiracism and offers a plan that he believes will provide justice for Black America.
+title: Woke Racism
+author: John McWhorter
+amazon_product_url: https://www.amazon.com/dp/0593423062?tag=NYTBSREV-20
+list_date: 2021/11/14
+published_data: 2021-10-26
+summary: NEW YORK TIMES BESTSELLER New York Times bestselling author and acclaimed linguist John McWhorter argues that an illiberal neoracism, disguised as antiracism, is hurting Black communities and weakening the American social fabric. Americans of good will on both the left and the right are secretly asking themselves the same question: how has the conversation on race in America gone so crazy? We’re told to read books and listen to music by people of color but that wearing certain clothes is “appropriation.” We hear that being white automatically gives you privilege and that being Black makes you a victim. We want to speak up but fear we’ll be seen as unwoke, or worse, labeled a racist. According to John McWhorter, the problem is that a well-meaning but pernicious form of antiracism has become, not a progressive ideology, but a religion—and one that’s illogical, unreachable, and unintentionally neoracist. In Woke Racism, McWhorter reveals the workings of this new religion, from the original sin of “white privilege” and the weaponization of cancel culture to ban heretics, to the evangelical fervor of the “woke mob.” He shows how this religion that claims to “dismantle racist structures” is actually harming his fellow Black Americans by infantilizing Black people, setting Black students up for failure, and passing policies that disproportionately damage Black communities. The new religion might be called “antiracism,” but it features a racial essentialism that’s barely distinguishable from racist arguments of the past. Fortunately for Black America, and for all of us, it’s not too late to push back against woke racism. McWhorter shares scripts and encouragement with those trying to deprogram friends and family. And most importantly, he offers a roadmap to justice that actually will help, not hurt, Black America.
+author_new0: John McWhorter

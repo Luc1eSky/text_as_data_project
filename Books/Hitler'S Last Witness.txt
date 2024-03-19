@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9781473837027
+publisher: Frontline
+description: An account of Hitler's private life by a soldier who was part of his SS bodyguard, and died in 2013.
+title: Hitler'S Last Witness
+author: Rochus Misch and others
+amazon_product_url: http://www.amazon.com/Hitlers-Last-Witness-Memoirs-Bodyguard-ebook/dp/B00O3GWPZK?tag=NYTBSREV-20
+list_date: 2015/10/11
+published_date: 2021-09-15
+summary: N/A

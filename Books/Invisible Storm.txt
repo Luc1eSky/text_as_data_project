@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0358658969
+primary_isbn13: 9780358658962
+publisher: Mariner
+description: The former Army intelligence officer and Kansas City mayoral candidate shares his struggles with post-traumatic stress disorder.
+title: Invisible Storm
+author: Jason Kander
+amazon_product_url: https://www.amazon.com/dp/0358658969?tag=NYTBSREV-20
+list_date: 2022/07/24
+published_data: 2022-07-05
+summary: In 2017, in President Obama's final Oval Office interview, he was asked who gave him hope for the future of the country. Jason Kander was the first name he mentioned. Kander announced a bid for mayor of Kansas City and was headed for a landslide victory. But after eleven years battling PTSD from his service in Afghanistan he was seized by depression and suicidal thoughts, dropped out of the mayor's race-- and finally sought help. In this brutally honest memoir, Kander has written the book he himself needed in the most painful moments of his PTSD. Sometimes walking away from the chance of a lifetime can be the greatest decision of all. -- Adapted from jacket.
+author_new0: Jason Kander

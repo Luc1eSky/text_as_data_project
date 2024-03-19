@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1476702713
+primary_isbn13: 9781476702711
+publisher: Free Press
+description: A former professor argues that college should be a time for self-discovery and denounces anxious, hoop-jumping students on a track from elite universities to Wall Street.
+title: Excellent Sheep
+author: William Deresiewicz
+amazon_product_url: http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702713?tag=NYTBSREV-20
+list_date: 2014/09/07
+published_date: 2014-08-19
+summary: A Yale professor and author of A Jane Austen Education evaluates the consequences of high-pressure educational and parenting approaches that challenge the mind's ability to think critically and creatively, calling for strategic changes that can offer college students a self-directed sense of purpose.

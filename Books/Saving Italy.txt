@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0393240452
+primary_isbn13: 9780393240450
+publisher: Norton
+description: An account of the Allies’ race to rescue Italy’s art treasures from the Nazis in World War II.
+title: Saving Italy
+author: Robert M Edsel
+amazon_product_url: http://www.amazon.com/Saving-Italy-Rescue-Nations-Treasures/dp/0393082415?tag=NYTBSREV-20
+list_date: 2014/04/13
+published_date: 2013-05-06
+summary: From the author of the #1 New York Times bestseller The Monuments Men "An astonishing account of a little-known American effort to save Italy's…art during World War II."—Tom Brokaw When Hitler’s armies occupied Italy in 1943, they also seized control of mankind’s greatest cultural treasures. As they had done throughout Europe, the Nazis could now plunder the masterpieces of the Renaissance, the treasures of the Vatican, and the antiquities of the Roman Empire. On the eve of the Allied invasion, General Dwight Eisenhower empowered a new kind of soldier to protect these historic riches. In May 1944 two unlikely American heroes—artist Deane Keller and scholar Fred Hartt—embarked from Naples on the treasure hunt of a lifetime, tracking billions of dollars of missing art, including works by Michelangelo, Donatello, Titian, Caravaggio, and Botticelli. With the German army retreating up the Italian peninsula, orders came from the highest levels of the Nazi government to transport truckloads of art north across the border into the Reich. Standing in the way was General Karl Wolff, a top-level Nazi officer. As German forces blew up the magnificent bridges of Florence, General Wolff commandeered the great collections of the Uffizi Gallery and Pitti Palace, later risking his life to negotiate a secret Nazi surrender with American spymaster Allen Dulles. Brilliantly researched and vividly written, the New York Times bestselling Saving Italy brings readers from Milan and the near destruction of The Last Supper to the inner sanctum of the Vatican and behind closed doors with the preeminent Allied and Axis leaders: Roosevelt, Eisenhower, and Churchill; Hitler, Göring, and Himmler. An unforgettable story of epic thievery and political intrigue, Saving Italy is a testament to heroism on behalf of art, culture, and history.

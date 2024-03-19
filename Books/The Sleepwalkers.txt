@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780062199225
+publisher: Harper
+description: A Cambridge professor's  evenhanded account of the polarization of Europe, leading up to World War I. One of the Book Review's 10 Best Books of 2013.
+title: The Sleepwalkers
+author: Christopher Clark
+amazon_product_url: http://www.amazon.com/The-Sleepwalkers-Europe-Went-1914/dp/0061146668?tag=NYTBSREV-20
+list_date: 2016/04/10
+published_date: 2021-09-15
+summary: N/A

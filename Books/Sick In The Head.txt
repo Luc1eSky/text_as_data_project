@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0812997573
+primary_isbn13: 9780812997576
+publisher: Random House
+description: Thirty years’ worth of the filmmaker’s interviews with comedians.
+title: Sick In The Head
+author: Judd Apatow
+amazon_product_url: http://www.amazon.com/Sick-Head-Conversations-About-Comedy-ebook/dp/B00R04MDTA?tag=NYTBSREV-20
+list_date: 2015/08/30
+published_date: 2015
+summary: The director of The 40-Year-Old Virgin presents a collection of uproarious and intimate conversations with some of today's most popular comedians, drawing on his teenage radio hosting days to include pieces from the early years, in a book that includes interviews with such names as Jerry Seinfeld, Jay Leno and Sandra Bernhard. Illustrations.

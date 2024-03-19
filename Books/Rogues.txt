@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 0385548516
+primary_isbn13: 9780385548519
+publisher: Doubleday
+description: A dozen articles, previously published in The New Yorker, which include profiles of a black-market arms merchant, a whistle-blower and the late Anthony Bourdain.
+title: Rogues
+author: Patrick Radden Keefe
+amazon_product_url: https://www.amazon.com/dp/0385548516?tag=NYTBSREV-20
+list_date: 2022/07/17
+published_data: 2022-06-28
+summary: NEW YORK TIMES BESTSELLER • From the prize-winning, New York Times bestselling author of Empire of Pain and Say Nothing—and one of the most decorated journalists of our time—twelve enthralling stories of skulduggery and intrigue “I read everything he writes. Every time he writes a book, I read it. Every time he writes an article, I read it … he’s a national treasure.” —Rachel Maddow “Patrick Radden Keefe is a brilliant writer, and each of these pieces reminds you that this world and the people in it are more interesting, complicated and moving than you had allowed yourself to imagine. ROGUES is a marvel, showcasing the work of a reporter at the absolute top of his game.” —Daniel Alarcón, author of The King is Always Above the People Patrick Radden Keefe has garnered prizes ranging from the National Magazine Award to the Orwell Prize to the National Book Critics Circle Award for his meticulously-reported, hypnotically-engaging work on the many ways people behave badly. Rogues brings together a dozen of his most celebrated articles from The New Yorker. As Keefe says in his preface “They reflect on some of my abiding preoccupations: crime and corruption, secrets and lies, the permeable membrane separating licit and illicit worlds, the bonds of family, the power of denial.” Keefe brilliantly explores the intricacies of forging $150,000 vintage wines, examines whether a whistleblower who dared to expose money laundering at a Swiss bank is a hero or a fabulist, spends time in Vietnam with Anthony Bourdain, chronicles the quest to bring down a cheerful international black market arms merchant, and profiles a passionate death penalty attorney who represents the “worst of the worst,” among other bravura works of literary journalism. The appearance of his byline in The New Yorker is always an event, and collected here for the first time readers can see his work forms an always enthralling but deeply human portrait of criminals and rascals, as well as those who stand up against them.
+author_new0: Patrick Radden Keefe

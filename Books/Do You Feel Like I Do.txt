@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0316425311
+primary_isbn13: 9780316425315
+publisher: Hachette
+description: Key career moments are recounted by the musician inducted into the 2020 Grammy Hall of Fame for his album "Frampton Comes Alive!"
+title: Do You Feel Like I Do?
+author: Peter Frampton with Alan Light
+amazon_product_url: https://www.amazon.com/dp/0316425311?tag=NYTBSREV-20
+list_date: 2020/11/08
+published_data: 2020-10-20
+summary: A revelatory memoir by rock icon and legendary guitarist Peter Frampton. Do You Feel Like I Do? is the incredible story of Peter Frampton's positively resilient life and career told in his own words for the first time. His groundbreaking album Frampton Comes Alive! spawned three top-20 singles and sold 8 million copies the year it was released (over 17 million to date) and was inducted into the GRAMMY Hall of Fame in January. Frampton was on a path to stardom from an early age. By 22, he was touring incessantly and making use of the talk box which would become his signature guitar effect. "I started playing music so young that I sometimes feel I've lived more than one lifetime already," says Frampton. The artist shares fascinating stories of his collaborative work and tours with the likes of George Harrison and David Bowie, among others, and reveals both the blessing and curse of Frampton Comes Alive!. And he opens up about becoming the heartthrob and cover boy he never wanted to be, his overcoming substance abuse, and how he's continued to play at the top of his game despite an inflammatory muscle disease. Peppered throughout his narrative is the story of his favorite guitar, which he thought he'd lost in a plane crash in 1980. But in 2011, it mysteriously showed up again - saved from the wreckage. Frampton will tell of that unlikely reunion here in full for the first time, and it is emblematic of his life and career as a legendary artist. "This is my journey," Frampton says of the book. "All I ever wanted to do was play guitar and it's taken me many different places - physically and mentally. I've been to the moon and back without a rocket, but also to the depths of despair. You never stop paying your dues. Failure has been my greatest inspiration. I brush myself off and then I want to 'do it again.' Do You Feel Like I Do?"
+author_new0: Peter Frampton
+author_new1: Alan Light

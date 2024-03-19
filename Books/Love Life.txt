@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9781451685756
+publisher: Simon & Schuster
+description: The actor’s second book of stories and observations.
+title: Love Life
+author: Rob Lowe
+amazon_product_url: http://www.amazon.com/Love-Life-Rob-Lowe-ebook/dp/B00DPM7YYU?tag=NYTBSREV-20
+list_date: 2014/05/04
+published_date: 2021-09-15
+summary: N/A

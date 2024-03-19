@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1538707977
+primary_isbn13: 9781538707975
+publisher: Twelve
+description: The cohost of “Pod Save America” and former White House director of communications gives his take on the right-wing media apparatus.
+title: Battling The Big Lie
+author: Dan Pfeiffer
+amazon_product_url: https://www.amazon.com/dp/1538707977?tag=NYTBSREV-20
+list_date: 2022/06/26
+published_data: 2022-06-07
+summary: From #1 New York Times bestselling author and co-host of Pod Save America--how to combat political truth decay and baldfaced lies of the Right Wing propaganda machine. In DISINFORMATION NATION, bestselling author Dan Pfeiffer returns to lay out how the Right Wing built such a robust and successful disinformation machine, how they have used it to amass power despite representing a dwindling share of the country, and how readers can fight back against disinformation with step-by-step guides on spotting fake news, becoming their own fact checker, and talking to their conspiracy theory-obsessed relatives. Over the last twenty years, the Right Wing has built a massive media apparatus that is weaponizing misinformation for political purposes. The Right Wing media ecosystem personified by Fox and fueled by Facebook is waging war on the very idea of objective truth--and it's winning. This misinformation campaign is at the root of much that is rotten in America and around the world. Trump is a product of this eco-system as is the immense polarization and division and our inability to deal rationally with immense threats like COVID and Climate Change. Here, Pfeiffer lays bare the tactics used by the Right Wing propaganda machine and how to combat them, including: QAnon and its proponents, from Facebook groups to members of congress The optimization of Facebook as the ultimate carrier of Right Wing clickbait Educating the Left to "fight fire with fire" and nurture progressive media How to have hard conversations with the Fox News-watching, conspiracy theory-believing relative in your life A functioning democracy depends on a shared understanding of reality. America is teetering on the edge because one of the two parties in our two-party system views truth, facts, and science as their opponent. As DISINFORMATION NATION proves, time is running out to fix this problem. There are no easy answers or quick fixes, but something must be done.
+author_new0: Dan Pfeiffer

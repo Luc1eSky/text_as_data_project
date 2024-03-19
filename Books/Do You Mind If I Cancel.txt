@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1250225825
+primary_isbn13: 9781250225825
+publisher: Flatiron
+description: Comedic essays on everyday life by a writer and producer for television.
+title: Do You Mind If I Cancel?
+author: Gary Janetti
+amazon_product_url: https://www.amazon.com/Do-You-Mind-If-Cancel/dp/1250225825?tag=NYTBSREV-20
+list_date: 2019/11/10
+published_data: 2019-10-22
+summary: "Gary Janetti's book is so rolling-on-the-floor funny, so brilliantly observant, and so full of heart.” — Kevin Kwan Fans of David Sedaris, Jenny Lawson, and Tina Fey... meet your new friend Gary Janetti. Gary Janetti, the writer and producer for some of the most popular television comedies of all time, and creator of one of the most wickedly funny Instagram accounts there is, now turns his skills to the page in a hilarious, and poignant book chronicling the pains and indignities of everyday life. Gary spends his twenties in New York, dreaming of starring on soap operas while in reality working at a hotel where he lusts after an unattainable colleague and battles a bellman who despises it when people actually use a bell to call him. He chronicles the torture of finding a job before the internet when you had to talk on the phone all the time, and fantasizes, as we all do, about who to tell off when he finally wins an Oscar. As Gary himself says, “These are essays from my childhood and young adulthood about things that still annoy me.” Original, brazen, and laugh out loud funny, Do You Mind if I Cancel? is something not to be missed.
+author_new0: Gary Janetti

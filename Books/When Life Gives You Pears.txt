@@ -1,0 +1,11 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781538751046
+publisher: Grand Central
+description: Challenges the Grammy-nominated comedy writer and mother of five faced after being diagnosed with a brain tumor.
+title: When Life Gives You Pears
+author: Jeannie Gaffigan
+amazon_product_url: https://www.amazon.com/When-Life-Gives-You-Pears/dp/1538751046?tag=NYTBSREV-20
+list_date: 2019/10/20
+author_new0: Jeannie Gaffigan

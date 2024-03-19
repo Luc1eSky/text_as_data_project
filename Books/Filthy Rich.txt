@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 5
+primary_isbn10: 0316274054
+primary_isbn13: 9780316274050
+publisher: Little, Brown
+description: The story of a South Florida financier convicted of soliciting sex from underage girls.
+title: Filthy Rich
+author: James Patterson and John Connolly with Tim Malloy
+amazon_product_url: http://www.amazon.com/Filthy-Rich-Powerful-Billionaire-Shocking-ebook/dp/B01EFL9BMC?tag=NYTBSREV-20
+list_date: 2016/11/27
+published_date: 2016-10-10
+summary: You've read the Jeffrey Epstein headlines, now get the full story. The world's bestselling author, James Patterson, has written the definitive book on the billionaire pedophile at the center of the newly unsealed federal sex crimes case. Jeffrey Epstein rose from humble origins into the New York City and Palm Beach elite. A college dropout with an instinct for numbers -- and for people -- Epstein amassed his wealth through a combination of access and skill. But even after he had it all, Epstein wanted more. That unceasing desire -- and especially a taste for underage girls --resulted in sexual-abuse charges, to which he pleaded guilty and received a shockingly lenient sentence. Included here are police interviews with girls who have alleged sexual abuse by Epstein, as well as details of the investigation against him.

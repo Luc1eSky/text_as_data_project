@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781642930993
+publisher: Post Hill Press
+description: A case for how President Trump’s opponents tried to sabotage the 2016 election.
+title: Spygate
+author: Dan Bongino and DC McAllister with Matt Palumbo
+amazon_product_url: https://www.amazon.com/Spygate-Attempted-Sabotage-Donald-Trump/dp/1642930989?tag=NYTBSREV-20
+list_date: 2018/10/28
+author_new0: Dan Bongino
+author_new1: DC McAllister
+author_new2: Matt Palumbo

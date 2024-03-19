@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 125022585X
+primary_isbn13: 9781250225856
+publisher: Holt
+description: A collection of comedic stories by the writer and producer best known for his work on “Family Guy.”
+title: Start Without Me
+author: Gary Janetti
+amazon_product_url: https://www.amazon.com/dp/125022585X?tag=NYTBSREV-20
+list_date: 2022/05/15
+published_data: 2022-04-26
+summary: "From New York Times bestselling author, Family Guy writer, and HBO star Gary Janetti comes Start Without Me, a collection of [comical], true life stories about the small moments that add up to a big life"--Publisher marketing.
+author_new0: Gary Janetti

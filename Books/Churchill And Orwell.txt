@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1594206139
+primary_isbn13: 9781594206139
+publisher: Penguin Press
+description: A dual biography of two independent thinkers.
+title: Churchill And Orwell
+author: Thomas E Ricks
+amazon_product_url: https://www.amazon.com/Churchill-Orwell-Freedom-Thomas-Ricks/dp/1594206139?tag=NYTBSREV-20
+list_date: 2017/06/11
+published_date: 2017
+summary: A fascinating dual biography of Winston Churchill and George Orwell, with a focus on the pivotal years from the mid-1930s through the 1940s, when their farsighted vision and inspired action in the face of the threat of fascism and communism helped preserve democracy for the world.

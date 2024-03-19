@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 3
+primary_isbn10: 0063161478
+primary_isbn13: 9780063161474
+publisher: Harper
+description: The former Republican political operative assesses why some centrist conservatives fell under the sway of Donald Trump.
+title: Why We Did It
+author: Tim Miller
+amazon_product_url: https://www.amazon.com/dp/0063161478?tag=NYTBSREV-20
+list_date: 2022/07/31
+published_data: 2022
+summary: "An account of a former Republican political activist's horror as the party he loves becomes the party of Trump"--
+author_new0: Tim Miller

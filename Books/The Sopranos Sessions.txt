@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1419734946
+primary_isbn13: 9781419734946
+publisher: Abrams
+description: Essays and interviews by former TV critics from New Jersey’s Star-Ledger to mark the 20th anniversary of the show’s debut.
+title: The Sopranos Sessions
+author: Matt Zoller Seitz and Alan Sepinwall
+amazon_product_url: https://www.amazon.com/Sopranos-Sessions-Matt-Zoller-Seitz/dp/1419734946?tag=NYTBSREV-20
+list_date: 2019/01/27
+published_data: 2019-01-08
+summary: Television critics Alan Sepinwall and Matt Zoller Seitz were among the first to write about the series before it became a cultural phenomenon. To celebrate the twentieth anniversary of the show's debut, they reunite to produce a collection of recaps, conversations, and critical essays covering every episode, as well as new interviews with series creator David Chase. They explore the shows artistry, themes, and legacy, examining its portrayal of Italian Americans, its graphic depictions of violence, and its deep connection to other cinematic and television classics.
+author_new0: Matt Zoller Seitz
+author_new1: Alan Sepinwall

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1627791507
+primary_isbn13: 9781627791502
+publisher: Holt
+description: The Pulitzer Prize-winning journalist details his journey of self-education in the newsrooms of Washington, D.C.
+title: Chasing History
+author: Carl Bernstein
+amazon_product_url: https://www.amazon.com/dp/1627791507?tag=NYTBSREV-20
+list_date: 2022/01/30
+published_data: 2021-05-18
+summary: The Pulitzer Prize-winning co-author of All the President’s Men—the chronicle of the investigative report about the Watergate break-in and resultant political scandal which led to President Richard Nixon’s resignation—recalls his formative years as a teenage newspaper reporter in JFK’s Washington—a tale of adventures, scrapes, clever escapes, and the opportunity of a lifetime. “Carl Bernstein, Washington Star.” With these words, the sixteen-year-old senior at Montgomery Blair High School set himself apart from the high school crowd and set himself on a track that would define his life. Carl Bernstein was far from the best student in his class—in fact, he was in danger of not graduating at all—but he had a talent for writing, a burning desire to know things that other people didn’t, and a flair for being in the right place at the right time. Those qualities got him inside the newsroom at the Washington Star, the afternoon paper in the nation’s capital, in the summer of 1960, a pivotal time for America, for Washington, D.C., and for a young man in a hurry on the cusp of adulthood. Chasing History opens up the world of the early 1960s as Bernstein experienced it, chasing after grisly crimes with the paper’s police reporter, gathering colorful details at a John F. Kennedy campaign rally, running afoul of union rules, and confronting racial tensions as the civil rights movement gained strength. We learn alongside him as he comes to understand the life of a newspaperman, and we share his pride as he hunts down information, gets his first byline, and discovers that he has a talent for the job after all. By turns exhilarating, funny, tense, and poignant, Chasing History shows us a country coming into its own maturity along with young Carl Bernstein, and when he strikes out on his own after five years at the Star, his hard-won knowledge and experience feels like ours as well.
+author_new0: Carl Bernstein

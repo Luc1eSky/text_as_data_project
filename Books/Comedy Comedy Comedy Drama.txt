@@ -1,0 +1,13 @@
+rank: 3
+weeks_on_list: 1
+primary_isbn10: 0399180516
+primary_isbn13: 9780399180514
+publisher: Random House
+description: The actor and writer, known for his work in sketch comedy and dramatic roles, charts his path.
+title: Comedy Comedy Comedy Drama
+author: Bob Odenkirk
+amazon_product_url: https://www.amazon.com/dp/0399180516?tag=NYTBSREV-20
+list_date: 2022/03/20
+published_data: 2022-03-01
+summary: NEW YORK TIMES BESTSELLER • In this “essential” (Entertainment Weekly), “hilarious” (AV Club) memoir, the star of Mr. Show, Breaking Bad, and Better Call Saul opens up about the highs and lows of showbiz, his cult status as a comedy writer, and what it’s like to reinvent himself as an action film ass-kicker at fifty. “I can’t think of another entertainer who has improbably morphed so many times, and all through real genius and determination.”—Conan O’Brien ONE OF THE BEST BOOKS OF THE YEAR: The New Yorker Bob Odenkirk’s career is inexplicable. And yet he will try like hell to explicate it for you. Charting a “Homeric” decades-long “odyssey” from his origins in the seedy comedy clubs of Chicago to a dramatic career full of award nominations—with a side-trip into the action-man world that is baffling to all who know him—it’s almost like there are many Bob Odenkirks! But there is just one and one is plenty. Bob embraced a life in comedy after a chance meeting with Second City’s legendary Del Close. He somehow made his way to a job as a writer at Saturday Night Live. While surviving that legendary gauntlet by the skin of his gnashing teeth, he stashed away the secrets of comedy writing—eventually employing them in the immortal “Motivational Speaker” sketch for Chris Farley, honing them on The Ben Stiller Show, and perfecting them on Mr. Show with Bob and David. In Hollywood, Bob demonstrated a bullheadedness that would shame Sisyphus himself, and when all hope was lost for the umpteenth time, the phone rang with an offer to appear on Breaking Bad—a show about how boring it is to be a high school chemistry teacher. His embrace of this strange new world of dramatic acting led him to working with Steven Spielberg, Alexander Payne, and Greta Gerwig, and then, in a twist that will confound you, he re-re-invented himself as a bona fide action star. Why? Read this and do your own psychoanalysis—it’s fun! Featuring humorous tangents, never-before-seen photos, wild characters, and Bob’s trademark unflinching drive, Comedy Comedy Comedy Drama is a classic showbiz tale told by a determined idiot.
+author_new0: Bob Odenkirk

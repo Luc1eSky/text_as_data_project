@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062641832
+primary_isbn13: 9780062641830
+publisher: Morrow/HarperCollins
+description: A critical biography of Barack Obama, particularly focusing on his formative years.
+title: Rising Star
+author: David J Garrow
+amazon_product_url: https://www.amazon.com/Rising-Star-Making-Barack-Obama/dp/0062641832?tag=NYTBSREV-20
+list_date: 2017/05/28
+published_date: 2017-05-09
+summary: N/A

@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0525656340
+primary_isbn13: 9780525656340
+publisher: Knopf
+description: The Pulitzer Prize-winning biographer shares insights into his craft.
+title: Working
+author: Robert A Caro
+amazon_product_url: https://www.amazon.com/Working-Robert-Caro/dp/0525656340?tag=NYTBSREV-20
+list_date: 2019/04/28
+published_data: 2019-04-09
+summary: “One of the great reporters of our time and probably the greatest biographer.” —The Sunday Times (London) From the two-time Pulitzer Prize-winning author of The Power Broker and The Years of Lyndon Johnson: an unprecedented gathering of vivid, candid, deeply moving recollections about his experiences researching and writing his acclaimed books. Now in paperback, Robert Caro gives us a glimpse into his own life and work in these evocatively written, personal pieces. He describes what it was like to interview the mighty Robert Moses and to begin discovering the extent of the political power Moses wielded; the combination of discouragement and exhilaration he felt confronting the vast holdings of the Lyndon B. Johnson Library in Austin, Texas; his encounters with witnesses, including longtime residents wrenchingly displaced by the construction of Moses' Cross-Bronx Expressway and Lady Bird Johnson acknowledging the beauty and influence of one of LBJ's mistresses. He gratefully remembers how, after years of working in solitude, he found a writers' community at the New York Public Library, and details the ways he goes about planning and composing his books. Caro recalls the moments at which he came to understand that he wanted to write not just about the men who wielded power but about the people and the politics that were shaped by that power. And he talks about the importance to him of the writing itself, of how he tries to infuse it with a sense of place and mood to bring characters and situations to life on the page. Taken together, these reminiscences--some previously published, some written expressly for this book--bring into focus the passion, the wry self-deprecation, and the integrity with which this brilliant historian has always approached his work.
+author_new0: Robert A Caro

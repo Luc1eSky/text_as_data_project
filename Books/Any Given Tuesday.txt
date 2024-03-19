@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0063084392
+primary_isbn13: 9780063084391
+publisher: Harper
+description: The senior adviser on Pete Buttigieg’s 2020 presidential campaign shares her journey in politics.
+title: Any Given Tuesday
+author: Lis Smith
+amazon_product_url: https://www.amazon.com/dp/0063084392?tag=NYTBSREV-20
+list_date: 2022/08/07
+published_data: 2022-07-19
+summary: An irreverent look behind the scenes of American politics from one of the most sought-after operatives in the Democratic Party Lis Smith isn't your average political strategist and Any Given Tuesday isn't your typical political memoir. At once a revealing look at human nature at the highest levels of power and an intimate portrayal of a sometimes rocky personal journey, it breaks all the rules. Smith doesn't pretend to be perfect--she owns the controversial choices that landed her in the tabloids, as well as the unorthodox ones that have paid off and defined her successful career. Any Given Tuesday follows Smith from her earliest experiences as a college-aged intern to her days as a trusted adviser and confidante to some of the most high-profile politicians in the country--including her star turn as senior adviser on Pete Buttigieg's 2020 presidential campaign. Animated by Smith's love for the hand-to-hand combat of politics and sustained by her deeply-held belief that it's still possible to effect positive change, it's an odyssey full of highs and lows and larger-than-life characters. Throughout, Smith shows what it's really like behind the curtain: what happens when the lights go down and the cameras turn off, how it feels to be in the eye of the political media storm, and how the people responsible for heady, life and death decisions are as flawed as the rest of us. While the journey hasn't always been smooth, Lis Smith has seen and learned a lot--and she shares it all in this eye-opening, entertaining memoir.
+author_new0: Lis Smith

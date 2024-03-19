@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0385545800
+primary_isbn13: 9780385545808
+publisher: Doubleday
+description: The Pulitzer Prize–winning historian looks at the rise of nationalism and authoritarianism around the world.
+title: Twilight Of Democracy
+author: Anne Applebaum
+amazon_product_url: https://www.amazon.com/dp/0385545800?tag=NYTBSREV-20
+list_date: 2020/08/09
+published_data: 2020-07-21
+summary: NATIONAL BESTSELLER • "How did our democracy go wrong? This extraordinary document ... is Applebaum's answer." —Timothy Snyder, author of On Tyranny The Pulitzer Prize–winning historian explains, with electrifying clarity, why elites in democracies around the world are turning toward nationalism and authoritarianism. From the United States and Britain to continental Europe and beyond, liberal democracy is under siege, while authoritarianism is on the rise. In Twilight of Democracy, Anne Applebaum, an award-winning historian of Soviet atrocities who was one of the first American journalists to raise an alarm about antidemocratic trends in the West, explains the lure of nationalism and autocracy. In this captivating essay, she contends that political systems with radically simple beliefs are inherently appealing, especially when they benefit the loyal to the exclusion of everyone else. Elegantly written and urgently argued, Twilight of Democracy is a brilliant dissection of a world-shaking shift and a stirring glimpse of the road back to democratic values.
+author_new0: Anne Applebaum

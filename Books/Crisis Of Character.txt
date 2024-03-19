@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1455568872
+primary_isbn13: 9781455568871
+publisher: Center Street
+description: A former Secret Service officer claims to have witnessed scandalous behavior by the Clintons.
+title: Crisis Of Character
+author: Gary J Byrne with Grant M Schmidt
+amazon_product_url: http://www.amazon.com/Crisis-Character-Discloses-Firsthand-Experience-ebook/dp/B01C3LHS44?tag=NYTBSREV-20
+list_date: 2016/09/25
+published_date: 2016-06-28
+summary: In this runaway #1 New York Times bestseller, former secret service officer Gary Byrne, who was posted directly outside President Clinton's oval office, reveals what he observed of Hillary Clinton's character and the culture inside the White House while protecting the First Family in CRISIS OF CHARACTER, the most anticipated book of the 2016 election.

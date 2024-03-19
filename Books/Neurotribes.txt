@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 158333467X
+primary_isbn13: 9781583334676
+publisher: Avery
+description: A science writer argues that conditions like autism are natural human variations with some adaptive elements, and surveys the history of autism and the current spike in diagnoses.
+title: Neurotribes
+author: Steve Silberman
+amazon_product_url: http://www.amazon.com/NeuroTribes-Legacy-Autism-Future-Neurodiversity/dp/158333467X?tag=NYTBSREV-20
+list_date: 2015/09/13
+published_date: 2015
+summary: A New York Times bestseller Winner of the 2015 Samuel Johnson Prize for non-fiction A groundbreaking book that upends conventional thinking about autism and suggests a broader model for acceptance, understanding, and full participation in society for people who think differently. What is autism? A lifelong disability, or a naturally occurring form of cognitive difference akin to certain forms of genius? In truth, it is all of these things and more--and the future of our society depends on our understanding it. WIRED reporter Steve Silberman unearths the secret history of autism, long suppressed by the same clinicians who became famous for discovering it, and finds surprising answers to the crucial question of why the number of diagnoses has soared in recent years. Going back to the earliest days of autism research and chronicling the brave and lonely journey of autistic people and their families through the decades, Silberman provides long-sought solutions to the autism puzzle, while mapping out a path for our society toward a more humane world in which people with learning differences and those who love them have access to the resources they need to live happier, healthier, more secure, and more meaningful lives. Along the way, he reveals the untold story of Hans Asperger, the father of Asperger's syndrome, whose "little professors" were targeted by the darkest social-engineering experiment in human history; exposes the covert campaign by child psychiatrist Leo Kanner to suppress knowledge of the autism spectrum for fifty years; and casts light on the growing movement of "neurodiversity" activists seeking respect, support, technological innovation, accommodations in the workplace and in education, and the right to self-determination for those with cognitive differences.

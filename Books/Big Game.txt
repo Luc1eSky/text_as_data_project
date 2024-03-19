@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0399185429
+primary_isbn13: 9780399185427
+publisher: Penguin Press
+description: The New York Times Magazine’s chief national correspondent examines professional football’s current economic success and cultural dominance.
+title: Big Game
+author: Mark Leibovich
+amazon_product_url: https://www.amazon.com/Big-Game-NFL-Dangerous-Times/dp/0399185429?tag=NYTBSREV-20
+list_date: 2018/09/23
+published_date: 2018
+summary: A merciless probing of America's biggest cultural force - pro football - at a moment of peak success and high anxiety. Big Game is a journey through an epic storm of corruption and influence - the Deflategate scandal that rocked Leibovich s team, the New England Patriots and star quarterback Tom Brady. Ultimately, this is a chronicle of what may come to be seen as 'peak football' - the high point of the sport's economic success and cultural dominance, but also the moment when it all began to turn.

@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0544814614
+primary_isbn13: 9780544814615
+publisher: Houghton Mifflin Harcourt
+description: Looking back on 14 years with the Red Sox.
+title: Papi
+author: David Ortiz with Michael Holley
+amazon_product_url: https://www.amazon.com/Papi-My-Story-David-Ortiz/dp/0544814614?tag=NYTBSREV-20
+list_date: 2017/06/04
+published_date: 2017
+summary: An entertaining, unfiltered memoir by one of the game's greatest, most clutch sluggers at the end of his career, written with best-selling sports writer and talk show host Michael Holley

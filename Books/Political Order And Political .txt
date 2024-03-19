@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0374227357
+primary_isbn13: 9780374227357
+publisher: Farrar, Straus & Giroux
+description: 
+title: Political Order And Political Decay
+author: Francis Fukuyama
+amazon_product_url: http://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/0374227357?tag=NYTBSREV-20
+list_date: 2014/10/19
+published_date: 2014-09-30
+summary: A second volume in a landmark chronicle of the modern state examines how societies develop strong, impersonal and accountable political institutions, examining such subjects as the French Revolution, the Arab Spring and contemporary American politics. By the author of The Origins of Political Order.

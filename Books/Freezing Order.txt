@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 4
+primary_isbn10: 1982153288
+primary_isbn13: 9781982153281
+publisher: Simon & Schuster
+description: The author of “Red Notice” tells his story of becoming Vladimir Putin’s enemy by uncovering a $230 million tax refund scheme.
+title: Freezing Order
+author: Bill Browder
+amazon_product_url: https://www.amazon.com/dp/1982153288?tag=NYTBSREV-20
+list_date: 2022/05/22
+published_data: 2022-04-12
+summary: At once a financial caper, an international adventure, and a passionate plea for justice, Freezing Order is a stirring morality tale about how one man can take on one of the most dangerous and ruthless villains in the world.
+author_new0: Bill Browder

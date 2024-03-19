@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1476741190
+primary_isbn13: 9781476741192
+publisher: Simon & Schuster
+description: A critical biography of the 43rd president.
+title: Bush
+author: Jean Edward Smith
+amazon_product_url: http://www.amazon.com/Bush-Jean-Edward-Smith-ebook/dp/B0176M3Z8I?tag=NYTBSREV-20
+list_date: 2016/07/24
+published_date: 2016-07-05
+summary: A biography of George W. Bush, showing how he ignored his advisors to make key decisions himself--most in invading Iraq--and how these decisions were often driven by the President's deep religious faith.

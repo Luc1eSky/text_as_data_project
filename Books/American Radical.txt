@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1101986158
+primary_isbn13: 9781101986158
+publisher: Dutton
+description: The memoir of a Muslim-American undercover agent for the F.B.I.’s counterterrorism unit.
+title: American Radical
+author: Tamer Elnoury with Kevin Maurer
+amazon_product_url: https://www.amazon.com/American-Radical-Inside-Undercover-Muslim/dp/1101986158?tag=NYTBSREV-20
+list_date: 2017/11/12
+published_date: 2017
+summary: It's no secret that federal agencies are waging a broad, global war against terror. But for the first time in this memoir, an active, Muslim American federal agent reveals his experience infiltrating and bringing down a terror cell in North America. A longtime undercover agent, Tamer Elnoury joined an elite counterterrorism unit after September 11. Its express purpose is to gain the trust of terrorists whose goals are to take out as many Americans in as public and devastating a way possible. It's a furious race against the clock for Tamer and his unit to stop them before they can implement their plans. Yet as new as this war still is, the techniques are as old as time: Listen, record, and prove terrorist intent --

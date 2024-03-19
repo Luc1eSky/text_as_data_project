@@ -1,0 +1,10 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 1101985909
+primary_isbn13: 9781101985908
+publisher: Dutton
+description: An insider look at the Bachelor franchise and its effect on society.
+title: Bachelor Nation
+author: Amy Kaufman
+amazon_product_url: https://www.amazon.com/Bachelor-Nation-Americas-Favorite-Pleasure-ebook/dp/B074LSZX3B?tag=NYTBSREV-20
+list_date: 2018/04/01

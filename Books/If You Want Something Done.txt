@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 125028497X
+primary_isbn13: 9781250284976
+publisher: St. Martin's
+description: The former governor of South Carolina and U.S. ambassador to the United Nations shares her journey and profiles female leaders.
+title: If You Want Something Done
+author: Nikki R. Haley
+amazon_product_url: https://www.amazon.com/dp/125028497X?tag=NYTBSREV-20
+list_date: 2022/10/23
+published_data: 2022-10-04
+summary: New from the New York Times bestselling author of WITH ALL DUE RESPECT: Nikki R. Haley's inspirational manifesto celebrates women who lead, are bold, and get things done.
+author_new0: Nikki R. Haley

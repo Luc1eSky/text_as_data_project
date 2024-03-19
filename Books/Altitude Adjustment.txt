@@ -1,0 +1,10 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9781493009220
+publisher: TwoDot
+description: A memoir of the author's quest for love, home and meaning in the Tetons.
+title: Altitude Adjustment
+author: Mary Beth Baptiste
+amazon_product_url: http://www.amazon.com/Altitude-Adjustment-Quest-Meaning-Tetons-ebook/dp/B00MJDA1D2?tag=NYTBSREV-20
+list_date: 2015/01/25

@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0063082195
+primary_isbn13: 9780063082199
+publisher: Custom House
+description: An oral history of the TV series “The Office” by one of its stars and one of its producers.
+title: Welcome To Dunder Mifflin
+author: Brian Baumgartner and Ben Silverman
+amazon_product_url: https://www.amazon.com/dp/0063082195?tag=NYTBSREV-20
+list_date: 2021/12/19
+published_data: 2021
+summary: "As told by the actors, writers, producers, directors, and crew"--Jacket.
+author_new0: Brian Baumgartner
+author_new1: Ben Silverman

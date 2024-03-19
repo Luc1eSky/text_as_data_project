@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780812995336
+publisher: Random House
+description: A memoir of growing up in a family that immigrated from Leningrad to Queens.
+title: Little Failure
+author: Gary Shteyngart
+amazon_product_url: http://www.amazon.com/Little-Failure-Memoir-Gary-Shteyngart/dp/0679643753?tag=NYTBSREV-20
+list_date: 2014/01/26
+published_date: 2021-09-15
+summary: N/A

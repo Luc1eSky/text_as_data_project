@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1455572322
+primary_isbn13: 9781455572328
+publisher: Grand Central
+description: A profile of eight entry-level bankers at leading investment firms in the aftermath of the financial collapse.
+title: Young Money
+author: Kevin Roose
+amazon_product_url: http://www.amazon.com/Young-Money-Streets-Post-Crash-Recruits/dp/0446583251?tag=NYTBSREV-20
+list_date: 2014/03/16
+published_date: 2014-02-18
+summary: Becoming a young Wall Street banker is like pledging the world's most lucrative and soul-crushing fraternity. Every year, thousands of eager college graduates are hired by the world's financial giants, where they're taught the secrets of making obscene amounts of money-- as well as how to dress, talk, date, drink, and schmooze like real financiers. YOUNG MONEY Inside the Hidden World of Wall Street's Post-Crash Recruits YOUNG MONEY is the inside story of this well-guarded world. Kevin Roose, New York magazine business writer and author of the critically acclaimed The Unlikely Disciple, spent more than three years shadowing eight entry-level workers at Goldman Sachs, Bank of America Merrill Lynch, and other leading investment firms. Roose chronicled their triumphs and disappointments, their million-dollar trades and runaway Excel spreadsheets, and got an unprecedented (and unauthorized) glimpse of the financial world's initiation process. Roose's young bankers are exposed to the exhausting workloads, huge bonuses, and recreational drugs that have always characterized Wall Street life. But they experience something new, too: an industry forever changed by the massive financial collapse of 2008. And as they get their Wall Street educations, they face hard questions about morality, prestige, and the value of their work. YOUNG MONEY is more than an exposé of excess; it's the story of how the financial crisis changed a generation-and remade Wall Street from the bottom up.

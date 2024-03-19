@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9780735214477
+publisher: Sentinel
+description: The political commentator argues that conservatives (as well as moderates and even Democrats) should vote for Donald Trump.
+title: In Trump We Trust
+author: Ann Coulter
+amazon_product_url: http://www.amazon.com/Trump-We-Trust-Pluribus-Awesome/dp/0735214468?tag=NYTBSREV-20
+list_date: 2016/09/11

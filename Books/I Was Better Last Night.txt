@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0593320522
+primary_isbn13: 9780593320525
+publisher: Knopf
+description: A memoir by the four-time Tony Award–winning actor and playwright.
+title: I Was Better Last Night
+author: Harvey Fierstein
+amazon_product_url: https://www.amazon.com/dp/0593320522?tag=NYTBSREV-20
+list_date: 2022/03/20
+published_data: 2022-03-01
+summary: NEW YORK TIMES BEST SELLER • A poignant and hilarious memoir from the cultural icon, gay rights activist, and four-time Tony Award–winning actor and playwright, revealing never-before-told stories of his personal struggles and conflict, of sex and romance, and of his fabled career Harvey Fierstein’s legendary career has transported him from community theater in Brooklyn, to the lights of Broadway, to the absurd excesses of Hollywood and back. He’s received accolades and awards for acting in and/or writing an incredible string of hit plays, films, and TV shows: Hairspray, Fiddler on the Roof, Mrs. Doubtfire, Independence Day, Cheers, La Cage Aux Folles, Torch Song Trilogy, Newsies, and Kinky Boots. While he has never shied away from the spotlight, Mr. Fierstein says that even those closest to him have never heard most of the tales—of personal struggles and conflict, of sex and romance, of his fabled career—revealed in these wildly entertaining pages. I Was Better Last Night bares the inner life of this eccentric nonconforming child from his roots in 1952 Brooklyn, to the experimental worlds of Andy Warhol and the Theatre of the Ridiculous, to the gay rights movements of the seventies and the tumultuous AIDS crisis of the eighties, through decades of addiction, despair, and ultimate triumph. Mr. Fierstein’s candid recollections provide a rich window into downtown New York City life, gay culture, and the evolution of theater (of which he has been a defining figure), as well as a moving account of his family’s journey of acceptance. I Was Better Last Night is filled with wisdom gained, mistakes made, and stories that come together to describe an astonishingly colorful and meaningful life. Lucky for us all, his unique and recognizable voice is as engaging, outrageously funny, and vulnerable on the page.
+author_new0: Harvey Fierstein

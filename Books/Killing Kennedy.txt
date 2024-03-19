@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0805096663
+primary_isbn13: 9780805096668
+publisher: Holt
+description: The host of “The O’Reilly Factor” recounts the events surrounding the assassination of John F. Kennedy.
+title: Killing Kennedy
+author: Bill O'Reilly and Martin Dugard
+amazon_product_url: http://www.amazon.com/Killing-Kennedy-The-End-Camelot-ebook/dp/B0079886DY?tag=NYTBSREV-20
+list_date: 2014/01/12
+published_date: 2012-10-02
+summary: In the midst of a 1963 campaign trip to Texas, Kennedy is gunned down by an erratic young drifter named Lee Harvey Oswald. The former Marine Corps sharpshooter escapes the scene, only to be caught and shot dead while in police custody.

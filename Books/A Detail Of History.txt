@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781910167762
+publisher: Apostrophe
+description: A memoir of surviving the Holocaust as a boy.
+title: A Detail Of History
+author: Arek Hersh
+amazon_product_url: http://www.amazon.com/Detail-Of-History-harrowing-holocaust-ebook/dp/B00X7O27B6?tag=NYTBSREV-20
+list_date: 2016/03/27

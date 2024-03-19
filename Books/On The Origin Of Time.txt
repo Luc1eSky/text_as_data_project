@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0593128443
+primary_isbn13: 9780593128442
+publisher: Bantam
+description: The cosmologist shares a theory, which he posited with Stephen Hawking, that gives a Darwinian perspective on the origins of our universe.
+title: On The Origin Of Time
+author: Thomas Hertog
+amazon_product_url: https://www.amazon.com/dp/0593128443?tag=NYTBSREV-20
+list_date: 2023/04/30
+published_data: 2023-03-28
+summary: Stephen Hawking's closest collaborator offers the intellectual superstar's final thoughts on the cosmos—a dramatic revision of the theory that made him the heir to Einstein's legacy Perhaps the biggest question Stephen Hawking tried to answer in his extraordinary life was how the universe could have created conditions so perfectly hospitable to life. Pondering this mystery led Hawking to study the big bang origin of the universe, but his early work ran into a crisis when the math predicted many big bangs producing a multiverse—countless different universes, most far too bizarre to harbor life. Holed up in the theoretical physics department at Cambridge, Stephen Hawking and his friend and collaborator Thomas Hertog worked shoulder to shoulder for twenty years on a new quantum theory of the cosmos. As their journey took them deeper into the big bang, they were startled to find a deeper level of evolution in which the physical laws themselves transform and simplify until particles, forces, and even time itself fades away. Once upon a time, perhaps, there was no time. This led them to a revolutionary idea: the laws of physics are not set in stone but are born and co-evolve as the universe they govern takes shape. On the Origin of Time takes the reader on a quest to understand questions bigger than our universe, peering into the extreme quantum physics of black holes and the big bang and drawing on the latest developments in string theory. As Hawking's final days drew near, the two collaborators developed a final theory proposing their radical new Darwinian perspective on the origins of our universe. Hertog offers a striking new vision that ties together more deeply than ever the nature of the universe’s birth with our existence. This new theory profoundly transforms the way we think about our place in the order of the cosmos and may ultimately prove Hawking’s biggest legacy.
+author_new0: Thomas Hertog

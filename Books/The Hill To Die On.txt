@@ -1,0 +1,14 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0525574743
+primary_isbn13: 9780525574743
+publisher: Crown
+description: A look at congressional gridlock and the first two years of Trump's presidency.
+title: The Hill To Die On
+author: Jake Sherman and Anna Palmer
+amazon_product_url: https://www.amazon.com/Hill-Die-Battle-Congress-America/dp/0525574743?tag=NYTBSREV-20
+list_date: 2019/04/28
+published_data: 2019-04-09
+summary: The startling inside story of Donald Trump's first two years in Washington as viewed from Capitol Hill, where lawmakers on both sides of the aisle jockeyed for advantage as American politics reached a fevered pitch. Taking readers into secret strategy calls and closed-door meetings from the House to the White House, Politico Playbook writers Jake Sherman and Anna Palmer trace the gamesmanship and the impulsiveness, the dealmaking and the backstabbing, in a blow-by-blow account of the power struggle that roiled Congress. Moving from the fights for advantage between Donald Trump, Nancy Pelosi, and Chuck Schumer; to Mitch McConnell's merciless, Machiavellian handling of the sexual assault accusations against Supreme Court nominee Brett Kavanaugh; to Paul Ryan's desperate, failed attempts to keep Mark Meadows from pushing Trump into a government shutdown over immigration, The Hill to Die On bristles with fresh news and tells the story of what really happened in some of the most defining moments our era. Like The West Wing for Congress, or Shattered meets This Town, The Hill to Die On tells an unforgettable story of politics and power, where the stakes going forward are nothing less than the future of America and the lives of millions of ordinary Americans.
+author_new0: Jake Sherman
+author_new1: Anna Palmer

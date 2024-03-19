@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1250817862
+primary_isbn13: 9781250817860
+publisher: Holt
+description: The model and actress explores the subjects of feminism, sexuality and power.
+title: My Body
+author: Emily Ratajkowski
+amazon_product_url: https://www.amazon.com/dp/1250817862?tag=NYTBSREV-20
+list_date: 2021/11/28
+published_data: 2021-11-09
+summary: In this personal exploration of feminism, sexuality and power, of men's treatment of women and women's rationalizations for accepting that treatment, the acclaimed model and actress presents essays that chronicle moments of her life while investigating culture's fetishization of girls and female beauty.
+author_new0: Emily Ratajkowski

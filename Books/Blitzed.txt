@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1328663795
+primary_isbn13: 9781328663795
+publisher: Houghton Mifflin Harcourt
+description: An account of the Third Reich’s widespread use of drugs, particularly methamphetamines.
+title: Blitzed
+author: Norman Ohler Translated  Shaun Whiteside
+amazon_product_url: https://www.amazon.com/Blitzed-Drugs-Third-Norman-Ohler/dp/1328663795?tag=NYTBSREV-20
+list_date: 2017/03/26
+published_date: 2017
+summary: A fast-paced, highly original history that uncovers the full extent of drug use in Nazi Germany--from Hitler's all-consuming reliance on a slew of substances, to the drugs that permeated the regime and played an integral role in Germany's military performance and ultimate downfall in World War II

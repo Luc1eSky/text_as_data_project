@@ -1,0 +1,10 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1524731633
+primary_isbn13: 9781524731632
+publisher: Knopf
+description: A look at how American values and democracy have deteriorated, and the people and institutions seeking to reverse this.
+title: Tailspin
+author: Steven Brill
+amazon_product_url: https://www.amazon.com/Tailspin-Americas-Fifty-Year-Fall-Fighting/dp/1524731633?tag=NYTBSREV-20
+list_date: 2018/06/17

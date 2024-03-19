@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 0316478512
+primary_isbn13: 9780316478519
+publisher: Hachette
+description: An account of the Russian hacking of the Democratic National Committee and the fights within the party during the 2016 campaign.
+title: Hacks
+author: Donna Brazile
+amazon_product_url: https://www.amazon.com/Hacks-Inside-Break-ins-Breakdowns-Donald/dp/0316478512?tag=NYTBSREV-20
+list_date: 2017/12/10
+published_date: 2017-11-07
+summary: NEW YORK TIMES BESTSELLER "Explosive... A blistering tell-all."---Washington Post "People should sit up, take notes and change things."---Ace Smith, Los Angeles Times "Brazile most certainly has a story to tell.... Vivid."---The Guardian From Donna Brazile, former DNC chair and legendary political operative, an explosive and revealing new look at the 2016 election: the first insider account of the Russian hacking of the DNC and the missteps by the Clinton campaign and Obama administration that enabled a Trump victory. In the fallout of the Russian hacking of the Democratic National Committee--and as chaos threatened to consume the party's convention--Democrats turned to a familiar figure to right the ship: Donna Brazile. Known to millions from her frequent TV appearances, she was no stranger to high stakes and dirty opponents, and the longtime Democratic strategist had a reputation in Washington as a one-stop shop for fixing sticky problems. What Brazile found at the DNC was unlike anything she had experienced before--and much worse than is commonly known. The party was beset by infighting, scandal, and hubris, while reeling from a brazen and wholly unprecedented attempt by a foreign power to influence the presidential election. Plus, its candidate, Hillary Clinton, faced an opponent who broke every rule in the political playbook. Packed with never-before-reported revelations about what went down in 2016, Hacks is equal parts campaign thriller, memoir, and roadmap for the future. With Democrats now in the wilderness after this historic defeat, Hacks argues that staying silent about what went wrong helps no one. Only by laying bare the missteps, miscalculations, and crimes of 2016, Brazile contends, will Americans be able to salvage their democracy.

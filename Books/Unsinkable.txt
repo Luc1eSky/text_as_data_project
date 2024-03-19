@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 5
+primary_isbn10: 
+primary_isbn13: 9780062213679
+publisher: Morrow/HarperCollins
+description: A second memoir by the actress, singer and dancer presents stories about her show-business friends, her man and money troubles, and her children. 
+title: Unsinkable
+author: Debbie Reynolds and Dorian Hannaway
+amazon_product_url: http://www.amazon.com/Unsinkable-A-Memoir-Debbie-Reynolds/dp/0062213652?tag=NYTBSREV-20
+list_date: 2017/01/29
+published_date: 2021-09-15
+summary: N/A

@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 4
+primary_isbn10: 0593534506
+primary_isbn13: 9780593534502
+publisher: Knopf
+description: The late movie star’s memoir reveals intimate details about his personal relationships and professional rivalries; compiled and edited by David Rosenthal.
+title: The Extraordinary Life Of An Ordinary Man
+author: Paul Newman
+amazon_product_url: https://www.amazon.com/dp/0593534506?tag=NYTBSREV-20
+list_date: 2022/11/27
+published_data: 2022-10-18
+summary: The raw, candid, unvarnished memoir of an American icon. The greatest movie star of the past 75 years covers everything: his traumatic childhood, his career, his drinking, his thoughts on Marlon Brando, James Dean, Elizabeth Taylor, John Huston, his greatest roles, acting, his intimate life with Joanne Woodward, his innermost fears and passions and joys. With thoughts/comments throughout from Joanne Woodward, George Roy Hill, Tom Cruise, Elia Kazan and many others. In 1986, Paul Newman and his closest friend, screenwriter Stewart Stern, began an extraordinary project. Stuart was to compile an oral history, to have Newman’s family and friends and those who worked closely with him, talk about the actor’s life. And then Newman would work with Stewart and give his side of the story. The only stipulation was that anyone who spoke on the record had to be completely honest. That same stipulation applied to Newman himself. The project lasted five years. The result is an extraordinary memoir, culled from thousands of pages of transcripts. The book is insightful, revealing, surprising. Newman’s voice is powerful, sometimes funny, sometimes painful, always meeting that high standard of searing honesty. The additional voices—from childhood friends and Navy buddies, from family members and film and theater collaborators such as Tom Cruise, George Roy Hill, Martin Ritt, and John Huston—that run throughout add richness and color and context to the story Newman is telling. Newman’s often traumatic childhood is brilliantly detailed. He talks about his teenage insecurities, his early failures with women, his rise to stardom, his early rivals (Marlon Brando and James Dean), his first marriage, his drinking, his philanthropy, the death of his son Scott, his strong desire for his daughters to know and understand the truth about their father. Perhaps the most moving material in the book centers around his relationship with Joanne Woodward—their love for each other, his dependence on her, the way she shaped him intellectually, emotionally and sexually. The Extraordinary Life of an Ordinary Man is revelatory and introspective, personal and analytical, loving and tender in some places, always complex and profound.
+author_new0: Paul Newman

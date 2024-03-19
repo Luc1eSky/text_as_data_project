@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 
+primary_isbn13: 9780698145610
+publisher: Penguin Press
+description: A memoir of a marriage’s collapse, by the author of “Don’t Let’s Go to the Dogs Tonight.”
+title: Leaving Before The Rains Come
+author: Alexandra Fuller
+amazon_product_url: http://www.amazon.com/Leaving-Before-Rains-Alexandra-Fuller/dp/1594205868?tag=NYTBSREV-20
+list_date: 2015/03/08
+published_date: 2021-09-15
+summary: N/A

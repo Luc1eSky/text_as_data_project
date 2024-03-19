@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0062466011
+primary_isbn13: 9780062466013
+publisher: Harper
+description: Through comic vignettes, the actress shares lessons she has learned.
+title: Go Ask Ali
+author: Ali Wentworth
+amazon_product_url: https://www.amazon.com/Go-Ask-Ali-Half-Baked-Lemonade/dp/0062466011?tag=NYTBSREV-20
+list_date: 2018/05/13
+published_date: 2018-04-24
+summary: New York Times bestselling author Ali Wentworth offers her hilarious and unique advice on surviving the absurdity of modern life in her third collection of laugh-out-loud comic vignettes. Ali Wentworth’s first two books, Ali in Wonderland and Happily Ali After, were lauded by readers, critics, and fellow comedians alike. Entertainment Weekly included Happily Ali After on its "Must List" and hailed it as "hilarious. . . . Her glass isn’t half full—it’s "empty and cracked," while Cosmopolitan praised it as "razor-sharp." Chelsea Handler called Ali in Wonderland "truly hilarious," and Kathy Griffin christened it, "Chicken Soup for the Vagina." Alec Baldwin has described Ali as "funny and warm and crazy all at once. Like Barbara Eden. But on something. Like crystal meth," and Jerry Seinfeld has raved, "Everything that comes out of Ali Wentworth’s mouth is funny!" At once endearing and hilarious, thoughtful and far-fetched, this third collection offers Ali at her wisest and wittiest as she delivers tips, pointers, and quips on a host of life’s conundrums and sticky situations, including the funny, sometimes embarrassing yet unforgettable situations that have shaped her inimitable world view as a wife, mother, actress, comedian, and all around bon vivant. Thoroughly entertaining, Go Ask Ali is packed with thoughts and musings from "the girlfriend you want to have a glass of wine with, the one who makes you laugh because she sees the funny and the absurd in everything" (Huffington Post).

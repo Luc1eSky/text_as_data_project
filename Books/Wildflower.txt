@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1101983795
+primary_isbn13: 9781101983799
+publisher: Dutton
+description: The actress's memoir takes the form of personal essays about her past, including her difficult upbringing and her experience in working with Steven Spielberg on "E.T.," the role that turned her into a child star.
+title: Wildflower
+author: Drew Barrymore
+amazon_product_url: http://www.amazon.com/Wildflower-Drew-Barrymore-ebook/dp/B00X59360O?tag=NYTBSREV-20
+list_date: 2015/12/13
+published_date: 2015
+summary: Award-winning actress Drew Barrymore shares funny, insightful, and profound stories from her past and present told from the place of happiness she's achieved today. Wildflower is a portrait of Drew's life in stories as she looks back on the adventures, challenges, and incredible experiences of her earlier years. It includes tales of living on her own at 14 (and how laundry may have saved her life), getting stuck in a gas station overhang on a cross country road trip, saying goodbye to her father in a way only he could have understood, and many more adventures and lessons that have led her to the successful, happy, and healthy place she is today. It is the first book Drew has written about her life since the age of 14.

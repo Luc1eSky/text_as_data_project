@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 3
+primary_isbn10: 1250150183
+primary_isbn13: 9781250150189
+publisher: St. Martin's
+description: The Fox News host suggests how Donald Trump can fight corruption and cronyism in Washington.
+title: The Swamp
+author: Eric Bolling
+amazon_product_url: https://www.amazon.com/Swamp-Washingtons-Murky-Corruption-Cronyism/dp/1250150183?tag=NYTBSREV-20
+list_date: 2017/07/30
+published_date: 2017-06-27
+summary: The cohost of Fox News' "The Five" chronicles various stories of political scandal in Washington, DC, and ends by offering recommendations on how President Trump can rid America's capital of political corruption.

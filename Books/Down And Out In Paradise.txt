@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 1982140445
+primary_isbn13: 9781982140441
+publisher: Simon & Schuster
+description: A portrait of the celebrity chef and TV host Anthony Bourdain.
+title: Down And Out In Paradise
+author: Charles Leerhsen
+amazon_product_url: https://www.amazon.com/dp/1982140445?tag=NYTBSREV-20
+list_date: 2022/10/30
+published_data: 2022-10-11
+summary: A groundbreaking, candid, well-sourced--but definitely unauthorized--biography of the celebrity chef and TV star Anthony Bourdain, based on extensive interviews with those who knew him intimately. Anthony Bourdain's death by suicide in June, 2018 shocked people around the world. Bourdain seemed to have it all: an irresistible personality, a dream job, a beautiful family, and international fame. The reality, though, was more complicated than it seemed. Bourdain became a celebrity with his bestselling book Kitchen Confidential. He parlayed it into a series of hit television shows, including the Food Channel's Anthony Bourdain: No Reservations and CNN's Parts Unknown. But his charisma belied a troubled spirit. Addiction and an obsession with perfection and personal integrity ruined two marriages and turned him into a boss from hell, even as millions became intrigued by the ever-curious and genuinely empathetic traveler they saw on TV. Bourdain was already running out of steam, physically and emotionally, when he fell hard for an Italian actress who could be even colder to him than he sometimes was to others, and who effectively drove a wedge between him and his young daughter. Down and Out in Paradise is the first book to tell the true and full Bourdain story, relating the highs and lows of an extraordinary life. Leerhsen shows how Bourdain's never-before-reported childhood traumas fueled both his creativity and the insecurities that would lead him to a place of despair.
+author_new0: Charles Leerhsen

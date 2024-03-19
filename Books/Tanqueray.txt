@@ -1,0 +1,14 @@
+rank: 1
+weeks_on_list: 1
+primary_isbn10: 1250278279
+primary_isbn13: 9781250278272
+publisher: St. Martin's
+description: A profile of a performer who was a well-known burlesque dancer in New York City.
+title: Tanqueray
+author: Stephanie Johnson and Brandon Stanton
+amazon_product_url: https://www.amazon.com/dp/1250278279?tag=NYTBSREV-20
+list_date: 2022/07/31
+published_data: 2022-07-12
+summary: 1970s New York City: Go-go dancers, hustlers, dirty cops, gangsters, and Stephanie Johnson... In 2019, Humans of New York featured a photo of a woman in an outrageous fur coat and hat she made herself. She instantly captured the attention of millions. Her name is Stephanie Johnson, but she's better known to HONY followers as "Tanqueray," the indefatigable woman who was once one of the best-known burlesque dancers in New York City. Brandon Stanton chronicled her life in the longest series he had yet posted on HONY, but, now, Stephanie Johnson--a woman as fabulous, unbowed, and irresistible as the city she lives in--tells all in Tanqueray, a book filled with never-before-told stories, personal photos from her own collection, and glimpses of New York City back in the day when the name "Tanqueray" was on everyone's lips.
+author_new0: Stephanie Johnson
+author_new1: Brandon Stanton

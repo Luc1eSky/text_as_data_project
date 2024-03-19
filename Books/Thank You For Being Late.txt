@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 11
+primary_isbn10: 0374273537
+primary_isbn13: 9780374273538
+publisher: Farrar, Straus & Giroux
+description: How globalization, climate change and the accelerating pace of technology are reshaping the world.
+title: Thank You For Being Late
+author: Thomas L Friedman
+amazon_product_url: https://www.amazon.com/Thank-You-Being-Late-Accelerations-ebook/dp/B01F1Z0QHA?tag=NYTBSREV-20
+list_date: 2017/03/26
+published_date: 2016-11-22
+summary: #1 New York Times Bestseller • Los Angeles Times Bestseller One of The Wall Street Journal's 10 Books to Read Now • One of Kirkus Reviews's Best Nonfiction Books of the Year • One of Publishers Weekly's Most Anticipated Books of the Year Shortlisted for the OWL Business Book Award and Longlisted for the Financial Times and McKinsey Business Book of the Year Award Version 2.0, Updated and Expanded, with a New Afterword We all sense it—something big is going on. You feel it in your workplace. You feel it when you talk to your kids. You can’t miss it when you read the newspapers or watch the news. Our lives are being transformed in so many realms all at once—and it is dizzying. In Thank You for Being Late, version 2.0, with a new afterword, Thomas L. Friedman exposes the tectonic movements that are reshaping the world today and explains how to get the most out of them and cushion their worst impacts. His thesis: to understand the twenty-first century, you need to understand that the planet’s three largest forces—Moore’s law (technology), the Market (globalization), and Mother Nature (climate change and biodiversity loss)—are accelerating all at once. These accelerations are transforming five key realms: the workplace, politics, geopolitics, ethics, and community. The year 2007 was the major inflection point: the release of the iPhone, together with advances in silicon chips, software, storage, sensors, and networking, created a new technology platform that is reshaping everything from how we hail a taxi to the fate of nations to our most intimate relationships. It is providing vast new opportunities for individuals and small groups to save the world—or to destroy it. With his trademark vitality, wit, and optimism, Friedman shows that we can overcome the multiple stresses of an age of accelerations—if we slow down, if we dare to be late and use the time to reimagine work, politics, and community. Thank You for Being Late is an essential guide to the present and the future.

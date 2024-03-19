@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 006229069X
+primary_isbn13: 9780062290694
+publisher: Broadside Books
+description: Essays by well-known conservatives explain how the movement developed.
+title: Big Tent
+author: edited  Mallory Factor and Elizabeth Factor
+amazon_product_url: http://www.amazon.com/Big-Tent-Conservative-Revolution-As-Thinkers/dp/006229069X?tag=NYTBSREV-20
+list_date: 2014/04/27
+published_date: 2014-04-08
+summary: Drawing from his comprehensive, star-studded course at the Citadel, Mallory Factor, the New York Times bestselling author of Shadowbosses, brings together a fascinating and diverse range of essays from leading figures and activists which explore and illuminate the conservative intellectual tradition in American politics. Ambitious in its breadth and depth, The Big Tent is a panoramic portrait of the intellectual history of the conservative movement. Some of the leading lights of the right offer an unparalleled introduction to conservative figures and ideas, from the Revolution to William F. Buckley; Barry Goldwater to the Reagan Revolution; Libertarianism to the War on Terror. Insightful and stimulating, The Big Tent is an outstanding survey of the movement over three centuries.

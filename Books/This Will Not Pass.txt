@@ -1,0 +1,14 @@
+rank: 9
+weeks_on_list: 3
+primary_isbn10: 1982172487
+primary_isbn13: 9781982172480
+publisher: Simon & Schuster
+description: Two New York Times correspondents chronicle the 2020 election and the first year of the Biden presidency.
+title: This Will Not Pass
+author: Jonathan Martin and Alexander Burns
+amazon_product_url: https://www.amazon.com/dp/1982172487?tag=NYTBSREV-20
+list_date: 2022/06/05
+published_data: 2022-05-03
+summary: "New York Times reporters Jonathan Martin and Alexander Burns show how both our political parties confronted a series of national traumas, including the coronavirus pandemic, the January 6 attack on the Capitol, and the political brinksmanship of President Biden's first year in the White House. From Donald Trump's assault on the 2020 election and his ongoing campaign of vengeance against his fellow Republicans, to the behind-the-scenes story of Biden's selection of Kamala Harris as his running mate and his bitter struggles to unite the Democratic Party, this book exposes the degree to which the two-party system has been strained to the point of disintegration"--Publisher marketing.
+author_new0: Jonathan Martin
+author_new1: Alexander Burns

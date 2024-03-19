@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 18
+primary_isbn10: 1455540412
+primary_isbn13: 9781455540419
+publisher: Twelve
+description: A memoir by the Democratic senator from Minnesota and former “Saturday Night Live” writer.
+title: Al Franken, Giant Of The Senate
+author: Al Franken
+amazon_product_url: https://www.amazon.com/Al-Franken-Giant-Senate/dp/1455540412?tag=NYTBSREV-20
+list_date: 2017/10/15
+published_date: 2017-05-30
+summary: #1 New York Times Bestseller "Flips the classic born-in-a-shack rise to political office tale on its head. I skipped meals to read this book - also unusual - because every page was funny. It made me deliriously happy." - Louise Erdrich, The New York Times From Senator Al Franken - #1 bestselling author and beloved SNL alum - comes the story of an award-winning comedian who decided to run for office and then discovered why award-winning comedians tend not to do that. This is a book about an unlikely campaign that had an even more improbable ending: the closest outcome in history and an unprecedented eight-month recount saga, which is pretty funny in retrospect. It's a book about what happens when the nation's foremost progressive satirist gets a chance to serve in the United States Senate and, defying the low expectations of the pundit class, actually turns out to be good at it. It's a book about our deeply polarized, frequently depressing, occasionally inspiring political culture, written from inside the belly of the beast. In this candid personal memoir, the honorable gentleman from Minnesota takes his army of loyal fans along with him from Saturday Night Live to the campaign trail, inside the halls of Congress, and behind the scenes of some of the most dramatic and/or hilarious moments of his new career in politics. Has Al Franken become a true Giant of the Senate? Franken asks readers to decide for themselves.

@@ -1,0 +1,11 @@
+rank: 15
+weeks_on_list: 22
+primary_isbn10: 0374201234
+primary_isbn13: 9780374201234
+publisher: Melcher Media/MCD/Farrar, Straus & Giroux
+description: Various skills and techniques used on the court by the late Los Angeles Lakers player.
+title: The Mamba Mentality
+author: Kobe Bryant
+amazon_product_url: https://www.amazon.com/Mamba-Mentality-How-Play/dp/0374201234?tag=NYTBSREV-20
+list_date: 2021/01/10
+author_new0: Kobe Bryant

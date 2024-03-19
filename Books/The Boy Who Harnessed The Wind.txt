@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 006193769X
+primary_isbn13: 9780061937699
+publisher: Morrow
+description: The story of an African teenager who built a windmill from scraps, bringing electricity to his community. Originally published in 2009.
+title: The Boy Who Harnessed The Wind
+author: William Kamkwamba and Bryan Mealer
+amazon_product_url: http://www.amazon.com/The-Boy-Who-Harnessed-Wind/dp/0061730327?tag=NYTBSREV-20
+list_date: 2016/04/10
+published_date: 2009-09-29
+summary: Now a Netflix Film, Starring and Directed by Chiwetel Ejiofor of 12 Years a Slave William Kamkwamba was born in Malawi, a country where magic ruled and modern science was mystery. It was also a land withered by drought and hunger. But William had read about windmills, and he dreamed of building one that would bring to his small village a set of luxuries that only 2 percent of Malawians could enjoy: electricity and running water. His neighbors called him misala—crazy—but William refused to let go of his dreams. With a small pile of once-forgotten science textbooks; some scrap metal, tractor parts, and bicycle halves; and an armory of curiosity and determination, he embarked on a daring plan to forge an unlikely contraption and small miracle that would change the lives around him. The Boy Who Harnessed the Wind is a remarkable true story about human inventiveness and its power to overcome crippling adversity. It will inspire anyone who doubts the power of one individual's ability to change his community and better the lives of those around him.

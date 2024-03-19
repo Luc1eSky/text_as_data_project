@@ -1,0 +1,10 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0385535376
+primary_isbn13: 9780385535373
+publisher: Doubleday
+description: An 1879 polar voyage gone terribly wrong.
+title: In The Kingdom Of Ice
+author: Hampton Sides
+amazon_product_url: http://www.amazon.com/In-Kingdom-Ice-Terrible-Jeannette-ebook/dp/B00IBZ3Z8U?tag=NYTBSREV-20
+list_date: 2015/01/04

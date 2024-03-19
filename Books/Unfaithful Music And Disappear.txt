@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0399167250
+primary_isbn13: 9780399167256
+publisher: Blue Rider
+description: The musician describes his childhood, life and career.
+title: Unfaithful Music And Disappearing Ink
+author: Elvis Costello
+amazon_product_url: http://www.amazon.com/Unfaithful-Music-Disappearing-Elvis-Costello/dp/0399167250?tag=NYTBSREV-20
+list_date: 2015/11/08
+published_date: 2015
+summary: A personal introspective by the influential pop songwriter and performer traces his Liverpool upbringing, artistic influences, creative pursuit of original punk sounds, and emergence in the MTV world.

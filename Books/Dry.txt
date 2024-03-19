@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1466844302
+primary_isbn13: 9781466844308
+publisher: Picador
+description: The author of "Running With Scissors" recalls his time working, and drinking, in the advertising industry. Originally published in 2004.
+title: Dry
+author: Augusten X Burroughs
+amazon_product_url: http://www.amazon.com/Dry-A-Memoir-Augusten-Burroughs-ebook/dp/B00BY5QYA0?tag=NYTBSREV-20
+list_date: 2016/02/21
+published_date: 2013-04-23
+summary: The Tenth Anniversary Edition of the New York Times bestselling book that has sold over half a million copies in paperback. "I was addicted to "Bewitched" as a kid. I worshipped Darren Stevens the First. When he'd come home from work and Samantha would say, ‘Darren, would you like me to fix you a drink?' He'd always rest his briefcase on the table below the mirror in the foyer, wipe his forehead with a monogrammed handkerchief and say, ‘Better make it a double.'" (from Chapter Two) You may not know it, but you've met Augusten Burroughs. You've seen him on the street, in bars, on the subway, at restaurants: a twentysomething guy, nice suit, works in advertising. Regular. Ordinary. But when the ordinary person had two drinks, Augusten was circling the drain by having twelve; when the ordinary person went home at midnight, Augusten never went home at all. Loud, distracting ties, automated wake-up calls and cologne on the tongue could only hide so much for so long. At the request (well, it wasn't really a request) of his employers, Augusten lands in rehab, where his dreams of group therapy with Robert Downey Jr. are immediately dashed by grim reality of fluorescent lighting and paper hospital slippers. But when Augusten is forced to examine himself, something actually starts to click and that's when he finds himself in the worst trouble of all. Because when his thirty days are up, he has to return to his same drunken Manhattan life—and live it sober. What follows is a memoir that's as moving as it is funny, as heartbreaking as it is true. Dry is the story of love, loss, and Starbucks as a Higher Power.

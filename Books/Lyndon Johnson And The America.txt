@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1497683858
+primary_isbn13: 9781497683853
+publisher: Open Road Media
+description: A biography draws from research and from the author’s time spent working at the White House from 1967 to 1969.
+title: Lyndon Johnson And The American Dream
+author: Doris Kearns Goodwin
+amazon_product_url: http://www.amazon.com/Lyndon-Johnson-American-Kearns-Goodwin-ebook/dp/B010P21I1W?tag=NYTBSREV-20
+list_date: 2015/09/20
+published_date: 2015-08-04
+summary: With a new foreword: The New York Times–bestselling biography of President Lyndon Johnson from the Pulitzer Prize–winning author of Team of Rivals. Featuring a 2018 foreword by the Pulitzer Prize–winning political historian that celebrates a reappraisal of Lyndon Johnson’s legacy five decades after his presidency, from the vantage point of our current, profoundly altered political culture and climate, Doris Kearns Goodwin’s extraordinary and insightful biography draws from meticulous research in addition to the author’s time spent working at the White House from 1967 to 1969. After Johnson’s term ended, Goodwin remained his confidante and assisted in the preparation of his memoir. In Lyndon Johnson and the American Dream, she traces the 36th president’s life from childhood to his early days in politics, and from his leadership of the Senate to his presidency, analyzing his dramatic years in the White House, including both his historic domestic triumphs and his failures in Vietnam. Drawing on personal anecdotes and candid conversation with Johnson, Goodwin paints a rich and complicated portrait of one of our nation’s most compelling politicians in “the most penetrating, fascinating political biography I have ever read” (The New York Times).

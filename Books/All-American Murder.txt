@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 6
+primary_isbn10: 0316412686
+primary_isbn13: 9780316412681
+publisher: Little, Brown
+description: The story of Aaron Hernandez, the New England Patriots tight end convicted of first-degree murder.
+title: All-American Murder
+author: James Patterson and Alex Abramovich with Mike Harvkey
+amazon_product_url: https://www.amazon.com/All-American-Murder-Hernandez-Superstar-Murderers/dp/0316412651?tag=NYTBSREV-20
+list_date: 2018/04/15
+published_date: 2018-01-22
+summary: The instant #1 New York Times bestseller "Ripped from the headlines . . . Combining in-depth, investigative reporting and fresh interviews, the authors effectively tabloid-proof this shocking, celebrity-driven story by lining up the facts and labeling rumors." --USA Today Aaron Hernandez was a college All-American who became the youngest player in the NFL and later reached the Super Bowl. His every move as a tight end with the New England Patriots played out the headlines, yet he led a secret life--one that ended in a maximum-security prison. What drove him to go so wrong, so fast? Between the summers of 2012 and 2013, not long after Hernandez made his first Pro Bowl, he was linked to a series of violent incidents culminating in the death of Odin Lloyd, a semi-pro football player who dated the sister of Hernandez's fiancée, Shayanna Jenkins. All-American Murder is the first book to investigate Aaron Hernandez's first-degree murder conviction and the mystery of his own shocking and untimely death.

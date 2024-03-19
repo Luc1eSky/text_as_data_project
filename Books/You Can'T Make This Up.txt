@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0062314963
+primary_isbn13: 9780062314963
+publisher: Morrow/HarperCollins
+description: The veteran sportscaster, the voice of "Sunday Night Football," recalls players and games he has observed.
+title: You Can'T Make This Up
+author: Al Michaels with L Jon Wertheim
+amazon_product_url: http://www.amazon.com/You-Cant-Make-This-Television/dp/0062314963?tag=NYTBSREV-20
+list_date: 2015/01/11
+published_date: 2014-11-18
+summary: In this highly entertaining and insightful memoir, one of television’s most respected broadcasters interweaves the story of his life and career with lively firsthand tales of some of the most thrilling events and fascinating figures in modern sports. No sportscaster has covered more major sporting events than Al Michaels. Over the course of his forty-plus year career, he has logged more hours on live network television than any other broadcaster in history, and is the only play-by-play commentator to have covered all four major sports championships: the Super Bowl, World Series, NBA Finals, and the Stanley Cup Final. He has also witnessed first-hand some of the most memorable events in modern sports, and in this highly personal and revealing account, brings them vividly to life. Michaels shares never-before-told stories from his early years and his rise to the top, covering some of the greatest moments of the past half century—from the “Miracle on Ice”—the historic 1980 Olympic hockey finals—to the earthquake that rocked the 1989 World Series. Some of the greatest names on and off the field are here—Michael Jordan, Bill Walton, Pete Rose, Bill Walsh, Peyton and Eli Manning, Brett Favre, John Madden, Howard Cosell, Cris Collinsworth, and many, many more. Forthright and down-to-earth, Michaels tells the truth as he sees it, giving readers unique insight into the high drama, the colorful players, and the heroes and occasional villains of an industry that has become a vital part of modern culture.

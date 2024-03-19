@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0143107887
+primary_isbn13: 9780143107880
+publisher: Viking
+description: A New York editor returns to his Missouri hometown to care for his aging mother.
+title: Bettyville
+author: George Hodgman
+amazon_product_url: http://www.amazon.com/Bettyville-A-Memoir-George-Hodgman-ebook/dp/B00LFZ83KS?tag=NYTBSREV-20
+list_date: 2016/05/29
+published_date: 2016-02-02
+summary: When George Hodgman leaves Manhattan for his hometown of Paris, Missouri, he finds himself in a head-on collision with his aging mother, Betty, a woman of wit and will. He can't bring himself to force her from the home they both treasure - the place where his father's voice lingers, the scene of shared jokes and, behind the dusty antiques, a rarely acknowledged conflict: Betty, who speaks her mind but cannot quite reveal her heart, has never really accepted the fact that her son is gay. Bettyville is Hodgman's memoir of secrets, silences and enduring love.

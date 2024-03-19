@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1455504211
+primary_isbn13: 9781455504213
+publisher: Twelve
+description: The former Treasury secretary and onetime head of Goldman Sachs  discusses how American business and political leaders can work  with China.
+title: Dealing With China
+author: Henry M Paulson Jr
+amazon_product_url: http://www.amazon.com/Dealing-China-Insider-Economic-Superpower/dp/1455504211?tag=NYTBSREV-20
+list_date: 2015/05/17
+published_date: 2015-04-14
+summary: NEW YORK TIMES BESTSELLER DEALING WITH CHINA takes the reader behind closed doors to witness the creation and evolution and future of China's state-controlled capitalism. Hank Paulson has dealt with China unlike any other foreigner. As head of Goldman Sachs, Paulson had a pivotal role in opening up China to private enterprise. Then, as Treasury secretary, he created the Strategic Economic Dialogue with what is now the world's second-largest economy. He negotiated with China on needed economic reforms, while safeguarding the teetering U.S. financial system. Over his career, Paulson has worked with scores of top Chinese leaders, including Xi Jinping, China's most powerful man in decades. In DEALING WITH CHINA, Paulson draws on his unprecedented access to modern China's political and business elite, including its three most recent heads of state, to answer several key questions: How did China become an economic superpower so quickly? How does business really get done there? What are the best ways for Western business and political leaders to work with, compete with, and benefit from China? How can the U.S. negotiate with and influence China given its authoritarian rule, its massive environmental concerns, and its huge population's unrelenting demands for economic growth and security? Written in the same anecdote-rich, page-turning style as Paulson's bestselling memoir, On the Brink, DEALING WITH CHINA is certain to become the classic and definitive examination of how to engage China's leaders as they build their economic superpower.

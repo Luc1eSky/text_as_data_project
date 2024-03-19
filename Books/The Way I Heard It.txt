@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 1982130857
+primary_isbn13: 9781982130855
+publisher: Gallery
+description: The television personality relays stories from his podcast and personal anecdotes.
+title: The Way I Heard It
+author: Mike Rowe
+amazon_product_url: https://www.amazon.com/Way-I-Heard-Mike-Rowe/dp/1982130857?tag=NYTBSREV-20
+list_date: 2019/12/29
+published_data: 2019-10-15
+summary: NEW YORK TIMES BESTSELLER Executive producer and host Mike Rowe presents a delightfully entertaining, seriously fascinating collection of his favorite episodes from America’s #1 short-form podcast, The Way I Heard It, along with a host of personal memories, ruminations, and insights. It’s a captivating must-read. The Way I Heard It presents thirty-five mysteries “for the curious mind with a short attention span.” Every one is a trueish tale about someone you know, filled with facts that you don’t. Movie stars, presidents, bloody do-gooders, and villains—they’re all here, waiting to shake your hand, hoping you’ll remember them. Delivered with Mike’s signature blend of charm, wit, and ingenuity, their stories are part of a larger mosaic—a memoir full of surprising revelations, sharp observations, and intimate, behind-the-scenes moments drawn from Mike’s own remarkable life and career.
+author_new0: Mike Rowe

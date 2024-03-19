@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0307959473
+primary_isbn13: 9780307959478
+publisher: Knopf
+description: The former defense secretary recounts his experience serving Presidents Bush and Obama during the wars in Iraq and Afghanistan.
+title: Duty
+author: Robert M Gates
+amazon_product_url: http://www.amazon.com/Duty-Memoirs-Secretary-at-War-ebook/dp/B00F8F3J2S?tag=NYTBSREV-20
+list_date: 2014/03/30
+published_date: 2014
+summary: The former Secretary of Defense offers a candid account of serving Presidents George W. Bush and Barack Obama during the wars in Iraq and Afghanistan.

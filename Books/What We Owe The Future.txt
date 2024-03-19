@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1541618629
+primary_isbn13: 9781541618626
+publisher: Basic
+description: A philosopher shares his perspective on what we should do now to ensure that civilization would rebound if it collapsed.
+title: What We Owe The Future
+author: William MacAskill
+amazon_product_url: https://www.amazon.com/dp/1541618629?tag=NYTBSREV-20
+list_date: 2022/09/04
+published_data: 2022-08-16
+summary: An Oxford philosopher argues that solving today's problems might require putting future generations ahead of ourselves The human story is just beginning. There are five thousand years of written history, but perhaps millions more to come. In What We Owe the Future, philosopher William MacAskill develops a perspective he calls longtermism to argue that this fact is of enormous moral importance. While we are comfortable thinking about the equal moral worth of humans alive today, we haven't considered the moral weight of future generations. We have put them at grave risk, and not just with climate change. AI could lock humans into perpetual dystopia, or pandemics could end us. But the future could be wonderful: moral and technological progress could result in unimaginable human flourishing. The future is in our hands. As MacAskill shows, we can make the world better for billions of years to come. Perhaps even more importantly, he shows us just how much is at stake if we consign future generations to oblivion.
+author_new0: William MacAskill

@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0593355423
+primary_isbn13: 9780593355428
+publisher: Ballantine
+description: Observations and anecdotes from a star of "Gilmore Girls."
+title: Have I Told You This Already?
+author: Lauren Graham
+amazon_product_url: https://www.amazon.com/dp/0593355423?tag=NYTBSREV-20
+list_date: 2022/12/04
+published_data: 2022-11-15
+summary: From the beloved star of Gilmore Girls and the New York Times bestselling author of Talking as Fast as I Can comes a candid, insightful, and wildly entertaining essay collection. “Fast, furious, smart, and ridiculously funny.”—Amy Sherman-Palladino, creator of Gilmore Girls, Bunheads, and The Marvelous Mrs. Maisel Lauren Graham has graced countless television screens with her quick-witted characters and hilarious talk show appearances, earning a reputation as a pop culture icon who always has something to say. In her latest book, Have I Told You This Already?, Graham combines her signature sense of humor with down-to-earth storytelling. Graham shares personal stories about her life and career—from her early days spent pounding the pavement while waitressing in New York City, to living on her aunt’s couch during her first Los Angeles pilot season, to thoughts on aging gracefully in Hollywood. In “R.I.P. Barneys New York” Graham writes about an early job as a salesperson at the legendary department store (and the time she inadvertently shoplifted from it); in “Ryan Gosling Cannot Confirm,” she attempts to navigate the unspoken rules of Hollywood hierarchies; in “Boobs of the ’90s” she worries her bras haven’t kept up with the times; and in “Actor-y Factory” she recounts what a day in the life of an actor looks like (unless you’re Brad Pitt). Filled with surprising anecdotes, sage advice, and laugh-out-loud observations, these all-new, original essays showcase the winning charm and wry humor that have delighted Graham’s millions of fans.
+author_new0: Lauren Graham

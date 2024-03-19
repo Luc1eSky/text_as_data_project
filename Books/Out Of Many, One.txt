@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 0593136969
+primary_isbn13: 9780593136966
+publisher: Crown
+description: Forty-three portraits by the former president, of men and women who have immigrated to the United States.
+title: Out Of Many, One
+author: George W. Bush
+amazon_product_url: https://www.amazon.com/dp/0593136969?tag=NYTBSREV-20
+list_date: 2021/05/16
+published_data: 2021-04-20
+summary: #1 NEW YORK TIMES BESTSELLER • In this powerful new collection of oil paintings and stories, President George W. Bush spotlights the inspiring journeys of America’s immigrants and the contributions they make to the life and prosperity of our nation. The issue of immigration stirs intense emotions today, as it has throughout much of American history. But what gets lost in the debates about policy are the stories of immigrants themselves, the people who are drawn to America by its promise of economic opportunity and political and religious freedom—and who strengthen our nation in countless ways. In the tradition of Portraits of Courage, President Bush’s #1 New York Times bestseller, Out of Many, One brings together forty-three full-color portraits of men and women who have immigrated to the United States, alongside stirring stories of the unique ways all of them are pursuing the American Dream. Featuring men and women from thirty-five countries and nearly every region of the world, Out of Many, One shows how hard work, strong values, dreams, and determination know no borders or boundaries and how immigrants embody values that are often viewed as distinctly American: optimism and gratitude, a willingness to strive and to risk, a deep sense of patriotism, and a spirit of self-reliance that runs deep in our immigrant heritage. In these pages, we meet a North Korean refugee fighting for human rights, a Dallas-based CEO who crossed the Rio Grande from Mexico at age seventeen, and a NASA engineer who as a girl in Nigeria dreamed of coming to America, along with notable figures from business, the military, sports, and entertainment. President Bush captures their faces and stories in striking detail, bringing depth to our understanding of who immigrants are, the challenges they face on their paths to citizenship, and the lessons they can teach us about our country’s character. As the stories unfold in this vibrant book, readers will gain a better appreciation for the humanity behind one of our most pressing policy issues and the countless ways in which America, through its tradition of welcoming newcomers, has been strengthened by those who have come here in search of a better life.
+author_new0: George W. Bush

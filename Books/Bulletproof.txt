@@ -1,0 +1,10 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781618688651
+publisher: Post Hill Press
+description: One of the women featured on MTV’s "Teen Mom" tells how she has built a life for herself and her son.
+title: Bulletproof
+author: Maci Bookout
+amazon_product_url: http://www.amazon.com/Bulletproof-Maci-Bookout/dp/1618688642?tag=NYTBSREV-20
+list_date: 2015/08/09

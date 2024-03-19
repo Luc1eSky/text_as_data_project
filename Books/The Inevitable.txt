@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9780698183650
+publisher: Viking
+description: The long-term trends and technological developments that will shape the next 30 years.
+title: The Inevitable
+author: Kevin Kelly
+amazon_product_url: http://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089?tag=NYTBSREV-20
+list_date: 2016/06/26
+published_date: 2021-09-15
+summary: N/A

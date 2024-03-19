@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 140907045X
+primary_isbn13: 9781409070450
+publisher: Random House
+description: The Monty Python alum’s history was written to accompany the 2004 BBC series.
+title: Terry Jones' Medieval Lives
+author: Terry Jones and Alan Ereira
+amazon_product_url: http://www.amazon.com/Terry-Jones-Medieval-Lives-Ereira-ebook/dp/B0031RDVS2?tag=NYTBSREV-20
+list_date: 2015/08/09
+published_date: 2009-05-27
+summary: Was medieval England full of knights on horseback rescuing fainting damsels in distress? Were the Middle Ages mired in superstition and ignorance? Why does nobody ever mention King Louis the First and Last? And, of course, those key questions: which monks were forbidden the delights of donning underpants... and did outlaws never wear trousers? Terry Jones and Alan Ereira are your guides to this most misrepresented and misunderstood period, and they point you to things that will surprise and provoke. Did you know, for example, that medieval people didn't think the world was flat? That was a total fabrication by an American journalist in the 19th century. Did you know that they didn't burn witches in the Middle Ages? That was a refinement of the so-called Renaissance. In fact, medieval kings weren't necessarily merciless tyrants, and peasants entertained at home using French pottery and fine wine. Terry Jones' Medieval Lives reveals Medieval Britain as you have never seen it before - a vibrant society teeming with individuality, intrigue and innovation.

@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 11
+primary_isbn10: 1250107814
+primary_isbn13: 9781250107817
+publisher: Flatiron
+description: A look at our biases and the argument for why the world is in a better state than we might think.
+title: Factfulness
+author: Hans Rosling with Ola Rosling and Anna Rosling Ronnlund
+amazon_product_url: https://www.amazon.com/Factfulness-Reasons-World-Things-Better-ebook/dp/B0756J1LLV?tag=NYTBSREV-20
+list_date: 2018/09/16
+published_date: 2018-04-03
+summary: "When asked simple questions about global trends - what percentage of the world's population lives in poverty, why the world's population is increasing, how many girls finish school - we systematically get the answers wrong. So wrong that a chimpanze choosing answers at random will consistently outguess teachers, journalists, investment bankers, and Nobel laureates. [Here] ... Hans Rosling - together with his two longtime collaborators, Anna and Ola - offers a radical new exploration of why thsi happens. They reveal the ten instincts that divide the world into two camps (usually some version of us and them) to the way we consume media (where fear rules) to how we perceive progress (believing that most things are getting worse)."--Jacket.

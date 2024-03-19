@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1954118007
+primary_isbn13: 9781954118003
+publisher: Spiegel & Grau
+description: A former national park ranger details her friendship with a wild fox in an isolated part of Montana.
+title: Fox And I
+author: Catherine Raven
+amazon_product_url: https://www.amazon.com/dp/1954118007?tag=NYTBSREV-20
+list_date: 2021/07/25
+published_data: 2021-06-30
+summary: A wild fox befriends a solitary woman at her home in Montana, and their relationship transforms them both in this inspiring, surprising, and often funny memoir. Both a new window onto the natural world and the introduction of a remarkable literary talent.Catherine Raven left home at 15, fleeing an abusive, disdainful father and an indifferent mother. More at home in nature than among people, she worked for many years as a National Parks ranger, eventually earning a Ph.D. in biology while working as a janitor and living in her car (which lacked a reverse gear) or on abandoned construction sites. She built a house on an isolated plot of land in Montana, teaching remotely and leading field courses in the National Parks. One day, she realized that the mangy-looking fox who had been appearing on her property was now showing up every day at 4:15, positioning himself near a lone forget-me-not near the house. She had never had a regular visitor before. How do you even talk to a fox? One day she brought out her camping chair, sat as near to him as she dared, and began reading to him from The Little Prince. Her scientific training had taught her not to anthropomorphize animals, yet as she grew to know him, his personality revealed itself--and he became her friend. But friends cannot always save each other from the uncontained forces of nature. Fox and I is also a poignant and dramatic tale of coping with inevitable loss and how that loss can be transformed into meaning. An uplifting, fable-like true story, it not only reveals the power of friendship and our interconnectedness with the natural world but introduces an original, imaginative, stunning new literary voice.
+author_new0: Catherine Raven

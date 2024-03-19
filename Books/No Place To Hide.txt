@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 162779073X
+primary_isbn13: 9781627790734
+publisher: Metropolitan/Holt
+description: The journalist, part of the Guardian team that won a 2014  Pulitzer Prize, presents new material about N.S.A. surveillance and describes his work with Edward Snowden.
+title: No Place To Hide
+author: Glenn Greenwald
+amazon_product_url: http://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/162779073X?tag=NYTBSREV-20
+list_date: 2014/06/22
+published_date: 2014-05-13
+summary: An investigative reporter for The Guardian and best-selling author of With Liberty and Justice for Some presents an assessment of the NSA surveillance scandal that has triggered debates over national security and information privacy to explore its alliances and consequences. 150,000 first printing.

@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 1546059733
+primary_isbn13: 9781546059738
+publisher: Center Street
+description: The Fox News host asks how anyone could vote against President Trump in the 2020 election.
+title: Don'T Lie To Me And Stop Trying To Steal Our Freedom
+author: Jeanine Pirro
+amazon_product_url: https://www.amazon.com/dp/1546059733?tag=NYTBSREV-20
+list_date: 2020/10/11
+published_data: 2020-09-22
+summary: Judge Jeanine Pirro, author of two New York Times bestsellers, puts the Trump-hating left on trial and exposes the lies and distortions of the president's enemies. It's been nearly four years since President Trump took office, and Judge Jeanine Pirro has had enough of the left's countless lies and false accusations. She is now forced to ask: How could anyone vote against President Trump this November? What more could you possibly want? In Keep Right!, Judge Jeanine brings her signature lively writing style and acute legal mind to topics such as the impeachment inquiry, the military, and the road to the 2020 presidential election. She will highlight President Trump's triumphs and his strength during the coronavirus crisis.
+author_new0: Jeanine Pirro

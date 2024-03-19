@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 5
+primary_isbn10: 0063073307
+primary_isbn13: 9780063073302
+publisher: Dey Street
+description: The Daytime Emmy Award-winning TV host shares stories from her life on and off screen.
+title: Live Wire
+author: Kelly Ripa
+amazon_product_url: https://www.amazon.com/dp/0063073307?tag=NYTBSREV-20
+list_date: 2022/11/13
+published_data: 2022-09-27
+summary: As a professional, as a wife, as a daughter and as a mother, Kelly Ripa brings a hard-earned wisdom and an eye for the absurdity of life to every minute of every day. Whether recounting how she and Mark really met, the level of chauvinism she experienced on set, how Jersey Pride follows her wherever she goes, and many, many moments of utter mortification, Kelly always tells it like it is. Print run 250,000.
+author_new0: Kelly Ripa

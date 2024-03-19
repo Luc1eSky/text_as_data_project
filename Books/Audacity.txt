@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0062426974
+primary_isbn13: 9780062426970
+publisher: Custom House
+description: An argument for the durability of Obama's legacy.
+title: Audacity
+author: Jonathan Chait
+amazon_product_url: https://www.amazon.com/Audacity-Barack-Critics-Created-Prevail/dp/0062426974?tag=NYTBSREV-20
+list_date: 2017/02/05
+published_date: 2017-01-17
+summary: New York Times bestseller An unassailable case that, in the eyes of history, Barack Obama will be viewed as one of America’s best and most accomplished presidents. Over the course of eight years, Barack Obama amassed an array of historic achievements. His administration saved the American economy from collapse, expanded health insurance to tens of millions who previously could not afford it, negotiated an unprecedented nuclear deal with Iran, helped craft a groundbreaking international climate accord, reined in Wall Street, launched a fundamental overhaul of our education system, and formulated a new vision of racial progress. He has done all of this despite a left that frequently disdained him as a sellout, and a hysterical right that did everything possible to destroy his agenda, even in instances when they actually agreed with what he was doing before Obama was the one doing it. Now, as the page turns to possibly the most dangerous Commander in Chief in our history, Jonathan Chait, one of America’s most incisive and meticulous political commentators, digs deep into Obama’s record on major policy fronts—the economy, the environment, domestic reform, health care, race, and foreign policy—to demonstrate why history will judge our forty-fourth president as among our greatest. Chait explains why so many observers, from cynical journalists to disheartened Democrats, missed the enormous evidence of progress amidst the smoke screen of extremist propaganda and the confinement of short-term perspective. He also reveals why Obama’s accomplishments will last despite the reactionary effort by Donald Trump and the Republicans to extinguish them. And in its resounding defense of Obama’s tenure, Audacity both makes clear his victories, and what we need to fight for next.

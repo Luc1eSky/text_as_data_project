@@ -1,0 +1,14 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 1250326753
+primary_isbn13: 9781250326751
+publisher: Flatiron
+description: An oral history of the K-pop group that is celebrating its 10th anniversary.
+title: Beyond The Story
+author: BTS and Myeongseok Kang
+amazon_product_url: https://www.amazon.com/dp/1250326753?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2023-07-09
+summary: Beyond the Story: 10-Year Record of BTS by BTS and Myeongseok Kang.
+author_new0: BTS
+author_new1: Myeongseok Kang

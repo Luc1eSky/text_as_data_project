@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0358393264
+primary_isbn13: 9780358393269
+publisher: Mariner
+description: The Pulitzer Prize-winning journalist examines a cyclical pattern of violence and backlash against racial progress.
+title: American Whitelash
+author: Wesley Lowery
+amazon_product_url: https://www.amazon.com/dp/0358393264?tag=NYTBSREV-20
+list_date: 2023/07/16
+published_data: 2023-06-27
+summary: Pulitzer Prize-winning journalist Wesley Lowery confronts the sickness at the heart of American society: the cyclical pattern of violence that has marred every moment of racial progress in this country, and whose bloodshed began anew following Obama's 2008 election. In 2008, Barack Obama's historic victory was heralded as a turning point for the country. And so it would be--just not in the way that most Americans hoped. The election of the nation's first Black president fanned long-burning embers of white supremacy, igniting a new and frightening phase in a historical American cycle of racial progress and white backlash. In American Whitelash, Pulitzer Prize-winning journalist and best-selling author Wesley Lowery charts the return of this blood-stained trend, showing how the forces of white power retaliated against Obama's victory--and both profited from, and helped to propel, the rise of Donald Trump. Interweaving deep historical analysis with gripping firsthand reporting on both victims and perpetrators of violence, Lowery uncovers how this vicious cycle is carrying us into ever more perilous territory, how the federal government has failed to intervene, and how we still might find a route of escape.
+author_new0: Wesley Lowery

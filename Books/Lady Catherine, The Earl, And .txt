@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 038534497X
+primary_isbn13: 9780385344975
+publisher: Broadway
+description: The story of Catherine Wendell and her husband, who became the sixth Earl of Carnarvon.
+title: Lady Catherine, The Earl, And The Real Downton Abbey
+author: the Countess of Carnarvon
+amazon_product_url: http://www.amazon.com/Lady-Catherine-Earl-Downton-Abbey-ebook/dp/B00CNQ7C6O?tag=NYTBSREV-20
+list_date: 2015/05/31
+published_date: 2013-10-29
+summary: Lady Catherine, the Earl, and the Real Downton Abbey tells the story behind Highclere Castle, the setting for Julian Fellowes’s Emmy Award-winning PBS show Downton Abbey, and the life of one of its most famous inhabitants, Catherine Wendell. In this transporting companion piece to the New York Times bestseller Lady Almina and the Real Downton Abbey, Catherine, a beautiful and spirited American woman who married Lady Almina’s son, the man who would become the 6th Earl of Carnarvon, presides over the grand estate during a tumultuous time for the British aristocracy. Following the First World War, many of the great houses of England faded as their owners fortunes declined in the new political and social world of the 1920s and 1930s. As war loomed, Highclere’s survival as the family home of the Carnarvons was again in the balance—as was peace between the nations of Europe. Using copious materials—including diaries and scrapbooks—from the castle’s archives, the current Countess of Carnarvon brings alive a very modern story in a beautiful and fabled setting, paying particular attention to the staff who provide Highclere Castle with continuity between generations.

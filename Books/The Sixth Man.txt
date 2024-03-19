@@ -1,0 +1,14 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0525533982
+primary_isbn13: 9780525533986
+publisher: Blue Rider
+description: A memoir by the professional basketball player for the Golden State Warriors and 2012 N.B.A. All-Star.
+title: The Sixth Man
+author: Andre Iguodala with Carvell Wallace
+amazon_product_url: https://www.amazon.com/Sixth-Man-Memoir-Andre-Iguodala/dp/0525533982?tag=NYTBSREV-20
+list_date: 2019/07/21
+published_data: 2019-06-25
+summary: **The Instant National Bestseller** The standout memoir from NBA powerhouse Andre Iguodala, the indomitable sixth man of the Golden State Warriors. Fresh off the Warriors’ fourth Finals win in eight years, Andre Iguodala long has been one of the most admired players in the NBA. Off the court, Iguodala has earned respect, too—for his successful tech investments, his philanthropy, and increasingly for his contributions to the conversation about race in America. It is no surprise, then, that in his first book, Andre, with his cowriter Carvell Wallace, has pushed himself to go further than he ever has before about his life, not only as an athlete but about what makes him who he is at his core. The Sixth Man traces Andre’s journey from childhood in his Illinois hometown to his Bay Area home court today. Basketball has always been there. But this is the story, too, of his experience of the conflict and racial tension always at hand in a professional league made up largely of African American men; of whether and why the athlete owes the total sacrifice of his body; of the relationship between competition and brotherhood among the players of one of history’s most glorious championship teams. And of what motivates an athlete to keep striving for more once they’ve already achieved the highest level of play they could have dreamed. On drive, on leadership, on pain, on accomplishment, on the shame of being given a role, and the glory of taking a role on: This is a powerful memoir of life and basketball that reveals new depths to the superstar athlete, and offers tremendous insight into most urgent stories being told in American society today.
+author_new0: Andre Iguodala
+author_new1: Carvell Wallace

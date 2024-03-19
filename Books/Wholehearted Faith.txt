@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0062894471
+primary_isbn13: 9780062894472
+publisher: HarperOne
+description: Reflections on the identity and purpose of Christianity completed posthumously.
+title: Wholehearted Faith
+author: Rachel Held Evans with Jeff Chu
+amazon_product_url: https://www.amazon.com/dp/0062894471?tag=NYTBSREV-20
+list_date: 2021/11/21
+published_data: 2021-11-02
+summary: A new collection of original writings by Rachel Held Evans, whose reflections on faith and life continue to encourage, challenge, and influence. Rachel Held Evans is widely recognized for her theologically astute, profoundly honest, and beautifully personal books, which have guided, instructed, edified, and shaped Christians as they seek to live out a just and loving faith. At the time of her tragic death in 2019, Rachel was working on a new book about wholeheartedness. With the help of her close friend and author Jeff Chu, that work-in-progress has been woven together with some of her other unpublished writings into a rich collection of essays that ask candid questions about the stories we've been told--and the stories we tell--about our faith, our selves, and our world. This book is for the doubter and the dreamer, the seeker and the sojourner, those who long for a sense of spiritual wholeness as well as those who have been hurt by the Church but can't seem to let go of the story of Jesus. Through theological reflection and personal recollection, Rachel wrestles with God's grace and love, looks unsparingly at what the Church is and does, and explores universal human questions about becoming and belonging. An unforgettable, moving, and intimate book.
+author_new0: Rachel Held Evans
+author_new1: Jeff Chu

@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 8
+primary_isbn10: 0525540539
+primary_isbn13: 9780525540533
+publisher: Sentinel
+description: The "Fox & Friends” host gives an account of the battle against the Mexican Army in 1836.
+title: Sam Houston And The Alamo Avengers
+author: Brian Kilmeade
+amazon_product_url: https://www.amazon.com/Sam-Houston-Alamo-Avengers-American/dp/0525540539?tag=NYTBSREV-20
+list_date: 2020/01/12
+published_data: 2019-11-05
+summary: NEW YORK TIMES BESTSELLER The pulse-pounding story of the fight for Texas by The New York Times bestselling author of George Washington's Secret Six and Thomas Jefferson and the Tripoli Pirates. In March 1836, the Mexican army led by General Santa Anna massacred more than two hundred Texians who had been trapped in the Alamo. After thirteen days of fighting, American legends Jim Bowie and Davey Crockett died there, along with other Americans who had moved to Texas looking for a fresh start. It was a crushing blow to Texas’s fight for freedom. But the story doesn’t end there. The defeat galvanized the Texian settlers, and under General Sam Houston’s leadership they rallied. Six weeks after the Alamo, Houston and his band of settlers defeated Santa Anna’s army in a shocking victory, winning the independence for which so many had died. Sam Houston and the Alamo Avengers recaptures this pivotal war that changed America forever, and sheds light on the tightrope all war heroes walk between courage and calculation. Thanks to Kilmeade’s storytelling, a new generation of readers will remember the Alamo—and recognize the lesser known heroes who snatched victory from the jaws of defeat.
+author_new0: Brian Kilmeade

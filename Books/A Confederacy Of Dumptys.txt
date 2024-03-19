@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1797209477
+primary_isbn13: 9781797209470
+publisher: Chronicle Prism
+description: An illustrated collection of poems and illustrations profiling scoundrels from America’s past and present.
+title: A Confederacy Of Dumptys
+author: John Lithgow
+amazon_product_url: https://www.amazon.com/dp/1797209477?tag=NYTBSREV-20
+list_date: 2021/10/24
+published_data: 2021-10-12
+summary: The next book in John Lithgow's New York Times bestselling series Following the success of New York Times bestsellers Dumpty and Trumpty Dumpty Wanted a Crown, award-winning actor, author, and illustrator John Lithgow presents the third book in his runaway hit series. A Confederacy of Dumptys takes us through a history of twenty-five "American Scoundrels" in this all-new collection of Lithgow's satirical poems and illustrations. While the Trump Era was rife with corruption and abuse of power, it was nothing new. Through Lithgow's cutting humor, you will read about a rogues' gallery of villains that came before Donald J. Trump, powerful men and women who were corrupt, venal, criminal, adulterous, racist, or just plain disgusting. With dark and lyrical stories from across American history, you will learn about long-forgotten figures and bad actors of today, including the first Grand Wizard of the Ku Klux Klan, the perpetrator of 19th century women's pyramid schemes, and participants in both the Watergate scandal and the Capitol insurrection. Trump and Nixon show up, of course, but also Leona Helmsley, Boss Tweed, Typhoid Mary, Newt Gingrich, Ted Cruz, and many more. Skipping through time, and delivered with classic Lithgow wit and style, A Confederacy of Dumptys is an exuberant reminder of how not to repeat history. Digital audio edition read by the author. The perfect book for: * Political satire fans--viewers of The Daily Show with Trevor Noah, Last Week Tonight with John Oliver, and The Late Show with Stephen Colbert. * American history buffs and trivia enthusiasts--readers of Jon's Stewart's America (The Book): A Citizen's Guide to Democracy Inaction and Josh Clark's Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things. * Poetry, art, and illustration aficionados.
+author_new0: John Lithgow

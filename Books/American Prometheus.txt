@@ -1,0 +1,14 @@
+rank: 1
+weeks_on_list: 3
+primary_isbn10: 0375726268
+primary_isbn13: 9780375726262
+publisher: Vintage
+description: A biography of J. Robert Oppenheimer. Winner of the Pulitzer Prize in 2006 and an inspiration for the film “Oppenheimer.”
+title: American Prometheus
+author: Kai Bird and Martin J. Sherwin
+amazon_product_url: https://www.amazon.com/dp/0375726268?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2006-04-11
+summary: THE INSPIRATION FOR THE MAJOR MOTION PICTURE OPPENHEIMER • "A riveting account of one of history’s most essential and paradoxical figures.”—Christopher Nolan #1 NEW YORK TIMES BESTSELLER • PULITZER PRIZE WINNER • The definitive biography of J. Robert Oppenheimer, one of the iconic figures of the twentieth century, a brilliant physicist who led the effort to build the atomic bomb for his country in a time of war, and who later found himself confronting the moral consequences of scientific progress. In this magisterial, acclaimed biography twenty-five years in the making, Kai Bird and Martin Sherwin capture Oppenheimer’s life and times, from his early career to his central role in the Cold War. This is biography and history at its finest, riveting and deeply informative. “A masterful account of Oppenheimer’s rise and fall, set in the context of the turbulent decades of America’s own transformation. It is a tour de force.” —Los Angeles Times Book Review “A work of voluminous scholarship and lucid insight, unifying its multifaceted portrait with a keen grasp of Oppenheimer’s essential nature.... It succeeds in deeply fathoming his most damaging, self-contradictory behavior.” —The New York Times
+author_new0: Kai Bird
+author_new1: Martin J. Sherwin

@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 2
+primary_isbn10: 014313356X
+primary_isbn13: 9780143133568
+publisher: Penguin
+description: Speeches by the Swedish climate activist, including her address to the United Nations.
+title: No One Is Too Small To Make A Difference
+author: Greta Thunberg
+amazon_product_url: https://www.amazon.com/One-Too-Small-Make-Difference/dp/014313356X?tag=NYTBSREV-20
+list_date: 2020/01/12
+published_data: 2019-11-12
+summary: The #1 New York Times bestseller by Time's 2019 Person of the Year "Greta Thunberg is already one of our planet’s greatest advocates." —Barack Obama The groundbreaking speeches of Greta Thunberg, the young climate activist who has become the voice of a generation, including her historic address to the United Nations In August 2018 a fifteen-year-old Swedish girl, Greta Thunberg, decided not to go to school one day in order to protest the climate crisis. Her actions sparked a global movement, inspiring millions of students to go on strike for our planet, forcing governments to listen, and earning her a Nobel Peace Prize nomination. No One Is Too Small to Make A Difference brings you Greta in her own words, for the first time. Collecting her speeches that have made history across the globe, from the United Nations to Capitol Hill and mass street protests, her book is a rallying cry for why we must all wake up and fight to protect the living planet, no matter how powerless we feel. Our future depends upon it.
+author_new0: Greta Thunberg

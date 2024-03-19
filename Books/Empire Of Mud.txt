@@ -1,0 +1,10 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: 9781493013937
+publisher: Lyons Press
+description: How Washington attained its reputation as dirty in multiple senses of the word.
+title: Empire Of Mud
+author: JD Dickey
+amazon_product_url: http://www.amazon.com/Empire-Mud-Secret-History-Washington-ebook/dp/B00NEHPECA?tag=NYTBSREV-20
+list_date: 2015/03/15

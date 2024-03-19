@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1324036729
+primary_isbn13: 9781324036722
+publisher: Norton
+description: How ultra-processed foods, which are now part of much of what we consume, negatively impact our health and the environment.
+title: Ultra-Processed People
+author: Chris van Tulleken
+amazon_product_url: https://www.amazon.com/dp/1324036729?tag=NYTBSREV-20
+list_date: 2023/07/16
+published_data: 2023-06-27
+summary: A manifesto to change how you eat and how you think about the human body.
+author_new0: Chris van Tulleken

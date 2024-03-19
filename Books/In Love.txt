@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 3
+primary_isbn10: 0593243943
+primary_isbn13: 9780593243947
+publisher: Random House
+description: After her husband’s Alzheimer’s diagnosis, the author travels with him to Dignitas, a prominent Swiss right-to-die organization.
+title: In Love
+author: Amy Bloom
+amazon_product_url: https://www.amazon.com/dp/0593243943?tag=NYTBSREV-20
+list_date: 2022/04/10
+published_data: 2022-03-08
+summary: NEW YORK TIMES BESTSELLER • A powerful memoir of a love that leads two people to find a courageous way to part—and a woman’s struggle to go forward in the face of loss—that “enriches the reader’s life with urgency and gratitude” (The Washington Post) “A pleasure to read . . . Rarely has a memoir about death been so full of life. . . . Bloom has a talent for mixing the prosaic and profound, the slapstick and the serious.”—USA Today ONE OF THE BEST BOOKS OF THE YEAR: NPR Amy Bloom began to notice changes in her husband, Brian: He retired early from a new job he loved; he withdrew from close friendships; he talked mostly about the past. Suddenly, it seemed there was a glass wall between them, and their long walks and talks stopped. Their world was altered forever when an MRI confirmed what they could no longer ignore: Brian had Alzheimer’s disease. Forced to confront the truth of the diagnosis and its impact on the future he had envisioned, Brian was determined to die on his feet, not live on his knees. Supporting each other in their last journey together, Brian and Amy made the unimaginably difficult and painful decision to go to Dignitas, an organization based in Switzerland that empowers a person to end their own life with dignity and peace. In this heartbreaking and surprising memoir, Bloom sheds light on a part of life we so often shy away from discussing—its ending. Written in Bloom’s captivating, insightful voice and with her trademark wit and candor, In Love is an unforgettable portrait of a beautiful marriage, and a boundary-defying love.
+author_new0: Amy Bloom

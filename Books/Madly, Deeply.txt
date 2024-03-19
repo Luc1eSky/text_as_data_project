@@ -1,0 +1,13 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1250847958
+primary_isbn13: 9781250847959
+publisher: Holt
+description: The late stage and screen actor’s diaries from 1993 to 2016; edited by Alan Taylor.
+title: Madly, Deeply
+author: Alan Rickman
+amazon_product_url: https://www.amazon.com/dp/1250847958?tag=NYTBSREV-20
+list_date: 2022/11/06
+published_data: 2022-10-18
+summary: Harry Potter and Sense and Sensibility actor Alan Rickman builds upon his legacy as a world-class actor, a tireless political activist, an avid traveler, and more through his diaries—a twenty-five-year passion project in which Rickman invites readers backstage and into his life. Alan Rickman remains the one of the most beloved actors of all time across almost every genre in the American and British markets, from his breakout role as Die Hard’s Hans Gruber to his heart-wrenching run as Professor Severus Snape, and beyond. His air of dignity, his sonorous voice, and the knowing wit he brought to each role have captivated viewers across nearly every generation alive today. But Rickman’s artistry wasn’t confined to just his performances. Fans of movies, theater, and memoirs at large will delight in the intimate experience of Rickman detailing the extraordinary and the ordinary in a way that is “anecdotal, indiscreet, witty, gossipy and utterly candid.” He grants us access to his thoughts and insights on theater performances, the craft of acting, politics, friendships, work projects, and his general musings on life. Madly, Deeply: The Diaries of Alan Rickman was written with the intention to be shared, and reading it feels as if Rickman is chatting to a close friend.
+author_new0: Alan Rickman

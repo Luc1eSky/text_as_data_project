@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781493016716
+publisher: Lyons Press
+description: A look at the women who married into the Kennedy family.
+title: Kennedy Wives
+author: Amber Hunt and David Batcher
+amazon_product_url: http://www.amazon.com/Kennedy-Wives-Triumph-Tragedy-Americas-ebook/dp/B00QK3BMIA?tag=NYTBSREV-20
+list_date: 2015/08/23

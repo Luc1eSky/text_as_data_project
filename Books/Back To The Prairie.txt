@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1982177187
+primary_isbn13: 9781982177188
+publisher: Gallery
+description: The actress and former president of the Screen Actors Guild chronicles renovating a cottage in the Catskills during the Covid-19 pandemic.
+title: Back To The Prairie
+author: Melissa Gilbert
+amazon_product_url: https://www.amazon.com/dp/1982177187?tag=NYTBSREV-20
+list_date: 2022/05/29
+published_data: 2022-05-10
+summary: The New York Times bestselling author, star of "Little House on the Prairie," and two-term SAG president recounts her return to rustic life with her new husband in a cottage in the Catskill Mountains during the COVID-19 pandemic.
+author_new0: Melissa Gilbert

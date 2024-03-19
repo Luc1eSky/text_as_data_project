@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 006265943X
+primary_isbn13: 9780062659439
+publisher: Harper/HarperCollins
+description: An examination of donations made to the Clinton Foundation by foreign entities.
+title: Clinton Cash
+author: Peter Schweizer
+amazon_product_url: http://www.amazon.com/Clinton-Cash-Foreign-Governments-Businesses-ebook/dp/B00Q33PRDS?tag=NYTBSREV-20
+list_date: 2016/11/20
+published_date: 2016-07-26
+summary: The definitive takedown by the #1 New York Times bestselling author of Secret Empires. In 2000, Bill and Hillary Clinton owed millions of dollars in legal debt. Since then, they’ve earned over $130 million. Where did the money come from? Most people assume that the Clintons amassed their wealth through lucrative book deals and high-six figure fees for speaking gigs. Now, Peter Schweizer shows who is really behind those enormous payments. In his New York Times bestselling books Extortion and Throw Them All Out, Schweizer detailed patterns of official corruption in Washington that led to congressional resignations and new ethics laws. In Clinton Cash, he follows the Clinton money trail, revealing the connection between their personal fortune, their “close personal friends,” the Clinton Foundation, foreign nations, and some of the highest ranks of government. Schweizer reveals the Clinton’s troubling dealings in Kazakhstan, Colombia, Haiti, and other places at the “wild west” fringe of the global economy. In this blockbuster exposé, Schweizer merely presents the troubling facts he’s uncovered. Meticulously researched and scrupulously sourced, filled with headline-making revelations, Clinton Cash raises serious questions of judgment, of possible indebtedness to an array of foreign interests, and ultimately, of fitness for high public office.

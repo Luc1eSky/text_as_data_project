@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 4
+primary_isbn10: 1630061026
+primary_isbn13: 9781630061029
+publisher: Humanix
+description: The conservative commentator describes a secret conspiracy to undermine the Trump presidency. From the author of "The Obama Nation."
+title: Killing The Deep State
+author: Jerome R Corsi
+amazon_product_url: https://www.amazon.com/Killing-Deep-State-Fight-President/dp/1630061026?tag=NYTBSREV-20
+list_date: 2018/05/06
+published_date: 2018-03-13
+summary: #1 New York Times bestselling author of UNFIT FOR COMMAND and THE OBAMA NATION Jerome Corsi uncovers the secret conspiracy to destroy the Trump presidency and what Trump must do now to prevail.

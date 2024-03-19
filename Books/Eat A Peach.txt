@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 152475921X
+primary_isbn13: 9781524759216
+publisher: Clarkson Potter
+description: A memoir by the chef and founder of Momofuku and the star of the Netflix series “Ugly Delicious.”
+title: Eat A Peach
+author: David Chang and Gabe Ulla
+amazon_product_url: https://www.amazon.com/dp/152475921X?tag=NYTBSREV-20
+list_date: 2020/09/27
+published_data: 2020-09-08
+summary: NEW YORK TIMES BESTSELLER • From the chef behind Momofuku and star of Netflix’s Ugly Delicious—an intimate account of the making of a chef, the story of the modern restaurant world that he helped shape, and how he discovered that success can be much harder to understand than failure. ONE OF THE BEST BOOKS OF THE YEAR: NPR, Fortune, Parade, The New York Public Library, Garden & Gun In 2004, Momofuku Noodle Bar opened in a tiny, stark space in Manhattan’s East Village. Its young chef-owner, David Chang, worked the line, serving ramen and pork buns to a mix of fellow restaurant cooks and confused diners whose idea of ramen was instant noodles in Styrofoam cups. It would have been impossible to know it at the time—and certainly Chang would have bet against himself—but he, who had failed at almost every endeavor in his life, was about to become one of the most influential chefs of his generation, driven by the question, “What if the underground could become the mainstream?” Chang grew up the youngest son of a deeply religious Korean American family in Virginia. Graduating college aimless and depressed, he fled the States for Japan, hoping to find some sense of belonging. While teaching English in a backwater town, he experienced the highs of his first full-blown manic episode, and began to think that the cooking and sharing of food could give him both purpose and agency in his life. Full of grace, candor, grit, and humor, Eat a Peach chronicles Chang’s switchback path. He lays bare his mistakes and wonders about his extraordinary luck as he recounts the improbable series of events that led him to the top of his profession. He wrestles with his lifelong feelings of otherness and inadequacy, explores the mental illness that almost killed him, and finds hope in the shared value of deliciousness. Along the way, Chang gives us a penetrating look at restaurant life, in which he balances his deep love for the kitchen with unflinching honesty about the industry’s history of brutishness and its uncertain future.
+author_new0: David Chang
+author_new1: Gabe Ulla

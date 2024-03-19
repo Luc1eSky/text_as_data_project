@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1476764743
+primary_isbn13: 9781476764740
+publisher: Threshold Editions/Mercury Radio Arts
+description: Little-known stories from the American past.
+title: Miracles And Massacres
+author: Glenn Beck with Kevin Balfe and Hannah Beck
+amazon_product_url: http://www.amazon.com/Miracles-Massacres-Untold-Stories-America-ebook/dp/B00EWWLKPQ?tag=NYTBSREV-20
+list_date: 2014/01/19
+published_date: 2013-11-19
+summary: Details some of the little-known stories from American history that explain the American identity and where the country is headed in the future.

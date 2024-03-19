@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 85
+primary_isbn10: 1571313567
+primary_isbn13: 9781571313560
+publisher: Milkweed Editions
+description: A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.
+title: Braiding Sweetgrass
+author: Robin Wall Kimmerer
+amazon_product_url: https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20
+list_date: 2023/07/30
+published_data: 2014-09-01
+summary: "As a leading researcher in the field of biology, Robin Wall Kimmerer understands the delicate state of our world. But as an active member of the Potawatomi nation, she senses and relates to the world through a way of knowing far older than any science. In Braiding Sweetgrass, she intertwines these two modes of awareness--the analytic and the emotional, the scientific and the cultural--to ultimately reveal a path toward healing the rift that grows between people and nature. The woven essays that construct this book bring people back into conversation with all that is green and growing; a universe that never stopped speaking to us, even when we forgot how to listen"--
+author_new0: Robin Wall Kimmerer

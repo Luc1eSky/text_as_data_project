@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 30
+primary_isbn10: 0679603859
+primary_isbn13: 9780679603856
+publisher: Random House
+description: A Times reporter’s account of the science behind how we form, and break, habits.
+title: The Power Of Habit
+author: Charles Duhigg
+amazon_product_url: http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X?tag=NYTBSREV-20
+list_date: 2016/07/10
+published_date: 2012-02-28
+summary: NEW YORK TIMES BESTSELLER • This instant classic explores how we can change our lives by changing our habits. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Wall Street Journal • Financial Times In The Power of Habit, award-winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to the sidelines of the NFL to the front lines of the civil rights movement, Duhigg presents a whole new understanding of human nature and its potential. At its core, The Power of Habit contains an exhilarating argument: The key to exercising regularly, losing weight, being more productive, and achieving success is understanding how habits work. As Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives. With a new Afterword by the author “Sharp, provocative, and useful.”—Jim Collins “Few [books] become essential manuals for business and living. The Power of Habit is an exception. Charles Duhigg not only explains how habits are formed but how to kick bad ones and hang on to the good.”—Financial Times “A flat-out great read.”—David Allen, bestselling author of Getting Things Done: The Art of Stress-Free Productivity “You’ll never look at yourself, your organization, or your world quite the same way.”—Daniel H. Pink, bestselling author of Drive and A Whole New Mind “Entertaining . . . enjoyable . . . fascinating . . . a serious look at the science of habit formation and change.”—The New York Times Book Review

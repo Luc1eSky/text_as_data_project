@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 
+primary_isbn13: 9780698154506
+publisher: Riverhead
+description: A history of innovation focused on the development of six key technologies of modern life; the companion volume to a PBS series.
+title: How We Got To Now
+author: Steven Johnson
+amazon_product_url: http://www.amazon.com/How-We-Got-Now-Innovations/dp/1594632960?tag=NYTBSREV-20
+list_date: 2014/11/09
+published_date: 2021-09-15
+summary: N/A

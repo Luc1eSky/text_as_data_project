@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1538709201
+primary_isbn13: 9781538709207
+publisher: Grand Central
+description: The actor and travel writer treks 500 miles across Spain's Camino de Santiago with his elder son.
+title: Walking With Sam
+author: Andrew McCarthy
+amazon_product_url: https://www.amazon.com/dp/1538709201?tag=NYTBSREV-20
+list_date: 2023/05/28
+published_data: 2023-05-09
+summary: An intimate, funny, and poignant travel memoir following New York Times bestselling author and actor Andrew McCarthy as he walks the Camino de Santiago with his son Sam in an effort to get to know each other man to man. When Andrew McCarthy's eldest son began to take his first steps into adulthood, McCarthy found himself wishing time would slow down. Looking to create a more meaningful connection with his son before he fled the nest, as well as recreate his own life-altering journey from decades before, McCarthy decided to set off with his son, Sam, on a trek like few others: 500 miles across Spain's Camino de Santiago. Over the course of the journey, the pair traversed an unforgiving landscape, having more difficult and honest conversations in five weeks than they'd had in the preceding two decades, discussions of growing up, divorce, the trauma of school, McCarthy's difficult relationship with his own father, fame, Kanye West and Flaming Hot Cheetos that threatened to either derail their relationship or cement it. WALKING WITH SAM captures this intimate, candid and hopeful expedition as the father son duo travel across the trail and towards one another.
+author_new0: Andrew McCarthy

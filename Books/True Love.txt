@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0451468686
+primary_isbn13: 9780451468680
+publisher: Celebra
+description: The entertainer describes what she learned in the two-year period following her divorce.
+title: True Love
+author: Jennifer Lopez
+amazon_product_url: http://www.amazon.com/True-Love-Jennifer-Lopez-ebook/dp/B00KWFZ7GA?tag=NYTBSREV-20
+list_date: 2014/11/30
+published_date: 2014
+summary: One of the most influential Latina performers in history opens up about her life's most defining period, two years during which it took everything she had to rise above the greatest challenges she had ever faced.

@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 6
+primary_isbn10: 0593298942
+primary_isbn13: 9780593298947
+publisher: Penguin Press
+description: The Pulitzer Prize-winning reporters examine Trump’s final year in office, with a focus on the key players around him.
+title: I Alone Can Fix It
+author: Carol Leonnig and Philip Rucker
+amazon_product_url: https://www.amazon.com/dp/0593298942?tag=NYTBSREV-20
+list_date: 2021/09/12
+published_data: 2021-07-20
+summary: The instant #1 New York Times bestseller | A Washington Post Notable Book | One of NPR's Best Books of 2021 The definitive behind-the-scenes story of Trump's final year in office, by Phil Rucker and Carol Leonnig, the Pulitzer-Prize winning reporters and authors of A Very Stable Genius. “Chilling.” – Anderson Cooper “Jaw-dropping.” – John Berman “Shocking.” – John Heilemann “Explosive.” – Hallie Jackson “Blockbuster new reporting.” – Nicolle Wallace “Bracing new revelations.” – Brian Williams “Bombshell reporting.” – David Muir The true story of what took place in Donald Trump’s White House during a disastrous 2020 has never before been told in full. What was really going on around the president, as the government failed to contain the coronavirus and over half a million Americans perished? Who was influencing Trump after he refused to concede an election he had clearly lost and spread lies about election fraud? To answer these questions, Phil Rucker and Carol Leonnig reveal a dysfunctional and bumbling presidency’s inner workings in unprecedented, stunning detail. Focused on Trump and the key players around him—the doctors, generals, senior advisers, and Trump family members— Rucker and Leonnig provide a forensic account of the most devastating year in a presidency like no other. Their sources were in the room as time and time again Trump put his personal gain ahead of the good of the country. These witnesses to history tell the story of him longing to deploy the military to the streets of American cities to crush the protest movement in the wake of the killing of George Floyd, all to bolster his image of strength ahead of the election. These sources saw firsthand his refusal to take the threat of the coronavirus seriously—even to the point of allowing himself and those around him to be infected. This is a story of a nation sabotaged—economically, medically, and politically—by its own leader, culminating with a groundbreaking, minute-by-minute account of exactly what went on in the Capitol building on January 6, as Trump’s supporters so easily breached the most sacred halls of American democracy, and how the president reacted. With unparalleled access, Rucker and Leonnig explain and expose exactly who enabled—and who foiled—Trump as he sought desperately to cling to power. A classic and heart-racing work of investigative reporting, this book is destined to be read and studied by citizens and historians alike for decades to come.
+author_new0: Carol Leonnig
+author_new1: Philip Rucker

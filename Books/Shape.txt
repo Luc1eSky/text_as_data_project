@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1984879057
+primary_isbn13: 9781984879059
+publisher: Penguin Press
+description: The ways geometry might give a better understanding of scientific, political and philosophical problems.
+title: Shape
+author: Jordan Ellenberg
+amazon_product_url: https://www.amazon.com/dp/1984879057?tag=NYTBSREV-20
+list_date: 2021/06/13
+published_data: 2021-05-25
+summary: An instant New York Times Bestseller! “Unreasonably entertaining . . . reveals how geometric thinking can allow for everything from fairer American elections to better pandemic planning.” —The New York Times From the New York Times-bestselling author of How Not to Be Wrong—himself a world-class geometer—a far-ranging exploration of the power of geometry, which turns out to help us think better about practically everything. How should a democracy choose its representatives? How can you stop a pandemic from sweeping the world? How do computers learn to play Go, and why is learning Go so much easier for them than learning to read a sentence? Can ancient Greek proportions predict the stock market? (Sorry, no.) What should your kids learn in school if they really want to learn to think? All these are questions about geometry. For real. If you're like most people, geometry is a sterile and dimly remembered exercise you gladly left behind in the dust of ninth grade, along with your braces and active romantic interest in pop singers. If you recall any of it, it's plodding through a series of miniscule steps only to prove some fact about triangles that was obvious to you in the first place. That's not geometry. Okay, it is geometry, but only a tiny part, which has as much to do with geometry in all its flush modern richness as conjugating a verb has to do with a great novel. Shape reveals the geometry underneath some of the most important scientific, political, and philosophical problems we face. Geometry asks: Where are things? Which things are near each other? How can you get from one thing to another thing? Those are important questions. The word "geometry"comes from the Greek for "measuring the world." If anything, that's an undersell. Geometry doesn't just measure the world—it explains it. Shape shows us how.
+author_new0: Jordan Ellenberg

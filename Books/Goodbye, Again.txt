@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062880853
+primary_isbn13: 9780062880857
+publisher: Harper Perennial
+description: A collection of personal essays on anxiety, loneliness and productivity.
+title: Goodbye, Again
+author: Jonny Sun
+amazon_product_url: https://www.amazon.com/dp/0062880853?tag=NYTBSREV-20
+list_date: 2021/05/09
+published_data: 2020-04-14
+summary: "...a collection of touching and hilarious personal essays, stories, poems--accompanied by his trademark illustrations--covering topics such as mental health, happiness, and what it means to belong."--
+author_new0: Jonny Sun

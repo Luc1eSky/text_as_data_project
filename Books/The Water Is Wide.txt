@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 
+primary_isbn13: 9781453203927
+publisher: Open Road
+description: The author describes a year he spent teaching in a two-room schoolhouse on a remote island off South Carolina. Originally published in 1972.
+title: The Water Is Wide
+author: Pat Conroy
+amazon_product_url: http://www.amazon.com/The-Water-Wide-Pat-Conroy-ebook/dp/B003XKN65U?tag=NYTBSREV-20
+list_date: 2016/01/24
+published_date: 2021-09-15
+summary: N/A

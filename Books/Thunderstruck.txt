@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 0307351920
+primary_isbn13: 9780307351920
+publisher: Broadway
+description: Intertwined stories of early-20th-century murder and scientific intrigue, by the author of "The Devil in the White City"; first published in 2006.
+title: Thunderstruck
+author: Erik Larson
+amazon_product_url: http://www.amazon.com/Thunderstruck-Times-bestselling-author-Larson-ebook/dp/B000JMKR4S?tag=NYTBSREV-20
+list_date: 2015/03/22
+published_date: 2006-10-24
+summary: A true story of love, murder, and the end of the world’s “great hush.” In Thunderstruck, Erik Larson tells the interwoven stories of two men—Hawley Crippen, a very unlikely murderer, and Guglielmo Marconi, the obsessive creator of a seemingly supernatural means of communication—whose lives intersect during one of the greatest criminal chases of all time. Set in Edwardian London and on the stormy coasts of Cornwall, Cape Cod, and Nova Scotia, Thunderstruck evokes the dynamism of those years when great shipping companies competed to build the biggest, fastest ocean liners; scientific advances dazzled the public with visions of a world transformed; and the rich outdid one another with ostentatious displays of wealth. Against this background, Marconi races against incredible odds and relentless skepticism to perfect his invention: the wireless, a prime catalyst for the emergence of the world we know today. Meanwhile, Crippen, “the kindest of men,” nearly commits the perfect murder. With his unparalleled narrative skills, Erik Larson guides us through a relentlessly suspenseful chase over the waters of the North Atlantic. Along the way, he tells of a sad and tragic love affair that was described on the front pages of newspapers around the world, a chief inspector who found himself strangely sympathetic to the killer and his lover, and a driven and compelling inventor who transformed the way we communicate.

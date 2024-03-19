@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 1984878255
+primary_isbn13: 9781984878250
+publisher: Pamela Dorman
+description: Stories, interviews and reflections on the act of letting go of resentment.
+title: The Gift Of Forgiveness
+author: Katherine Schwarzenegger Pratt
+amazon_product_url: https://www.amazon.com/dp/1984878255?tag=NYTBSREV-20
+list_date: 2020/04/12
+published_data: 2020-03-10
+summary: AN INSTANT NEW YORK TIMES BESTSELLER! “[The Gift of Forgiveness] will spark conversations across families, across friendships, at workplaces, everywhere.” –Maria Shriver A fresh, inspiring book on learning how to forgive, with firsthand stories from those who have learned to let go of resentment and find peace. "When we learn to embrace forgiveness, it opens us up to healing, hope, and a new world of possibility." --Katherine Schwarzenegger Pratt Written with grace and understanding and based on more than twenty in-depth interviews and stories as well as personal reflections from Schwarzenegger Pratt herself, The Gift of Forgiveness is about one of the most difficult challenges in life--learning to forgive. Here, Katherine Schwarzenegger Pratt shows us what we can learn from those who have struggled with forgiveness, some still struggling, and others who have been able to forgive what might seem truly unforgivable. The book features experiences from those well-known and unknown, including Elizabeth Smart, who learned to forgive her captors; Sue Klebold, whose son, Dylan, was one of the Columbine shooters, learning empathy and how to forgive herself; Chris Williams, who forgave the drunken teenager who killed his wife and child; and of course Schwarzenegger Pratt's own challenges and path to forgiveness in her own life. All provide different journeys to forgiveness and the process--sometimes slow and thorny, sometimes almost instantaneous--by which they learned to forgive and let go. The Gift of Forgiveness is a perfect blend of personal insights, powerful quotations, and hard-won wisdom for those seeking a way to live with greater acceptance, grace, and peace. A PAMELA DORMAN BOOKS/VIKING LIFE TITLE
+author_new0: Katherine Schwarzenegger Pratt

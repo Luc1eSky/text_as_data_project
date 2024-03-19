@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 7
+primary_isbn10: 0385539282
+primary_isbn13: 9780385539289
+publisher: Doubleday
+description: An American expatriate travels around his adopted country, Britain.
+title: The Road To Little Dribbling
+author: Bill Bryson
+amazon_product_url: http://www.amazon.com/The-Road-Little-Dribbling-Adventures-ebook/dp/B00X2F7N3M?tag=NYTBSREV-20
+list_date: 2016/03/20
+published_date: 2015
+summary: A sequel to "Notes from a Small Island" stands as the author's tribute to his adopted country of England and describes his riotous return visit two decades later to rediscover the country, its people, and its culture.

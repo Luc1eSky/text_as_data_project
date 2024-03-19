@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 4
+primary_isbn10: 0062362593
+primary_isbn13: 9780062362599
+publisher: Harper/HarperCollins
+description: The fiction writer and essayist’s memoir about life as a “woman of size.”
+title: Hunger
+author: Roxane Gay
+amazon_product_url: https://www.amazon.com/Hunger-Memoir-Body-Roxane-Gay/dp/0062362593?tag=NYTBSREV-20
+list_date: 2017/07/23
+published_date: 2017-06-13
+summary: New York Times bestseller National Book Critics Circle Award Finalist Lambda Literary Award winner A best book of 2017: Time NPR People Elle The Washington Post The Los Angeles Times The Chicago Tribune Newsday St. Louis Post-Dispatch PopSugar BookRiot Library Journal Booklist Kirkus Reviews Shelf Awareness New York Times bestselling author Roxane Gay has written with intimacy and sensitivity about food and bodies, using her own emotional and psychological struggles as a means of exploring our shared anxieties over pleasure, consumption, appearance, and health. As a woman who describes her own body as “wildly undisciplined,” Roxane understands the tension between desire and denial, between self-comfort and self-care. In Hunger, she casts an insightful and critical eye on her childhood, teens, and twenties—including the devastating act of violence that acted as a turning point in her young life—and brings readers into the present and the realities, pains, and joys of her daily life. With the bracing candor, vulnerability, and authority that have made her one of the most admired voices of her generation, Roxane explores what it means to be overweight in a time when the bigger you are, the less you are seen. Hunger is a deeply personal memoir from one of our finest writers, and tells a story that hasn’t yet been told but needs to be.

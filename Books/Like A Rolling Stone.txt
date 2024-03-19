@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 0316415197
+primary_isbn13: 9780316415194
+publisher: Little, Brown
+description: A memoir by the founder, co-editor and publisher of Rolling Stone magazine.
+title: Like A Rolling Stone
+author: Jann S. Wenner
+amazon_product_url: https://www.amazon.com/dp/0316415197?tag=NYTBSREV-20
+list_date: 2022/10/09
+published_data: 2022-09-13
+summary: Jann Wenner has been called by his peers "the greatest editor of his generation." His intensely personal memoir vividly describes and brings you inside the Rock and Roll Era--not just the music, but also the politics, the culture, the entire seismic generational change that swept America and beyond. As both a reporter and a player, Wenner writes with the clarity of a journalist and the private knowledge of an insider. He takes us into the life and work of his many friends - Bob Dylan, John Lennon, Mick Jagger, Bono, and Bruce Springsteen, to name a few. He was instrumental in the careers of Hunter S. Thompson, Tom Wolfe, and Annie Leibovitz. His journalistic and generational journey ended up in the Oval Office with his legendary interviews with Bill Clinton and Barak Obama, leaders to whom Rolling Stone gave it's historic, full-throated backing. Like a Rolling Stone is a beautifully written portrait of not just one man's life, but the life of an entire generation.
+author_new0: Jann S. Wenner

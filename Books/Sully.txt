@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0062564323
+primary_isbn13: 9780062564320
+publisher: Morrow/HarperCollins
+description: A memoir by the pilot who made an emergency landing on the Hudson River in 2009. Originally published as “Highest Duty” in 2009. The basis for the 2016 movie.
+title: Sully
+author: Chesley B Sullenberger III with Jeffrey Zaslow
+amazon_product_url: http://www.amazon.com/Highest-Duty-Search-Really-Matters/dp/0061924695?tag=NYTBSREV-20
+list_date: 2016/10/23
+published_date: 2016-08-30
+summary: Now a major motion picture from Clint Eastwood, starring Tom Hanks—the inspirational autobiography by one of the most captivating American heroes of our time, Capt. ‘Sully’ Sullenberger—the pilot who miraculously landed a crippled US Airways Flight 1549 in New York’s Hudson River, saving the lives of all 155 passengers and crew. On January 15, 2009, the world witnessed a remarkable emergency landing when Captain "Sully" Sullenberger skillfully glided US Airways Flight 1549 onto the Hudson River, saving the lives of all 155 passengers and crew. His cool actions not only averted tragedy but made him a hero and an inspiration worldwide. His story is now a major motion picture from director / producer Clint Eastwood and stars Tom Hanks, Laura Linney and Aaron Eckhart. Sully's story is one of dedication, hope, and preparedness, revealing the important lessons he learned through his life, in his military service, and in his work as an airline pilot. It reminds us all that, even in these days of conflict, tragedy and uncertainty, there are values still worth fighting for—that life's challenges can be met if we're ready for them.

@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0062074954
+primary_isbn13: 9780062074959
+publisher: Harper Perennial
+description: The story of Kamila Sidiqi, an Afghan entrepreneur who started a successful sewing business and mobilized her community under the Taliban.
+title: The Dressmaker Of Khair Khana
+author: Gayle Tzemach Lemmon
+amazon_product_url: http://www.amazon.com/The-Dressmaker-Khair-Khana-Remarkable/dp/0061732478?tag=NYTBSREV-20
+list_date: 2015/03/29
+published_date: 2011-03-15
+summary: The New York Times bestseller, written by a former reporter for ABC News, that People magazine called “a transporting, enlightening book” tells the story of a fearless young entrepreneur who brought hope to the lives of dozens of women in war-torn Afghanistan Former ABC journalist Gayle Tzemach Lemmon tells the riveting true story of Kamila Sidiqi and other women of Afghanistan in the wake of the Taliban’s fearful rise to power. In what Greg Mortenson, author of Three Cups of Tea, calls “one of the most inspiring books I have ever read,” Lemmon recounts with novelistic vividness the true story of a fearless young woman who not only reinvented herself as an entrepreneur to save her family but, in the face of ferocious opposition, brought hope to the lives of dozens of women in war-torn Kabul.

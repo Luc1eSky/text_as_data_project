@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0812989147
+primary_isbn13: 9780812989144
+publisher: Random House
+description: The actor’s efforts to help people learn to communicate more effectively.
+title: If I Understood You, Would I Have This Look On My Face?
+author: Alan Alda
+amazon_product_url: https://www.amazon.com/Understood-Would-Have-This-Look/dp/0812989147?tag=NYTBSREV-20
+list_date: 2017/06/25
+published_date: 2017
+summary: The actor and founder of the Alan Alda Center for Communicating Science traces his personal quest to understand how to relate and communicate better, from practicing empathy and using improv games to storytelling and developing better intuitive skills.

@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 4
+primary_isbn10: 0399173595
+primary_isbn13: 9780399173592
+publisher: Blue Rider
+description: Recollections of life on the set of the first Star Wars movie by the actress and writer, who died in December.
+title: The Princess Diarist
+author: Carrie Fisher
+amazon_product_url: https://www.amazon.com/Princess-Diarist-Carrie-Fisher/dp/0399173595?tag=NYTBSREV-20
+list_date: 2017/02/05
+published_date: 2016-11-22
+summary: This last book from beloved Hollywood icon Carrie Fisher is the crown jewel of ideal Star Wars gifts. The Princess Diarist is an intimate, hilarious, and revealing recollection of what happened behind the scenes on one of the most famous film sets of all time. When Carrie Fisher discovered the journals she kept during the filming of the first Star Wars movie, she was astonished to see what they had preserved—plaintive love poems, unbridled musings with youthful naiveté, and a vulnerability that she barely recognized. Before her passing, her fame as an author, actress, and pop-culture icon was indisputable, but in 1977, Carrie Fisher was just a teenager with an all-consuming crush on her costar, Harrison Ford. With these excerpts from her handwritten notebooks, The Princess Diarist is Fisher’s intimate and revealing recollection of what happened on one of the most famous film sets of all time—and what developed behind the scenes. Fisher also ponders the joys and insanity of celebrity, and the absurdity of a life spawned by Hollywood royalty, only to be surpassed by her own outer-space royalty. Laugh-out-loud hilarious and endlessly quotable, The Princess Diarist brims with the candor and introspection of a diary while offering shrewd insight into one of Hollywood's most beloved stars.

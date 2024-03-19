@@ -1,0 +1,13 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0525427651
+primary_isbn13: 9780525427650
+publisher: Viking
+description: Two of the women abducted, raped and abused by a Cleveland school bus driver until they escaped after 10 years tell their story. 
+
+title: Hope
+author: Amanda Berry and Gina DeJesus with Mary Jordan and Kevin Sullivan
+amazon_product_url: http://www.amazon.com/Hope-A-Memoir-Survival-Cleveland-ebook/dp/B00OYXWLCE?tag=NYTBSREV-20
+list_date: 2015/06/14
+published_date: 2015
+summary: Two victims of an infamous Cleveland kidnapper share the story of their abductions, their decade in captivity and their dramatic escape.

@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1621572552
+primary_isbn13: 9781621572558
+publisher: Regnery
+description: The lawyer and political commentator uses his legal training to evaluate, and affirm, the truthfulness of the Bible.
+title: Jesus On Trial
+author: David Limbaugh
+amazon_product_url: http://www.amazon.com/Jesus-Trial-Lawyer-Affirms-Gospel-ebook/dp/B00INC64HK?tag=NYTBSREV-20
+list_date: 2014/10/26
+published_date: 2014-11-17
+summary: In Jesus on Trial, New York Times bestselling author David Limbaugh applies his lifetime of legal experience to a unique new undertaking: making a case for the gospels as hard evidence of the life and work of Jesus Christ. Limbaugh, a practicing attorney and former professor of law, approaches the canonical gospels with the same level of scrutiny he would apply to any legal document and asks all the necessary questions about the story of Jesus told through Matthew, Mark, Luke, and John. His analysis of the texts becomes profoundly personal as he reflects on his own spiritual and intellectual odyssey from determined skeptic to devout Christian. Ultimately, Limbaugh concludes that the words Christians have treasured for centuries stand up to his exhaustive enquiry—including his examination of historical and religious evidence beyond the gospels—and thereby affirms Christian faith, spirituality, and tradition.

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 32
+primary_isbn10: 0316204374
+primary_isbn13: 9780316204378
+publisher: Little, Brown
+description: How disadvantages can work in our favor; from the author of "The Tipping Point" and "Outliers."
+title: David And Goliath
+author: Malcolm Gladwell
+amazon_product_url: http://www.amazon.com/David-Goliath-Underdogs-Misfits-Battling/dp/0316204366?tag=NYTBSREV-20
+list_date: 2015/05/17
+published_date: 2015-04-07
+summary: Malcolm Gladwell's provocative new #1 bestseller -- now in paperback. Three thousand years ago on a battlefield in ancient Palestine, a shepherd boy felled a mighty warrior with nothing more than a pebble and a sling-and ever since, the names of David and Goliath have stood for battles between underdogs and giants. David's victory was improbable and miraculous. He shouldn't have won. Or should he? In DAVID AND GOLIATH, Malcolm Gladwell challenges how we think about obstacles and disadvantages, offering a new interpretation of what it means to be discriminated against, suffer from a disability, lose a parent, attend a mediocre school, or endure any number of other apparent setbacks. In the tradition of Gladwell's previous bestsellers-The Tipping Point, Blink, Outliers and What the Dog Saw-DAVID AND GOLIATH draws upon history, psychology and powerful story-telling to reshape the way we think of the world around us.

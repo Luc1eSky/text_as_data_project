@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 1
+primary_isbn10: 1628721111
+primary_isbn13: 9781628721119
+publisher: Arcade
+description: The relationship between Jack and Bobby. Originally published in 1999.
+title: The Kennedy Brothers
+author: Richard D Mahoney
+amazon_product_url: http://www.amazon.com/The-Kennedy-Brothers-Rise-Bobby-ebook/dp/B0056GXHRG?tag=NYTBSREV-20
+list_date: 2016/03/13
+published_date: 2011-05-01
+summary: Eight years apart in age, John F. and Robert F. Kennedy were wildly different in temperament and sensibility. Jack was the leader—charismatic, ironic, capable of extraordinary growth and reach, yet also reckless. Bobby was the fearless, hardworking Boy Scout—unafraid of dirty work and ruthless about protecting his brother and destroying their enemies. Jack, it was said, was the first Irish Brahman, Bobby the last Irish Puritan. As Richard D. Mahoney demonstrates with brilliant clarity in this impeccably documented, magisterial book, the Kennedys lived their days of power in dangerous, trackless territory. Mahoney gives us the Kennedy days and years as we have never before seen them. Here are Jack and Bobby in all their hubris and humanity, youthfulness and fatalism. Here, also, is American history as it unfolds. With a new foreword by David Talbot, The Kennedy Brothers is a masterful account of two men whose legacy continues to hold the American imagination.

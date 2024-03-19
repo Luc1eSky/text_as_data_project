@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1402233752
+primary_isbn13: 9781402233753
+publisher: Sourcebooks
+description: The story of an autistic boy and the dog that unlocked his world.
+title: A Friend Like Henry
+author: Nuala Gardner
+amazon_product_url: http://www.amazon.com/Friend-Like-Henry-Remarkable-Autistic-ebook/dp/B0023SDQXU?tag=NYTBSREV-20
+list_date: 2014/09/14
+published_date: 2008-09-01
+summary: Now a New York Times Bestseller! "The incredible story of a family with an autistic son, Dale, who conquers his disability thanks to the special bond he forms with Henry, a golden retriever puppy ... This is a fascinating and inspiring real-life account."-Woman & Home A Friend Like Henry: The remarkable true story of an autistic boy and the dog that unlocked his world When Jamie and Nuala Gardner chose a puppy for their son, Dale, they weren't an ordinary family choosing an ordinary pet. Dale's autism was so severe that the smallest deviation from his routine could provoke a terrifying tantrum. Family life was almost destroyed by his condition, and his parents spent most of their waking hours trying to break into their son's autistic world and give him the help he so desperately needed. But after years of constant effort and slow progress, the Gardners' lives were transformed when they welcomed a new member into the family, Henry, a gorgeous golden retriever puppy. The bond between Dale and his dog would change their lives ... "This touching story is an emotional rollercoaster." -Book Review "Emotionally charged, this is a story that raises powerful issues in a deeply personal and insightful manner." -Irish Examiner

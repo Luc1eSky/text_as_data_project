@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0062981595
+primary_isbn13: 9780062981592
+publisher: Harper
+description: A collection of comedic essays on motherhood and middle age by the Emmy Award-winning writer and producer.
+title: I'Ll Show Myself Out
+author: Jessi Klein
+amazon_product_url: https://www.amazon.com/dp/0062981595?tag=NYTBSREV-20
+list_date: 2022/05/22
+published_data: 2022-04-26
+summary: The best-selling author and Emmy Award-winning writer and producer hilariously destroys the cultural myths and impossible expectations of modern-day motherhood and explores the humiliations, poignancies, and possibilities of midlife.
+author_new0: Jessi Klein

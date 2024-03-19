@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0063112361
+primary_isbn13: 9780063112360
+publisher: Harper
+description: Rudolf Vrba, who became one of the first Jews to escape from Auschwitz, warned others about the death camp.
+title: The Escape Artist
+author: Jonathan Freedland
+amazon_product_url: https://www.amazon.com/dp/0063112361?tag=NYTBSREV-20
+list_date: 2023/06/11
+published_data: 2023-03-07
+summary: "A brilliant and heart-wrenching book, with universal and timely lessons about the power of information -- and misinformation. Is it possible to stop mass murder by telling the truth?" -- Yuval Noah Harari, bestselling author of Sapiens: A Brief History of Humankind and Homo Deus: A Brief History of Tomorrow A complex hero. A forgotten story. The first witness to reveal the full truth of the Holocaust . . . Award-winning journalist and bestselling novelist Jonathan Freedland tells the incredible story of Rudolf Vrba--one of the very first Jews to break out of Auschwitz and make his way to freedom, a man determined to warn the world and pass on a truth too few were willing to hear--elevating him to his rightful place in the annals of World War II alongside Anne Frank, Primo Levi, and Oskar Schindler and casting a new light on the Holocaust and its aftermath. In April 1944, Rudolf Vrba became one of the very first Jews to break out of Auschwitz and make his way to freedom--one of only a tiny handful who ever pulled off that near-impossible feat. He did it to reveal the truth of the death camp to the world--and to warn the last Jews of Europe what fate awaited them at the end of the railway line. Against all odds, he and his fellow escapee, Fred Wetzler, climbed mountains, crossed rivers and narrowly missed German bullets until they had smuggled out the first full account of Auschwitz the world had ever seen--a forensically detailed report that would eventually reach Franklin Roosevelt, Winston Churchill and the Pope. And yet too few heeded the warning that Vrba--then just nineteen years old--had risked everything to deliver. Some could not believe it. Others thought it easier to keep quiet. Vrba helped save 200,000 Jewish lives--but he never stopped believing it could have been so many more. This is the story of a brilliant yet troubled man--a gifted "escape artist" who even as a teenager understand that the difference between truth and lies can be the difference between life and death, a man who deserves to take his place alongside Anne Frank, Oskar Schindler and Primo Levi as one of the handful of individuals whose stories define our understanding of the Holocaust.
+author_new0: Jonathan Freedland

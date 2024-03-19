@@ -1,0 +1,10 @@
+rank: 6
+weeks_on_list: 132
+primary_isbn10: None
+primary_isbn13: 9780849922978
+publisher: Thomas Nelson
+description: A 3-year-old’s encounter with Jesus during an appendectomy; the basis of the movie.
+title: Heaven Is For Real
+author: Todd Burpo with Lynn Vincent
+amazon_product_url: http://www.amazon.com/Heaven-Real-Little-Astounding-Story-ebook/dp/B004A90BXS?tag=NYTBSREV-20
+list_date: 2014/09/21

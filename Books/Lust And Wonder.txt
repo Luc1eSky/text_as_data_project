@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 0312342039
+primary_isbn13: 9780312342036
+publisher: St. Martin's
+description: Burroughs’s post-rehab social life in 1990s New York City, and its eventual happy ending.
+title: Lust And Wonder
+author: Augusten Burroughs
+amazon_product_url: http://www.amazon.com/Lust-Wonder-Memoir-Augusten-Burroughs/dp/0312342039?tag=NYTBSREV-20
+list_date: 2016/04/24
+published_date: 2016-03-29
+summary: From the #1 New York Times bestselling author, a hilarious and ultimately tender, moving memoir

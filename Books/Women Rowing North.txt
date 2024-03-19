@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 7
+primary_isbn10: 1632869608
+primary_isbn13: 9781632869609
+publisher: Bloomsbury
+description: Reflections on the ageism, misogyny and loss that women might encounter as they grow older.
+title: Women Rowing North
+author: Mary Pipher
+amazon_product_url: https://www.amazon.com/Women-Rowing-North-Navigating-Flourishing/dp/1632869608?tag=NYTBSREV-20
+list_date: 2019/03/24
+published_data: 2019-01-15
+summary: From the New York Times bestselling author of Reviving Ophelia, a guide to wisdom, authenticity, and bliss for women as they age. Women growing older contend with ageism, misogyny, and loss. Yet as Mary Pipher shows, most older women are deeply happy and filled with gratitude for the gifts of life. Their struggles help them grow into the authentic, empathetic, and wise people they have always wanted to be. In Women Rowing North, Pipher offers a timely examination of the cultural and developmental issues women face as they age. Drawing on her own experience as daughter, sister, mother, grandmother, caregiver, clinical psychologist, and cultural anthropologist, she explores ways women can cultivate resilient responses to the challenges they face. "If we can keep our wits about us, think clearly, and manage our emotions skillfully," Pipher writes, "we will experience a joyous time of our lives. If we have planned carefully and packed properly, if we have good maps and guides, the journey can be transcendent."
+author_new0: Mary Pipher

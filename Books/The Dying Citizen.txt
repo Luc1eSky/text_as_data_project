@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 154164753X
+primary_isbn13: 9781541647534
+publisher: Basic
+description: The author of “The Case for Trump” gives his take on globalization and tribalism.
+title: The Dying Citizen
+author: Victor Davis Hanson
+amazon_product_url: https://www.amazon.com/dp/154164753X?tag=NYTBSREV-20
+list_date: 2021/10/24
+published_data: 2021-10-05
+summary: The New York Times bestselling author explains the decline and fall of the once cherished idea of American citizenship Most of human history is full of the stories of peasants, subjects, or tribes. The concept of the "citizen," an idea we take for granted, is historically quite rare--and was, until recently, amongst America's most profoundly cherished ideals. But without shock treatment, warns historian and conservative political commentator Victor Davis Hanson, American citizenship as we have known it for well over two centuries may soon vanish. In The Dying Citizen, Hanson outlines the forces that have brought us to the twilight of American citizenship, and led to the deeply fractured politics of the present era. Over the last half-century, numerous forces from both above and below have conspired to undermine the value we place in the idea of citizenship--and our vigilance in protecting it. To be self-governing, citizens must be economically autonomous, but the evisceration of the middle class and the rise of inequality have made many Americans dependent on the federal government. Citizenship exists within delineated borders--but open borders and the elite concept of "global citizenship" have rendered meaningless the idea of allegiance to a particular place. Citizenship relies on the renunciation of tribal identity in favor of the state, but identity politics have eradicated the idea of a collective civic sense of self. A vastly expanded unelected bureaucracy has overwhelmed the power of elected officials, thereby destroying the sovereign power of the citizen. Progressive academics and activists lay siege to the institutions and traditions of constitutional citizenship. As in the revolutionary years of 1848, 1917, and 1968, 2020 has ripped away our complacency about the future of our most cherished ideals. Americans are forced to confront the fragility of citizenship--indeed, the fragility of our nation. But this calamitous year may also teach Americans to rebuild and recover what we have lost. The choice is ours.
+author_new0: Victor Davis Hanson

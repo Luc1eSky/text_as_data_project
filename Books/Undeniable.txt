@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1250007135
+primary_isbn13: 9781250007131
+publisher: St. Martin's
+description: The “Science Guy” explains how evolution shapes our lives.
+title: Undeniable
+author: Bill Nye
+amazon_product_url: http://www.amazon.com/Undeniable-Evolution-Creation-Bill-Nye/dp/1250007135?tag=NYTBSREV-20
+list_date: 2014/11/23
+published_date: 2014-11-04
+summary: Revealing the mechanics of evolutionary theory, the scientist, engineer and inventor presents a compelling argument for the scientific unviability of creationism and insists that creationism's place in the science classroom is harmful not only to our children, but to the future of the greater world as well.

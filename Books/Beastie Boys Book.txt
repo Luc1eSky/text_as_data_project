@@ -1,0 +1,14 @@
+rank: 10
+weeks_on_list: 8
+primary_isbn10: 0812995546
+primary_isbn13: 9780812995541
+publisher: Spiegel & Grau
+description: The story of the New York band who achieved hip hop stardom.
+title: Beastie Boys Book
+author: Michael Diamond and Adam Horovitz
+amazon_product_url: https://www.amazon.com/Beastie-Boys-Book-Michael-Diamond/dp/0812995546?tag=NYTBSREV-20
+list_date: 2019/01/06
+published_data: 2018-10-30
+summary: #1 NEW YORK TIMES BESTSELLER • A panoramic experience that tells the story of Beastie Boys, a book as unique as the band itself—by band members ADROCK and Mike D, with contributions from Amy Poehler, Colson Whitehead, Wes Anderson, Luc Sante, and more. The inspiration for the Emmy-nominated Apple TV+ “live documentary” Beastie Boys Story, directed by Spike Jonze NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Rolling Stone • The Guardian • Paste Formed as a New York City hardcore band in 1981, Beastie Boys struck an unlikely path to global hip hop superstardom. Here is their story, told for the first time in the words of the band. Adam “ADROCK” Horovitz and Michael “Mike D” Diamond offer revealing and very funny accounts of their transition from teenage punks to budding rappers; their early collaboration with Russell Simmons and Rick Rubin; the debut album that became the first hip hop record ever to hit #1, Licensed to Ill—and the album’s messy fallout as the band broke with Def Jam; their move to Los Angeles and rebirth with the genre-defying masterpiece Paul’s Boutique; their evolution as musicians and social activists over the course of the classic albums Check Your Head, Ill Communication, and Hello Nasty and the Tibetan Freedom Concert benefits conceived by the late Adam “MCA” Yauch; and more. For more than thirty years, this band has had an inescapable and indelible influence on popular culture. With a style as distinctive and eclectic as a Beastie Boys album, Beastie Boys Book upends the typical music memoir. Alongside the band narrative you will find rare photos, original illustrations, a cookbook by chef Roy Choi, a graphic novel, a map of Beastie Boys’ New York, mixtape playlists, pieces by guest contributors, and many more surprises. Praise for Beastie Boys Book “A fascinating, generous book with portraits and detail that float by in bursts of color . . . As with [the band’s] records, the book’s structure is a lyrical three-man weave. . . . Diamond’s voice is lapidary, droll. Horovitz comes on like a borscht belt comedian, but beneath that he is urgent, incredulous, kind of vulnerable. . . . Friendship is the book’s subject as much as music, fame and New York.”—The New York Times Book Review “Wild, moving . . . resembles a Beastie Boys LP in its wild variety of styles.”—Rolling Stone
+author_new0: Michael Diamond
+author_new1: Adam Horovitz

@@ -1,0 +1,13 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1620877562
+primary_isbn13: 9781620877562
+publisher: Skyhorse
+description: A monsignor who saved Allied war prisoners and civilians, including Jews, during the 
+German occupation of Rome. Originally published in 2008.
+title: The Vatican Pimpernel
+author: Brian Fleming
+amazon_product_url: http://www.amazon.com/The-Vatican-Pimpernel-Exploits-Monsignor-ebook/dp/B009K8JR8O?tag=NYTBSREV-20
+list_date: 2016/02/28
+published_date: 2012-08-01
+summary: During the German occupation of Rome from 1942–1944, Irishman Monsignor Hugh O’Flaherty ran an escape organization for Allied POWs and civilians, including Jews. Safe within the Vatican state, he regularly ventured out in disguise to continue his mission, which earned him the nickname “the Pimpernel of the Vatican.” When the Allies entered Rome, he and his collaborators— priests, nuns, and laypeople of numerous nationalities and religious beliefs—had saved the lives of over 6,500 people. The first new telling of this extraordinary story in decades, this book also addresses the fascinating dichotomy between O’Flaherty and Herbert Kappler, the Gestapo chief in Rome who ordered him killed, and who, after the war, reconciled with the monsignor, and even asked him to perform his baptism. For his heroic efforts, O’Flaherty was awarded the highest honors, including a Congressional Medal, and was the first Irishman named the Notary of the Holy Office. His story was immortalized in the 1983 film The Scarlet and the Black, which starred Gregory Peck as O’Flaherty.

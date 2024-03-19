@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 006314431X
+primary_isbn13: 9780063144316
+publisher: Morrow
+description: The former secretary of defense gives an account of serving in his post until he was fired by the president after the 2020 election.
+title: A Sacred Oath
+author: Mark T. Esper
+amazon_product_url: https://www.amazon.com/dp/006314431X?tag=NYTBSREV-20
+list_date: 2022/06/05
+published_data: 2022-05-10
+summary: Former Secretary of Defense Mark T. Esper reveals the shocking details of his tumultuous tenure while serving in the Trump administration. From June of 2019 until his firing by President Trump after the November 2020 election, Secretary Mark T. Esper led the Department of Defense through an unprecedented time in history -- a period marked by growing threats and conflict abroad, a global pandemic unseen in a century, the greatest domestic unrest in two generations, and a White House bent on circumventing the Constitution for its own benefit. A Sacred Oath is Secretary Esper's unvarnished and candid memoir of those extraordinary and dangerous times, and includes events and moments never before told.
+author_new0: Mark T. Esper

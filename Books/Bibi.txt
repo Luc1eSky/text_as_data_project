@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 1668008440
+primary_isbn13: 9781668008447
+publisher: Threshold Editions
+description: An autobiography by the former prime minister of Israel.
+title: Bibi
+author: Benjamin Netanyahu
+amazon_product_url: https://www.amazon.com/dp/1668008440?tag=NYTBSREV-20
+list_date: 2022/12/11
+published_data: 2022-10-18
+summary: In Benjamin "Bibi" Netanyahu's sweeping, moving autobiography, one of the most formidable and insightful leaders of our time tells the story of his family, his path to leadership, and his unceasing commitment to defending Israel and securing its future.
+author_new0: Benjamin Netanyahu

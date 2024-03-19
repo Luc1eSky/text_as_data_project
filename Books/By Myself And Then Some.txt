@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0062016598
+primary_isbn13: 9780062016591
+publisher: It Books
+description: An updated version of the 1979 autobiography by the actress, who died Aug. 12
+title: By Myself And Then Some
+author: Lauren Bacall
+amazon_product_url: http://www.amazon.com/Myself-Then-Some-Lauren-Bacall-ebook/dp/B003JBI2PM?tag=NYTBSREV-20
+list_date: 2014/08/31
+published_date: 2010-07-06
+summary: The epitome of grace, independence, and wit, Lauren Bacall continues to project an audacious spirit and pursue on-screen excellence. The product of an extraordinary mother and a loving extended family, she produced, with Humphrey Bogart, some of the most electric and memorable scenes in movie history. After tragically losing Bogart, she returned to New York and a brilliant career in the theatre. A two-time Tony winner, she married and later divorced her second love, Jason Robards, and never lost sight of the strength that made her a star. Now, thirty years after the publication of her original National Book Award–winning memoir, Bacall has added new material to her inspiring history. In her own frank and beautiful words, one of our most enduring actresses reveals the remarkable true story of a lifetime so rich with incident and achievement that Hollywood itself would be unable to adequately reproduce it.

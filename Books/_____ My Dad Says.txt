@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 13
+primary_isbn10: 0062002945
+primary_isbn13: 9780062002945
+publisher: HarperCollins
+description: A coming-of-age memoir organized around the musings, purveyed on Twitter, of the author’s father.
+title: _____ My Dad Says
+author: Justin Halpern
+amazon_product_url: http://www.amazon.com/Sh-t-My-Dad-Says-ebook/dp/B003H4I58K?tag=NYTBSREV-20
+list_date: 2015/09/20
+published_date: 2010-05-04
+summary: “This book is ridiculously hilarious, and makes my father look like a normal member of society.” —Chelsea Handler “Read this unless you’re allergic to laughing.” —Kristen Bell “If you’re wondering if there is a real man behind the quotes on Twitter, the answer is a definite and laugh-out-loud yes.” —Christian Lander, New York Times bestselling author of Stuff White People Like Tuesdays with Morrie meets F My Life in this hilarious book about a son’s relationship with his foul-mouthed father by the 29-year-old comedy writer who created the massively popular Twitter feed of the same name.

@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1610397843
+primary_isbn13: 9781610397841
+publisher: PublicAffairs
+description: A call for economic policies that will promote economic growth by encouraging Main Street capitalism (small businesses and start-ups) rather than Wall Street capitalism.
+title: The Great Equalizer
+author: David M Smick
+amazon_product_url: https://www.amazon.com/Great-Equalizer-Capitalism-Economy-Everyone/dp/1610397843?tag=NYTBSREV-20
+list_date: 2017/01/29
+published_date: 2017-01-10
+summary: The experts say that America's best days are behind us, that mediocre long-term economic growth is baked in the cake, and that politically, socially, and racially, the United States will continue to tear itself apart. But David Smick-hedge fund strategist and author of the 2008 bestseller The World Is Curved-argues that the experts are wrong. In recent decades, a Corporate Capitalism of top down mismanagement and backroom deal-making has smothered America's innovative spirit. Policy now favors the big, the corporate, and the status quo at the expense of the small, the inventive, and the entrepreneurial. The result is that working and middle class Americans have seen their incomes flat-lining and their American Dreams slipping away. In response, Smick calls for the great equalizer, a Main Street Capitalism of mass small-business startups and bottom-up innovation, all unfolding on a level playing field. Introducing a fourteen-point plan of bipartisan reforms for unleashing America's creativity and confidence, his forward-thinking book describes a new climate of dynamism where every man and woman is a potential entrepreneur-especially those at the bottom rungs of the economic ladder. Ultimately, Smick argues, economies are more than statistical measurements of supply and demand, economic output, and rates of return. Economies are people-their hopes, fears, dreams, and expectations. The Great Equalizer is a call for a set of new paradigms that inspire and empower average American people to reimagine and reboot their economy. It is a manifesto asserting that, with a new kind of economic policy, America's best days lie ahead.

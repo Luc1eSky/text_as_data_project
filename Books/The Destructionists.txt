@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0385548133
+primary_isbn13: 9780385548137
+publisher: Doubleday
+description: The Washington Post columnist describes Republican actions between the signing of the Contract With America and the Jan. 6 insurrection.
+title: The Destructionists
+author: Dana Milbank
+amazon_product_url: https://www.amazon.com/dp/0385548133?tag=NYTBSREV-20
+list_date: 2022/08/28
+published_data: 2022-08-09
+summary: NEW YORK TIMES BEST SELLER • A scalding history of twenty-five years of Republican attempts to hold on to political power by any means necessary, by a hugely popular Washington Post political columnist "A thorough and scathing account of how the Republican Party fell prey to Trumpism."—The New York Times Book Review In 1994, more than 300 Republicans under the command of obstructionist and rabble-rouser Congressman Newt Gingrich stood outside the U.S. Capitol to sign the Contract with America and put bipartisanship on notice. Twenty-five years later, on January 6, 2021, a bloodthirsty mob incited by President Trump invaded the Capitol. Dana Milbank sees a clear line from the Contract with America to the coup attempt. In the quarter century in between, Americans have witnessed the crackup of the party of Lincoln and Reagan, to its current iteration as a haven for white supremacists, political violence, conspiracy theories and authoritarianism. Following the questionable careers of party heavyweights Newt Gingrich, Karl Rove, Mitch McConnell, and Rudy Giuliani, and those of many lesser known lowlights, Millbank recounts the shocking lengths the Republican Party has gone to to maintain its grip on the American people.
+author_new0: Dana Milbank

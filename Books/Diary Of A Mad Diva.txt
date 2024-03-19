@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 0425269027
+primary_isbn13: 9780425269022
+publisher: Berkley
+description: Humorous reflections about life, pop culture and celebrities.
+title: Diary Of A Mad Diva
+author: Joan Rivers
+amazon_product_url: http://www.amazon.com/Diary-Mad-Diva-Joan-Rivers-ebook/dp/B00G3L6MI4?tag=NYTBSREV-20
+list_date: 2014/10/05
+published_date: 2014-07-01
+summary: The legendary comedian presents the contents of her diary, offering insights, quips, musings, and critiques on her daily life, pop culture, and celebrities.

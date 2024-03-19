@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: 1501158015
+primary_isbn13: 9781501158018
+publisher: Atria/Keywords
+description: The internet personality discloses his struggles with depression and other issues in short essays and diarylike entries.
+title: Note To Self
+author: Connor Franta
+amazon_product_url: https://www.amazon.com/Note-Self-Connor-Franta/dp/1501158015?tag=NYTBSREV-20
+list_date: 2017/05/07
+published_date: 2017-04-18
+summary: From the award-winning and New York Times bestselling author of A Work in Progress comes a collection of Connor Franta's most intimate, raw, honest, and inspiring reflections on his own life as he's living it right now, as well as his observations about contemporary culture. Told through narrative, poetry, photography, and illustrations, this is a must-have for every fan. In his New York Times bestselling memoir, A Work in Progress, Connor Franta shared his journey from small-town Midwestern boy to full-fledged Internet sensation. Exploring his past with humor and astounding insight, Connor reminded his fans of why they first fell in love with him on YouTube—and revealed to newcomers how he relates to his millions of dedicated followers. Now, two years later, Connor is ready to bring to light a side of himself he’s rarely shown on or off camera. In this diary-like look at his life since A Work in Progress, Connor talks about his battles with clinical depression, social anxiety, self-love, and acceptance; his desire to maintain an authentic self in a world that values shares and likes over true connections; his struggles with love and loss; and his renewed efforts to be in the moment—with others and himself. Told through short essays, letters to his past and future selves, poetry, and original photography, Note to Self is a raw, in-the-moment look at the fascinating interior life of a young creator turning inward in order to move forward.

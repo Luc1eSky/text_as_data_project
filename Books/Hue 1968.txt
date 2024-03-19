@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 7
+primary_isbn10: 0802127002
+primary_isbn13: 9780802127006
+publisher: Atlantic Monthly
+description: An account of the Tet offensive battle that was a turning point in the American war in Vietnam.
+title: Hue 1968
+author: Mark Bowden
+amazon_product_url: https://www.amazon.com/Hue-1968-Turning-American-Vietnam/dp/0802127002?tag=NYTBSREV-20
+list_date: 2017/08/06
+published_date: 2017
+summary: From "a master of narrative journalism" (New York Times Book Review), a riveting history of the biggest and bloodiest battle of the Vietnam War

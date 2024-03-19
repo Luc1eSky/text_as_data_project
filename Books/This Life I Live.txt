@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 4
+primary_isbn10: 0718090195
+primary_isbn13: 9780718090197
+publisher: W Publishing/Thomas Nelson
+description: The songwriter describes his difficult childhood, love for his wife, and her death from cancer in 2016.
+title: This Life I Live
+author: Rory Feek
+amazon_product_url: https://www.amazon.com/This-Life-Live-Extraordinary-Ordinary/dp/0718090195?tag=NYTBSREV-20
+list_date: 2017/04/02
+published_date: 2017
+summary: The Love Story that Captured a Nation's Heart The story she said he was born to write.

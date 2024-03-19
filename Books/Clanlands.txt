@@ -1,0 +1,14 @@
+rank: 1
+weeks_on_list: 1
+primary_isbn10: 1529342007
+primary_isbn13: 9781529342000
+publisher: Mobius
+description: The stars of “Outlander” use various means of travel to explore Scotland.
+title: Clanlands
+author: Sam Heughan and Graham McTavish
+amazon_product_url: https://www.amazon.com/dp/1529342007?tag=NYTBSREV-20
+list_date: 2020/11/22
+published_data: 2020-11-03
+summary: A road trip book with a difference. Stars of Outlander - Sam Heughan & Graham McTavish - explore Scotland, a land of raw beauty, poetry, feuding, music, history, and warfare. From their faithful camper van to boats, kayaks, bicycles, and motorbikes, join stars of Outlander Sam and Graham on a road trip with a difference, as two Scotsmen explore a land of raw beauty, poetry, feuding, music, history, and warfare. Unlikely friends Sam and Graham begin their journey in the heart of Scotland at Glencoe and travel from there all the way to Inverness and Culloden battlefield, where along the way they experience adventure and a cast of highland characters. In this story of friendship, finding themselves, and whisky, they discover the complexity, rich history and culture of their native country.
+author_new0: Sam Heughan
+author_new1: Graham McTavish

@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1476797714
+primary_isbn13: 9781476797717
+publisher: Simon & Schuster
+description: A memoir by the recently deceased leader in the American civil rights movement and representative for Georgia’s Fifth Congressional District.
+title: Walking With The Wind
+author: John Lewis and Michael D'Orso
+amazon_product_url: https://www.amazon.com/dp/1476797714?tag=NYTBSREV-20
+list_date: 2020/08/09
+published_data: 2015-02-10
+summary: The award-winning national bestseller, Walking with the Wind, is one of the most important records of the American civil rights movement as told by a true American hero, John Lewis, who Cornel West called a “national treasure.” An eloquent and gripping first-hand account of the turbulent struggle for civil rights and the willingness and courage to change the course of history. Forty years ago, a teenaged boy named John Lewis stepped off a cotton farm in Alabama and into the epicenter of the struggle for civil rights in America. The ideals of nonviolence which guided that critical time of American history established him as one of the movement's most charismatic and courageous leaders. Lewis's leadership in the Nashville Movement—a student-led effort to desegregate the city of Nashville using sit-in techniques based on the teachings of Gandhi—established him as one of the movement's defining figures and set the tone for the major civil rights campaigns of the 1960s. During this decade, he was repeatedly a victim of violence and intimidation, but his singular belief in non-violent action, inspired by his mentor, Dr. Martin Luther King, was a defining characteristic of his leadership and vision. In 1986, he ran and won a congressional seat in Georgia, and remains in office to this day. Walking with the Wind is the story of an American hero. A boy from rural Alabama whose journey led him to Washington, and whose vision and perseverance changed a nation.
+author_new0: John Lewis
+author_new1: Michael D'Orso

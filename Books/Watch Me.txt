@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 
+primary_isbn13: 9781476760353
+publisher: Scribner
+description: A memoir from the actor and film director.
+title: Watch Me
+author: Anjelica Huston
+amazon_product_url: http://www.amazon.com/Watch-Me-Memoir-Anjelica-Huston-ebook/dp/B00IWTWO46?tag=NYTBSREV-20
+list_date: 2014/11/30
+published_date: 2021-09-15
+summary: N/A

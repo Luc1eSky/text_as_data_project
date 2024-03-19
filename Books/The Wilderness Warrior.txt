@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0061940577
+primary_isbn13: 9780061940576
+publisher: HarperCollins
+description: Theodore Roosevelt's crusade for conservation. Originally published in 2009.
+title: The Wilderness Warrior
+author: Douglas Brinkley
+amazon_product_url: http://www.amazon.com/The-Wilderness-Warrior-Theodore-Roosevelt/dp/0060565284?tag=NYTBSREV-20
+list_date: 2016/03/13
+published_date: 2009-07-28
+summary: From New York Times bestselling historian Douglas Brinkley comes a sweeping historical narrative and eye-opening look at the pioneering environmental policies of President Theodore Roosevelt, avid bird-watcher, naturalist, and the founding father of America’s conservation movement. In this groundbreaking epic biography, Douglas Brinkley draws on never-before-published materials to examine the life and achievements of our “naturalist president.” By setting aside more than 230 million acres of wild America for posterity between 1901 and 1909, Theodore Roosevelt made conservation a universal endeavor. This crusade for the American wilderness was perhaps the greatest U.S. presidential initiative between the Civil War and World War I. Roosevelt’s most important legacies led to the creation of the U.S. Fish and Wildlife Service and passage of the Antiquities Act in 1906. His executive orders saved such treasures as Devils Tower, the Grand Canyon, and the Petrified Forest.

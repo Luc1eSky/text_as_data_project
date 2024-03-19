@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 006234286X
+primary_isbn13: 9780062342867
+publisher: Harper
+description: A biography of Meryl Streep.
+title: Her Again
+author: Michael Schulman
+amazon_product_url: http://www.amazon.com/Her-Again-Becoming-Meryl-Streep-ebook/dp/B014DTUXSM?tag=NYTBSREV-20
+list_date: 2016/08/28
+published_date: 2016-04-26
+summary: A portrait of a woman, an era, and a profession: the first thoroughly researched biography of Meryl Streep that explores her beginnings as a young woman of the 1970s grappling with love, feminism, and her astonishing talent In 1975 Meryl Streep, a promising young graduate of the Yale School of Drama, was finding her place in the New York theater scene. Burning with talent and ambition, she was like dozens of aspiring actors of the time—a twenty-something beauty who rode her bike everywhere, kept a diary, napped before performances, and stayed out late “talking about acting with actors in actors’ bars.” Yet Meryl stood apart from her peers. In her first season in New York, she won attention-getting parts in back-to-back Broadway plays, a Tony Award nomination, and two roles in Shakespeare in the Park productions. Even then, people said, “Her. Again.” Her Again is an intimate look at the artistic coming-of-age of the greatest actress of her generation, from the homecoming float at her suburban New Jersey high school, through her early days on the stage at Vassar College and the Yale School of Drama during its golden years, to her star-making roles in The Deer Hunter, Manhattan, and Kramer vs. Kramer. New Yorker contributor Michael Schulman brings into focus Meryl’s heady rise to stardom on the New York stage; her passionate, tragically short-lived love affair with fellow actor John Cazale; her marriage to sculptor Don Gummer; and her evolution as a young woman of the 1970s wrestling with changing ideas of feminism, marriage, love, and sacrifice. Featuring eight pages of black-and-white photos, this captivating story of the making of one of the most revered artistic careers of our time reveals a gifted young woman coming into her extraordinary talents at a time of immense transformation, offering a rare glimpse into the life of the actress long before she became an icon.

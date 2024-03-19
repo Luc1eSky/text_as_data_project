@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0307269876
+primary_isbn13: 9780307269874
+publisher: Knopf
+description: A study of anxiety disorder by the editor of The Atlantic, drawing on research as well as personal experience.
+title: My Age Of Anxiety
+author: Scott Stossel
+amazon_product_url: http://www.amazon.com/My-Age-Anxiety-Search-Vintage-ebook/dp/B00F8F7M58?tag=NYTBSREV-20
+list_date: 2014/02/16
+published_date: 2014
+summary: The author recounts his lifelong battle with anxiety, showing the many manifestations of the disorder as well as the countless treatments that have been developed to counteract it, and provides a history of the efforts to understand this common form of mental illness.

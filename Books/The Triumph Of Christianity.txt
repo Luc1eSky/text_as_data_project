@@ -1,0 +1,10 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1501136704
+primary_isbn13: 9781501136702
+publisher: Simon & Schuster
+description: The religious studies professor explores how a new religion came to influence Western society.
+title: The Triumph Of Christianity
+author: Bart D Ehrman
+amazon_product_url: https://www.amazon.com/Triumph-Christianity-Forbidden-Religion-Swept/dp/1501136704?tag=NYTBSREV-20
+list_date: 2018/04/08

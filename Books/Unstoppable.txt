@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0374279799
+primary_isbn13: 9780374279790
+publisher: Farrar, Straus & Giroux
+description: A memoir by the Russian-American Grand Slam tennis champion and Olympic medalist.
+title: Unstoppable
+author: Maria Sharapova with Rich Cohen
+amazon_product_url: https://www.amazon.com/Unstoppable-My-Life-So-Far/dp/0374279799?tag=NYTBSREV-20
+list_date: 2017/10/01
+published_date: 2017-09-12
+summary: In 2004, in a stunning upset against the two-time defending champion Serena Williams, seventeen-year-old Maria Sharapova won Wimbledon, becoming an overnight sensation. Out of virtual anonymity, she launched herself onto the international stage. "Maria Mania" was born. Her success would last: she went on to hold the number-one WTA ranking multiple times, to win four more Grand Slam tournaments, and to become one of the highest-grossing female athletes in the world. And then -- at perhaps the peak of her career -- she was charged by the ITF with taking the banned substance meldonium, only recently added to the ITF's list. The resulting suspension would keep her off the professional courts for fifteen months -- a frighteningly long time for any athlete. But Sharapova's career has always been driven by her determination and by her dedication to hard work. Her story doesn't begin with the 2004 Wimbledon championship, but years before, in a small Russian town, where as a five-year-old she played on drab neighborhood courts with precocious concentration. It begins when her father, convinced his daughter could be a star, risked everything to get them to Florida, that sacred land of tennis academies. It begins when the two arrived with only seven hundred dollars and knowing only a few words of English. From that, Sharapova scraped together one of the most influential sports careers in history.

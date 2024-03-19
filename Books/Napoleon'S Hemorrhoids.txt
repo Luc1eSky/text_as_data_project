@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9781628731392
+publisher: Skyhorse
+description: A historical study of small events that had great impacts.
+title: Napoleon'S Hemorrhoids
+author: Phil Mason
+amazon_product_url: http://www.amazon.com/Napoleons-Hemorrhoids-Events-Changed-History-ebook/dp/B004ULMIGY?tag=NYTBSREV-20
+list_date: 2014/10/05

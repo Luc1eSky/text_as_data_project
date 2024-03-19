@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 2
+primary_isbn10: 0062950495
+primary_isbn13: 9780062950499
+publisher: Harper
+description: The MSNBC host and former congressman describes the struggles Harry Truman faced before and during his time as president.
+title: Saving Freedom
+author: Joe Scarborough
+amazon_product_url: https://www.amazon.com/dp/0062950495?tag=NYTBSREV-20
+list_date: 2020/12/20
+published_data: 2020
+summary: "The host of MSNBC's Morning Joe reveals how President Harry Truman defended democracy against the Soviet threat at the dawn of the Cold War"--
+author_new0: Joe Scarborough

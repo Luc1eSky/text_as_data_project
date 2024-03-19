@@ -1,0 +1,10 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 0525520104
+primary_isbn13: 9780525520108
+publisher: Knopf
+description: An exploration of the history, politics and economics of the Lone Star State.
+title: God Save Texas
+author: Lawrence Wright
+amazon_product_url: https://www.amazon.com/God-Save-Texas-Journey-State/dp/0525520104?tag=NYTBSREV-20
+list_date: 2018/05/20

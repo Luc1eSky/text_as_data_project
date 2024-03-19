@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1538741369
+primary_isbn13: 9781538741368
+publisher: Grand Central
+description: The actor known for playing the villain Draco Malfoy in the “Harry Potter” movies recounts his life on and off the set of the film series.
+title: Beyond The Wand
+author: Tom Felton
+amazon_product_url: https://www.amazon.com/dp/1538741369?tag=NYTBSREV-20
+list_date: 2022/11/13
+published_data: 2022-10-18
+summary: From the magical moments on set as Draco Malfoy to the challenges of growing up in the spotlight, get a backstage pass into Tom Felton's life on and off the big screen. Tom Felton's adolescence was anything but ordinary. His early rise to fame in beloved films like The Borrowers catapulted him into the limelight, but nothing could prepare him for what was to come after he landed the iconic role of the Draco Malfoy, the bleached blonde villain of the Harry Potter movies. For the next ten years, he was at the center of a huge pop culture phenomenon and yet, in between filming, he would go back to being a normal teenager trying to fit into a normal school. Speaking with great candor and his signature humor, Tom shares his experience growing up as part of the wizarding world while also trying to navigate the muggle world.
+author_new0: Tom Felton

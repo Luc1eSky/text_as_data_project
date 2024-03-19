@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1324001879
+primary_isbn13: 9781324001874
+publisher: Norton
+description: An investigative journalist traces the proliferation of the Trump and Kushner dynasties
+title: American Oligarchs
+author: Andrea Bernstein
+amazon_product_url: https://www.amazon.com/American-Oligarchs-Kushners-Trumps-Marriage/dp/1324001879?tag=NYTBSREV-20
+list_date: 2020/02/02
+published_data: 2020-01-14
+summary: A New York Times Bestseller A multigenerational saga of two families, who rose from immigrant roots to the pinnacle of wealth and power, that tracks the unraveling of American democracy. In American Oligarchs, award-winning investigative journalist Andrea Bernstein tells the story of the Trump and Kushner families like never before. Their journey to the White House is a story of survival and loss, crime and betrayal, that stretches from the Klondike Gold Rush, through Nazi-occupied Poland and across the American Century, to our new gilded age. In building and maintaining their dynastic wealth, these families came to embody the rising nationalism and inequality that has pushed the United States to the brink of oligarchy. Building on her landmark reporting for the acclaimed podcast Trump, Inc. and The New Yorker, Bernstein’s painstaking detective work brings to light new information about the families’ arrival as immigrants to America, their paths to success, and the business and personal lives of the president and his closest family members. Bernstein traces how the two families ruthlessly harnessed New York and New Jersey machine politics to gain valuable tax breaks and grew rich on federal programs that bolstered the middle class. She shows how the Trump Organization, denied credit by American banks, turned to shady international capital. She reveals astonishing new details about Charles Kushner’s attempts to ensnare his brother-in-law with a prostitute and explores how Jared Kushner and his father used a venerable New York newspaper to bolster their business empire. Drawing on more than two hundred interviews and more than one hundred thousand pages of documents, many previously unseen or long forgotten, Bernstein shows how the Trumps and the Kushners repeatedly broke rules and then leveraged secrecy, intimidation, and prosecutorial and judicial power to avoid legal consequences. The result is a compelling narrative that details how the Trump and Kushner dynasties encouraged and profited from a system of corruption, dark money, and influence trading, and that reveals the historical turning points and decisions—on taxation, regulation, white-collar crime, and campaign finance laws—that have brought us to where we are today.
+author_new0: Andrea Bernstein

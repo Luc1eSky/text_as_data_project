@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 0812996410
+primary_isbn13: 9780812996418
+publisher: Random House
+description: A memoir by a former Israeli ambassador to the United States, now a Knesset member.
+title: Ally
+author: Michael B Oren
+amazon_product_url: http://www.amazon.com/Ally-Journey-Across-American-Israeli-Divide-ebook/dp/B00WPQHQAY?tag=NYTBSREV-20
+list_date: 2015/07/19
+published_date: 2015
+summary: Michael Oren served as Israel's ambassador to the United States from 2009-2013, a transformative period for America and a time of violent revolutions throughout the Middle East. Hundreds of thousands of the region's people were killed, and the lives of millions more threatened. Israel and America grappled not only with the peace process and other complex bilateral issues, but matters such as terrorism and the Iranian nuclear program which imperiled the world. The alliance would be subjected to enormous strains and its future questioned by commentators in both countries. On more than one occasion, the friendship's very fabric seemed near to unraveling. This is the story of that alliance and of its divides, as experienced by one who treasures his American identity while proudly serving the State of Israel. In a world in which presidents and prime ministers can chat or shout at each other by videophone, without any need for go-betweens, the role of an ambassador seems increasingly nebulous. But ambassadors represent not only leaders but peoples and, in the case of Americans and Israelis, peoples linked at multiple levels. A quintessentially American story of a young person who refused to relinquish a dream, irrespective of the obstacles, and an inherently Israeli story about assuming onerous responsibilities. It is a record, a chronical, and a confession. And it is a story about love, about someone fortunate enough to love two countries and to represent one to the other. But, above all, this memoir is a testament to an alliance that was and will remain vital for Americans, Israelis, and the world.

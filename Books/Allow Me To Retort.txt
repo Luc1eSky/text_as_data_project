@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 2
+primary_isbn10: 1620976811
+primary_isbn13: 9781620976814
+publisher: New Press
+description: The Nation’s legal analyst and justice correspondent posits ways to protect the rights of women and people of color.
+title: Allow Me To Retort
+author: Elie Mystal
+amazon_product_url: https://www.amazon.com/dp/1620976811?tag=NYTBSREV-20
+list_date: 2022/03/27
+published_data: 2022-01-11
+summary: The MSNBC commentator and legal editor of The Nation turns his razor-sharp wit and legal acumen on our founding document and finds it to be . . . well, awfully white "Mystal possesses a vocabulary and penchant for stringing words together that makes other writers envious. He can bring you to your knees with the power of the written word." --Donna McGill, Lawcrossing.com According to commentator and lawyer Elie Mystal, Republicans are wrong when they tell you the First Amendment allows religious fundamentalists to discriminate against gay people who like cake. They're wrong when they tell you the Second Amendment protects the right to own a private arsenal. They're wrong when they say the death penalty isn't cruel or unusual punishment, and they're wrong when they tell you we have no legal remedies for the scourge of police violence against people of color. In fact, Mystal argues, Republicans are wrong about the law almost all of the time, and now, instead of talking about this on cable news, Mystal explains why in his first book. Allow Me to Retort is an easily digestible argument primer, offered so that people can tell the Republicans in their own lives why they are wrong. Mystal brings his trademark humor, snark, and legal expertise to topics as crucial to our politics as gerrymandering and voter suppression, and explains why legal concepts such as the right to privacy and substantive due process are constantly under attack from the very worst judges conservatives can pack onto the courts. You don't need to be a legal scholar to grasp how stop-and-frisk is an unconstitutional policy of racial discrimination. You just need to read Mystal's book to understand that the Fourteenth Amendment once made the white supremacist policies adopted by the modern Republican Party illegal--and it can do so again if we let it.
+author_new0: Elie Mystal

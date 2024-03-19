@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1101907479
+primary_isbn13: 9781101907474
+publisher: Crown Archetype
+description: A memoir by the Genesis drummer/singer/songwriter.
+title: Not Dead Yet
+author: Phil Collins
+amazon_product_url: https://www.amazon.com/Not-Dead-Yet-Phil-Collins-ebook/dp/B01B0KA6YS?tag=NYTBSREV-20
+list_date: 2016/11/20
+published_date: 2016
+summary: The Genesis front man and successful solo artist presents a reflective memoir that shares insights into the remarkable experiences behind many of his iconic songs and performances, discussing his early years, relationships with fellow artists, and struggles with addiction.

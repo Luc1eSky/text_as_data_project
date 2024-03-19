@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0062319752
+primary_isbn13: 9780062319753
+publisher: Broadside/HarperCollins
+description: The president of the American Enterprise Institute urges conservatives to revise their rhetoric and make clear their concern for everyday people.
+title: The Conservative Heart
+author: Arthur C Brooks
+amazon_product_url: http://www.amazon.com/The-Conservative-Heart-Happier-Prosperous-ebook/dp/B00NEPDGRW?tag=NYTBSREV-20
+list_date: 2015/08/16
+published_date: 2015-07-14
+summary: The prominent economist and president of the American Enterprise Institute—the leading intellectual think tank on the right—offers a bold new vision for conservatism as a movement for social and economic justice. In The Conservative Heart, Arthur C. Brooks contends that after years of focusing on economic growth and traditional social values, it is time for a new kind of conservatism—one that helps the vulnerable without mortgaging our children’s future. In Brooks’ daring vision, this conservative movement fights poverty, promotes equal opportunity, celebrates earned success, and values spiritual enlightenment. It is an inclusive movement with a positive agenda to help people lead happier, more hopeful, and more satisfied lives. One of the country’s leading scholars and policy thinkers, Brooks has considered these issues for decades. Drawing on years of research on the sources of happiness, he asserts that what people most need are four “institutions of meaning”—faith, family, community, and meaningful work. These are not only the foundations of personal wellbeing, but also the necessary means for building a better nation. Combining reporting, original research, and case studies, and free of vituperative politics, The Conservative Heart is an intelligent and compelling manifesto for renewal. Clear, well-reasoned, and accessible, it is a welcome new strategy for disconsolate conservatives looking for fresh, actionable ideas to address the serious problems confronting us today and to reclaim our future, and for politically independent citizens who believe that neither political party addresses their needs or concerns.

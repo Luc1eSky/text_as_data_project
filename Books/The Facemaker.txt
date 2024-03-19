@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0374282307
+primary_isbn13: 9780374282301
+publisher: Farrar, Straus & Giroux
+description: How the modern era of plastic surgery was ushered in by the work of a surgeon repairing the faces of World War I soldiers.
+title: The Facemaker
+author: Lindsey Fitzharris
+amazon_product_url: https://www.amazon.com/dp/0374282307?tag=NYTBSREV-20
+list_date: 2022/06/26
+published_data: 2022-06-07
+summary: "A biography of the plastic surgeon Harold Gillies with an emphasis on the development of plastic surgery during WWI"--
+author_new0: Lindsey Fitzharris

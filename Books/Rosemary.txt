@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 7
+primary_isbn10: 054761795X
+primary_isbn13: 9780547617954
+publisher: Houghton Mifflin Harcourt
+description: The tragic story of the Kennedys’ intellectually disabled oldest daughter.
+title: Rosemary
+author: Kate Clifford Larson
+amazon_product_url: http://www.amazon.com/Rosemary-The-Hidden-Kennedy-Daughter-ebook/dp/B00QPHSABS?tag=NYTBSREV-20
+list_date: 2016/04/17
+published_date: 2015-10-06
+summary: The revelatory, poignant story of Rosemary Kennedy, the eldest and eventually secreted-away Kennedy daughter, and how her life transformed her family, its women especially, and an entire nation. "[Larson] succeeds in providing a well-rounded portrait of a woman who, until now, has never been viewed in full."—The Boston Globe “A biography that chronicles her life with fresh details . . . By making Rosemary the central character, [Larson] has produced a valuable account of a mental health tragedy and an influential family’s belated efforts to make amends.”—The New York Times Book Review Joe and Rose Kennedy’s strikingly beautiful daughter Rosemary was intellectually disabled, a secret fiercely guarded by her powerful and glamorous family. In Rosemary, Kate Clifford Larson uses newly uncovered sources to bring Rosemary Kennedy’s story to light. Young Rosemary comes alive as a sweet, lively girl adored by her siblings. But Larson also reveals the often desperate and duplicitous arrangements the Kennedys made to keep her away from home as she became increasingly difficult in her early twenties, culminating in Joe’s decision to have Rosemary lobotomized at age twenty-three and the family’s complicity in keeping the secret. Only years later did the Kennedy siblings begin to understand what had happened to Rosemary, which inspired them to direct government attention and resources to the plight of the developmentally and mentally disabled, transforming the lives of millions. One of People’s Top Ten Books of 2015

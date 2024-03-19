@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0807006475
+primary_isbn13: 9780807006474
+publisher: Beacon
+description: The co-host of the podcast “Maintenance Phase” examines myths about gaining and losing weight to dismantle anti-fat bias.
+title: "You Just Need To Lose Weight"
+author: Aubrey Gordon
+amazon_product_url: https://www.amazon.com/dp/0807006475?tag=NYTBSREV-20
+list_date: 2023/01/29
+published_data: 2023-01-10
+summary: A NEW YORK TIMES BESTSELLER AN INDIE BESTSELLER “One of the great thinkers of our generation . . . I feel fresher and smarter and happier for sitting down with her.”—Jameela Jamil, iWeigh Podcast The co-host of the Maintenance Phase podcast and creator of Your Fat Friend equips you with the facts to debunk common anti-fat myths and with tools to take action for fat justice The pushback that shows up in conversations about fat justice takes exceedingly predicable form. Losing weight is easy—calories in, calories out. Fat people are unhealthy. We’re in the midst of an obesity epidemic. Fat acceptance “glorifies obesity.” The BMI is an objective measure of size and health. Yet, these myths are as readily debunked as they are pervasive. In “You Just Need to Lose Weight,” Aubrey Gordon equips readers with the facts and figures to reframe myths about fatness in order to dismantle the anti-fat bias ingrained in how we think about and treat fat people. Bringing her dozen years of community organizing and training to bear, Gordon shares the rhetorical approaches she and other organizers employ to not only counter these pernicious myths, but to dismantle the anti-fat bias that so often underpin them. As conversations about fat acceptance and fat justice continue to grow, “You Just Need to Lose Weight” will be essential to ensure that those conversations are informed, effective, and grounded in both research and history.
+author_new0: Aubrey Gordon

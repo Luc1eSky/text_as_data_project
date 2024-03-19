@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1250128013
+primary_isbn13: 9781250128010
+publisher: St. Martin's
+description: A biography of Jacqueline Kennedy Onassis; her mother, Janet Lee Auchincloss; and her sister Lee Radziwill.
+title: Jackie, Janet & Lee
+author: J Randy Taraborrelli
+amazon_product_url: https://www.amazon.com/Jackie-Janet-Lee-Auchincloss-Jacqueline/dp/1250128013?tag=NYTBSREV-20
+list_date: 2018/02/18
+published_date: 2018-01-30
+summary: A biography of three of the most glamorous women of the 20th Century: Jacqueline Bouvier Kennedy Onassis, her mother Janet Lee Auchincloss, and her sister, Princess Lee Radziwill.

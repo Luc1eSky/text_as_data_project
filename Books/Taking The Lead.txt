@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0062323210
+primary_isbn13: 9780062323217
+publisher: Morrow/HarperCollins
+description: A memoir and advice from the dancer, a “Dancing With the Stars” regular.
+title: Taking The Lead
+author: Derek Hough
+amazon_product_url: http://www.amazon.com/Taking-Lead-Lessons-Life-Motion-ebook/dp/B00EXOFDXS?tag=NYTBSREV-20
+list_date: 2015/03/01
+published_date: 2014-08-05
+summary: Derek Hough, the dashing Emmy Award-winning fan favorite, and only five-time champion of the hit ABC reality show Dancing With the Stars, tells the inspiring story of his life and career, and shares insider tips of how he transforms his celebrity dance partners into confident, charismatic champions. For eleven seasons, millions of people have tuned in to Dancing with the Stars to watch Derek Hough, the talented, consummate competitor whose skill and commitment have made him the show’s all-time champion. Whether he’s dancing with an Olympic gold medalist, an internationally renowned recording star, or a celebrated actress, Derek instills in each of his celebrity partners a deep passion, respect for hard work, and an irrepressible joie de vie spirit. Now, for the first time ever, Derek opens up about his life and the lessons he’s learned on and off the dance floor, revealing how he went from bullied boy to ballroom boss. He details how his experiences have taught him to embrace a positive outlook, and shares the insights he’s gained working with celebrity partners, along with never-before-told, behind-the-scenes stories from the show. Throughout, Derek spills the real secrets of learning to dance—connection, respect, and cooperative commitment—and demonstrates how he draws on the lessons of dance and competition to embrace and overcome the daily challenges we all face.

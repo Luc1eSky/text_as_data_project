@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 
+primary_isbn13: 9781301440733
+publisher: Liza Dawson Associates
+description: Collects "Princess" (1993), "Princess Sultana's Daughters" (1994) and "Princess Sultana's Circle" (2002).
+title: The Princess Trilogy
+author: Jean Sasson
+amazon_product_url: http://www.amazon.com/The-Complete-Princess-Trilogy-Daughters-ebook/dp/B00A3XIDOE?tag=NYTBSREV-20
+list_date: 2014/04/06
+published_date: 2021-09-15
+summary: N/A

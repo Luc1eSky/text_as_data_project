@@ -1,0 +1,12 @@
+rank: 6
+weeks_on_list: 3
+primary_isbn10: 0770435637
+primary_isbn13: 9780770435639
+publisher: Broadway
+description: The inspiration and setting for the show on PBS. Originally published in 2011.
+title: Lady Almina And The Real Downton Abbey
+author: The Countess of Carnarvon
+amazon_product_url: http://www.amazon.com/Lady-Almina-Real-Downton-Abbey/dp/0770435629?tag=NYTBSREV-20
+list_date: 2016/01/24
+published_date: 2011-12-27
+summary: The real-life inspiration and setting for the Emmy Award-winning Downton Abbey, Lady Almina and the Real Downton Abbey tells the story behind Highclere Castle and the life of one of its most famous inhabitants, Lady Almina, the 5th Countess of Carnarvon. Drawing on a rich store of materials from the archives of Highclere Castle, including diaries, letters, and photographs, the current Lady Carnarvon has written a transporting story of this fabled home on the brink of war. Much like her Masterpiece Classic counterpart, Lady Cora Crawley, Lady Almina was the daughter of a wealthy industrialist, Alfred de Rothschild, who married his daughter off at a young age, her dowry serving as the crucial link in the effort to preserve the Earl of Carnarvon's ancestral home. Throwing open the doors of Highclere Castle to tend to the wounded of World War I, Lady Almina distinguished herself as a brave and remarkable woman. This rich tale contrasts the splendor of Edwardian life in a great house against the backdrop of the First World War and offers an inspiring and revealing picture of the woman at the center of the history of Highclere Castle.

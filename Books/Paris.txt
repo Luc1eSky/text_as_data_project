@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 3
+primary_isbn10: 0063224623
+primary_isbn13: 9780063224629
+publisher: Dey Street
+description: The entrepreneur and pop culture icon shares her personal and professional rise in the age of influencers.
+title: Paris
+author: Paris Hilton
+amazon_product_url: https://www.amazon.com/dp/0063224623?tag=NYTBSREV-20
+list_date: 2023/04/16
+published_data: 2023-03-14
+summary: Behind Paris Hilton's meteoric rise from Upper West Side club kid to household name lies her self-proclaimed "superpower" of ADHD and a hidden history that traumatized and defined her. Shocking, funny, and surprisingly profound, Paris is the deeply personal memoir of the ultimate It Girl and a stunning inside view of a pop culture phenomenon. Until, in a revealing documentary, Paris Hilton disclosed that her childhood was shattered by two years of strip searches, isolation, beatings, restraint, and brainwashing within the now infamous "troubled teen industry," Paris Hilton was simply the billionaire heiress America had watched grow up on television, on the internet, and in tabloids. But there was always more to Paris Hilton than met the eye. Yes, she is the media personality, DJ, entrepreneur, model, singer, actress, and icon beloved all over the globe. And yet... Paris is the story people have always wanted Paris Hilton to tell--the story of who she really is. In this revealing and thought-provoking book, Hilton will separate the creation from the creator, the brand from the ambassador, and show the woman who grew up with incredible privilege but was also trapped in a world of unreasonable expectation at a moment when young women were humiliated for sport in a gossip economy on steroids. Paris recounts her perilous journey through pre-#METOO sexual politics with grace, generosity, and plenty of fun, rising above a series of heart-wrenching challenges to find healing, lasting love, and a life of meaning and purpose. The parallel story arcs in Hilton's braided narrative come to full bloom as a watershed portrait of the Aughts, challenging each of us to question our role in her story and her role in ours. The result is an intimate and unexpected memoir about persona and personification, the price of being young and disobedient, and the complexity of manifesting your dreams after watching part of yourself disappear.
+author_new0: Paris Hilton

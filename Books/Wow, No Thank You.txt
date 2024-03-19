@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 0525563482
+primary_isbn13: 9780525563488
+publisher: Vintage
+description: Comedic essays by an author and blogger who splits her time between Hollywood meetings and living in a liberal suburban town in a red state.
+title: Wow, No Thank You
+author: Samantha Ir
+amazon_product_url: https://www.amazon.com/dp/0525563482?tag=NYTBSREV-20
+list_date: 2020/04/19
+published_data: 2020-03-31
+summary: Winner of 2021 Lambda Literary Award for Bisexual Nonfiction • #1 NEW YORK TIMES BESTSELLER • From Samantha Irby, beloved author of We Are Never Meeting in Real Life, a rip-roaring, edgy and unabashedly raunchy new collection of hilarious essays. “Stay-up-all-night, miss-your-subway-stop, spit-out-your-beverage funny.... irresistible as a snack tray, as intimately pleasurable as an Irish goodbye.” —Jia Tolentino Irby is forty, and increasingly uncomfortable in her own skin despite what Inspirational Instagram Infographics have promised her. She has left her job as a receptionist at a veterinary clinic, has published successful books and has been friendzoned by Hollywood, left Chicago, and moved into a house with a garden that requires repairs and know-how with her wife in a Blue town in the middle of a Red state where she now hosts book clubs and makes mason jar salads. This is the bourgeois life of a Hallmark Channel dream. She goes on bad dates with new friends, spends weeks in Los Angeles taking meetings with "tv executives slash amateur astrologers" while being a "cheese fry-eating slightly damp Midwest person," "with neck pain and no cartilage in [her] knees," who still hides past due bills under her pillow. The essays in this collection draw on the raw, hilarious particulars of Irby's new life. Wow, No Thank You. is Irby at her most unflinching, riotous, and relatable.
+author_new0: Samantha Ir

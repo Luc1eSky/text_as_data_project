@@ -1,0 +1,14 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1400333512
+primary_isbn13: 9781400333516
+publisher: Harper Select
+description: The team chaplain for Loyola’s men’s basketball team recounts experiences from her more than 100 years of existence.
+title: Wake Up With Purpose!
+author: Sister Jean Dolores Schmidt with Seth Davis
+amazon_product_url: https://www.amazon.com/dp/1400333512?tag=NYTBSREV-20
+list_date: 2023/03/26
+published_data: 2023-02-28
+summary: Known to millions as simply "Sister Jean," the Loyola Chicago matriarch gives readers a remarkable memoir filled with history, wonder, and common-sense wisdom for this century and beyond.
+author_new0: Sister Jean Dolores Schmidt
+author_new1: Seth Davis

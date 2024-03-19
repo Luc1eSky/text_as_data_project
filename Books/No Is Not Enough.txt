@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 1608468909
+primary_isbn13: 9781608468904
+publisher: Haymarket
+description: Klein describes Trump's "corporate coup" and offers suggestions for how to oppose him.
+title: No Is Not Enough
+author: Naomi Klein
+amazon_product_url: https://www.amazon.com/No-Not-Enough-Resisting-Politics/dp/1608468909?tag=NYTBSREV-20
+list_date: 2017/07/02
+published_date: 2017-06-13
+summary: "Klein has spent two decades studying political shocks, climate change, and 'brand bullies.' From this unique perspective, she argues that Trump is not an aberration but a logical extension of the worst, most dangerous trends of the past half-century--the very conditions that have unleashed a rising tide of white nationalism the world over. It is not enough, she tells us, to merely resist, to say 'no.' Our historical moment demands more: a credible and inspiring 'yes,' a roadmap to reclaiming the populist ground from those who would divide us"--Amazon.co

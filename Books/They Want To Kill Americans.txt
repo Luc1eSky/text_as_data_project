@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 1250279003
+primary_isbn13: 9781250279002
+publisher: St. Martin's
+description: The author of “The Plot to Hack America” examines radicalization and terror threats within the United States.
+title: They Want To Kill Americans
+author: Malcolm Nance
+amazon_product_url: https://www.amazon.com/dp/1250279003?tag=NYTBSREV-20
+list_date: 2022/08/07
+published_data: 2022-07-12
+summary: NOW A NEW YORK TIMES, LOS ANGELES TIMES, USA TODAY AND GREAT LAKES INDEPENDENT BOOKSELLER ASSOCIATION BESTSELLER New York Times bestselling author, Malcolm Nance, offers a chilling warning on a clear, present and existential threat to our democracy... our fellow Americans “Malcolm Nance is one of the great unsung national security geniuses of the modern era." —Rachel Maddow To varying degrees, as many as 74 million Americans have expressed hostility towards American democracy. Their radicalization is increasingly visible in our day to day life: in neighbor’s or family member’s open discussion of bizarre conspiracy theories, reveling in the fantasy of mass murdering the liberals they believe are drinking the blood of children. These are the results of the deranged series of lies stoked by former President Donald Trump, made worse by the global pandemic. The first steps of an American fracture were predicted by Malcolm Nance months before the January 6, 2021 insurrection, heralding the start of a generational terror threat greater than either al-Qaeda or the Islamic State. Nance calls this growing unrest the Trump Insurgency in the United States or TITUS. The post-2020 election urge to return to a place of “normalcy”—to forget—is the worst response we can have. American militiamen, terrorists, and radicalized political activists are already armed in mass numbers and regularly missed in the media; principally because Trump’s most loyal and violent foot soldiers benefit from the ultimate privilege—being white. They Want to Kill Americans is the first detailed look into the heart of the active Trump-led insurgency, setting the stage for a second nation-wide rebellion on American soil. This is a chilling and deeply researched early warning to the nation from a counterterrorism intelligence professional: America is primed for a possible explosive wave of terrorist attacks and armed confrontations that aim to bring about a Donald Trump led dictatorship.
+author_new0: Malcolm Nance

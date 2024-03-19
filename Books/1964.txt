@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 4
+primary_isbn10: 1324093064
+primary_isbn13: 9781324093060
+publisher: Liveright
+description: A collection of photographs taken with a 35-millimeter camera during the rise of the Beatles from the end of 1963 through early 1964.
+title: 1964
+author: Paul McCartney
+amazon_product_url: https://www.amazon.com/dp/1324093064?tag=NYTBSREV-20
+list_date: 2023/07/23
+published_data: 2023-06-13
+summary: "Millions of eyes were suddenly upon us, creating a picture I will never forget." --Paul McCartney
+author_new0: Paul McCartney

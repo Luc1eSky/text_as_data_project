@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 0062466984
+primary_isbn13: 9780062466983
+publisher: Dey Street/ Morrow
+description: A memoir by the soccer player, the highest scorer on the United States women’s national team.
+title: Forward
+author: Ab Wambach
+amazon_product_url: http://www.amazon.com/Forward-Memoir-Abby-Wambach-ebook/dp/B018Y1J6C4?tag=NYTBSREV-20
+list_date: 2016/10/02
+published_date: 2016-09-13
+summary: NEW YORK TIMES BESTSELLER "Lucid and wrenching...Forward puts [Wambach's] achievement in context with painful and beautiful candor." —NPR "Forward is the powerful story of an athlete who has inspired girls all over the world to believe in themselves." —Sheryl Sandberg, Facebook COO, New York Times Bestselling author of Lean In “This is the best memoir I’ve read by an athlete since Andre Agassi’s Open.” —Adam Grant, Wharton professor and New York Times bestselling author of Originals and Give and Take Abby Wambach has always pushed the limits of what is possible. At age seven she was put on the boys’ soccer team. At age thirty-five she would become the highest goal scorer—male or female—in the history of soccer, capturing the nation’s heart with her team’s 2015 World Cup Championship. Called an inspiration and “badass” by President Obama, Abby has become a fierce advocate for women’s rights and equal opportunity, pushing to translate the success of her team to the real world. As she reveals in this searching memoir, Abby’s professional success often masked her inner struggle to reconcile the various parts of herself: ferocious competitor, daughter, leader, wife. With stunning candor, Abby shares her inspiring and often brutal journey from girl in Rochester, New York, to world-class athlete. Far more than a sports memoir, Forward is gripping tale of resilience and redemption—and a reminder that heroism is, above all, about embracing life’s challenges with fearlessness and heart.

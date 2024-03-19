@@ -1,0 +1,14 @@
+rank: 6
+weeks_on_list: 1
+primary_isbn10: 0593186648
+primary_isbn13: 9780593186640
+publisher: Dutton
+description: The Boston Marathon winner and Olympian shares her racing highlights and training methods.
+title: Choosing To Run
+author: Des Linden with Bonnie D. Ford
+amazon_product_url: https://www.amazon.com/dp/0593186648?tag=NYTBSREV-20
+list_date: 2023/04/23
+published_data: 2023-04-04
+summary: Featuring both the story of an historic, unforgettable win and insight into the life of an indelible champion, Choosing to Run is a truly inspirational memoir from Boston Marathon winner and Olympian Des Linden, sharing her personal story and what motivates her to keep showing up. When Des woke up on April 16, 2018, the morning of the Boston Marathon, it was 39 degrees and raining, with high, gusty winds. The weather didn’t bother her. In fact, she thought it might be a blessing. She was far from peak form—recovering from illness and questioning her running future—and didn’t expect much of herself that day. But as she ticked off mile after mile in the brutal conditions, passing familiar landmarks on the course she knew by heart, something shifted. Opportunity unexpectedly presented itself. Des tapped into her inner strength and remembered all of the reasons she loved to race. Coming off Heartbreak Hill at Mile 22, Des took the lead and never relinquished it, becoming the 2018 Boston Marathon champion and the first American woman to win the race in thirty-three years. Her career has always been defined by tenacity and an independent spirit, stretching back to her first competitive race in San Diego, when she beat better-outfitted, more experienced kids. Des was a two-time All-American at Arizona State University, and as her collegiate years wound down, she decided she wasn’t done with the sport. Des gambled on herself and moved to Michigan to give professional running a try. As she rose through the elite ranks, she became increasingly determined to do things her way in an industry often bound by the status quo. In her first book, readers will learn the story behind that resolve: the way Des trains, the way she thinks, her relationships with other great runners of her generation, and how much she values her family and friends. They’ll read about her deep connection to the most famous marathon in the world, her two very different Olympic experiences, and how she defined new goals and set a world record at the 50-kilometer distance. Most of all, they’ll learn what makes her get up and run every day.
+author_new0: Des Linden
+author_new1: Bonnie D. Ford

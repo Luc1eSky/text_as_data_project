@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 8
+primary_isbn10: 0063061147
+primary_isbn13: 9780063061149
+publisher: Harper
+description: The author of “Profiles in Corruption” portrays a conspiracy of how the Chinese government might infiltrate American institutions.
+title: Red-Handed
+author: Peter Schweizer
+amazon_product_url: https://www.amazon.com/dp/0063061147?tag=NYTBSREV-20
+list_date: 2022/04/03
+published_data: 2022
+summary: How the Biden family bagged some $31 million from individuals with direct ties to the highest levels of Chinese intelligence-and Joe Biden personally benefited while softening his position on China, How the families of congressional leaders from both sides of the aisle have secured hundreds of millions of dollars in lucrative deals, courtesy of the Chinese government-and then pulled punches in their criticisms of Beijing, How the biggest names on Wall Street praise the Beijing dictatorship and then get the inside track on billion-dollar deals in China, The story of the more than twenty former U.S. senators and representatives making millions of dollars now lobbying for Chinese military- and government-linked companies, How Google, Microsoft, and other Big Tech companies knowingly help the Chinese military compete with us, The story of LeBron James's hidden commercial deals with state-owned companies in China-and his surprisingly long history of avoiding criticism of the regime Book jacket.
+author_new0: Peter Schweizer

@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 3
+primary_isbn10: 
+primary_isbn13: 9780062133410
+publisher: Harper
+description: An account both of airmen’s fight for survival in the Arctic after a 1942 crash, and of a 2012 expedition to Greenland to find the remains of a plane that crashed in a rescue attempt.
+title: Frozen In Time
+author: Mitchell Zuckoff
+amazon_product_url: http://www.amazon.com/Frozen-Time-Survival-Modern-Heroes/dp/0062133438?tag=NYTBSREV-20
+list_date: 2016/04/10
+published_date: 2021-09-15
+summary: N/A

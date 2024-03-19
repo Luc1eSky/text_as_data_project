@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0544272994
+primary_isbn13: 9780544272996
+publisher: Houghton Mifflin Harcourt
+description: Scientific (but often humorous) answers to hypothetical questions, based in part on the author’s website, xkcd.com.
+title: What If?
+author: Randall Munroe
+amazon_product_url: http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A?tag=NYTBSREV-20
+list_date: 2016/01/24
+published_date: 2014
+summary: The creator of the incredibly popular webcomic xkcd presents his heavily researched answers to his fans' oddest questions, including “What if I took a swim in a spent-nuclear-fuel pool?” and “Could you build a jetpack using downward-firing machine guns?” 100,000 first printing.

@@ -1,0 +1,14 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0062995464
+primary_isbn13: 9780062995469
+publisher: Morrow
+description: In 1967, a former Marine agrees to sneak into Vietnam to deliver brews to friends still serving.
+title: The Greatest Beer Run Ever
+author: John “Chick” Donohue and J.T. Molloy
+amazon_product_url: https://www.amazon.com/dp/0062995464?tag=NYTBSREV-20
+list_date: 2020/11/29
+published_data: 2020-11-10
+summary: A "memoir of an Irish-American New Yorker and former U.S. Marine who embarked on a courageous, hare-brained scheme to deliver beer to his pals serving in Vietnam in the late 1960s"--Publisher marketing.
+author_new0: John “Chick” Donohue
+author_new1: J.T. Molloy

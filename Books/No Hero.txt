@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 052595452X
+primary_isbn13: 9780525954521
+publisher: Dutton
+description: In a follow-up to “No Easy Day,” the Navy SEAL team member Matt Bissonnette, writing pseudonymously, describes the challenges of  SEAL training and other missions in which he participated.
+title: No Hero
+author: Mark Owen with Kevin Maurer
+amazon_product_url: http://www.amazon.com/No-Hero-Evolution-Navy-SEAL/dp/052595452X?tag=NYTBSREV-20
+list_date: 2014/12/07
+published_date: 2014
+summary: Recounts definitive moments from the author's career as a Navy SEAL, discussing the missions that had the greatest personal meaning for him and explaining the lessons and values he hopes to pass on to the next generation.

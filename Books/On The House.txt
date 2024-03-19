@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 2
+primary_isbn10: 1250238447
+primary_isbn13: 9781250238443
+publisher: St. Martin's
+description: The former speaker of the House reflects on his time in Washington, key political figures and the current state of the Republican Party.
+title: On The House
+author: John Boehner
+amazon_product_url: https://www.amazon.com/dp/1250238447?tag=NYTBSREV-20
+list_date: 2021/05/09
+published_data: 2021-04-13
+summary: * INSTANT #1 NEW YORK TIMES BESTSELLER * #1 WALL STREET JOURNAL BESTSELLER * “A rollicking, foil-mouthed” [memoir]....Boehner has delivered a classic Washington “tell-all,” albeit one with his typical jocular style.” --The Washington Post Former Speaker of the House John Boehner shares colorful tales from the halls of power, the smoke-filled rooms around the halls of power, and his fabled tour bus. John Boehner is the last of a breed. At a time when the arbiters of American culture were obsessing over organic kale, cold-pressed juice, and SoulCycle, the man who stood second in line to the presidency was unapologetically smoking Camels, quaffing a glass of red, and hitting the golf course whenever he could. There could hardly have been a more diametrically opposed figure to represent the opposition party in President Barack Obama's Washington. But when Boehner announced his resignation, President Obama called to tell the outgoing Speaker that he'd miss him. "Mr. President," Boehner replied, "yes you will." He thought of himself as a "regular guy with a big job," and he enjoyed it. In addition to his own stories of life in the swamp city and of his comeback after getting knocked off the leadership ladder, Boehner offers his impressions of leaders he's met and what made them successes or failures, from Ford and Reagan to Obama, Trump, and Biden. He shares his views on how the Republican Party has become unrecognizable today; the advice--some harsh, some fatherly--he dished out to members of his own party, the opposition, the media, and others; and his often acid-tongued comments about his former colleagues. And of course he talks about golfing with five presidents. Through Speaker Boehner's honest and self-aware reflections, you'll be reminded of a time when the adults were firmly in charge.
+author_new0: John Boehner

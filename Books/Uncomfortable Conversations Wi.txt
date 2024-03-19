@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 5
+primary_isbn10: 1250800463
+primary_isbn13: 9781250800466
+publisher: Flatiron
+description: A look at some questions and concepts needed to address systemic racism.
+title: Uncomfortable Conversations With A Black Man
+author: Emmanuel Acho
+amazon_product_url: https://www.amazon.com/dp/1250800463?tag=NYTBSREV-20
+list_date: 2021/04/04
+published_data: 2020-11-10
+summary: N/A
+author_new0: Emmanuel Acho

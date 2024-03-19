@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1637582358
+primary_isbn13: 9781637582350
+publisher: Post Hill
+description: The former White House press secretary gives an account of her journey.
+title: For Such A Time As This
+author: Kayleigh McEnany
+amazon_product_url: https://www.amazon.com/dp/1637582358?tag=NYTBSREV-20
+list_date: 2021/12/26
+published_data: 2021-12-07
+summary: Kayleigh McEnany describes her path to the White House podium, bringing the reader behind the scenes in the world’s most powerful building and illuminating how faith got her through. If you would have told me that in the year 2020 I would stand at the White House podium and communicate with the American people as COVID-19 ravaged the globe and violent protests beset the nation, I would have told you that you were crazy. But Jesus Christ had this very plan for my life. From White House intern to White House press secretary, from production assistant to national television host, from Catholic all-girls high school to Harvard Law School, God has guided my path through uncharted territory. In For Such a Time as This, I will chronicle my journey to the White House and offer never-before-told anecdotes about what really happened within the Trump administration. You will experience some of the most high stakes moments in the West Wing right alongside me as I reveal how faith got me through.
+author_new0: Kayleigh McEnany

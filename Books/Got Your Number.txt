@@ -1,0 +1,14 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1368073565
+primary_isbn13: 9781368073561
+publisher: Hyperion Avenue
+description: The ESPN host partners with his producer to create their list of top 100 sports legends.
+title: Got Your Number
+author: Mike Greenberg with Paul Hembekides
+amazon_product_url: https://www.amazon.com/dp/1368073565?tag=NYTBSREV-20
+list_date: 2023/04/30
+published_data: 2023-04-04
+summary: ESPN personality (Get Up and #Greeny) and New York Times bestselling author Mike Greenberg partners with mega-producer Hembo to settle once and for all which legends flat-out own which numbers. In short essays certain to provoke debate between and amongst all generations, Greeny uses his lifetime of sports knowledge to spin yarns of the legends among the legends and tell you why some have claimed their spot in the top 100 of all time. Sports and numbers go hand in hand. Sports and loud, assertive debate? Even better. Cheering on, agonizing over, and being in plain awe of your favorite players has left you with a deep and intricate memory of their greatness, not to mention well-honed arguments as to why your favorites are really the best. In arenas, in front of your TV, and in bars, you’ve debated friends and strangers alike. You’ve joyfully mocked your friends’ (sometimes laughable) favorites. You’ve spouted accomplishments, statistics: Yours won six titles, batted .350 in the clutch, or generated 82% of their team’s scoring. But not all numbers are created equal. Some are accomplishments. Others are identity. Looming large over any image you have of an athlete: the number on their jersey. Numbers often provide the most visceral parts of any sports legend’s identity. They are what people remember—worldwide. Jordan, Jeter, Brady—to fans, they are as much their number as they are anything else. Sure, 1 through 100 might seem like a large range, but fierce competition across the ages has blessed only a lucky few to claim one of these as their own. For some, the victors may not be so obvious. That’s why Greeny’s here to help. Ascend into discussion, fans of all stripes. Come away enlightened. Or maybe a little enraged. Either way, you are sure to be occasionally surprised—and endlessly entertained. Whatever your sport, welcome to the place where all the arguments are finally decided, once and for all.
+author_new0: Mike Greenberg
+author_new1: Paul Hembekides

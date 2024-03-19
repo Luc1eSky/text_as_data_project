@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0061864536
+primary_isbn13: 9780061864537
+publisher: Ecco
+description: The experience of a Polish Jewish teenager who hid from the Nazis in a bunker under a neighbor's house for 18 months. Originally published in 2009.
+title: Clara'S War
+author: Clara Kramer and Stephen Glantz
+amazon_product_url: http://www.amazon.com/Claras-War-Girls-Story-Survival-ebook/dp/B0026772T2?tag=NYTBSREV-20
+list_date: 2015/11/29
+published_date: 2009-04-21
+summary: In the classic vein of The Diary of Anne Frank—a heart-wrenching and inspiring story of a life lived in fear and cramped quarters—Clara’s War is a true story of the Holocaust. Cara Kramer was a typical Polish-Jewish teenager from a small town at the outbreak of the Second World War. When the Germans invaded, Clara's family was taken in by the Becks, a Volksdeutsche (ethnically German) family from their town. Mrs. Beck worked as Clara's family's housekeeper. Mr. Beck was known to be an alcoholic, a womanizer, and a vocal anti-Semite. But on hearing that Jewish families were being led into the woods and shot, Beck sheltered the Kramers and two other Jewish families. Eighteen people in all lived in a bunker dug out of the Becks' basement. Fifteen-year-old Clara kept a diary during the twenty terrifying months she spent in hiding, writing down details of their unpredictable life—from the house's catching fire to Mr. Beck's affair with Clara's neighbor; from the nightly SS drinking sessions in the room above to the small pleasure of a shared Christmas carp. Against all odds, Clara lived to tell her story, and her diary is now part of the permanent col-lection of the United States Holocaust Memorial Museum in Washington, D.C.

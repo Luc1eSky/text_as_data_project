@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1501184415
+primary_isbn13: 9781501184413
+publisher: Simon & Schuster
+description: The former president discusses the broader meaning of faith and its effect on our lives, including its religious aspects.
+title: Faith
+author: Jimmy Carter
+amazon_product_url: https://www.amazon.com/Faith-Journey-All-Jimmy-Carter/dp/1501184415?tag=NYTBSREV-20
+list_date: 2018/04/15
+published_date: 2018-03-27
+summary: In this powerful and personal New York Times bestseller, President Jimmy Carter contemplates how faith has sustained him in happiness and disappointment and considers how we may find it in our own lives. All his life, President Jimmy Carter has been a courageous exemplar of faith. Now he shares the lessons he learned. He writes, “The issue of faith arises in almost every area of human existence, so it is important to understand its multiple meanings. In this book, my primary goal is to explore the broader meaning of faith, its far-reaching effect on our lives, and its relationship to past, present, and future events in America and around the world. The religious aspects of faith are also covered, since this is how the word is most often used, and I have included a description of the ways my faith has guided and sustained me, as well as how it has challenged and driven me to seek a closer and better relationship with people and with God.” Quoting eminent Protestant theologians, in Faith President Carter describes his belief in religious freedom, moral politics, and the place of prayer in his daily life. He examines faith’s many meanings, he describes how to accept it, live it, how to doubt and find faith again. This is a serious and moving reflection from one of America’s most admired and respected citizens.

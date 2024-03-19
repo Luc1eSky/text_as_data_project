@@ -1,0 +1,12 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 0399173544
+primary_isbn13: 9780399173547
+publisher: Putnam
+description: The actor recalls the people in his life.
+title: But Enough About Me
+author: Burt Reynolds and Jon Winokur
+amazon_product_url: http://www.amazon.com/But-Enough-About-Me-Memoir/dp/0399173544?tag=NYTBSREV-20
+list_date: 2015/12/06
+published_date: 2015
+summary: "Scandalous, sentimental, frank, and sincere--the ultimate inside account of a television and film icon"--Provided by publisher.

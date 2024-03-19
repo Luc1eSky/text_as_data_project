@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 5
+primary_isbn10: 1546083308
+primary_isbn13: 9781546083306
+publisher: Center Street
+description: Insider accounts of the Republican presidential campaign and its outcome by two of its advisers.
+title: Let Trump Be Trump
+author: Corey R Lewandowski and David N Bossie
+amazon_product_url: https://www.amazon.com/Let-Trump-Be-Inside-Presidency/dp/1546083308?tag=NYTBSREV-20
+list_date: 2018/01/21
+published_date: 2017-12-05
+summary: A New York Times Bestseller and #1 Wall Street Journal Bestseller! LET TRUMP BE TRUMP: THE INSIDE STORY OF HIS PRESIDENCY is the ultimate behind-the-scenes account of how he became President of the United States. Donald Trump was a candidate, and now a president, like none that have come before. His startling rise to the White House is the greatest political tale in the history of our republic. Much has been written about this once-in-a-millennial event but all of those words come from authors outside the orbit of Donald Trump. Now, for the first time, comes the inside story. Written by the guys in the room-two of Trump's closest campaign advisors-Let Trump Be Trump is the eyewitness account of the stories behind the headlines. From the Access Hollywood recording and the Clinton accusers, to Paul Manafort, to the last-moment comeback and a victory that reads like something out of the best suspense novel, Let Trump Be Trump pulls back the curtain on a drama that has mesmerized the whole world-including the palace intrigues of the Mooch, Spicer, Preibus, Bannon, and more. By turns hilarious and intimate, Let Trump Be Trump also offers a view of Donald Trump like you've never seen him, the man whose success in business was built not only on great skill but on loyal relationships and who developed the strongest of bonds with the band of outsiders and idealists who became his team because they believed in him and his message. Written by Trump's campaign manager, the fiery Corey Lewandowski, and Dave Bossie, the consummate political pro and the plaintiff in the famous Citizens United Supreme Court case who helped steer the last critical months of the Trump campaign, Let Trump Be Trump is destined to be the seminal book about the Trump campaign and presidency.

@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 2
+primary_isbn10: 0593241312
+primary_isbn13: 9780593241318
+publisher: Random House
+description: The founder of the YouTube channel Kurzgesagt gives an overview of elements of the body’s immune system.
+title: Immune
+author: Philipp Dettmer
+amazon_product_url: https://www.amazon.com/dp/0593241312?tag=NYTBSREV-20
+list_date: 2021/11/28
+published_data: 2021-11-02
+summary: NEW YORK TIMES BESTSELLER • A gorgeously illustrated deep dive into the immune system that will forever change how you think about your body, from the creator of the popular science YouTube channel Kurzgesagt—In a Nutshell “Through wonderful analogies and a genius for clarifying complex ideas, Immune is a truly brilliant introduction to the human body’s vast system for fighting infections and other threats.”—John Green, #1 New York Times bestselling author of The Fault in Our Stars You wake up and feel a tickle in your throat. Your head hurts. You’re mildly annoyed as you get the kids ready for school and dress for work yourself. Meanwhile, an epic war is being fought, just below your skin. Millions are fighting and dying for you to be able to complain as you head out the door. But most of us never really stop to ask: What even is our immune system? Second only to the human brain in its complexity, it is one of the oldest and most critical facets of life on Earth. Without it, you would die within days. In Immune, Philipp Dettmer, the brains behind the most popular science channel on YouTube, takes readers on a journey through the fortress of the human body and its defenses. There is a constant battle of staggering scale raging within us, full of stories of invasion, strategy, defeat, and noble self-sacrifice. In fact, in the time you’ve been reading this, your immune system has probably identified and eradicated a cancer cell that started to grow in your body. Each chapter delves into an element of the immune system, including defenses like antibodies and inflammation as well as threats like bacteria, allergies, and cancer, as Dettmer reveals why boosting your immune system is actually nonsense, how parasites sneak their way past your body’s defenses, how viruses work, and what goes on in your wounds when you cut yourself. Enlivened by engaging full-color graphics and immersive descriptions, Immune turns one of the most intricate, interconnected, and confusing subjects—immunology—into a gripping adventure through an astonishing alien landscape. Immune is a vital and remarkably fun crash course in what is arguably, and increasingly, the most important system in the body.
+author_new0: Philipp Dettmer

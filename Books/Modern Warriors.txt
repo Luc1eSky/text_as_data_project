@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0063046547
+primary_isbn13: 9780063046542
+publisher: Broadside
+description: The Fox News host and former combat veteran interviews soldiers about the different kinds of battles they encountered.
+title: Modern Warriors
+author: Pete Hegseth
+amazon_product_url: https://www.amazon.com/dp/0063046547?tag=NYTBSREV-20
+list_date: 2020/12/27
+published_data: 2020-11-24
+summary: N/A
+author_new0: Pete Hegseth

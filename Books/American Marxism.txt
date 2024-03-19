@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 15
+primary_isbn10: 150113597X
+primary_isbn13: 9781501135972
+publisher: Threshold Editions
+description: The Fox News host gives his take on the Green New Deal, critical race theory and social activism.
+title: American Marxism
+author: Mark R. Levin
+amazon_product_url: https://www.amazon.com/dp/150113597X?tag=NYTBSREV-20
+list_date: 2021/11/07
+published_data: 2021-07-13
+summary: Fox News personality and radio talk show host Levin explains how the dangers he warned against have come to pass"--
+author_new0: Mark R. Levin

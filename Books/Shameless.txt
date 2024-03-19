@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 1601427581
+primary_isbn13: 9781601427588
+publisher: Convergent
+description: A modern-day pastor calls for a reformation of Christian messaging about sex.
+title: Shameless
+author: Nadia Bolz-Weber
+amazon_product_url: https://www.amazon.com/Shameless-Sexual-Reformation-Nadia-Bolz-Weber/dp/1601427581?tag=NYTBSREV-20
+list_date: 2019/02/17
+published_data: 2019-01-29
+summary: NEW YORK TIMES BESTSELLER • Raw, intimate, and timely—a no-holds-barred celebration of our bodies that flies in the face of antiquated ideas about sex and gender. “A triumph.”—Glennon Doyle • “One of the most important, life-changing books I’ve ever read.”—Rachel Held Evans, author of Searching for Sunday and Inspired Negative messages about sex come from all corners of society: from the church, from the media, from our own families. As a result, countless people have suffered pain, guilt, and judgment. In this instant bestseller, Nadia Bolz-Weber unleashes her critical eye and her vulnerable yet hopeful soul on the harmful conversations about sex that have fed our shame. Bolz-Weber offers no simple amendments or polite compromises. Instead, this modern-day reverend calls for an inclusivity that empowers us to be loyal to people and, perhaps most important, ourselves. “Christianity is not a program for avoiding mistakes,” she writes. “It is a faith of the guilty.” With an alternative understanding of Scripture passages that have been weaponized against Christians for decades, Bolz-Weber reminds us that sexual flourishing can and should be for all genders, all bodies, and all humans. She shares stories, poetry, and Scripture that wage war on perpetual anxiety around sex by celebrating sexuality in all its forms and recognizing it for the gift that it is. If you’ve been mistreated, confused, angered, and/or wounded by shaming sexual messages, this one is for you.
+author_new0: Nadia Bolz-Weber

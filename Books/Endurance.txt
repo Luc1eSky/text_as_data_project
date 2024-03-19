@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 9
+primary_isbn10: 1524731595
+primary_isbn13: 9781524731595
+publisher: Knopf
+description: A memoir by the retired astronaut and former commander of the International Space Station.
+title: Endurance
+author: Scott Kelly
+amazon_product_url: https://www.amazon.com/Endurance-Year-Space-Lifetime-Discovery/dp/1524731595?tag=NYTBSREV-20
+list_date: 2018/01/07
+published_date: 2017-10-17
+summary: NATIONAL BEST SELLER A stunning, personal memoir from the astronaut and modern-day hero who spent a record-breaking year aboard the International Space Station—a message of hope for the future that will inspire for generations to come. The veteran of four spaceflights and the American record holder for consecutive days spent in space, Scott Kelly has experienced things very few have. Now, he takes us inside a sphere utterly hostile to human life. He describes navigating the extreme challenge of long-term spaceflight, both life-threatening and mundane: the devastating effects on the body; the isolation from everyone he loves and the comforts of Earth; the catastrophic risks of colliding with space junk; and the still more haunting threat of being unable to help should tragedy strike at home--an agonizing situation Kelly faced when, on a previous mission, his twin brother's wife, American Congresswoman Gabrielle Giffords, was shot while he still had two months in space. Kelly's humanity, compassion, humor, and determination resonate throughout, as he recalls his rough-and-tumble New Jersey childhood and the youthful inspiration that sparked his astounding career, and as he makes clear his belief that Mars will be the next, ultimately challenging, step in spaceflight. In Endurance, we see the triumph of the human imagination, the strength of the human will, and the infinite wonder of the galaxy.

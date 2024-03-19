@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 2
+primary_isbn10: 006290910X
+primary_isbn13: 9780062909107
+publisher: Ecco
+description: An oral biography of the late chef, writer and television host by his longtime assistant and confidante.
+title: Bourdain
+author: Laurie Woolever
+amazon_product_url: https://www.amazon.com/dp/006290910X?tag=NYTBSREV-20
+list_date: 2021/10/24
+published_data: 2021-10-12
+summary: An unprecedented behind-the-scenes view into the life of Anthony Bourdain from the people who knew him best When Anthony Bourdain died in June 2018, fans around the globe came together to celebrate the life of an inimitable man who had dedicated his life to traveling nearly everywhere (and eating nearly everything), shedding light on the lives and stories of others. His impact was outsized and his legacy has only grown since his death. Now, for the first time, we have been granted a look into Bourdain's life through the stories and recollections of his closest friends and colleagues. Laurie Woolever, Bourdain's longtime assistant and confidante, interviewed nearly a hundred of the people who shared Tony's orbit--from members of his kitchen crews to his writing, publishing, and television partners, to his daughter and his closest friends--in order to piece together a remarkably full, vivid, and nuanced vision of Tony's life and work. From his childhood and teenage days, to his early years in New York, through the genesis of his game-changing memoir Kitchen Confidential to his emergence as a writing and television personality, and in the words of friends and colleagues including Eric Ripert, José Andrés, Nigella Lawson, and W. Kamau Bell, as well as family members including his brother and his late mother, we see the many sides of Tony--his motivations, his ambivalence, his vulnerability, his blind spots, and his brilliance. Unparalleled in scope and deeply intimate in its execution, with a treasure trove of photos from Tony's life, Bourdain: The Definitive Oral Biography is a testament to the life of a remarkable man in the words of the people who shared his world.
+author_new0: Laurie Woolever

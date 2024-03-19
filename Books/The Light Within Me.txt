@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0062697471
+primary_isbn13: 9780062697479
+publisher: Harper
+description: A memoir by one of the hosts of “Fox & Friends.”
+title: The Light Within Me
+author: Ainsley Earhardt with Mark Tabb
+amazon_product_url: https://www.amazon.com/Light-Within-Me-Inspirational-Memoir/dp/0062697471?tag=NYTBSREV-20
+list_date: 2018/05/27
+published_date: 2018-04-24
+summary: A New York Times bestseller! The celebrated Fox News star and #1 New York Times bestselling author offers a powerful, uplifting look at her life and her spiritual journey, reflecting on her family, her faith, and her successful career. In her bestselling children’s book Take Heart, My Child, Ainsley Earhardt drew on her childhood and the inspirational notes her father wrote her before school each morning. In this moving memoir, she reminisces about growing up with a father who loved his children unconditionally—a cherished model of parenthood she has adopted with her own daughter—how her Christian faith has shaped her life, and the dynamic journalism career that has made her a trusted household name. From her insightful political coverage, including a sit-down with Melania Trump, to her powerful reporting covering some of the most headline-making national events, to her live coverage, including Pope Francis’ visit to New York, Ainsley considers her career and the factors that have propelled her to the top of her field, becoming a cohost of Fox & Friends and contributor to Hannity. Ainsley credits her success to the values she learned from her parents, and to the enduring Christian faith that has been her ballast through thick and thin, in good times and in periods of great difficulty. Filled with inspirational quotes taken from Scripture and illustrated with sixteen pages of never-before-seen photos, her memoir is infused with her spiritual beliefs and will touch the hearts of all her fans, reminding them to count the blessings God has given them every day of their lives.

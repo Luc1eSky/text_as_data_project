@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 0062877577
+primary_isbn13: 9780062877574
+publisher: Harper
+description: The "Fox & Friends" meteorologist describes overcoming sexist bosses and health issues.
+title: Mostly Sunny
+author: Janice Dean
+amazon_product_url: https://www.amazon.com/Mostly-Sunny-Learned-Smiling-Rainiest/dp/0062877577?tag=NYTBSREV-20
+list_date: 2019/03/31
+published_data: 2019-03-05
+summary: Fox & Friends meteorologist Janice Dean explains how she purposefully finds the silver lining in every cloud, no matter what challenge she faces. Janice is well-known for the infectious joy she brings to segments on Fox & Friends, no matter the weather. Yet many of her fans know there’s more to her story than blizzards that are brewing or National Pancake Day celebrations. In this honest yet optimistic book, Janice reveals obstacles she’s faced that could have severely impacted any professional woman’s career, from online trolls to health issues to abusive and sexist bosses. In Mostly Sunny, she talks about it all, including the fateful path meeting her firefighting husband after he lost his colleagues on 9/11; the day she had to talk to her two small children about her multiple sclerosis; and how the pressure on women in television led her to a cosmetic procedure that could have ended her career. But no matter what storms life throws at her, Janice refuses to let setbacks and challenges rain on her parade or cloud her outlook. Thanks to supportive coworkers and an upbeat attitude, she’s mastered turning countless would-be losses into victories. Now, she shares her stories, alternately funny, heartwarming, and touching, in the hopes that they will help others make it through their rainiest days.
+author_new0: Janice Dean

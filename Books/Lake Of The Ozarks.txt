@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 1538729806
+primary_isbn13: 9781538729809
+publisher: Grand Central
+description: Coming-of-age anecdotes set in a 1960s Midwestern summer vacation destination.
+title: Lake Of The Ozarks
+author: Bill Geist
+amazon_product_url: https://www.amazon.com/Lake-Ozarks-Surreal-Summers-Vanishing/dp/1538729806?tag=NYTBSREV-20
+list_date: 2019/05/26
+published_data: 2019-05-07
+summary: Beloved TV host Bill Geist pens a reflective memoir of his incredible summers spent in the heart of America in this New York Times bestseller. Before there was "tourism" and souvenir ashtrays became "kitsch," the Lake of the Ozarks was a Shangri-La for middle-class Midwestern families on vacation, complete with man-made beaches, Hillbilly Mini Golf, and feathered rubber tomahawks. It was there that author Bill Geist spent summers in the Sixties during his school and college years working at Arrowhead Lodge-a small resort owned by his bombastic uncle-in all areas of the operation, from cesspool attendant to bellhop. What may have seemed just a summer job became, upon reflection, a transformative era where a cast of eccentric, small-town characters and experiences shaped (some might suggest "slightly twisted") Bill into the man he is today. He realized it was this time in his life that had a direct influence on his sensibilities, his humor, his writing, and ultimately a career searching the world for other such untamed creatures for the Chicago Tribune, the New York Times, and CBS News. In Lake of the Ozarks, Emmy Award-winning CBS Sunday Morning Correspondent Bill Geist reflects on his coming of age in the American Heartland and traces his evolution as a man and a writer. He shares laugh-out-loud anecdotes and tongue-in-cheek observations guaranteed to evoke a strong sense of nostalgia for "the good ol' days." Written with Geistian wit and warmth, Lake of the Ozarks takes readers back to a bygone era, and demonstrates how you can find inspiration in the most unexpected places.
+author_new0: Bill Geist

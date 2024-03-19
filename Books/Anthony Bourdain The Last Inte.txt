@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1612198244
+primary_isbn13: 9781612198248
+publisher: Melville House
+description: Discussions with the late chef and TV host from 2003 to 2018.
+title: Anthony Bourdain: The Last Interview And Other Conversations
+author: with an introduction  Helen Rosner
+amazon_product_url: https://www.amazon.com/Anthony-Bourdain-Interview-Other-Conversations/dp/1612198244?tag=NYTBSREV-20
+list_date: 2019/09/08
+published_data: 2019-08-20
+summary: The New York Times Bestseller The brilliant intellect and candor of Anthony Bourdain is on full display in this collection of interviews from throughout his remarkable career, with an introduction from The New Yorker's Helen Rosner. Anthony Bourdain always downplayed his skills as a chef (many disagreed). But despite his modesty, one thing even he agreed with was that he was a born raconteur—as he makes clear in this collection of sparkling conversations. His wit, passion, and deep intelligence shine through all manner of discussion here, from heart-to-hearts with bloggers, to on-stage talks before massive crowds, to intense interviews with major television programs. Without fail, Bourdain is always blisteringly honest—such as when he talks about his battles with addiction, or when detailing his thoughts on restaurant critics. He regularly dispenses arresting insight about how what’s on your plate reveals much of history and politics. And perhaps best of all, the heartfelt empathy he developed travelling the world for his TV shows is always in the fore, as these talks make the “Hemingway of gastronomy,” as chef Marco Pierre White called him, live again.
+author_new0: with an introduction  Helen Rosner

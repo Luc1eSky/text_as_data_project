@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 3
+primary_isbn10: 031627075X
+primary_isbn13: 9780316270755
+publisher: Little, Brown
+description: The Indian writer’s memoir of his complicated relationship with his mother.
+title: You Don'T Have To Say You Love Me
+author: Sherman Alexie
+amazon_product_url: https://www.amazon.com/You-Dont-Have-Say-Love/dp/031627075X?tag=NYTBSREV-20
+list_date: 2017/08/06
+published_date: 2017-06-13
+summary: The Instant New York Times Bestseller A searing, deeply moving memoir about family, love, loss, and forgiveness from the critically acclaimed, bestselling National Book Award-winning author of The Absolutely True Diary of a Part-Time Indian. Family relationships are never simple. But Sherman Alexie's bond with his mother Lillian was more complex than most. She plunged her family into chaos with a drinking habit, but shed her addiction when it was on the brink of costing her everything. She survived a violent past, but created an elaborate facade to hide the truth. She selflessly cared for strangers, but was often incapable of showering her children with the affection that they so desperately craved. She wanted a better life for her son, but it was only by leaving her behind that he could hope to achieve it. It's these contradictions that made Lillian Alexie a beautiful, mercurial, abusive, intelligent, complicated, and very human woman. When she passed away, the incongruities that defined his mother shook Sherman and his remembrance of her. Grappling with the haunting ghosts of the past in the wake of loss, he responded the only way he knew how: he wrote. The result is a stunning memoir filled with raw, angry, funny, profane, tender memories of a childhood few can imagine, much less survive. An unflinching and unforgettable remembrance, YOU DON'T HAVE TO SAY YOU LOVE ME is a powerful, deeply felt account of a complicated relationship.

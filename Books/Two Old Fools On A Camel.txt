@@ -1,0 +1,10 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: None
+primary_isbn13: A00B00ALCKQGA
+publisher: Victoria Twead
+description: A couple leave their Spanish mountain village to work for a year in the Middle East on the eve of the Arab revolution; from Spain to Bahrain.
+title: Two Old Fools On A Camel
+author: Victoria Twead
+amazon_product_url: http://www.amazon.com/Two-Old-Fools-Camel-Bahrain-ebook/dp/B00ALCKQGA?tag=NYTBSREV-20
+list_date: 2015/01/18

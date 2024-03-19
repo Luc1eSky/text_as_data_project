@@ -1,0 +1,13 @@
+rank: 14
+weeks_on_list: 1
+primary_isbn10: 0525659536
+primary_isbn13: 9780525659532
+publisher: Knopf
+description: The historian chronicles the world’s great dynasties through the prism of family ties in a single narrative.
+title: The World
+author: Simon Sebag Montefiore
+amazon_product_url: https://www.amazon.com/dp/0525659536?tag=NYTBSREV-20
+list_date: 2023/06/04
+published_data: 2023-05-16
+summary: From the New York Times best-selling author of The Romanovs—a magisterial world history unlike any other that tells the story of humanity through the one thing we all have in common: families Around 950,000 years ago, a family of five walked along the beach and left behind the oldest family footprints ever discovered. For award-winning historian Simon Sebag Montefiore, these poignant, familiar fossils serve as an inspiration for a new kind of world history, one that is genuinely global, spans all eras and all continents, and focuses on the family ties that connect every one of us. In this epic, ever-surprising book, Montefiore chronicles the world’s great dynasties across human history through palace intrigues, love affairs, and family lives, linking grand themes of war, migration, plague, religion, and technology to the people at the heart of the human drama. It features a cast of extraordinary diversity: in addition to rulers and conquerors, there are priests, charlatans, artists, scientists, tycoons, gangsters, lovers, husbands, wives and children. There is Hongwu, the beggar who founded the Ming dynasty; Ewuare, the Leopard-King of Benin; Henry Christophe, King of Haiti; Kamehameha, the conqueror of Hawaii; Zenobia, the Arab empress who defied Rome; Lady Murasaki, the first female novelist; Sayyida al-Hurra, the Moroccan pirate-queen. Here too are moderns such as Indira Gandhi, Margaret Thatcher, Barack Obama, Vladimir Putin and Volodymyr Zelensky. Here are the Caesars, Medicis and Incas, Ottomans and Mughals, Bonapartes, Habsburgs and Zulus, Rothschilds, Rockefellers and Krupps, Churchills, Kennedys, Castros, Nehrus, Pahlavis and Kenyattas, Saudis, Kims and Assads. These powerful families represent the breadth of human endeavor, with bloody succession battles, treacherous conspiracies, and shocking megalomania alongside flourishing culture, moving romances, and enlightened benevolence. A dazzling achievement as spellbinding as fiction, The World captures the whole human story in a single, masterful narrative.
+author_new0: Simon Sebag Montefiore

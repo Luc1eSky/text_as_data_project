@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 0307453294
+primary_isbn13: 9780307453297
+publisher: Broadway
+description: The British ruse that employed a corpse to fool the Nazis about the invasion of Sicily.
+title: Operation Mincemeat
+author: Ben Macintyre
+amazon_product_url: http://www.amazon.com/Operation-Mincemeat-Bizarre-Assured-Victory/dp/0307453286?tag=NYTBSREV-20
+list_date: 2014/08/10
+published_date: 2010-05-04
+summary: NEW YORK TIMES BESTSELLER • NOW A NETFLIX FILM STARRING COLIN FIRTH • The “brilliant and almost absurdly entertaining” (Malcolm Gladwell, The New Yorker) true story of the most successful—and certainly the strangest—deception carried out in World War II, from the acclaimed author of The Spy and the Traitor “Pure catnip to fans of World War II thrillers and a lot of fun for everyone else.”—Joseph Kanon, The Washington Post Book World Near the end of World War II, two British naval officers came up with a brilliant and slightly mad scheme to mislead the Nazi armies about where the Allies would attack southern Europe. To carry out the plan, they would have to rely on the most unlikely of secret agents: a dead man. Ben Macintyre’s dazzling, critically acclaimed bestseller chronicles the extraordinary story of what happened after British officials planted this dead body—outfitted in a British military uniform with a briefcase containing false intelligence documents—in Nazi territory, and how this secret mission fooled Hitler into changing military positioning, paving the way for the Allies’ drive to victory. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE NEW YORK TIMES

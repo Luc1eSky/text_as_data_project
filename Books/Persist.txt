@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 1
+primary_isbn10: 1250799244
+primary_isbn13: 9781250799241
+publisher: Metropolitan/Holt
+description: The senior senator from Massachusetts shares six influential perspectives that shaped her life and advocacy.
+title: Persist
+author: Elizabeth Warren
+amazon_product_url: https://www.amazon.com/dp/1250799244?tag=NYTBSREV-20
+list_date: 2021/05/23
+published_data: 2021-04-20
+summary: TK
+author_new0: Elizabeth Warren

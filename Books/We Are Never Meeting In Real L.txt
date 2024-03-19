@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1101912197
+primary_isbn13: 9781101912195
+publisher: Vintage
+description: A blogger's second book of essays.
+title: We Are Never Meeting In Real Life
+author: Samantha Ir
+amazon_product_url: https://www.amazon.com/Are-Never-Meeting-Real-Life/dp/1101912197?tag=NYTBSREV-20
+list_date: 2017/06/18
+published_date: 2017-05-30
+summary: NEW YORK TIMES BESTSELLER • This essay collection from the “bitches gotta eat” blogger, writer on Hulu’s Shrill, and “one of our country’s most fierce and foulmouthed authors” (Amber Tamblyn, Vulture) is sure to make you alternately cackle with glee and cry real tears. Whether Samantha Irby is talking about how her difficult childhood has led to a problem in making “adult” budgets; explaining why she should be the new Bachelorette (she's "35-ish, but could easily pass for 60-something"); detailing a disastrous pilgrimage-slash-romantic-vacation to Nashville to scatter her estranged father's ashes; sharing awkward sexual encounters; or dispensing advice on how to navigate friendships with former drinking buddies who are now suburban moms (hang in there for the Costco loot!); she’s as deft at poking fun at the ghosts of her past self as she is at capturing powerful emotional truths.

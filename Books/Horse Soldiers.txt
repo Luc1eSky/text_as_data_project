@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 10
+primary_isbn10: 1501178512
+primary_isbn13: 9781501178511
+publisher: Scribner
+description: Special Forces operatives fought the Taliban on horseback shortly after Sept. 11. The basis of the movie "12 Strong."
+title: Horse Soldiers
+author: Doug Stanton
+amazon_product_url: http://www.amazon.com/Horse-Soldiers-Extraordinary-Victory-Afghanistan/dp/1416580514?tag=NYTBSREV-20
+list_date: 2018/03/18
+published_date: 2017-12-19
+summary: From the bestselling author of "In Harm's Way" comes a spectacular, harrowing, true-life soldiers' tale of struggle and triumph in the wake of the September 11 attacks. b&w photographs.

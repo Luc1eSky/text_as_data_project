@@ -1,0 +1,13 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 198214050X
+primary_isbn13: 9781982140502
+publisher: Threshold Editions
+description: The conservative commentator espouses free-market capitalism.
+title: Arguing With Socialists
+author: Glenn Beck
+amazon_product_url: https://www.amazon.com/Arguing-Socialists-Glenn-Beck/dp/198214050X?tag=NYTBSREV-20
+list_date: 2020/04/26
+published_data: 2020-04-07
+summary: A NEW YORK TIMES BESTSELLER The New York Times bestselling author of The Great Reset arms you to the teeth with information necessary to debunk the socialist arguments that have once again become popular, and proves that the free market is the only way to go. With his trademark humor, Beck lampoons the resurgence of this bankrupt leftist philosophy with thousands of stories, facts, arguments and easy-to-understand graphics for anyone who is willing to ask the hard questions. He shows that this new shiny socialism is just the same as the old one: a costly and dangerous failure that leaves desperation, poverty, and bodies in its wake.
+author_new0: Glenn Beck

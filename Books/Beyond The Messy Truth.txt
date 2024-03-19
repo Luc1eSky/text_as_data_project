@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0399180028
+primary_isbn13: 9780399180026
+publisher: Ballantine
+description: A look at the failures of both major political parties and a call for bipartisan efforts to solve current problems.
+title: Beyond The Messy Truth
+author: Van Jones
+amazon_product_url: https://www.amazon.com/Beyond-Messy-Truth-Apart-Together/dp/0399180028?tag=NYTBSREV-20
+list_date: 2017/10/29
+published_date: 2017
+summary: The CNN political contributor and host presents a manifesto on how to transform political disputes into peaceful, effective changes, tracing the growth of the nonpartisan LoveArmy and the achievements of today's less-hailed but important activists.

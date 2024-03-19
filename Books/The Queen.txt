@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 2
+primary_isbn10: 1538700433
+primary_isbn13: 9781538700433
+publisher: Grand Central
+description: A biography of Queen Elizabeth II, which explores her influence on Britain and the rest of the world.
+title: The Queen
+author: Andrew Morton
+amazon_product_url: https://www.amazon.com/dp/1538700433?tag=NYTBSREV-20
+list_date: 2022/12/11
+published_data: 2023-04-18
+summary: Perfect for fans of The Crown, legendary New York Times bestselling biographer Andrew Morton provides the definitive story of Queen Elizabeth II's life and legacy. Painfully shy, Elizabeth Windsor's personality was well suited to her youthful ambition of living quietly in the country, raising a family, and caring for her dogs and horses. But when her uncle, King Edward VIII, abdicated, she became heir to the throne--embarking on a journey that would test her as a woman and as a queen. Ascending to the throne at only 25, this self-effacing monarch navigated endless setbacks, family conflict, and occasional triumphs throughout her 70 years as the Queen of England. As her mettle was tested, she endeavored to keep the monarchy relevant culturally, socially, and politically, often in the face of resistance from inside the institution itself. And yet the greatest challenges she faced were often inside her own family, forever under intense scrutiny; from rumors about her husband's infidelity, her sister's marital breakdown, Princess Diana's tragic death, to the recent departure of Prince Harry and Meghan Markle. Now in The Queen, renowned biographer Andrew Morton takes an in-depth look at Britain's longest reigning monarch, exploring the influence Queen Elizabeth has had on both Britain and the rest of the world for much of the last century. From leading a nation struggling to restore itself after the devastation of the second World War to navigating the divisive political landscape of the present day, Queen Elizabeth has been a reluctant but resolute queen. This is the story of a woman of unflagging self-discipline who will long be remembered as mother and grandmother to Great Britain, and one of the greatest sovereigns of the modern era.
+author_new0: Andrew Morton

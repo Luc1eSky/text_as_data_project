@@ -1,0 +1,13 @@
+rank: 4
+weeks_on_list: 1
+primary_isbn10: 0063076195
+primary_isbn13: 9780063076198
+publisher: Morrow
+description: A collection of essays by the Emmy-winning actor who became a viral sensation without knowing what that phrase meant at the time.
+title: How Y'All Doing?
+author: Leslie Jordan
+amazon_product_url: https://www.amazon.com/dp/0063076195?tag=NYTBSREV-20
+list_date: 2021/05/16
+published_data: 2021-04-27
+summary: When Leslie Jordan learned he had "gone viral," he had no idea what that meant or how much his life was about to change. Entertaining millions with his uproarious Instagram videos, he has become beloved around the globe and in this lively and intimate essay collection, Leslie is doing what Leslie does best: telling stories the whole world wants to hear. Whether he's writing about his brush with a biker gang in a West Hollywood Starbucks, or an unexpected phone call from the late Debbie Reynolds, Leslie infuses each story with his trademark Southern wit and an emotional resonance sure to touch the heart of every reader. How Y'all Doing is an authentic, warm, and joyful portrait of an American Sweetheart.
+author_new0: Leslie Jordan

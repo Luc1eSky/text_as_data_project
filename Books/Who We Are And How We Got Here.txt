@@ -1,0 +1,10 @@
+rank: 12
+weeks_on_list: 1
+primary_isbn10: 110187032X
+primary_isbn13: 9781101870327
+publisher: Pantheon
+description: An exploration of how technological advances have changed our understanding of human prehistory through the extraction of DNA from ancient bones.
+title: Who We Are And How We Got Here
+author: David Reich
+amazon_product_url: https://www.amazon.com/Who-Are-How-Got-Here/dp/110187032X?tag=NYTBSREV-20
+list_date: 2018/05/13

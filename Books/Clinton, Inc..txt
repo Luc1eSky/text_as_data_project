@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 0062311239
+primary_isbn13: 9780062311238
+publisher: Broadside/HarperCollins
+description: A view of how the family attained, lost and regained political power, from an editor of The Weekly Standard.
+title: Clinton, Inc.
+author: Daniel Halper
+amazon_product_url: http://www.amazon.com/Clinton-Inc-Audacious-Rebuilding-Political/dp/0062311239?tag=NYTBSREV-20
+list_date: 2014/08/10
+published_date: 2014-07-22
+summary: Weekly Standard editor Daniel Halper provides a meticulously researched account of the brilliant calculations, secret deals, and occasionally treacherous maneuverings that led to the Clintons’ return to political prominence. In the twelve years since the Clintons left the White House, they have gone from being virtually penniless to multi-millionaires, and are arguably the most popular politicians in America—respected and feared by Republicans and Democrats alike. But behind that rise is a never-before-told story of strategic cleverness, reckless gambles, and an unquenchable thirst for political power. Investigative reporter Daniel Halper uses a wealth of research, exclusive documents, and detailed interviews with close friends, allies, and enemies of the Clintons to reveal the strategy they used and the deals they made to turn their political fortunes around. Clinton, Inc. exposes the relationship between President Obama, the Bush family, and the Clintons—and what it means for the future; how Bill and Hillary are laying the groundwork for the upcoming presidential campaign; how Vice President Biden and other Democrats are trying to maneuver around her; Chelsea’ s political future; the Clintons’ skillful media management; the Clintons’ marriage and why it has survived; and an inside look at the Clinton’s financial backers and hidden corporate enterprises. Clinton, Inc. is the key to understanding America’s most powerful political couple.

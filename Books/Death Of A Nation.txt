@@ -1,0 +1,10 @@
+rank: 6
+weeks_on_list: 2
+primary_isbn10: 1250163773
+primary_isbn13: 9781250163776
+publisher: All Points
+description: A companion text to the conservative author and filmmaker’s documentary, which offers an alternative history of the Democratic Party.
+title: Death Of A Nation
+author: Dinesh D'Souza
+amazon_product_url: https://www.amazon.com/Death-Nation-Plantation-Politics-Democratic/dp/1250163773?tag=NYTBSREV-20
+list_date: 2018/08/26

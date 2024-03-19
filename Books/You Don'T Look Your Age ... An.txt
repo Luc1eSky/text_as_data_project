@@ -1,0 +1,12 @@
+rank: 13
+weeks_on_list: 1
+primary_isbn10: 1250111307
+primary_isbn13: 9781250111302
+publisher: Flatiron
+description: A TV producer’s miscellaney about women and work, family and aging.
+title: You Don'T Look Your Age ... And Other Fairy Tales
+author: Sheila Nevins
+amazon_product_url: https://www.amazon.com/Dont-Look-Other-Fairy-Tales/dp/1250111307?tag=NYTBSREV-20
+list_date: 2017/05/21
+published_date: 2017-05-02
+summary: Famed documentary producer Sheila Nevins is the one person who always tells it like it is, and who will say, "Learn from my mistakes and my successes. Because you don't get smarter as you get older, you get braver." An astonishingly frank, funny, poignant book about the real-life challenges of being a woman in a man's world; what it means to be a working mother; what it's like to be an older woman in a youth-obsessed culture; the sometimes changing, often sweet truth about marriages; what being a feminist really means; and that you are in good company if your adult children don't return your phone calls. --

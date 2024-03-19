@@ -1,0 +1,12 @@
+rank: 12
+weeks_on_list: 3
+primary_isbn10: 0385542763
+primary_isbn13: 9780385542760
+publisher: Doubleday
+description: The physicist describes how humans might develop civilization in outer space and possibly become immortal.
+title: The Future Of Humanity
+author: Michio Kaku
+amazon_product_url: https://www.amazon.com/Future-Humanity-Terraforming-Interstellar-Immortality/dp/0385542763?tag=NYTBSREV-20
+list_date: 2018/03/25
+published_date: 2018
+summary: "Formerly the domain of fiction, moving human civilization to the stars is increasingly becoming a scientific possibility--and a necessity. Whether in the near future due to climate change and the depletion of finite resources, or in the distant future due to catastrophic cosmological events, we must face the reality that humans will one day need to leave planet Earth to survive as a species ... Kaku explores ... the process by which humanity may gradually move away from the planet and develop a sustainable civilization in outer space"--

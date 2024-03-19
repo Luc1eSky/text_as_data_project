@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 1594206562
+primary_isbn13: 9781594206566
+publisher: Penguin Press
+description: A former C.I.A. director defends his policies.
+title: Playing To The Edge
+author: Michael V Hayden
+amazon_product_url: http://www.amazon.com/Playing-Edge-American-Intelligence-Terror/dp/1594206562?tag=NYTBSREV-20
+list_date: 2016/03/27
+published_date: 2016
+summary: At the helm of both the CIA and NSA for 10 years, Michael Hayden participated in every major event in American national security, the fallout and consequences of which are still unfolding today. His perspective is truly unmatched, and his goals in writing this book are simple and unwavering: No apologies, no excuses, just what happened, and why. As candid as it is revelatory, Playing To The Edge is an essential history of our turbulent times that sheds new light on events and decisions we think we know well, coming at a time of heinous new threats and momentous change.

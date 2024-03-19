@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 62
+primary_isbn10: 0307742482
+primary_isbn13: 9780307742483
+publisher: Doubleday
+description: The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.
+title: Killers Of The Flower Moon
+author: David Grann
+amazon_product_url: https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=NYTBSREV-20
+list_date: 2018/09/09
+published_date: 2018-04-03
+summary: #1 NEW YORK TIMES BESTSELLER • A twisting, haunting true-life murder mystery about one of the most monstrous crimes in American history, from the author of The Wager and The Lost City of Z, “one of the preeminent adventure and true-crime writers working today."—New York Magazine • NATIONAL BOOK AWARD FINALIST • SOON TO BE A MAJOR MOTION PICTURE “A shocking whodunit…What more could fans of true-crime thrillers ask?”—USA Today “A masterful work of literary journalism crafted with the urgency of a mystery.” —The Boston Globe In the 1920s, the richest people per capita in the world were members of the Osage Nation in Oklahoma. After oil was discovered beneath their land, the Osage rode in chauffeured automobiles, built mansions, and sent their children to study in Europe. Then, one by one, the Osage began to be killed off. The family of an Osage woman, Mollie Burkhart, became a prime target. One of her relatives was shot. Another was poisoned. And it was just the beginning, as more and more Osage were dying under mysterious circumstances, and many of those who dared to investigate the killings were themselves murdered. As the death toll rose, the newly created FBI took up the case, and the young director, J. Edgar Hoover, turned to a former Texas Ranger named Tom White to try to unravel the mystery. White put together an undercover team, including a Native American agent who infiltrated the region, and together with the Osage began to expose one of the most chilling conspiracies in American history. Look for David Grann’s latest #1 New York Times bestselling book, The Wager!

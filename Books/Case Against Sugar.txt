@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 0307701646
+primary_isbn13: 9780307701640
+publisher: Knopf
+description: A science writer warns of sugar’s dangers.
+title: Case Against Sugar
+author: Gary Taubes
+amazon_product_url: https://www.amazon.com/Case-Against-Sugar-Gary-Taubes/dp/0307701646?tag=NYTBSREV-20
+list_date: 2017/01/29
+published_date: 2016-12-27
+summary: From the best-selling author of Why We Get Fat, a groundbreaking, eye-opening exposé that makes the convincing case that sugar is the tobacco of the new millennium: backed by powerful lobbies, entrenched in our lives, and making us very sick. Among Americans, diabetes is more prevalent today than ever; obesity is at epidemic proportions; nearly 10% of children are thought to have nonalcoholic fatty liver disease. And sugar is at the root of these, and other, critical society-wide, health-related problems. With his signature command of both science and straight talk, Gary Taubes delves into Americans' history with sugar: its uses as a preservative, as an additive in cigarettes, the contemporary overuse of high-fructose corn syrup. He explains what research has shown about our addiction to sweets. He clarifies the arguments against sugar, corrects misconceptions about the relationship between sugar and weight loss; and provides the perspective necessary to make informed decisions about sugar as individuals and as a society.

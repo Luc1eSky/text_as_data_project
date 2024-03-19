@@ -1,0 +1,13 @@
+rank: 2
+weeks_on_list: 1
+primary_isbn10: 1635573971
+primary_isbn13: 9781635573978
+publisher: Bloomsbury
+description: Snapshots of various life and work events shared in a collection of essays.
+title: Dirtbag, Massachusetts
+author: Isaac Fitzgerald
+amazon_product_url: https://www.amazon.com/dp/1635573971?tag=NYTBSREV-20
+list_date: 2022/08/07
+published_data: 2022-07-19
+summary: The founding editor of BuzzFeed Books explores a more expansive vision of masculinity in a series of personal essays that chronicle his journey growing up in a Boston homeless shelter and efforts to take control of his own story.
+author_new0: Isaac Fitzgerald

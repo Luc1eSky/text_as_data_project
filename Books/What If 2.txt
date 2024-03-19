@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 9
+primary_isbn10: 0525537112
+primary_isbn13: 9780525537113
+publisher: Riverhead
+description: The creator of the web comic “xkcd” and former NASA roboticist looks into hypothetical and oddball scenarios.
+title: What If? 2
+author: Randall Munroe
+amazon_product_url: https://www.amazon.com/dp/0525537112?tag=NYTBSREV-20
+list_date: 2023/01/08
+published_data: 2022-09-13
+summary: AN INSTANT NEW YORK TIMES BESTSELLER! "The questions throughout What If? 2 are equal parts brilliant, gross, and wonderfully absurd and the answers are thorough, deeply researched, and great fun. . . . Science isn’t easy, but in Munroe’s capable hands, it surely can be fun." —TIME The #1 New York Times bestselling author of What If? and How To answers more of the weirdest questions you never thought to ask The millions of people around the world who read and loved What If? still have questions, and those questions are getting stranger. Thank goodness xkcd creator Randall Munroe is here to help. Planning to ride a fire pole from the Moon back to Earth? The hardest part is sticking the landing. Hoping to cool the atmosphere by opening everyone’s freezer door at the same time? Maybe it’s time for a brief introduction to thermodynamics. Want to know what would happen if you rode a helicopter blade, built a billion-story building, made a lava lamp out of lava, or jumped on a geyser as it erupted? Okay, if you insist. Before you go on a cosmic road trip, feed the residents of New York City to a T. rex, or fill every church with bananas, be sure to consult this practical guide for impractical ideas. Unfazed by absurdity, Munroe consults the latest research on everything from swing-set physics to airliner catapult–design to answer his readers’ questions, clearly and concisely, with illuminating and occasionally terrifying illustrations. As he consistently demonstrates, you can learn a lot from examining how the world might work in very specific extreme circumstances.
+author_new0: Randall Munroe

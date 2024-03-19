@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1555846157
+primary_isbn13: 9781555846152
+publisher: Grove
+description: A political biography of Theodore, Franklin and Eleanor Roosevelt; first published in 2001.
+title: The Three Roosevelts
+author: James MacGregor Burns and Susan Dunn
+amazon_product_url: http://www.amazon.com/The-Three-Roosevelts-Patrician-Transformed-ebook/dp/B004I6DD0G?tag=NYTBSREV-20
+list_date: 2015/10/04
+published_date: 2007-12-01
+summary: An “immensely interesting” account of how Theodore, Franklin, and Eleanor led the United States through some of its most turbulent decades (David McCullough). The Three Roosevelts is the extraordinary political biography of the intertwining lives of Theodore, Franklin, and Eleanor Roosevelt, who emerged from the closed society of New York’s Knickerbocker elite to become the most prominent American political family of the twentieth century. As Pulitzer Prize– and National Book Award–winning author James MacGregor Burns and acclaimed historian Susan Dunn follow the evolution of the Roosevelt political philosophy, they illuminate how Theodore’s example of dynamic leadership would later inspire the careers of his distant cousin Franklin and his niece Eleanor, who together forged a progressive political legacy that reverberated throughout the world. Theodore, Franklin, and Eleanor Roosevelt led America through some of the most turbulent times in its history. The Three Roosevelts takes readers on an exhilarating voyage through these tumultuous decades of our nation’s past, and these momentous events are seen through the Roosevelts’ eyes, their actions, and their passions. Insightful and authoritative, this is a fascinating portrait of three of America’s greatest leaders, whose legacy is as controversial today as their vigorous brand of forward-looking politics was in their own lifetimes. “A remarkable example of narrative and biographical history at its best.” —Pittsburgh Post-Gazette “A detailed study . . . Written with impeccable scholarship.” —Houston Chronicle “Show[s] how TR set FDR off on reform, and how Eleanor pushed Franklin, and how FDR used Eleanor as his legs . . . and as his conscience.” —The Boston Globe

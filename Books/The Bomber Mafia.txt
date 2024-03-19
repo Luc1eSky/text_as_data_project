@@ -1,0 +1,13 @@
+rank: 12
+weeks_on_list: 12
+primary_isbn10: 0316296813
+primary_isbn13: 9780316296816
+publisher: Little, Brown
+description: A look at the key players and outcomes of precision bombing during World War II.
+title: The Bomber Mafia
+author: Malcolm Gladwell
+amazon_product_url: https://www.amazon.com/dp/0316296619?tag=NYTBSREV-20
+list_date: 2022/07/24
+published_data: 2022-06-07
+summary: An exploration of how technology and best intentions collide in the heat of war A New York Times Book Review Editors' Choice In The Bomber Mafia, Malcolm Gladwell weaves together the stories of a Dutch genius and his homemade computer, a band of brothers in central Alabama, a British psychopath, and pyromaniacal chemists at Harvard to examine one of the greatest moral challenges in modern American history. Most military thinkers in the years leading up to World War II saw the airplane as an afterthought. But a small band of idealistic strategists, the "Bomber Mafia," asked: What if precision bombing could cripple the enemy and make war far less lethal? In contrast, the bombing of Tokyo on the deadliest night of the war was the brainchild of General Curtis LeMay, whose brutal pragmatism and scorched-earth tactics in Japan cost thousands of civilian lives, but may have spared even more by averting a planned US invasion. In The Bomber Mafia, Gladwell asks, "Was it worth it?" Things might have gone differently had LeMay's predecessor, General Haywood Hansell, remained in charge. Hansell believed in precision bombing, but when he and Curtis LeMay squared off for a leadership handover in the jungles of Guam, LeMay emerged victorious, leading to the darkest night of World War II. The Bomber Mafia is a riveting tale of persistence, innovation, and the incalculable wages of war.
+author_new0: Malcolm Gladwell

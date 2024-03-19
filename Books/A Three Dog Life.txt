@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 2
+primary_isbn10: 0156033062
+primary_isbn13: 9780156033060
+publisher: Houghton Mifflin Harcourt
+description: How Thomas rebuilt her life after her husband sustained a devastating brain injury in a car accident. Originally published in 2006.
+title: A Three Dog Life
+author: Abigail Thomas
+amazon_product_url: http://www.amazon.com/Three-Dog-Life-Abigail-Thomas-ebook/dp/B000YN5O2W?tag=NYTBSREV-20
+list_date: 2014/07/27
+published_date: 2007-02-01
+summary: When Abigail Thomas’s husband, Rich, was hit by a car, his brain shattered. Subject to rages, terrors, and hallucinations, he must live the rest of his life in an institu­tion. He has no memory of what he did the hour, the day, the year before. This tragedy is the ground on which Abigail had to build a new life. How she built that life is a story of great courage and great change, of moving to a small country town, of a new family composed of three dogs, knitting, and friendship, of facing down guilt and discovering gratitude. It is also about her relationship with Rich, a man who lives in the eternal present, and the eerie poetry of his often uncanny perceptions. This wise, plainspoken, beautiful book enacts the truth Abigail discovered in the five years since the acci­dent: You might not find meaning in disaster, but you might, with effort, make something useful of it.

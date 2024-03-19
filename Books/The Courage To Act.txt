@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 039324721X
+primary_isbn13: 9780393247213
+publisher: Norton
+description: A history of the financial crisis beginning in 2007, by a former chairman of  the Federal Reserve.
+title: The Courage To Act
+author: Ben S Bernanke
+amazon_product_url: http://www.amazon.com/The-Courage-Act-Memoir-Aftermath/dp/039324721X?tag=NYTBSREV-20
+list_date: 2015/11/01
+published_date: 2015-10-06
+summary: A New York Times Bestseller An unrivaled look at the fight to save the American economy. In 2006, Ben S. Bernanke was appointed chair of the Federal Reserve, the unexpected apex of a personal journey from small-town South Carolina to prestigious academic appointments and finally public service in Washington’s halls of power. There would be no time to celebrate. The bursting of a housing bubble in 2007 exposed the hidden vulnerabilities of the global financial system, bringing it to the brink of meltdown. From the implosion of the investment bank Bear Stearns to the unprecedented bailout of insurance giant AIG, efforts to arrest the financial contagion consumed Bernanke and his team at the Fed. Around the clock, they fought the crisis with every tool at their disposal to keep the United States and world economies afloat. Working with two U.S. presidents, and under fire from a fractious Congress and a public incensed by behavior on Wall Street, the Fed—alongside colleagues in the Treasury Department—successfully stabilized a teetering financial system. With creativity and decisiveness, they prevented an economic collapse of unimaginable scale and went on to craft the unorthodox programs that would help revive the U.S. economy and become the model for other countries. Rich with detail of the decision-making process in Washington and indelible portraits of the major players, The Courage to Act recounts and explains the worst financial crisis and economic slump in America since the Great Depression, providing an insider’s account of the policy response.

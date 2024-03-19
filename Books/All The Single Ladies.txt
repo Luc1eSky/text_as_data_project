@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1476716560
+primary_isbn13: 9781476716565
+publisher: Simon & Schuster
+description: An investigation into the lives of unmarried women, both their modern experiences and concerns and their role in American history and culture.
+title: All The Single Ladies
+author: Rebecca Traister
+amazon_product_url: http://www.amazon.com/All-Single-Ladies-Unmarried-Independent/dp/1476716560?tag=NYTBSREV-20
+list_date: 2016/03/20
+published_date: 2016-03-01
+summary: A nuanced investigation into the sexual, economic, and emotional lives of women in America, this “singularly triumphant work” (Los Angeles Times) by Rebecca Traister “the most brilliant voice on feminism in the country” (Anne Lamott) is “sure to be vigorously discussed” (Booklist, starred review). In 2009, the award-winning journalist Rebecca Traister started All the Single Ladies—a book she thought would be a work of contemporary journalism—about the twenty-first century phenomenon of the American single woman. It was the year the proportion of American women who were married dropped below fifty percent; and the median age of first marriages, which had remained between twenty and twenty-two years old for nearly a century (1890–1980), had risen dramatically to twenty-seven. But over the course of her vast research and more than a hundred interviews with academics and social scientists and prominent single women, Traister discovered a startling truth: the phenomenon of the single woman in America is not a new one. And historically, when women were given options beyond early heterosexual marriage, the results were massive social change—temperance, abolition, secondary education, and more. Today, only twenty percent of Americans are wed by age twenty-nine, compared to nearly sixty percent in 1960. The Population Reference Bureau calls it a “dramatic reversal.” All the Single Ladies is a remarkable portrait of contemporary American life and how we got here, through the lens of the single American woman. Covering class, race, sexual orientation, and filled with vivid anecdotes from fascinating contemporary and historical figures, All the Single Ladies is destined to be a classic work of social history and journalism. Exhaustively researched, brilliantly balanced, and told with Traister’s signature wit and insight, this book should be shelved alongside Gail Collins’s When Everything Changed.

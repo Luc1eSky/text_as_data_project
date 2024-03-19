@@ -1,0 +1,12 @@
+rank: 20
+weeks_on_list: 0
+primary_isbn10: 1591846706
+primary_isbn13: 9781591846703
+publisher: Portfolio
+description: A portfolio manager warns of the coming collapse of the dollar and the international monetary system and urges small investors to convert money into land and gold.
+title: The Death Of Money
+author: James Rickards
+amazon_product_url: http://www.amazon.com/The-Death-Money-Collapse-International-ebook/dp/B00DMCJOY6?tag=NYTBSREV-20
+list_date: 2014/04/27
+published_date: 2014
+summary: A sequel to the best-selling Currency Wars predicts a coming collapse of the monetary system while counseling investors on how to survive it, arguing that the dollar will be at the center of a crisis that will differentiate money from wealth.

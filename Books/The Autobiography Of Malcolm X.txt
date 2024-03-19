@@ -1,0 +1,12 @@
+rank: 18
+weeks_on_list: 0
+primary_isbn10: 1101967803
+primary_isbn13: 9781101967805
+publisher: Ballantine
+description: The life story of a leader in the Black Muslim movement and his views on racism in American society. Read by Laurence Fishburne. 16 hours, 52 minutes unabridged.
+title: The Autobiography Of Malcolm X
+author: as told to Alex Haley
+amazon_product_url: http://www.amazon.com/The-Autobiography-Malcolm-X-ebook/dp/B013ZNNX5C?tag=NYTBSREV-20
+list_date: 2016/03/13
+published_date: 2015-08-25
+summary: ONE OF TIME’S TEN MOST IMPORTANT NONFICTION BOOKS OF THE TWENTIETH CENTURY In the searing pages of this classic autobiography, originally published in 1964, Malcolm X, the Muslim leader, firebrand, and anti-integrationist, tells the extraordinary story of his life and the growth of the Black Muslim movement. His fascinating perspective on the lies and limitations of the American Dream, and the inherent racism in a society that denies its nonwhite citizens the opportunity to dream, gives extraordinary insight into the most urgent issues of our own time. The Autobiography of Malcolm X stands as the definitive statement of a movement and a man whose work was never completed but whose message is timeless. It is essential reading for anyone who wants to understand America. Praise for The Autobiography of Malcolm X “Extraordinary . . . a brilliant, painful, important book.”—The New York Times “This book will have a permanent place in the literature of the Afro-American struggle.”—I. F. Stone

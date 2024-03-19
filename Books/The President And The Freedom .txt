@@ -1,0 +1,13 @@
+rank: 6
+weeks_on_list: 8
+primary_isbn10: 0525540571
+primary_isbn13: 9780525540571
+publisher: Sentinel
+description: The Fox News host gives an account of the relationship between Abraham Lincoln and Frederick Douglass.
+title: The President And The Freedom Fighter
+author: Brian Kilmeade
+amazon_product_url: https://www.amazon.com/dp/0525540571?tag=NYTBSREV-20
+list_date: 2022/01/09
+published_data: 2021-11-02
+summary: NEW YORK TIMES BESTSELLER The New York Times bestselling author of George Washington's Secret Six and Thomas Jefferson and the Tripoli Pirates turns to two other heroes of the nation: Abraham Lincoln and Frederick Douglass. In The President and the Freedom Fighter, Brian Kilmeade tells the little-known story of how two American heroes moved from strong disagreement to friendship, and in the process changed the entire course of history. Abraham Lincoln was White, born impoverished on a frontier farm. Frederick Douglass was Black, a child of slavery who had risked his life escaping to freedom in the North. Neither man had a formal education, and neither had had an easy path to influence. No one would have expected them to become friends—or to transform the country. But Lincoln and Douglass believed in their nation’s greatness. They were determined to make the grand democratic experiment live up to its ideals. Lincoln’s problem: he knew it was time for slavery to go, but how fast could the country change without being torn apart? And would it be possible to get rid of slavery while keeping America’s Constitution intact? Douglass said no, that the Constitution was irredeemably corrupted by slavery—and he wanted Lincoln to move quickly. Sharing little more than the conviction that slavery was wrong, the two men’s paths eventually converged. Over the course of the Civil War, they’d endure bloodthirsty mobs, feverish conspiracies, devastating losses on the battlefield, and a growing firestorm of unrest that would culminate on the fields of Gettysburg. As he did in George Washington's Secret Six, Kilmeade has transformed this nearly forgotten slice of history into a dramatic story that will keep you turning the pages to find out how these two heroes, through their principles and patience, not only changed each other, but made America truly free for all.
+author_new0: Brian Kilmeade

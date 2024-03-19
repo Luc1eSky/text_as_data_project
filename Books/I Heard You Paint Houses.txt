@@ -1,0 +1,13 @@
+rank: 8
+weeks_on_list: 7
+primary_isbn10: 1586422383
+primary_isbn13: 9781586422387
+publisher: Steerforth
+description: A World War II veteran works for a crime boss and comes into contact with the union boss Jimmy Hoffa. The basis of the movie "The Irishman."
+title: I Heard You Paint Houses
+author: Charles Brandt
+amazon_product_url: https://www.amazon.com/Irishman-Movie-Tie-Sheeran-Closing/dp/1586422472?tag=NYTBSREV-20
+list_date: 2020/01/05
+published_data: 2016-06-29
+summary: New York Times Bestseller — #1 True Crime Bestseller The inspiration for the major motion picture, THE IRISHMAN. “The best Mafia book I ever read, and believe me, I read them all.” — Steven Van Zandt “Charles Brandt has solved the Hoffa mystery.” — Professor Arthur Sloane, author of Hoffa “Sheeran’s confession that he killed Hoffa in the manner described in the book is supported by the forensic evidence, is entirely credible, and solves the Hoffa mystery.” — Michael Baden M.D., former Chief Medical Examiner of the City of New York “It’s all true.” — New York Police Department organized crime homicide detective Joe Coffey “Gives new meaning to the term ‘guilty pleasure.’’’ — The New York Times Book Review **Includes an Epilogue and a Conclusion that detail substantial post-publication corroboration of Frank Sheeran's confessions to the killings of Jimmy Hoffa and Joey Gallo. "I heard you paint houses" are the first words Jimmy Hoffa ever spoke to Frank "the Irishman" Sheeran. To paint a house is to kill a man. The paint is the blood that splatters on the walls and floors. In the course of nearly five years of recorded interviews, Frank Sheeran confessed to Charles Brandt that he handled more than twenty-five hits for the mob, and for his friend Hoffa. He also provided intriguing information about the Mafia's role in the murder of JFK. Sheeran learned to kill in the US Army, where he saw an astonishing 411 days of active combat duty in Italy during World War II. After returning home he became a hustler and hit man, working for legendary crime boss Russell Bufalino. Eventually Sheeran would rise to a position of such prominence that in a RICO suit the US government would name him as one of only two non-Italians in conspiracy with the Commission of La Cosa Nostra, alongside the likes of Anthony "Tony Pro" Provenzano and Anthony "Fat Tony" Salerno. When Bufalino ordered Sheeran to kill Hoffa, the Irishman did the deed, knowing that if he had refused he would have been killed himself. Charles Brandt's page-turner has become a true crime classic.
+author_new0: Charles Brandt

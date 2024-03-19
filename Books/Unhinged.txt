@@ -1,0 +1,12 @@
+rank: 5
+weeks_on_list: 5
+primary_isbn10: 198210970X
+primary_isbn13: 9781982109707
+publisher: Gallery
+description: The reality TV star and former White House staffer describes her time and relationship with Donald Trump.
+title: Unhinged
+author: Omarosa Manigault Newman
+amazon_product_url: https://www.amazon.com/Unhinged-Insiders-Account-Trump-White/dp/198210970X?tag=NYTBSREV-20
+list_date: 2018/09/30
+published_date: 2018-08-14
+summary: #1 New York Times Bestseller The former Assistant to the President and Director of Communications for the Office of Public Liaison in the Trump White House provides an eye-opening look into the corruption and controversy of the current administration. Few have been a member of Donald Trump’s inner orbit longer than Omarosa Manigault Newman. Their relationship has spanned fifteen years—through four television shows, a presidential campaign, and a year by his side in the most chaotic, outrageous White House in history. But that relationship has come to a decisive and definitive end, and Omarosa is finally ready to share her side of the story in this explosive, jaw-dropping account. A stunning tell-all and takedown from a strong, intelligent woman who took every name and number, Unhinged is a must-read for any concerned citizen.

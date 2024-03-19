@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 006226835X
+primary_isbn13: 9780062268358
+publisher: Dey Street/Morrow
+description: A humorous miscellany from the comedian and actress, the “S.N.L.” and “Parks and Recreation” alumna. Originally published in 2014.
+title: Yes Please
+author: Amy Poehler
+amazon_product_url: http://www.amazon.com/Yes-Please-Amy-Poehler/dp/0062268341?tag=NYTBSREV-20
+list_date: 2016/01/31
+published_date: 2015-09-01
+summary: #1 NEW YORK TIMES BESTSELLER Do you want to get to know the woman we first came to love on Comedy Central's Upright Citizens Brigade? Do you want to spend some time with the lady who made you howl with laughter on Saturday Night Live, and in movies like Baby Mama, Blades of Glory, and They Came Together? Do you find yourself daydreaming about hanging out with the actor behind the brilliant Leslie Knope on Parks and Recreation? Did you wish you were in the audience at the last two Golden Globes ceremonies, so you could bask in the hilarity of Amy's one-liners? If your answer to these questions is "Yes Please!" then you are in luck. In her first book, one of our most beloved funny folk delivers a smart, pointed, and ultimately inspirational read. Full of the comedic skill that makes us all love Amy, Yes Please is a rich and varied collection of stories, lists, poetry (Plastic Surgery Haiku, to be specific), photographs, mantras and advice. With chapters like "Treat Your Career Like a Bad Boyfriend," "Plain Girl Versus the Demon" and "The Robots Will Kill Us All" Yes Please will make you think as much as it will make you laugh. Honest, personal, real, and righteous, Yes Please is full of words to live by.

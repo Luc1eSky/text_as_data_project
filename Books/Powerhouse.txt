@@ -1,0 +1,12 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 006244137X
+primary_isbn13: 9780062441379
+publisher: Custom House/Morrow
+description: The history of the Creative Artists Agency and its role in Hollywood and popular culture over the past 50 years.
+title: Powerhouse
+author: James Andrew Miller
+amazon_product_url: http://www.amazon.com/Powerhouse-Untold-Hollywoods-Creative-Artists-ebook/dp/B016I3ANU4?tag=NYTBSREV-20
+list_date: 2016/08/28
+published_date: 2016-08-09
+summary: A New York Times bestseller An astonishing—and astonishingly entertaining—history of Hollywood’s transformation over the past five decades as seen through the agency at the heart of it all, from the #1 bestselling co-author of Live from New York and Those Guys Have All the Fun. The movies you watch, the TV shows you adore, the concerts and sporting events you attend—behind the curtain of nearly all of these is an immensely powerful and secretive corporation known as Creative Artists Agency. Started in 1975, when five bright and brash employees of a creaky William Morris office left to open their own, strikingly innovative talent agency, CAA would come to revolutionize the entertainment industry, and over the next several decades its tentacles would spread aggressively throughout the worlds of movies, television, music, advertising, and investment banking. Powerhouse is the fascinating, no-holds-barred saga of that ascent. Drawing on unprecedented and exclusive access to the men and women who built and battled with CAA, as well as financial information never before made public, author James Andrew Miller spins a tale of boundless ambition, ruthless egomania, ceaseless empire building, greed, and personal betrayal. It is also a story of prophetic brilliance, magnificent artistry, singular genius, entrepreneurial courage, strategic daring, foxhole brotherhood, and how one firm utterly transformed the entertainment business. Here are the real Star Wars—complete with a Death Star—told through the voices of those who were there. Packed with scores of stars from movies, television, music, and sports, as well as a tremendously compelling cast of agents, studio executives, network chiefs, league commissioners, private equity partners, tech CEOs, and media tycoons, Powerhouse is itself a Hollywood blockbuster of the most spectacular sort.

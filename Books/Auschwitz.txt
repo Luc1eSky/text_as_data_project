@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1628720263
+primary_isbn13: 9781628720266
+publisher: Skyhorse
+description: An eyewitness account of the Nazi death camp, written shortly after the war by a doctor who was a prisoner there.
+title: Auschwitz
+author: Miklos Nyiszli
+amazon_product_url: http://www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account-ebook/dp/B004SUO5JA?tag=NYTBSREV-20
+list_date: 2015/09/06
+published_date: 2011-04-01
+summary: When the Nazis invaded Hungary in 1944, they sent virtually the entire Jewish population to Auschwitz. A Jew and a medical doctor, Dr. Miklos Nyiszli was spared from death for a grimmer fate: to perform “scientific research” on his fellow inmates under the supervision of the infamous “Angel of Death”: Dr. Josef Mengele. Nyiszli was named Mengele’s personal research pathologist. Miraculously, he survived to give this terrifying and sobering account.

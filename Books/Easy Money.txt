@@ -1,0 +1,14 @@
+rank: 11
+weeks_on_list: 1
+primary_isbn10: 1419766392
+primary_isbn13: 9781419766398
+publisher: Abrams
+description: The actor recounts his misadventures in cryptocurrency and analyzes its decline in value.
+title: Easy Money
+author: Ben McKenzie with Jacob Silverman
+amazon_product_url: https://www.amazon.com/dp/1419766392?tag=NYTBSREV-20
+list_date: 2023/08/06
+published_data: 2023-07-18
+summary: At the height of the pandemic, TV star Ben McKenzie (The O.C., Gotham) was the perfect mark for cryptocurrency: a dad stuck at home with some cash in his pocket, worried about his family, armed with only the vague notion that people were making heaps of money on something he-despite a degree in economics-didn't entirely understand. Lured in by the promise of taking power from banks, possibly improving democracy, and sure, a touch of FOMO, McKenzie dove deep into blockchain, Bitcoin, and the various other coins and exchanges on which they are traded. But after scratching the surface, he had to ask, "Am I crazy, or is this all a total scam?" In Easy Money, McKenzie enlists the help of journalist Jacob Silverman for a caper and exposé that points in shock to the climactic final days of cryptocurrency now upon us. Weaving together stories of average traders and victims, colorful crypto "visionaries," Hollywood's biggest true believers, anti-crypto whistleblowers, and government agents searching for solutions at the precipice of a major crash, Easy Money is an on-the-ground look at a perfect storm of 2008 Housing Bubble-level irresponsibility and criminal fraud potentially ten times more devastating than Bernie Madoff.
+author_new0: Ben McKenzie
+author_new1: Jacob Silverman

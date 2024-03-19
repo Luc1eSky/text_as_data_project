@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 0307885933
+primary_isbn13: 9780307885937
+publisher: Broadway
+description: A memoir by the author of "Under the Tuscan Sun" looks at her claustrophobic childhood in the Deep South.
+title: Under Magnolia
+author: Frances Mayes
+amazon_product_url: http://www.amazon.com/Under-Magnolia-A-Southern-Memoir/dp/0307885925?tag=NYTBSREV-20
+list_date: 2015/08/23
+published_date: 2014-04-01
+summary: A lyrical and evocative memoir from Frances Mayes, the Bard of Tuscany, about coming of age in the Deep South and the region’s powerful influence on her life. The author of three beloved books about her life in Italy, including Under the Tuscan Sun and Every Day in Tuscany, Frances Mayes revisits the turning points that defined her early years in Fitzgerald, Georgia. With her signature style and grace, Mayes explores the power of landscape, the idea of home, and the lasting force of a chaotic and loving family. From her years as a spirited, secretive child, through her university studies—a period of exquisite freedom that imbued her with a profound appreciation of friendship and a love of travel—to her escape to a new life in California, Mayes exuberantly recreates the intense relationships of her past, recounting the bitter and sweet stories of her complicated family: her beautiful yet fragile mother, Frankye; her unpredictable father, Garbert; Daddy Jack, whose life Garbert saved; grandmother Mother Mayes; and the family maid, Frances’s confidant Willie Bell. Under Magnolia is a searingly honest, humorous, and moving ode to family and place, and a thoughtful meditation on the ways they define us, or cause us to define ourselves. With acute sensory language, Mayes relishes the sweetness of the South, the smells and tastes at her family table, the fragrance of her hometown trees, and writes an unforgettable story of a girl whose perspicacity and dawning self-knowledge lead her out of the South and into the rest of the world, and then to a profound return home.

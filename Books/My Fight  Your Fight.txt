@@ -1,0 +1,12 @@
+rank: 17
+weeks_on_list: 0
+primary_isbn10: 1941393268
+primary_isbn13: 9781941393260
+publisher: Regan Arts
+description: The Olympic medalist in judo and Ultimate Fighting Championship women's bantamweight competitor tells her story.
+title: My Fight / Your Fight
+author: Ronda Rousey with Maria Burns Ortiz
+amazon_product_url: http://www.amazon.com/My-Fight-Your-Ronda-Rousey-ebook/dp/B00T0GIATI?tag=NYTBSREV-20
+list_date: 2015/08/30
+published_date: 2015-05-12
+summary: The undefeated UFC champion and Hollywood star charts her difficult journey to fame, revealing her tragic childhood, her secrets behind her achievements, and her experiences as pioneering woman athlete.

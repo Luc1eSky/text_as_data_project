@@ -1,0 +1,13 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 059324303X
+primary_isbn13: 9780593243039
+publisher: Dial
+description: An examination of the seven deadly sins and their influence over the lives of women today.
+title: On Our Best Behavior
+author: Elise Loehnen
+amazon_product_url: https://www.amazon.com/dp/059324303X?tag=NYTBSREV-20
+list_date: 2023/06/11
+published_data: 2023-05-23
+summary: A groundbreaking exploration of the ancient rules women unwittingly follow in order to be considered “good,” revealing how the Seven Deadly Sins still control and distort our lives and illuminating a path toward a more balanced, spiritually complete way to live Why do women equate self-denial with being good? We congratulate ourselves when we resist the donut in the office breakroom. We celebrate our restraint when we hold back from sending an email in anger. We feel virtuous when we wake up at dawn to get a jump on the day. We put others’ needs ahead of our own and believe this makes us exemplary. In On Our Best Behavior, journalist Elise Loehnen explains that these impulses—often lauded as unselfish, distinctly feminine instincts—are actually ingrained in us by a culture that reaps the benefits, via an extraordinarily effective collection of mores known as the Seven Deadly Sins. Since being codified by the Christian church in the fourth century, the Seven Deadly Sins—pride, greed, lust, envy, gluttony, wrath, and sloth—have exerted insidious power. Even today, in our largely secular, patriarchal society, they continue to circumscribe women’s behavior. For example, seeing sloth as sinful leads women to deny themselves rest; a fear of gluttony drives them to ignore their appetites; and an aversion to greed prevents them from negotiating for themselves and contributes to the 55 percent gender wealth gap. In On Our Best Behavior, Loehnen reveals how we’ve been programmed to obey the rules represented by these sins and how doing so qualifies us as “good.” This probing analysis of contemporary culture and thoroughly researched history explains how women have internalized the patriarchy, and how they unwittingly reinforce it. By sharing her own story and the spiritual wisdom of other traditions, Loehnen shows how we can break free and discover the integrity and wholeness we seek.
+author_new0: Elise Loehnen

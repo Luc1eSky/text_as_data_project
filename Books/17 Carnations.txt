@@ -1,0 +1,12 @@
+rank: 16
+weeks_on_list: 0
+primary_isbn10: 1455527092
+primary_isbn13: 9781455527090
+publisher: Grand Central
+description: The Duke of Windsor; his wife, Wallis Simpson; and their relations with the Nazis.
+title: 17 Carnations
+author: Andrew Morton
+amazon_product_url: http://www.amazon.com/17-Carnations-Biggest-Cover-Up-History-ebook/dp/B00LLIJ0JW?tag=NYTBSREV-20
+list_date: 2015/03/29
+published_date: 2015-03-10
+summary: From the author of New York Times bestseller MEGHAN comes a scandalous historical drama about the secrets hidden between the royal family, Franklin D. Roosevelt, Winston Churchill, the Duke of Windsor, and Adolf Hitler before, during, and after World War II. Andrew Morton tells the story of the feckless Edward VIII, later Duke of Windsor, his American wife, Wallis Simpson, the bizarre wartime Nazi plot to make him a puppet king after the invasion of Britain, and the attempted cover-up by Churchill, General Eisenhower, and King George VI of the duke's relations with Hitler. From the alleged affair between Simpson and the German foreign minister to the discovery of top secret correspondence about the man dubbed "the traitor king" and the Nazi high command, this is a saga of intrigue, betrayal, and deception suffused with a heady aroma of sex and suspicion. For the first time, Morton reveals the full story behind the cover-up of those damning letters and diagrams: the daring heist ordered by King George VI, the smooth duplicity of a Soviet spy as well as the bitter rows and recriminations among the British and American diplomats, politicians, and academics. Drawing on FBI documents, exclusive pictures, and material from the German, Russian, and British royal archives, as well as the personal correspondence of Churchill, Eisenhower, and the Windsors themselves, 17 CARNATIONS is a dazzling historical drama, full of adventure, intrigue, and startling revelations, written by a master of the genre.

@@ -1,0 +1,12 @@
+rank: 8
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780062209818
+publisher: Dey St.
+description: The story of Mötley Crüe as told by the four original members of the band.
+title: The Dirt
+author: Tommy Lee, Vince Neil, Mick Mars, Nikki Sixx and Neil Strauss
+amazon_product_url: https://www.amazon.com/Dirt-Confessions-Worlds-Most-Notorious/dp/0060989157?tag=NYTBSREV-20
+list_date: 2019/04/14
+author_new0: Tommy Lee, Vince Neil, Mick Mars, Nikki Sixx
+author_new1: Neil Strauss

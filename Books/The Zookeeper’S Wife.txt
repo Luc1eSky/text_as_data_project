@@ -1,0 +1,12 @@
+rank: 15
+weeks_on_list: 19
+primary_isbn10: 0393354253
+primary_isbn13: 9780393354256
+publisher: Norton
+description: How a Warsaw couple sheltered Jews and members of the Resistance during World War II. Originally published in 2007; now the basis of a movie.
+title: The Zookeeper’S Wife
+author: Diane Ackerman
+amazon_product_url: http://www.amazon.com/The-Zookeepers-Wife-War-Story/dp/039333306X?tag=NYTBSREV-20
+list_date: 2017/07/09
+published_date: 2017-02-07
+summary: The New York Times bestseller now a major motion picture starring Jessica Chastain. 1939: the Germans have invaded Poland. The keepers of the Warsaw zoo, Jan and Antonina Zabinski, survive the bombardment of the city, only to see the occupiers ruthlessly kill many of their animals. The Nazis then carry off the prized specimens to Berlin for their program to create the “purest” breeds, much as they saw themselves as the purest human race. Opposed to all the Nazis represented, the Zabinskis risked their lives by hiding Jews in the now-empty animal cages, saving as many as three hundred people from extermination. Acclaimed, best-selling author Diane Ackerman, fascinated both by the Zabinskis’ courage and by Antonina’s incredible sensitivity to all living beings, tells a moving and dramatic story of the power of empathy and the strength of love. A Focus Features release, it is directed by Niki Caro, written by Angela Workman.

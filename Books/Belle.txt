@@ -1,0 +1,12 @@
+rank: 10
+weeks_on_list: 1
+primary_isbn10: 006231078X
+primary_isbn13: 9780062310781
+publisher: Harper Perennial
+description: The story of a mixed-race girl raised as a lady in 18th-century England; the inspiration for the 2014 movie.
+title: Belle
+author: Paula Byrne
+amazon_product_url: http://www.amazon.com/Belle-Slave-Daughter-Chief-Justice-ebook/dp/B00D185ZPS?tag=NYTBSREV-20
+list_date: 2016/07/10
+published_date: 2014-04-29
+summary: The sensational true tale that inspired the major motion picture Belle starring Tom Wilkinson, Miranda Richardson, Emily Watson, Penelope Wilton, and Matthew Goode—a stunning story of the first mixed-race girl introduced to high society England and raised as a lady. The illegitimate daughter of a captain in the Royal Navy and an enslaved African woman, Dido Belle was sent to live with her great-uncle, the Earl of Mansfield, one of the most powerful men of the time and a leading opponent of slavery. Growing up in his lavish estate, Dido was raised as a sister and companion to her white cousin, Elizabeth. When a joint portrait of the girls, commissioned by Mansfield, was unveiled, eighteenth-century England was shocked to see a black woman and white woman depicted as equals. Inspired by the painting, Belle vividly brings to life this extraordinary woman caught between two worlds, and illuminates the great civil rights question of her age: the fight to end slavery. Belle includes 20 pages of black-and-white photos.

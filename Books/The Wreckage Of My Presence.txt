@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 006296058X
+primary_isbn13: 9780062960580
+publisher: Harper
+description: Essays by the actress and comedian on the ups and downs of womanhood and motherhood.
+title: The Wreckage Of My Presence
+author: Casey Wilson
+amazon_product_url: https://www.amazon.com/dp/006296058X?tag=NYTBSREV-20
+list_date: 2021/05/23
+published_data: 2021-05-04
+summary: Laugh-out-loud, deeply insightful, and emotion-filled essays from multi-talented actress, comedian, podcaster, and writer Casey Wilson.Casey Wilson has a lot on her mind and she isn't afraid to share. In this dazzling collection of essays, skillfully constructed and brimming with emotion, she shares her thoughts on the joys and vagaries of modern-day womanhood and motherhood, introduces the not-quite-typical family that made her who she is, and persuasively argues that lowbrow pop culture is the perfect lens through which to understand human nature. Whether she's extolling the virtues of eating in bed, processing the humiliation over her father's late in life perm, or exploring her pathological need to be liked, Casey is witty, candid, and full of poignant and funny surprises. Humorous dives into her obsessions -and areas of personal expertise-Scientology and self-help, nice guys, reality television shows-are matched by touching meditations on female friendship, grief, motherhood, and identity. Reading The Wreckage of My Presence is like spending time with a close friend-a deeply passionate, full-tilt, joyous, excessive, compulsive, shameless, hungry-for-it-all, loyal, cheerleading friend. A friend who is ready for any big feeling that comes her way and isn't afraid to embrace it.
+author_new0: Casey Wilson

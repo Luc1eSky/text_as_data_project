@@ -1,0 +1,13 @@
+rank: 11
+weeks_on_list: 3
+primary_isbn10: 0316628247
+primary_isbn13: 9780316628242
+publisher: Little, Brown
+description: A collection of the humorist’s essays including “Me Talk Pretty One Day” and “A Guy Walks Into a Bar Car.”
+title: The Best Of Me
+author: David Sedaris
+amazon_product_url: https://www.amazon.com/dp/0316628247?tag=NYTBSREV-20
+list_date: 2020/12/06
+published_data: 2020-11-03
+summary: A lavish gift edition of David Sedaris's best stories, spanning his spectacular bestselling career. Hand-picked by David himself, these are stories that will make you laugh and cry, sometimes at the same time, from "the funniest man alive" (Time Out New York). What could be a more tempting holiday gift than a compendium of David Sedaris's best stories, selected by the author himself? From a spectacular career spanning almost three decades, these stories have become modern classics and are now for the first time collected in one volume. The collection will also feature an introduction by the author; a never-before-collected story, "Unbuttoned"; and a new interview with David Sedaris. Table of Contents Glen's Homophobia Newsletter Vol. 3, No. 2 Front Row Center with Thaddeus Bristol Christmas Means Giving The Incomplete Quad You Can't Kill the Rooster Me Talk Pretty One Day Jesus Shaves Us and Them Let It Snow The Ship Shape The Girl Next Door Repeat After Me Six to Eight Black Men Possession Nuit of the Living Dead The Understudy In the Waiting Room Solution to Saturday's Puzzle Town and Country The Cat and the Baboon The Motherless Bear The Faithful Setter Dentists Without Borders Think Differenter Memory Laps Loggerheads If I Ruled the World Easy, Tiger Laugh, Kookaburra A Guy Walks into a Bar Car Standing By Understanding Understanding Owls Now We Are Five A House Divided The Perfect Fit Leviathan A Modest Proposal Why Aren't You Laughing? The Spirit World Unbuttoned
+author_new0: David Sedaris

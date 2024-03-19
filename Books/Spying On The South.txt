@@ -1,0 +1,13 @@
+rank: 15
+weeks_on_list: 1
+primary_isbn10: 1101980281
+primary_isbn13: 9781101980286
+publisher: Penguin Press
+description: A retracing of Frederick Law Olmsted's time as an undercover correspondent during the 1850s in the South for The New York Times and one of the designers of Central Park.
+title: Spying On The South
+author: Tony Horwitz
+amazon_product_url: https://www.amazon.com/Spying-South-Odyssey-Across-American/dp/1101980281?tag=NYTBSREV-20
+list_date: 2019/06/16
+published_data: 2019
+summary: "The author retraces Frederick Law Olmsted's journey across the American South in the 1850s, on the eve of the Civil War. Olmsted roamed eleven states and six thousand miles, and the New York Times published his dispatches about slavery and its defenders. More than 150 years later, Tony Horwitz followed Olmsted's route, and whenever possible his mode of transport--rail, riverboats, in the saddle--through Appalachia, down the Ohio and Mississippi, through Kentucky, Tennessee, Louisiana, and across Texas to the Rio Grande, discovering and reporting on vestiges of what Olmsted called the Cotton Kingdom"--
+author_new0: Tony Horwitz

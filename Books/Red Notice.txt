@@ -1,0 +1,12 @@
+rank: 14
+weeks_on_list: 2
+primary_isbn10: 1476755744
+primary_isbn13: 9781476755748
+publisher: Simon & Schuster
+description: An American hedge fund manager in Russia is expelled by kleptocrats who then seize his property. Browder's investigation into the death of his attorney led to the Magnitsky Act.
+title: Red Notice
+author: Bill Browder
+amazon_product_url: http://www.amazon.com/Red-Notice-Finance-Murder-Justice/dp/147675571X?tag=NYTBSREV-20
+list_date: 2018/08/05
+published_date: 2015-10-20
+summary: A true story of high finance, murder, and one man's fight for justice.

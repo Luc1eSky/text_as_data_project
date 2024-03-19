@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0399563822
+primary_isbn13: 9780399563829
+publisher: Penguin Press
+description: A humorous overview of emerging technological advances and their potential outcomes.
+title: Soonish
+author: Kelly Weinersmith and Zach Weinersmith
+amazon_product_url: https://www.amazon.com/Soonish-Emerging-Technologies-Improve-Everything/dp/0399563822?tag=NYTBSREV-20
+list_date: 2017/11/05
+published_date: 2017-10-17
+summary: The instant New York Times bestseller! A Wall Street Journal Best Science Book of the Year! A Popular Science Best Science Book of the Year! From a top scientist and the creator of the hugely popular web comic Saturday Morning Breakfast Cereal, a hilariously illustrated investigation into future technologies -- from how to fling a ship into deep space on the cheap to 3D organ printing What will the world of tomorrow be like? How does progress happen? And why do we not have a lunar colony already? What is the hold-up? In this smart and funny book, celebrated cartoonist Zach Weinersmith and noted researcher Dr. Kelly Weinersmith give us a snapshot of what's coming next -- from robot swarms to nuclear fusion powered-toasters. By weaving their own research, interviews with the scientists who are making these advances happen, and Zach's trademark comics, the Weinersmiths investigate why these technologies are needed, how they would work, and what is standing in their way. New technologies are almost never the work of isolated geniuses with a neat idea. A given future technology may need any number of intermediate technologies to develop first, and many of these critical advances may appear to be irrelevant when they are first discovered. The journey to progress is full of strange detours and blind alleys that tell us so much about the human mind and the march of civilization. To this end, Soonish investigates ten different emerging fields, from programmable matter to augmented reality, from space elevators to robotic construction, to show us the amazing world we will have, you know, soonish. Soonish is the perfect gift for science lovers for the holidays!

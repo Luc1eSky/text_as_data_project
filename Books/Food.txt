@@ -1,0 +1,12 @@
+rank: 19
+weeks_on_list: 0
+primary_isbn10: 0804140413
+primary_isbn13: 9780804140416
+publisher: Crown Archetype
+description: The comedian, author of “Dad Is Fat,” describes his relationship with food.
+title: Food
+author: Jim Gaffigan
+amazon_product_url: http://www.amazon.com/Food-Love-Story-Jim-Gaffigan/dp/0804140413?tag=NYTBSREV-20
+list_date: 2014/11/23
+published_date: 2014
+summary: "What are my qualifications to write this book? None really. So why should you read it? Here's why: I'm a little fat. If a thin guy were to write about a love of food and eating I'd highly recommend that you do not read his book." Bacon. McDonalds. Cinnabon. Hot Pockets. Kale. Stand-up comedian and author Jim Gaffigan has made his career rhapsodizing over the most treasured dishes of the American diet ("choking on bacon is like getting murdered by your lover") and decrying the worst offenders ("kale is the early morning of foods"). Insights include why he believes coconut water was invented to get people to stop drinking coconut water, why pretzel bread is #3 on his most important inventions of humankind (behind the wheel and the computer), and the answer to the age-old question which animal is more delicious: the pig, the cow, or the bacon cheeseburger?

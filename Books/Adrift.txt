@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 3
+primary_isbn10: 0593542401
+primary_isbn13: 9780593542408
+publisher: Portfolio
+description: An overview of events from 1945 to the present and how they might inform potential crises in the near future.
+title: Adrift
+author: Scott Galloway
+amazon_product_url: https://www.amazon.com/dp/0593542401?tag=NYTBSREV-20
+list_date: 2022/10/30
+published_data: 2022-09-27
+summary: From bestselling author and NYU business school professor Scott Galloway comes an urgent examination of the future of our nation – and how we got here. We are only just beginning to reckon with our post-pandemic future. As political extremism intensifies, the great resignation affects businesses everywhere, and supply chain issues crush bottom lines, we’re faced with daunting questions – is our democracy under threat? How will Big Tech change our lives? What does job security look like for me? America is on the brink of massive change – change that will disrupt the workings of our economy and drastically impact the financial backbone of our nation: the middle class. In Adrift, Galloway looks to the past – from 1945 to present day – to explain just how America arrived at this precipice. Telling the story of our nation through 100 charts, Galloway demonstrates how crises such as Jim Crow, World War II, and the Stock Market Crash of 2008, as well as the escalating power of technology, an entrenched white patriarchy, and the socio-economic effects of the pandemic, created today’s perfect storm. Adrift attempts to make sense of it all, and offers Galloway’s unique take on where we’re headed and who we’ll become, touching on topics as wide-ranging as online dating to minimum wage to the American dream. Just as in 1945 and 1980, America is once again a nation at a crossroads. This time, what will it take for our nation to keep up with the fast and violent changes to our new world?
+author_new0: Scott Galloway

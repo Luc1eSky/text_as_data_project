@@ -1,0 +1,13 @@
+rank: 7
+weeks_on_list: 5
+primary_isbn10: 0525575324
+primary_isbn13: 9780525575320
+publisher: Crown
+description: An appraisal of the life and work of James Baldwin and their meaning in relation to the Black Lives Matter movement and the Trump presidency.
+title: Begin Again
+author: Eddie S Glaude Jr
+amazon_product_url: https://www.amazon.com/dp/0525575324?tag=NYTBSREV-20
+list_date: 2020/08/16
+published_data: 2020-06-30
+summary: NEW YORK TIMES BESTSELLER • “A powerful study of how to bear witness in a moment when America is being called to do the same.”—Time James Baldwin grew disillusioned by the failure of the civil rights movement to force America to confront its lies about race. What can we learn from his struggle in our own moment? Named one of the best books of the year by Time, The Washington Post, and the Chicago Tribune • Winner of the Stowe Prize • Shortlisted for the Goddard Riverside Stephan Russo Book Prize for Social Justice “Not everything is lost. Responsibility cannot be lost, it can only be abdicated. If one refuses abdication, one begins again.”—James Baldwin Begin Again is one of the great books on James Baldwin and a powerful reckoning with America’s ongoing failure to confront the lies it tells itself about race. Just as in Baldwin’s “after times,” argues Eddie S. Glaude Jr., when white Americans met the civil rights movement’s call for truth and justice with blind rage and the murders of movement leaders, so in our moment were the Obama presidency and the birth of Black Lives Matter answered with the ascendance of Trump and the violent resurgence of white nationalism. In these brilliant and stirring pages, Glaude finds hope and guidance in Baldwin as he mixes biography—drawn partially from newly uncovered Baldwin interviews—with history, memoir, and poignant analysis of our current moment to reveal the painful cycle of Black resistance and white retrenchment. As Glaude bears witness to the difficult truth of racism’s continued grip on the national soul, Begin Again is a searing exploration of the tangled web of race, trauma, and memory, and a powerful interrogation of what we must ask of ourselves in order to call forth a new America.
+author_new0: Eddie S Glaude Jr

@@ -1,0 +1,13 @@
+rank: 13
+weeks_on_list: 2
+primary_isbn10: 052550883X
+primary_isbn13: 9780525508830
+publisher: Random House
+description: The comedian dispenses her brand of wisdom through letters to her children.
+title: Dear Girls
+author: Ali Wong
+amazon_product_url: https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets/dp/052550883X?tag=NYTBSREV-20
+list_date: 2019/11/10
+published_data: 2019
+summary: Wong's heartfelt and hilarious letters to her daughters cover everything they need to know in life, like the unpleasant details of dating, how to be a working mom in a male-dominated profession, and how she trapped their dad. Though addressed to her daughters, the letters are absurdly funny, surprisingly moving, and enlightening (and gross) for all.
+author_new0: Ali Wong

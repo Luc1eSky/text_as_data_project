@@ -1,0 +1,12 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: 0062091972
+primary_isbn13: 9780062091970
+publisher: Morrow
+description: The story that inspired "The Sound of Music." First published in 1949.
+title: The Story Of The Trapp Family Singers
+author: Maria Augusta Trapp
+amazon_product_url: http://www.amazon.com/The-Story-Trapp-Family-Singers-ebook/dp/B004MMEIV4?tag=NYTBSREV-20
+list_date: 2014/03/16
+published_date: 2011-03-22
+summary: With nearly 1,500 Broadway performances, six Tony Awards, more than three million albums sold, and five Academy Awards, The Sound of Music, based on the lives of Maria, the baron, and their singing children, is as familiar to most of us as our own family history. But much about the real-life woman and her family was left untold. Here, Baroness Maria Augusta Trapp tells in her own beautiful, simple words the extraordinary story of her romance with the baron, their escape from Nazi-occupied Austria, and their life in America. Now with photographs from the original edition.

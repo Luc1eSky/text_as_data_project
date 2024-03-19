@@ -1,0 +1,10 @@
+rank: 9
+weeks_on_list: 1
+primary_isbn10: None
+primary_isbn13: 9780762789740
+publisher: Lyons/Globe Pequot
+description: A daughter traces her German mother’s harrowing experiences in World War II and after.
+title: Letters From Berlin
+author: Margarete Dos and Kerstin Lieff
+amazon_product_url: http://www.amazon.com/Letters-From-Berlin-Redeeming-Friendship-ebook/dp/B00A4BOWKE?tag=NYTBSREV-20
+list_date: 2014/04/20
