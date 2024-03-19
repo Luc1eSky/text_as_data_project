@@ -1,4 +1,4 @@
-# ECON 630 - Text as Data: Final Project¶
+# ECON 630 - Text as Data: Final Project
 ## Text Analysis of Non-fiction Books
 
 Author: Lucie Schulz
